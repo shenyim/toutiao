@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+  <title>今日头条热榜 · 实时镜像</title>
+  <style>
+    :root { --bg:#0b0d10; --card:#12161b; --text:#e6edf3; --muted:#9aa4af; --accent:#41b883; --tag:#30363d; }
+    *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 system-ui,-apple-system,Segoe UI,Roboto}
+    .wrap{max-width:840px;margin:0 auto;padding:16px 14px 64px}
+    header{display:flex;justify-content:space-between;align-items:center;margin:8px 0 14px}
+    h1{font-size:20px;margin:0} .muted{color:var(--muted);font-size:12px}
+    .card{background:var(--card);border:1px solid #1f2328;border-radius:14px;padding:12px 12px;margin:10px 0;box-shadow:0 4px 10px rgba(0,0,0,.25)}
+    .row{display:flex;gap:10px;align-items:flex-start}
+    .badge{min-width:48px;text-align:center;padding:6px 8px;border-radius:9px;background:var(--tag);color:#c9d1d9;font-weight:700}
+    .badge.is-top{background:#ffd166;color:#1b1f24}
+    .title{flex:1;font-weight:600}
+    .meta{display:flex;gap:10px;align-items:center;margin-top:6px}
+    .chip{font-size:12px;color:#c9d1d9;background:#2b3137;border:1px solid #30363d;border-radius:999px;padding:2px 8px}
+    .actions{margin-left:auto;display:flex;gap:8px}
+    button,a.btn{font-size:12px;padding:6px 10px;border-radius:8px;border:1px solid #30363d;background:#1b1f24;color:#e6edf3;text-decoration:none}
+    button:hover,a.btn:hover{filter:brightness(1.15)}
+    .hint{margin-top:10px}
+    .top{border-left:4px solid #ffd166}
+    .footer{position:fixed;left:0;right:0;bottom:0;background:linear-gradient(180deg,rgba(11,13,16,0),var(--bg) 35%);padding:12px}
+    .footer .bar{max-width:840px;margin:0 auto;display:flex;gap:10px;align-items:center;justify-content:space-between}
+    code{font-family:ui-monospace, SFMono-Regular, Menlo, monospace;font-size:12px;color:#c9d1d9}
+    @media (hover:none){ .actions{gap:6px} button,a.btn{padding:8px 10px} }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <h1>今日头条热榜 · 实时镜像</h1>
+      <div class="muted" id="ts">loading…</div>
+    </header>
+
+    <div id="list"></div>
+
+    <div class="footer">
+      <div class="bar">
+        <div class="muted">数据来源：头条热榜 API（仅做聚合展示）</div>
+        <div>
+          <button id="refresh">手动刷新</button>
+          <button id="toggle-auto">自动刷新：开</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const $ = (s) => document.querySelector(s);
+    let auto = true, timer = null;
+
+    const labelMap = {
+      hot: "热",
+      new: "新",
+      onSite: "现场",
+      refuteRumors: "辟谣",
+      forum: "讨论",
+      interpretation: "解读"
+    };
+
+    function cleanURL(u){
+      try{
+        const url = new URL(u, location.origin);
+        return url.origin + url.pathname; // 去 query / hash
+      }catch{return u}
+    }
+
+    function rowHTML(tag, title, url, label, isTop=false){
+      const chip = label ? `<span class="chip">${labelMap[label] || label}</span>` : "";
+      return `
+      <div class="card ${isTop ? 'top':''}">
+        <div class="row">
+          <div class="badge ${isTop ? 'is-top':''}">${tag}</div>
+          <div class="title">
+            <div>${title ? title.replace(/</g,"&lt;") : '<span class="muted">（缺失）</span>'}</div>
+            <div class="meta">
+              ${chip}
+              ${url ? `<a class="btn" href="${url}" target="_blank" rel="noopener">打开</a>` : ''}
+              ${url ? `<button data-copy="${url}" class="copy">复制链接</button>` : ''}
+            </div>
+          </div>
+        </div>
+      </div>`
+    }
+
+    async function load(){
+      const res = await fetch('hot.json?_=' + Date.now()); // 防缓存
+      const data = await res.json();
+
+      // 顶部时间
+      $('#ts').textContent = (data.generated_at || '').replace('GMT','GMT');
+
+      const list = [];
+      if (data.top){
+        list.push(rowHTML('置顶', data.top.title, cleanURL(data.top.url), data.top.label, true));
+      } else {
+        list.push(rowHTML('置顶', '', '', '', true));
+      }
+
+      (data.items || []).forEach(it=>{
+        list.push(rowHTML(String(it.rank), it.title, cleanURL(it.url), it.label));
+      });
+
+      $('#list').innerHTML = list.join('');
+
+      // 复制按钮
+      document.querySelectorAll('button.copy').forEach(btn=>{
+        btn.onclick = async ()=>{
+          try {
+            await navigator.clipboard.writeText(btn.getAttribute('data-copy'));
+            btn.textContent = '已复制';
+            setTimeout(()=>btn.textContent='复制链接', 1000);
+          } catch {
+            alert('复制失败');
+          }
+        }
+      });
+    }
+
+    function tick(){
+      if (auto){
+        clearTimeout(timer);
+        timer = setTimeout(tick, 60000); // 60s 自动
+        load().catch(console.error);
+      }
+    }
+
+    $('#refresh').onclick = ()=> load().catch(console.error);
+    $('#toggle-auto').onclick = (e)=>{
+      auto = !auto;
+      e.target.textContent = '自动刷新：' + (auto ? '开' : '关');
+      if (auto) tick();
+      else clearTimeout(timer);
+    };
+
+    // init
+    load().catch(console.error);
+    tick();
+  </script>
+</body>
+</html>
