@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 01 Sep 2025 03:30:10 GMT",
+  "generated_at": "Mon, 01 Sep 2025 03:35:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "《求是》杂志发表习近平重要文章",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "普京和卢卡申科在上合欢迎宴交流",
       "url": "https://www.toutiao.com/trending/7544260559298904103/",
-      "label": "hot"
+      "label": "onSite"
     },
     {
       "rank": 2,
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "特朗普：要跟核大国搞好关系",
-      "url": "https://www.toutiao.com/trending/7543924102085115931/",
-      "label": "new"
+      "title": "克宫：普京在中国有宾至如归的感觉",
+      "url": "https://www.toutiao.com/trending/7544439042222342207/",
+      "label": "hot"
     },
     {
       "rank": 5,
-      "title": "旺旺总经理赴北京看阅兵兴奋晒视频",
-      "url": "https://www.toutiao.com/trending/7543986490284707370/",
-      "label": "onSite"
+      "title": "特朗普：要跟核大国搞好关系",
+      "url": "https://www.toutiao.com/trending/7543924102085115931/",
+      "label": ""
     },
     {
       "rank": 6,
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "克宫：普京在中国有宾至如归的感觉",
-      "url": "https://www.toutiao.com/trending/7544439042222342207/",
-      "label": "new"
+      "title": "旺旺总经理赴北京看阅兵兴奋晒视频",
+      "url": "https://www.toutiao.com/trending/7543986490284707370/",
+      "label": "onSite"
     },
     {
       "rank": 9,
@@ -82,14 +82,14 @@
     },
     {
       "rank": 13,
-      "title": "全红婵将开启大学生涯",
-      "url": "https://www.toutiao.com/trending/7544091094477226034/",
-      "label": ""
+      "title": "台湾教授抵京被山东老乡一句话感动",
+      "url": "https://www.toutiao.com/trending/7544201472364449322/",
+      "label": "hot"
     },
     {
       "rank": 14,
-      "title": "台湾教授抵京被山东老乡一句话感动",
-      "url": "https://www.toutiao.com/trending/7544201472364449322/",
+      "title": "全红婵将开启大学生涯",
+      "url": "https://www.toutiao.com/trending/7544091094477226034/",
       "label": ""
     },
     {
@@ -100,33 +100,33 @@
     },
     {
       "rank": 16,
-      "title": "电动自行车需备北斗定位功能",
-      "url": "https://www.toutiao.com/trending/7544624250708508726/",
-      "label": ""
-    },
-    {
-      "rank": 17,
       "title": "学者：特朗普取消访印暴露霸权思维",
       "url": "https://www.toutiao.com/trending/7544896172301749798/",
       "label": "interpretation"
     },
     {
-      "rank": 18,
-      "title": "队友称樊振东已经在琢磨如何改进了",
-      "url": "https://www.toutiao.com/trending/7544763381455159350/",
-      "label": "new"
-    },
-    {
-      "rank": 19,
-      "title": "媒体：国民党权力更迭暗藏台民意巨变",
-      "url": "https://www.toutiao.com/trending/7544913746158685723/",
+      "rank": 17,
+      "title": "电动自行车需备北斗定位功能",
+      "url": "https://www.toutiao.com/trending/7544624250708508726/",
       "label": ""
     },
     {
-      "rank": 20,
+      "rank": 18,
       "title": "国羽男单时隔10年重夺世锦赛冠军",
       "url": "https://www.toutiao.com/trending/7543778359197761590/",
       "label": "hot"
+    },
+    {
+      "rank": 19,
+      "title": "专家：上合组织未来需处理四大关系",
+      "url": "https://www.toutiao.com/trending/7544932606781951551/",
+      "label": "new"
+    },
+    {
+      "rank": 20,
+      "title": "哈梅内伊为何罕见用中文发帖",
+      "url": "https://www.toutiao.com/trending/7544919137860980274/",
+      "label": "interpretation"
     },
     {
       "rank": 21,
@@ -136,177 +136,177 @@
     },
     {
       "rank": 22,
-      "title": "贾冰：我就是一个普通喜剧演员",
-      "url": "https://www.toutiao.com/trending/7544908888424844839/",
-      "label": "depth"
-    },
-    {
-      "rank": 23,
       "title": "陈咏诗当选2025年港姐",
       "url": "https://www.toutiao.com/trending/7544887092762021386/",
       "label": ""
     },
     {
+      "rank": 23,
+      "title": "贾冰：我就是一个普通喜剧演员",
+      "url": "https://www.toutiao.com/trending/7544908888424844839/",
+      "label": "depth"
+    },
+    {
       "rank": 24,
-      "title": "哈梅内伊为何罕见用中文发帖",
-      "url": "https://www.toutiao.com/trending/7544919137860980274/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 25,
-      "title": "学者：接受房价上涨才能稳得住楼市",
-      "url": "https://www.toutiao.com/trending/7544891126524677674/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 26,
-      "title": "专家：上合组织未来需处理四大关系",
-      "url": "https://www.toutiao.com/trending/7544932606781951551/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
-      "title": "中石化胜利石油工程原党委书记被查",
-      "url": "https://www.toutiao.com/trending/7544914141531848713/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
-      "title": "业内：A股上涨逻辑未变",
-      "url": "https://www.toutiao.com/trending/7543797935035252779/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 29,
-      "title": "关税大棒下美印关系急剧转冷",
-      "url": "https://www.toutiao.com/trending/7544864576282755113/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
-      "title": "特斯拉Model 3新车型售价下调1万",
-      "url": "https://www.toutiao.com/trending/7544294521057148979/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
-      "title": "白宫官员抱怨欧洲阻碍结束俄乌冲突",
-      "url": "https://www.toutiao.com/trending/7544930820264300074/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "2比1逆转！石宇奇夺冠后发文",
-      "url": "https://www.toutiao.com/trending/7544897143207644691/",
-      "label": "hot"
-    },
-    {
-      "rank": 33,
-      "title": "这波秋老虎何时结束",
-      "url": "https://www.toutiao.com/trending/7544890260270878217/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 34,
-      "title": "对等关税被裁定违法 特朗普要上诉",
-      "url": "https://www.toutiao.com/trending/7544933333063437850/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "新学期“神兽回笼”家长忍不住笑了",
-      "url": "https://www.toutiao.com/trending/7544582255504031785/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "以色列为何在8月下旬连续打击胡塞",
-      "url": "https://www.toutiao.com/trending/7544920565656587795/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 37,
-      "title": "英国拿下挪威天价军舰订单",
-      "url": "https://www.toutiao.com/trending/7544716054598696970/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "陈雨菲吃8颗止痛药上场赛后泪崩",
-      "url": "https://www.toutiao.com/trending/7544889525676527155/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "多省市将迎来近十年最长秋季学期",
-      "url": "https://www.toutiao.com/trending/7544388194146582591/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "以军双线行动打击哈马斯和胡塞武装",
-      "url": "https://www.toutiao.com/trending/7543709554874810418/",
-      "label": ""
-    },
-    {
-      "rank": 41,
       "title": "大马选手获羽毛球世锦赛混双冠军",
       "url": "https://www.toutiao.com/trending/7544244791895572490/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "“十年九旱”的西北为何频遭暴雨",
-      "url": "https://www.toutiao.com/trending/7544903256950967844/",
+      "rank": 25,
+      "title": "媒体：国民党权力更迭暗藏台民意巨变",
+      "url": "https://www.toutiao.com/trending/7544913746158685723/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "普京带3位副总理10多位部长到中国",
-      "url": "https://www.toutiao.com/trending/7544191460002807827/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "唐驳虎：印度“骑墙”的结局早已注定",
-      "url": "https://www.toutiao.com/trending/7544924220480818697/",
+      "rank": 26,
+      "title": "学者：接受房价上涨才能稳得住楼市",
+      "url": "https://www.toutiao.com/trending/7544891126524677674/",
       "label": "interpretation"
     },
     {
-      "rank": 45,
+      "rank": 27,
+      "title": "特斯拉Model 3新车型售价下调1万",
+      "url": "https://www.toutiao.com/trending/7544294521057148979/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
+      "title": "台教授：绿营越阻止我们越要来看阅兵",
+      "url": "https://www.toutiao.com/trending/7544887912933051931/",
+      "label": "onSite"
+    },
+    {
+      "rank": 29,
+      "title": "对等关税被裁定违法 特朗普要上诉",
+      "url": "https://www.toutiao.com/trending/7544933333063437850/",
+      "label": "new"
+    },
+    {
+      "rank": 30,
+      "title": "中石化胜利石油工程原党委书记被查",
+      "url": "https://www.toutiao.com/trending/7544914141531848713/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "多省市将迎来近十年最长秋季学期",
+      "url": "https://www.toutiao.com/trending/7544388194146582591/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "这波秋老虎何时结束",
+      "url": "https://www.toutiao.com/trending/7544890260270878217/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 33,
+      "title": "业内：A股上涨逻辑未变",
+      "url": "https://www.toutiao.com/trending/7543797935035252779/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 34,
+      "title": "新学期“神兽回笼”家长忍不住笑了",
+      "url": "https://www.toutiao.com/trending/7544582255504031785/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "关税大棒下美印关系急剧转冷",
+      "url": "https://www.toutiao.com/trending/7544864576282755113/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "陈雨菲吃8颗止痛药上场赛后泪崩",
+      "url": "https://www.toutiao.com/trending/7544889525676527155/",
+      "label": ""
+    },
+    {
+      "rank": 37,
       "title": "10月起纸质火车票报销凭证全面取消",
       "url": "https://www.toutiao.com/trending/7543882294017605651/",
       "label": "new"
     },
     {
-      "rank": 46,
-      "title": "金价这次历史高位能站稳吗",
-      "url": "https://www.toutiao.com/trending/7544892867450244671/",
+      "rank": 38,
+      "title": "唐驳虎：印度“骑墙”的结局早已注定",
+      "url": "https://www.toutiao.com/trending/7544924220480818697/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 39,
+      "title": "2比1逆转！石宇奇夺冠后发文",
+      "url": "https://www.toutiao.com/trending/7544897143207644691/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "下周北方多地或开启入秋进程",
-      "url": "https://www.toutiao.com/trending/7544690131807289371/",
+      "rank": 40,
+      "title": "普京带3位副总理10多位部长到中国",
+      "url": "https://www.toutiao.com/trending/7544191460002807827/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "英国拿下挪威天价军舰订单",
+      "url": "https://www.toutiao.com/trending/7544716054598696970/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "江淮等地强对流天气多发",
+      "url": "https://www.toutiao.com/trending/7544917418414555175/",
       "label": "new"
     },
     {
-      "rank": 48,
+      "rank": 43,
       "title": "上海182万中小学生今天开学",
       "url": "https://www.toutiao.com/trending/7544672129422360618/",
       "label": "new"
     },
     {
-      "rank": 49,
-      "title": "A股为什么会出现结构性狂欢",
-      "url": "https://www.toutiao.com/trending/7544892950893399578/",
+      "rank": 44,
+      "title": "金价这次历史高位能站稳吗",
+      "url": "https://www.toutiao.com/trending/7544892867450244671/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "迟蓬悟透了“迟”的内涵",
+      "url": "https://www.toutiao.com/trending/7544917539449474569/",
       "label": "depth"
     },
     {
-      "rank": 50,
-      "title": "媒体：中国女排付出成长的代价",
-      "url": "https://www.toutiao.com/trending/7544907234434616874/",
+      "rank": 46,
+      "title": "下周北方多地或开启入秋进程",
+      "url": "https://www.toutiao.com/trending/7544690131807289371/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "白宫官员抱怨欧洲阻碍结束俄乌冲突",
+      "url": "https://www.toutiao.com/trending/7544930820264300074/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "游淑慧：超额军购变相“穷台掏空”",
+      "url": "https://www.toutiao.com/trending/7544517531692859402/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
+      "title": "蓝营中生代参选国民党主席有何意义",
+      "url": "https://www.toutiao.com/trending/7543858328465129526/",
       "label": "interpretation"
+    },
+    {
+      "rank": 50,
+      "title": "特朗普为何跟一块石头“干上了”",
+      "url": "https://www.toutiao.com/trending/7544700898212056618/",
+      "label": ""
     }
   ]
 }
