@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Sep 2025 03:40:08 GMT",
+  "generated_at": "Tue, 02 Sep 2025 03:45:14 GMT",
   "top": {
     "rank": "置顶",
     "title": "全球治理倡议 习近平主席这样阐释",
@@ -46,9 +46,9 @@
     },
     {
       "rank": 7,
-      "title": "俄媒分享普京在天津的一天",
-      "url": "https://www.toutiao.com/trending/7545294328822812198/",
-      "label": "hot"
+      "title": "普京发言人称赞中国菜肴非常棒",
+      "url": "https://www.toutiao.com/trending/7544044010676011049/",
+      "label": "new"
     },
     {
       "rank": 8,
@@ -66,7 +66,7 @@
       "rank": 10,
       "title": "专家解答青少年学习困难七大问题",
       "url": "https://www.toutiao.com/trending/7545304347819851826/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 11,
@@ -88,15 +88,15 @@
     },
     {
       "rank": 14,
-      "title": "胡塞高层被“一锅端”暴露什么问题",
-      "url": "https://www.toutiao.com/trending/7545277803160145427/",
-      "label": "interpretation"
+      "title": "有820万委内瑞拉人自愿加入民兵组织",
+      "url": "https://www.toutiao.com/trending/7544683298359050286/",
+      "label": ""
     },
     {
       "rank": 15,
-      "title": "塞尔维亚总统武契奇抵京",
-      "url": "https://www.toutiao.com/trending/7544558384238919716/",
-      "label": ""
+      "title": "如何看待欧洲缺席九三阅兵",
+      "url": "https://www.toutiao.com/trending/7545283549612477961/",
+      "label": "interpretation"
     },
     {
       "rank": 16,
@@ -106,9 +106,9 @@
     },
     {
       "rank": 17,
-      "title": "有820万委内瑞拉人自愿加入民兵组织",
-      "url": "https://www.toutiao.com/trending/7544683298359050286/",
-      "label": ""
+      "title": "胡塞高层被“一锅端”暴露什么问题",
+      "url": "https://www.toutiao.com/trending/7545277803160145427/",
+      "label": "interpretation"
     },
     {
       "rank": 18,
@@ -118,68 +118,68 @@
     },
     {
       "rank": 19,
-      "title": "普京发言人称赞中国菜肴非常棒",
-      "url": "https://www.toutiao.com/trending/7544044010676011049/",
-      "label": "new"
+      "title": "俄媒分享普京在天津的一天",
+      "url": "https://www.toutiao.com/trending/7545294328822812198/",
+      "label": "hot"
     },
     {
       "rank": 20,
-      "title": "如何看待特朗普再批印度对美关税高",
-      "url": "https://www.toutiao.com/trending/7545279530320006692/",
-      "label": "new"
-    },
-    {
-      "rank": 21,
-      "title": "天安门广场年号台整体亮相",
-      "url": "https://www.toutiao.com/trending/7544367164015525907/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "全红婵大学院长是苏炳添",
-      "url": "https://www.toutiao.com/trending/7544201472364514858/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "莫迪“熊抱”普京释放什么信号",
-      "url": "https://www.toutiao.com/trending/7545290608831630884/",
-      "label": "new"
-    },
-    {
-      "rank": 24,
-      "title": "九三阅兵 具体安排来了",
-      "url": "https://www.toutiao.com/article/7545009314293891599",
-      "label": ""
-    },
-    {
-      "rank": 25,
       "title": "幼儿园开学首日 萌娃与爷爷难舍难分",
       "url": "https://www.toutiao.com/trending/7543856315824586806/",
       "label": ""
     },
     {
-      "rank": 26,
+      "rank": 21,
+      "title": "塞尔维亚总统武契奇抵京",
+      "url": "https://www.toutiao.com/trending/7544558384238919716/",
+      "label": ""
+    },
+    {
+      "rank": 22,
+      "title": "莫迪“熊抱”普京释放什么信号",
+      "url": "https://www.toutiao.com/trending/7545290608831630884/",
+      "label": "new"
+    },
+    {
+      "rank": 23,
+      "title": "全红婵大学院长是苏炳添",
+      "url": "https://www.toutiao.com/trending/7544201472364514858/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "天安门广场年号台整体亮相",
+      "url": "https://www.toutiao.com/trending/7544367164015525907/",
+      "label": ""
+    },
+    {
+      "rank": 25,
       "title": "莫迪启程回国发文感谢中国",
       "url": "https://www.toutiao.com/trending/7544590442868821567/",
       "label": ""
     },
     {
-      "rank": 27,
-      "title": "如何看待欧洲缺席九三阅兵",
-      "url": "https://www.toutiao.com/trending/7545283549612477961/",
-      "label": "interpretation"
+      "rank": 26,
+      "title": "普京尚未就会见泽连斯基与美达成协议",
+      "url": "https://www.toutiao.com/trending/7544294608155541523/",
+      "label": "new"
     },
     {
-      "rank": 28,
-      "title": "巴方：以色列试图吞并约旦河西岸",
-      "url": "https://www.toutiao.com/trending/7544248086551658532/",
+      "rank": 27,
+      "title": "九三阅兵 具体安排来了",
+      "url": "https://www.toutiao.com/article/7545009314293891599",
       "label": ""
     },
     {
+      "rank": 28,
+      "title": "专家：莫迪访华带着三大收获回国",
+      "url": "https://www.toutiao.com/trending/7545309926491426340/",
+      "label": "interpretation"
+    },
+    {
       "rank": 29,
-      "title": "王毅宣布老挝为上合对话伙伴",
-      "url": "https://www.toutiao.com/trending/7544590442868854335/",
+      "title": "越南军人悄悄用手机记录中国仪仗兵",
+      "url": "https://www.toutiao.com/trending/7543831338378756123/",
       "label": ""
     },
     {
@@ -190,14 +190,14 @@
     },
     {
       "rank": 31,
-      "title": "越南军人悄悄用手机记录中国仪仗兵",
-      "url": "https://www.toutiao.com/trending/7543831338378756123/",
+      "title": "王毅宣布老挝为上合对话伙伴",
+      "url": "https://www.toutiao.com/trending/7544590442868854335/",
       "label": ""
     },
     {
       "rank": 32,
-      "title": "普京专车换上中国车牌 还有2个8",
-      "url": "https://www.toutiao.com/trending/7544155827008471082/",
+      "title": "樊振东对手：他实力比我高20倍不止",
+      "url": "https://www.toutiao.com/trending/7544745086538530855/",
       "label": ""
     },
     {
@@ -208,8 +208,8 @@
     },
     {
       "rank": 34,
-      "title": "樊振东对手：他实力比我高20倍不止",
-      "url": "https://www.toutiao.com/trending/7544745086538530855/",
+      "title": "普京专车换上中国车牌 还有2个8",
+      "url": "https://www.toutiao.com/trending/7544155827008471082/",
       "label": ""
     },
     {
@@ -222,90 +222,90 @@
       "rank": 36,
       "title": "蒙古国总统抵达北京",
       "url": "https://www.toutiao.com/trending/7544946920117321755/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "中国铁路乌鲁木齐局集团副总经理被查",
-      "url": "https://www.toutiao.com/trending/7545298717759504403/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "普京尚未就会见泽连斯基与美达成协议",
-      "url": "https://www.toutiao.com/trending/7544294608155541523/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "广东11家影院直播九三阅兵",
-      "url": "https://www.toutiao.com/trending/7544127036256911411/",
       "label": ""
     },
     {
-      "rank": 40,
+      "rank": 37,
       "title": "专家：美对韩控制不会减弱",
       "url": "https://www.toutiao.com/trending/7545276484848455178/",
       "label": "interpretation"
     },
     {
-      "rank": 41,
-      "title": "特朗普派兵进驻 华盛顿市民怒了",
-      "url": "https://www.toutiao.com/trending/7545273203417943594/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "抗战胜利80周年纪念大会3日9时举行",
-      "url": "https://www.toutiao.com/trending/7544857359147909159/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "专家：莫迪访华带着三大收获回国",
-      "url": "https://www.toutiao.com/trending/7545309926491426340/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 44,
+      "rank": 38,
       "title": "这波A股行情与以往有何不同",
       "url": "https://www.toutiao.com/trending/7545280847058832942/",
       "label": ""
     },
     {
-      "rank": 45,
+      "rank": 39,
+      "title": "特朗普派兵进驻 华盛顿市民怒了",
+      "url": "https://www.toutiao.com/trending/7545273203417943594/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "陕西河南等地局部有暴雨",
+      "url": "https://www.toutiao.com/trending/7544562708637794345/",
+      "label": "new"
+    },
+    {
+      "rank": 41,
       "title": "男子闯私船被无证藏獒咬伤 船主全责",
       "url": "https://www.toutiao.com/trending/7544731381210382387/",
       "label": ""
     },
     {
-      "rank": 46,
+      "rank": 42,
       "title": "胡塞武装公布遭袭身亡高层12人名单",
       "url": "https://www.toutiao.com/trending/7544520842546823219/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "朝鲜为何高调公开新型导弹生产车间",
-      "url": "https://www.toutiao.com/trending/7545045575083757107/",
-      "label": "interpretation"
+      "rank": 43,
+      "title": "普京对俄乌战争的坚持从何而来",
+      "url": "https://www.toutiao.com/trending/7545285080587963950/",
+      "label": "depth"
     },
     {
-      "rank": 48,
-      "title": "中方回应印尼总统取消来华安排",
-      "url": "https://www.toutiao.com/trending/7544549995132190761/",
-      "label": ""
+      "rank": 44,
+      "title": "特朗普称印提出将对美商品关税降至零",
+      "url": "https://www.toutiao.com/trending/7544604650247569459/",
+      "label": "new"
     },
     {
-      "rank": 49,
+      "rank": 45,
       "title": "CBA“一人一城”的故事多动人",
       "url": "https://www.toutiao.com/trending/7545281180149485102/",
       "label": "new"
     },
     {
+      "rank": 46,
+      "title": "朝鲜为何高调公开新型导弹生产车间",
+      "url": "https://www.toutiao.com/trending/7545045575083757107/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 47,
+      "title": "抗战胜利80周年纪念大会3日9时举行",
+      "url": "https://www.toutiao.com/trending/7544857359147909159/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "为什么上合峰会对中国如此重要",
+      "url": "https://www.toutiao.com/trending/7545261550236339754/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 49,
+      "title": "人民币持续走强有何影响",
+      "url": "https://www.toutiao.com/trending/7545278183096978980/",
+      "label": "new"
+    },
+    {
       "rank": 50,
-      "title": "3000学子将在天安门广场唱响青年风采",
-      "url": "https://www.toutiao.com/trending/7544993066135633939/",
+      "title": "北方冷空气来袭局地骤降20℃",
+      "url": "https://www.toutiao.com/trending/7544688487941914665/",
       "label": ""
     }
   ]
