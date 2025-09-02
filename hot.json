@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Sep 2025 02:10:06 GMT",
+  "generated_at": "Tue, 02 Sep 2025 02:15:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平提出全球治理倡议",
@@ -24,7 +24,7 @@
       "rank": 3,
       "title": "闪耀上合 绽放“津”彩",
       "url": "https://www.toutiao.com/article/7545022313947759131",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
     },
     {
       "rank": 7,
-      "title": "幼儿园开学首日 萌娃与爷爷难舍难分",
-      "url": "https://www.toutiao.com/trending/7543856315824586806/",
-      "label": ""
+      "title": "俄媒分享普京在天津的一天",
+      "url": "https://www.toutiao.com/trending/7545294328822812198/",
+      "label": "hot"
     },
     {
       "rank": 8,
@@ -124,26 +124,26 @@
     },
     {
       "rank": 20,
-      "title": "俄媒分享普京在天津的一天",
-      "url": "https://www.toutiao.com/trending/7545294328822812198/",
-      "label": "new"
-    },
-    {
-      "rank": 21,
-      "title": "抗战胜利80周年纪念大会3日9时举行",
-      "url": "https://www.toutiao.com/trending/7544857359147909159/",
+      "title": "莫迪启程回国发文感谢中国",
+      "url": "https://www.toutiao.com/trending/7544590442868821567/",
       "label": ""
     },
     {
-      "rank": 22,
+      "rank": 21,
       "title": "全红婵大学院长是苏炳添",
       "url": "https://www.toutiao.com/trending/7544201472364514858/",
       "label": ""
     },
     {
+      "rank": 22,
+      "title": "幼儿园开学首日 萌娃与爷爷难舍难分",
+      "url": "https://www.toutiao.com/trending/7543856315824586806/",
+      "label": ""
+    },
+    {
       "rank": 23,
-      "title": "莫迪启程回国发文感谢中国",
-      "url": "https://www.toutiao.com/trending/7544590442868821567/",
+      "title": "抗战胜利80周年纪念大会3日9时举行",
+      "url": "https://www.toutiao.com/trending/7544857359147909159/",
       "label": ""
     },
     {
@@ -154,123 +154,123 @@
     },
     {
       "rank": 25,
-      "title": "特朗普派兵进驻 华盛顿市民怒了",
-      "url": "https://www.toutiao.com/trending/7545273203417943594/",
-      "label": ""
-    },
-    {
-      "rank": 26,
       "title": "孙颖莎世排保持断层第一",
       "url": "https://www.toutiao.com/trending/7544241139839336491/",
       "label": "new"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "title": "男子闯私船被无证藏獒咬伤 船主全责",
       "url": "https://www.toutiao.com/trending/7544731381210382387/",
       "label": ""
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "樊振东对手：他实力比我高20倍不止",
       "url": "https://www.toutiao.com/trending/7544745086538530855/",
       "label": ""
     },
     {
-      "rank": 29,
-      "title": "中方回应印尼总统取消来华安排",
-      "url": "https://www.toutiao.com/trending/7544549995132190761/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "九三阅兵前为何举行中蒙俄三边会谈",
-      "url": "https://www.toutiao.com/trending/7544924041526644265/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 31,
-      "title": "普京专车换上中国车牌 还有2个8",
-      "url": "https://www.toutiao.com/trending/7544155827008471082/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "美联储动向如何影响黄金价格",
-      "url": "https://www.toutiao.com/trending/7545262958150946330/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 33,
+      "rank": 28,
       "title": "抗战勇士时隔81年归葬家乡",
       "url": "https://www.toutiao.com/trending/7545091683659857966/",
       "label": ""
     },
     {
-      "rank": 34,
+      "rank": 29,
+      "title": "特朗普派兵进驻 华盛顿市民怒了",
+      "url": "https://www.toutiao.com/trending/7545273203417943594/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "中方回应印尼总统取消来华安排",
+      "url": "https://www.toutiao.com/trending/7544549995132190761/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "九三阅兵前为何举行中蒙俄三边会谈",
+      "url": "https://www.toutiao.com/trending/7544924041526644265/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 32,
+      "title": "普京专车换上中国车牌 还有2个8",
+      "url": "https://www.toutiao.com/trending/7544155827008471082/",
+      "label": ""
+    },
+    {
+      "rank": 33,
       "title": "胡塞武装公布遭袭身亡高层12人名单",
       "url": "https://www.toutiao.com/trending/7544520842546823219/",
       "label": ""
     },
     {
+      "rank": 34,
+      "title": "朝鲜为何高调公开新型导弹生产车间",
+      "url": "https://www.toutiao.com/trending/7545045575083757107/",
+      "label": "interpretation"
+    },
+    {
       "rank": 35,
-      "title": "拉共体谴责美国在加勒比海军事部署",
-      "url": "https://www.toutiao.com/trending/7544996153331843108/",
-      "label": ""
+      "title": "美联储动向如何影响黄金价格",
+      "url": "https://www.toutiao.com/trending/7545262958150946330/",
+      "label": "interpretation"
     },
     {
       "rank": 36,
-      "title": "侵华日军731部队再添新罪证",
-      "url": "https://www.toutiao.com/trending/7544443580367077395/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "幼儿园开学上演“两极反转”",
-      "url": "https://www.toutiao.com/trending/7544669548021448742/",
-      "label": ""
-    },
-    {
-      "rank": 38,
       "title": "越南军人悄悄用手机记录中国仪仗兵",
       "url": "https://www.toutiao.com/trending/7543831338378756123/",
       "label": ""
     },
     {
+      "rank": 37,
+      "title": "侵华日军731部队再添新罪证",
+      "url": "https://www.toutiao.com/trending/7544443580367077395/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
+      "title": "幼儿园开学上演“两极反转”",
+      "url": "https://www.toutiao.com/trending/7544669548021448742/",
+      "label": ""
+    },
+    {
       "rank": 39,
+      "title": "3000学子将在天安门广场唱响青年风采",
+      "url": "https://www.toutiao.com/trending/7544993066135633939/",
+      "label": ""
+    },
+    {
+      "rank": 40,
       "title": "电动自行车新规有什么变化",
       "url": "https://www.toutiao.com/trending/7545262146913832457/",
       "label": ""
     },
     {
-      "rank": 40,
+      "rank": 41,
+      "title": "拉共体谴责美国在加勒比海军事部署",
+      "url": "https://www.toutiao.com/trending/7544996153331843108/",
+      "label": ""
+    },
+    {
+      "rank": 42,
       "title": "为什么上合峰会对中国如此重要",
       "url": "https://www.toutiao.com/trending/7545261550236339754/",
       "label": "interpretation"
     },
     {
-      "rank": 41,
+      "rank": 43,
       "title": "女子隧道内龟速骑电动车致拥堵",
       "url": "https://www.toutiao.com/trending/7544745930122412068/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "广东11家影院直播九三阅兵",
-      "url": "https://www.toutiao.com/trending/7544127036256911411/",
-      "label": ""
-    },
-    {
-      "rank": 43,
+      "rank": 44,
       "title": "王毅：主权平等是全球治理首要前提",
       "url": "https://www.toutiao.com/trending/7544949904112893995/",
       "label": "new"
-    },
-    {
-      "rank": 44,
-      "title": "朝鲜为何高调公开新型导弹生产车间",
-      "url": "https://www.toutiao.com/trending/7545045575083757107/",
-      "label": "interpretation"
     },
     {
       "rank": 45,
@@ -280,8 +280,8 @@
     },
     {
       "rank": 46,
-      "title": "3000学子将在天安门广场唱响青年风采",
-      "url": "https://www.toutiao.com/trending/7544993066135633939/",
+      "title": "克宫：普京在中国有宾至如归的感觉",
+      "url": "https://www.toutiao.com/trending/7544439042222342207/",
       "label": ""
     },
     {
@@ -298,9 +298,9 @@
     },
     {
       "rank": 49,
-      "title": "中国二战受害者家属代表要求日本道歉",
-      "url": "https://www.toutiao.com/trending/7545158322002264118/",
-      "label": ""
+      "title": "巴方：以色列试图吞并约旦河西岸",
+      "url": "https://www.toutiao.com/trending/7544248086551658532/",
+      "label": "new"
     },
     {
       "rank": 50,
