@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Sep 2025 03:50:13 GMT",
+  "generated_at": "Tue, 02 Sep 2025 03:55:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "全球治理倡议 习近平主席这样阐释",
@@ -46,9 +46,9 @@
     },
     {
       "rank": 7,
-      "title": "普京发言人称赞中国菜肴非常棒",
-      "url": "https://www.toutiao.com/trending/7544044010676011049/",
-      "label": "new"
+      "title": "专家：莫迪访华带着三大收获回国",
+      "url": "https://www.toutiao.com/trending/7545309926491426340/",
+      "label": "interpretation"
     },
     {
       "rank": 8,
@@ -100,9 +100,9 @@
     },
     {
       "rank": 16,
-      "title": "莫迪发文感谢中国释放什么信号",
-      "url": "https://www.toutiao.com/trending/7545261596168162835/",
-      "label": "interpretation"
+      "title": "普京发言人称赞中国菜肴非常棒",
+      "url": "https://www.toutiao.com/trending/7544044010676011049/",
+      "label": "new"
     },
     {
       "rank": 17,
@@ -112,33 +112,33 @@
     },
     {
       "rank": 18,
-      "title": "解放军在越南阅兵式帅气登场",
-      "url": "https://www.toutiao.com/trending/7544591284892274230/",
-      "label": "onSite"
-    },
-    {
-      "rank": 19,
-      "title": "专家：莫迪访华带着三大收获回国",
-      "url": "https://www.toutiao.com/trending/7545309926491426340/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 20,
-      "title": "普京尚未就会见泽连斯基与美达成协议",
-      "url": "https://www.toutiao.com/trending/7544294608155541523/",
-      "label": "new"
-    },
-    {
-      "rank": 21,
       "title": "塞尔维亚总统武契奇抵京",
       "url": "https://www.toutiao.com/trending/7544558384238919716/",
       "label": ""
     },
     {
-      "rank": 22,
+      "rank": 19,
       "title": "俄媒分享普京在天津的一天",
       "url": "https://www.toutiao.com/trending/7545294328822812198/",
       "label": "hot"
+    },
+    {
+      "rank": 20,
+      "title": "专家：美对韩控制不会减弱",
+      "url": "https://www.toutiao.com/trending/7545276484848455178/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 21,
+      "title": "解放军在越南阅兵式帅气登场",
+      "url": "https://www.toutiao.com/trending/7544591284892274230/",
+      "label": "onSite"
+    },
+    {
+      "rank": 22,
+      "title": "莫迪发文感谢中国释放什么信号",
+      "url": "https://www.toutiao.com/trending/7545261596168162835/",
+      "label": "interpretation"
     },
     {
       "rank": 23,
@@ -156,13 +156,13 @@
       "rank": 25,
       "title": "莫迪“熊抱”普京释放什么信号",
       "url": "https://www.toutiao.com/trending/7545290608831630884/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 26,
-      "title": "专家：美对韩控制不会减弱",
-      "url": "https://www.toutiao.com/trending/7545276484848455178/",
-      "label": "interpretation"
+      "title": "幼儿园开学首日 萌娃与爷爷难舍难分",
+      "url": "https://www.toutiao.com/trending/7543856315824586806/",
+      "label": ""
     },
     {
       "rank": 27,
@@ -178,9 +178,9 @@
     },
     {
       "rank": 29,
-      "title": "幼儿园开学首日 萌娃与爷爷难舍难分",
-      "url": "https://www.toutiao.com/trending/7543856315824586806/",
-      "label": ""
+      "title": "观礼服务包有3个颜色",
+      "url": "https://www.toutiao.com/trending/7545269059420635177/",
+      "label": "new"
     },
     {
       "rank": 30,
@@ -190,14 +190,14 @@
     },
     {
       "rank": 31,
-      "title": "普京专车换上中国车牌 还有2个8",
-      "url": "https://www.toutiao.com/trending/7544155827008471082/",
-      "label": ""
+      "title": "普京为何在专车内与莫迪密谈一小时",
+      "url": "https://www.toutiao.com/trending/7545304165417750070/",
+      "label": "interpretation"
     },
     {
       "rank": 32,
-      "title": "这波A股行情与以往有何不同",
-      "url": "https://www.toutiao.com/trending/7545280847058832942/",
+      "title": "越南军人悄悄用手机记录中国仪仗兵",
+      "url": "https://www.toutiao.com/trending/7543831338378756123/",
       "label": ""
     },
     {
@@ -214,9 +214,9 @@
     },
     {
       "rank": 35,
-      "title": "越南军人悄悄用手机记录中国仪仗兵",
-      "url": "https://www.toutiao.com/trending/7543831338378756123/",
-      "label": ""
+      "title": "特朗普称印提出将对美商品关税降至零",
+      "url": "https://www.toutiao.com/trending/7544604650247569459/",
+      "label": "new"
     },
     {
       "rank": 36,
@@ -226,9 +226,9 @@
     },
     {
       "rank": 37,
-      "title": "普京为何在专车内与莫迪密谈一小时",
-      "url": "https://www.toutiao.com/trending/7545304165417750070/",
-      "label": "interpretation"
+      "title": "普京专车换上中国车牌 还有2个8",
+      "url": "https://www.toutiao.com/trending/7544155827008471082/",
+      "label": ""
     },
     {
       "rank": 38,
@@ -244,68 +244,68 @@
     },
     {
       "rank": 40,
-      "title": "特朗普派兵进驻 华盛顿市民怒了",
-      "url": "https://www.toutiao.com/trending/7545273203417943594/",
-      "label": ""
+      "title": "中国铁路乌鲁木齐局集团副总经理被查",
+      "url": "https://www.toutiao.com/trending/7545298717759504403/",
+      "label": "new"
     },
     {
       "rank": 41,
-      "title": "男子闯私船被无证藏獒咬伤 船主全责",
-      "url": "https://www.toutiao.com/trending/7544731381210382387/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "特朗普称印提出将对美商品关税降至零",
-      "url": "https://www.toutiao.com/trending/7544604650247569459/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
-      "title": "CBA“一人一城”的故事多动人",
-      "url": "https://www.toutiao.com/trending/7545281180149485102/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
       "title": "北方冷空气来袭局地骤降20℃",
       "url": "https://www.toutiao.com/trending/7544688487941914665/",
       "label": "new"
     },
     {
+      "rank": 42,
+      "title": "这波A股行情与以往有何不同",
+      "url": "https://www.toutiao.com/trending/7545280847058832942/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "特朗普派兵进驻 华盛顿市民怒了",
+      "url": "https://www.toutiao.com/trending/7545273203417943594/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "北方秋意显现 南方高温再次增多",
+      "url": "https://www.toutiao.com/trending/7544232464274079794/",
+      "label": "new"
+    },
+    {
       "rank": 45,
-      "title": "胡塞武装公布遭袭身亡高层12人名单",
-      "url": "https://www.toutiao.com/trending/7544520842546823219/",
+      "title": "台湾民众非常期待九三阅兵",
+      "url": "https://www.toutiao.com/trending/7544184439031857188/",
       "label": ""
     },
     {
       "rank": 46,
-      "title": "专家：市场低估特朗普对美联储威胁",
-      "url": "https://www.toutiao.com/trending/7544521522263195690/",
+      "title": "如何看待特朗普再批印度对美关税高",
+      "url": "https://www.toutiao.com/trending/7545279530320006692/",
       "label": "new"
     },
     {
       "rank": 47,
-      "title": "为什么上合峰会对中国如此重要",
-      "url": "https://www.toutiao.com/trending/7545261550236339754/",
-      "label": "interpretation"
+      "title": "陕西河南等地局部有暴雨",
+      "url": "https://www.toutiao.com/trending/7544562708637794345/",
+      "label": "new"
     },
     {
       "rank": 48,
-      "title": "中方回应印尼总统取消来华安排",
-      "url": "https://www.toutiao.com/trending/7544549995132190761/",
-      "label": ""
+      "title": "普京对俄乌战争的坚持从何而来",
+      "url": "https://www.toutiao.com/trending/7545285080587963950/",
+      "label": "depth"
     },
     {
       "rank": 49,
-      "title": "外卖订单背后的万亿生态暗战",
-      "url": "https://www.toutiao.com/trending/7545268320077876790/",
+      "title": "人民币持续走强有何影响",
+      "url": "https://www.toutiao.com/trending/7545278183096978980/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "电动自行车新规有什么变化",
-      "url": "https://www.toutiao.com/trending/7545262146913832457/",
+      "title": "中方回应印尼总统取消来华安排",
+      "url": "https://www.toutiao.com/trending/7544549995132190761/",
       "label": ""
     }
   ]
