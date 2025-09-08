@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 08 Sep 2025 02:10:04 GMT",
+  "generated_at": "Mon, 08 Sep 2025 02:15:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "人类和平与发展的崇高事业必将胜利",
@@ -36,7 +36,7 @@
       "rank": 5,
       "title": "朝鲜驻华使馆内部首次公开",
       "url": "https://www.toutiao.com/trending/7547484716467883546/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 6,
@@ -76,20 +76,20 @@
     },
     {
       "rank": 12,
-      "title": "江祖平回应“被性侵”",
-      "url": "https://www.toutiao.com/trending/7546813344864108570/",
-      "label": ""
-    },
-    {
-      "rank": 13,
       "title": "辛芷蕾如何逆袭成“国际巨星”",
       "url": "https://www.toutiao.com/trending/7547487991753625107/",
       "label": "hot"
     },
     {
-      "rank": 14,
+      "rank": 13,
       "title": "向太曝张国荣不是因抑郁症自杀",
       "url": "https://www.toutiao.com/trending/7546656250340196371/",
+      "label": ""
+    },
+    {
+      "rank": 14,
+      "title": "江祖平回应“被性侵”",
+      "url": "https://www.toutiao.com/trending/7546813344864108570/",
       "label": ""
     },
     {
@@ -118,51 +118,51 @@
     },
     {
       "rank": 19,
-      "title": "台风“塔巴”在广东台山市登陆",
-      "url": "https://www.toutiao.com/trending/7547270418303303707/",
-      "label": "hot"
+      "title": "国民党主席选举下周登记",
+      "url": "https://www.toutiao.com/trending/7546883028744880182/",
+      "label": ""
     },
     {
       "rank": 20,
+      "title": "大学该如何应对舆情",
+      "url": "https://www.toutiao.com/trending/7547518974129344051/",
+      "label": "hot"
+    },
+    {
+      "rank": 21,
+      "title": "金正恩访华专车车牌有何深意",
+      "url": "https://www.toutiao.com/trending/7546913721210129959/",
+      "label": "new"
+    },
+    {
+      "rank": 22,
       "title": "基辅政府大楼首次遇袭释放什么信号",
       "url": "https://www.toutiao.com/trending/7547489790577348159/",
       "label": ""
     },
     {
-      "rank": 21,
+      "rank": 23,
       "title": "受伤信鸽跌跌撞撞爬向扫描踏板报成绩",
       "url": "https://www.toutiao.com/trending/7546458562785312811/",
       "label": "onSite"
     },
     {
-      "rank": 22,
+      "rank": 24,
       "title": "初中老师说辛芷蕾打小看就行",
       "url": "https://www.toutiao.com/trending/7546867190717366314/",
       "label": ""
     },
     {
-      "rank": 23,
-      "title": "我国为何将主动撞击一颗小行星",
-      "url": "https://www.toutiao.com/trending/7547506009644731946/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 24,
-      "title": "曝特朗普下月将赴韩参加APEC会议",
-      "url": "https://www.toutiao.com/trending/7547106140484583478/",
-      "label": ""
-    },
-    {
       "rank": 25,
-      "title": "黄杨钿甜中戏迎新晚会表演",
-      "url": "https://www.toutiao.com/trending/7547235883448057919/",
-      "label": ""
+      "title": "美国防部更名“战争部”引争议",
+      "url": "https://www.toutiao.com/trending/7547520227366407734/",
+      "label": "new"
     },
     {
       "rank": 26,
-      "title": "治理电动车乱象的关键在哪",
-      "url": "https://www.toutiao.com/trending/7546900205078315054/",
-      "label": ""
+      "title": "我国为何将主动撞击一颗小行星",
+      "url": "https://www.toutiao.com/trending/7547506009644731946/",
+      "label": "interpretation"
     },
     {
       "rank": 27,
@@ -172,111 +172,111 @@
     },
     {
       "rank": 28,
-      "title": "金正恩访华专车车牌有何深意",
-      "url": "https://www.toutiao.com/trending/7546913721210129959/",
-      "label": "new"
+      "title": "黄杨钿甜中戏迎新晚会表演",
+      "url": "https://www.toutiao.com/trending/7547235883448057919/",
+      "label": ""
     },
     {
       "rank": 29,
-      "title": "博主：辛芷蕾的赢不是85花的输",
-      "url": "https://www.toutiao.com/trending/7547490752218009151/",
-      "label": "hot"
+      "title": "曝特朗普下月将赴韩参加APEC会议",
+      "url": "https://www.toutiao.com/trending/7547106140484583478/",
+      "label": ""
     },
     {
       "rank": 30,
-      "title": "联合国警告撤离令或致加沙饥荒蔓延",
-      "url": "https://www.toutiao.com/trending/7547481350769672235/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "深圳停课",
-      "url": "https://www.toutiao.com/trending/7547333018436767275/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "美国防部更名“战争部”引争议",
-      "url": "https://www.toutiao.com/trending/7547520227366407734/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "男子为骑手打抱不平遭女子踹门",
-      "url": "https://www.toutiao.com/trending/7546604617204547638/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "中国电影的力量让演员敢“做梦”",
-      "url": "https://www.toutiao.com/trending/7547233463993110055/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "我们为何如此期待“湘超”",
-      "url": "https://www.toutiao.com/trending/7547486902325087753/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "日本首相石破茂决定辞职",
-      "url": "https://www.toutiao.com/trending/7546596827287322634/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "普京警告西方勿在乌部署军队",
-      "url": "https://www.toutiao.com/trending/7547497679807319598/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 38,
       "title": "解锁九三阅兵特种机位",
       "url": "https://www.toutiao.com/trending/7546941265347231785/",
       "label": "new"
     },
     {
-      "rank": 39,
+      "rank": 31,
       "title": "学者：石破茂辞职日本或现3种情况",
       "url": "https://www.toutiao.com/trending/7547510273070861866/",
       "label": "interpretation"
     },
     {
-      "rank": 40,
-      "title": "大学该如何应对舆情",
-      "url": "https://www.toutiao.com/trending/7547518974129344051/",
-      "label": "new"
+      "rank": 32,
+      "title": "博主：辛芷蕾的赢不是85花的输",
+      "url": "https://www.toutiao.com/trending/7547490752218009151/",
+      "label": "hot"
     },
     {
-      "rank": 41,
+      "rank": 33,
+      "title": "治理电动车乱象的关键在哪",
+      "url": "https://www.toutiao.com/trending/7546900205078315054/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "联合国警告撤离令或致加沙饥荒蔓延",
+      "url": "https://www.toutiao.com/trending/7547481350769672235/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "深圳停课",
+      "url": "https://www.toutiao.com/trending/7547333018436767275/",
+      "label": "hot"
+    },
+    {
+      "rank": 36,
+      "title": "男子为骑手打抱不平遭女子踹门",
+      "url": "https://www.toutiao.com/trending/7546604617204547638/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "我们为何如此期待“湘超”",
+      "url": "https://www.toutiao.com/trending/7547486902325087753/",
+      "label": ""
+    },
+    {
+      "rank": 38,
       "title": "现役男子网球球员大满贯数排行",
       "url": "https://www.toutiao.com/trending/7546801748548223030/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "石破茂为何选择这个时间点辞职",
-      "url": "https://www.toutiao.com/trending/7547308822646230564/",
+      "rank": 39,
+      "title": "激光武器首次亮相抗战阅兵有何意义",
+      "url": "https://www.toutiao.com/trending/7547198148637556778/",
       "label": "interpretation"
     },
     {
-      "rank": 43,
-      "title": "东契奇欧锦赛总得分515",
-      "url": "https://www.toutiao.com/trending/7546833968952524850/",
-      "label": "new"
+      "rank": 40,
+      "title": "普京警告西方勿在乌部署军队",
+      "url": "https://www.toutiao.com/trending/7547497679807319598/",
+      "label": "interpretation"
     },
     {
-      "rank": 44,
+      "rank": 41,
+      "title": "东契奇欧锦赛总得分515",
+      "url": "https://www.toutiao.com/trending/7546833968952524850/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "俄乌两军调精锐决战红军城",
+      "url": "https://www.toutiao.com/trending/7547501545789591094/",
+      "label": ""
+    },
+    {
+      "rank": 43,
       "title": "梁振英：中国人要过和平日子须强军",
       "url": "https://www.toutiao.com/trending/7546831685296635914/",
       "label": ""
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "公交司机路遇车祸救人",
       "url": "https://www.toutiao.com/trending/7547296344621858867/",
-      "label": "new"
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "中学生军训用队形表演致敬祖国",
+      "url": "https://www.toutiao.com/trending/7546380147746963497/",
+      "label": "onSite"
     },
     {
       "rank": 46,
@@ -286,26 +286,26 @@
     },
     {
       "rank": 47,
-      "title": "敏昂莱为何想派缅航天专家赴华学习",
-      "url": "https://www.toutiao.com/trending/7547498103440412203/",
-      "label": ""
+      "title": "特朗普恢复“战争部”名称有何目的",
+      "url": "https://www.toutiao.com/trending/7547488736309677595/",
+      "label": "interpretation"
     },
     {
       "rank": 48,
+      "title": "石破茂为何选择这个时间点辞职",
+      "url": "https://www.toutiao.com/trending/7547308822646230564/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 49,
       "title": "台名嘴：与中国相比美国阅兵像儿戏",
       "url": "https://www.toutiao.com/trending/7546809052165177398/",
       "label": ""
     },
     {
-      "rank": 49,
-      "title": "中学生军训用队形表演向祖国致敬",
-      "url": "https://www.toutiao.com/trending/7546380147746963497/",
-      "label": "new"
-    },
-    {
       "rank": 50,
-      "title": "俄乌两军调精锐决战红军城",
-      "url": "https://www.toutiao.com/trending/7547501545789591094/",
+      "title": "普京与金正恩在华乘车茶歇画面曝光",
+      "url": "https://www.toutiao.com/trending/7546576841772158503/",
       "label": ""
     }
   ]
