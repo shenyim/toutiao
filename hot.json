@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 08 Sep 2025 01:35:05 GMT",
+  "generated_at": "Mon, 08 Sep 2025 01:40:03 GMT",
   "top": {
     "rank": "置顶",
     "title": "人类和平与发展的崇高事业必将胜利",
@@ -34,9 +34,9 @@
     },
     {
       "rank": 5,
-      "title": "台风“塔巴”在广东台山市登陆",
-      "url": "https://www.toutiao.com/trending/7547270418303303707/",
-      "label": "new"
+      "title": "王树国曹德旺亲临福耀科大迎新现场",
+      "url": "https://www.toutiao.com/trending/7547484689096019482/",
+      "label": "onSite"
     },
     {
       "rank": 6,
@@ -52,21 +52,21 @@
     },
     {
       "rank": 8,
-      "title": "王树国曹德旺亲临福耀科大迎新现场",
-      "url": "https://www.toutiao.com/trending/7547484689096019482/",
-      "label": "onSite"
-    },
-    {
-      "rank": 9,
       "title": "如何看待桃李面包月饼广告语引争议",
       "url": "https://www.toutiao.com/trending/7547235294718725651/",
       "label": "forum"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "俄发动冲突爆发以来“最大规模”空袭",
       "url": "https://www.toutiao.com/trending/7546724534355869747/",
       "label": ""
+    },
+    {
+      "rank": 10,
+      "title": "受伤信鸽跌跌撞撞爬向扫描踏板报成绩",
+      "url": "https://www.toutiao.com/trending/7546458562785312811/",
+      "label": "onSite"
     },
     {
       "rank": 11,
@@ -94,14 +94,14 @@
     },
     {
       "rank": 15,
-      "title": "受伤信鸽跌跌撞撞爬向扫描踏板报成绩",
-      "url": "https://www.toutiao.com/trending/7546458562785312811/",
-      "label": "onSite"
+      "title": "国民党主席选举下周登记",
+      "url": "https://www.toutiao.com/trending/7546883028744880182/",
+      "label": "new"
     },
     {
       "rank": 16,
-      "title": "专家：他信家族仍有翻盘可能",
-      "url": "https://www.toutiao.com/trending/7546509098156097575/",
+      "title": "大学该如何应对舆情",
+      "url": "https://www.toutiao.com/trending/7547518974129344051/",
       "label": "new"
     },
     {
@@ -118,147 +118,147 @@
     },
     {
       "rank": 19,
-      "title": "牛弹琴：韩国人在美被抓是奇耻大辱",
-      "url": "https://www.toutiao.com/trending/7547503280687943187/",
-      "label": "new"
+      "title": "中央气象台继续发布暴雨黄色预警",
+      "url": "https://www.toutiao.com/trending/7547161063003865129/",
+      "label": ""
     },
     {
       "rank": 20,
-      "title": "初中老师说辛芷蕾打小看就行",
-      "url": "https://www.toutiao.com/trending/7546867190717366314/",
-      "label": ""
-    },
-    {
-      "rank": 21,
-      "title": "基辅政府大楼首次遇袭释放什么信号",
-      "url": "https://www.toutiao.com/trending/7547489790577348159/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "美国或将被迫退还半数关税",
-      "url": "https://www.toutiao.com/trending/7546579590651625515/",
-      "label": "new"
-    },
-    {
-      "rank": 23,
       "title": "男子忘关火27天后回家才发现",
       "url": "https://www.toutiao.com/trending/7547364326378602532/",
       "label": "new"
     },
     {
-      "rank": 24,
-      "title": "胡塞称用8架无人机袭击以多个目标",
-      "url": "https://www.toutiao.com/trending/7547345705468313641/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "黄杨钿甜中戏迎新晚会表演",
-      "url": "https://www.toutiao.com/trending/7547235883448057919/",
-      "label": ""
-    },
-    {
-      "rank": 26,
+      "rank": 21,
       "title": "激光武器首次亮相抗战阅兵有何意义",
       "url": "https://www.toutiao.com/trending/7547198148637556778/",
       "label": "interpretation"
     },
     {
-      "rank": 27,
-      "title": "男子为骑手打抱不平遭女子踹门",
-      "url": "https://www.toutiao.com/trending/7546604617204547638/",
+      "rank": 22,
+      "title": "民众党干部反击民进党“两个太阳说”",
+      "url": "https://www.toutiao.com/trending/7547430691274194970/",
       "label": ""
     },
     {
-      "rank": 28,
-      "title": "我国为何将主动撞击一颗小行星",
-      "url": "https://www.toutiao.com/trending/7547506009644731946/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 29,
-      "title": "基辅最强防空区首次被俄突破说明啥",
-      "url": "https://www.toutiao.com/trending/7547495159861087795/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 30,
-      "title": "石破茂为何选择这个时间点辞职",
-      "url": "https://www.toutiao.com/trending/7547308822646230564/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 31,
-      "title": "深圳停课",
-      "url": "https://www.toutiao.com/trending/7547333018436767275/",
-      "label": "hot"
-    },
-    {
-      "rank": 32,
-      "title": "博主：辛芷蕾的赢不是85花的输",
-      "url": "https://www.toutiao.com/trending/7547490752218009151/",
-      "label": "hot"
-    },
-    {
-      "rank": 33,
+      "rank": 23,
       "title": "学者：石破茂辞职日本或现3种情况",
       "url": "https://www.toutiao.com/trending/7547510273070861866/",
       "label": "interpretation"
     },
     {
-      "rank": 34,
-      "title": "中央气象台继续发布暴雨黄色预警",
-      "url": "https://www.toutiao.com/trending/7547161063003865129/",
+      "rank": 24,
+      "title": "美国或将被迫退还半数关税",
+      "url": "https://www.toutiao.com/trending/7546579590651625515/",
       "label": "new"
     },
     {
-      "rank": 35,
-      "title": "我们为何如此期待“湘超”",
-      "url": "https://www.toutiao.com/trending/7547486902325087753/",
+      "rank": 25,
+      "title": "牛弹琴：韩国人在美被抓是奇耻大辱",
+      "url": "https://www.toutiao.com/trending/7547503280687943187/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "基辅政府大楼首次遇袭释放什么信号",
+      "url": "https://www.toutiao.com/trending/7547489790577348159/",
       "label": ""
     },
     {
+      "rank": 27,
+      "title": "胡塞称用8架无人机袭击以多个目标",
+      "url": "https://www.toutiao.com/trending/7547345705468313641/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "男子为骑手打抱不平遭女子踹门",
+      "url": "https://www.toutiao.com/trending/7546604617204547638/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "我国为何将主动撞击一颗小行星",
+      "url": "https://www.toutiao.com/trending/7547506009644731946/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 30,
+      "title": "黄杨钿甜中戏迎新晚会表演",
+      "url": "https://www.toutiao.com/trending/7547235883448057919/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "石破茂为何选择这个时间点辞职",
+      "url": "https://www.toutiao.com/trending/7547308822646230564/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 32,
+      "title": "基辅最强防空区首次被俄突破说明啥",
+      "url": "https://www.toutiao.com/trending/7547495159861087795/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 33,
+      "title": "深圳停课",
+      "url": "https://www.toutiao.com/trending/7547333018436767275/",
+      "label": "hot"
+    },
+    {
+      "rank": 34,
+      "title": "博主：辛芷蕾的赢不是85花的输",
+      "url": "https://www.toutiao.com/trending/7547490752218009151/",
+      "label": "hot"
+    },
+    {
+      "rank": 35,
+      "title": "阅兵式上出现的新装备意味着什么",
+      "url": "https://www.toutiao.com/trending/7547513754158632502/",
+      "label": "interpretation"
+    },
+    {
       "rank": 36,
-      "title": "曝特朗普下月将赴韩参加APEC会议",
-      "url": "https://www.toutiao.com/trending/7547106140484583478/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "大学该如何应对舆情",
-      "url": "https://www.toutiao.com/trending/7547518974129344051/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "国民党主席选举下周登记",
-      "url": "https://www.toutiao.com/trending/7546883028744880182/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "公交司机路遇车祸救人",
-      "url": "https://www.toutiao.com/trending/7547296344621858867/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "解锁九三阅兵特种机位",
-      "url": "https://www.toutiao.com/trending/7546941265347231785/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
       "title": "治理电动车乱象的关键在哪",
       "url": "https://www.toutiao.com/trending/7546900205078315054/",
       "label": "new"
     },
     {
-      "rank": 42,
-      "title": "民众党干部反击民进党“两个太阳说”",
-      "url": "https://www.toutiao.com/trending/7547430691274194970/",
+      "rank": 37,
+      "title": "初中老师说辛芷蕾打小看就行",
+      "url": "https://www.toutiao.com/trending/7546867190717366314/",
       "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "我们为何如此期待“湘超”",
+      "url": "https://www.toutiao.com/trending/7547486902325087753/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "解锁九三阅兵特种机位",
+      "url": "https://www.toutiao.com/trending/7546941265347231785/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "公交司机路遇车祸救人",
+      "url": "https://www.toutiao.com/trending/7547296344621858867/",
+      "label": "new"
+    },
+    {
+      "rank": 41,
+      "title": "台风“塔巴”在广东台山市登陆",
+      "url": "https://www.toutiao.com/trending/7547270418303303707/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
+      "title": "俄乌两军调精锐决战红军城",
+      "url": "https://www.toutiao.com/trending/7547501545789591094/",
+      "label": "new"
     },
     {
       "rank": 43,
@@ -268,9 +268,9 @@
     },
     {
       "rank": 44,
-      "title": "阅兵式上出现的新装备意味着什么",
-      "url": "https://www.toutiao.com/trending/7547513754158632502/",
-      "label": "interpretation"
+      "title": "专家：他信家族仍有翻盘可能",
+      "url": "https://www.toutiao.com/trending/7546509098156097575/",
+      "label": "new"
     },
     {
       "rank": 45,
@@ -280,33 +280,33 @@
     },
     {
       "rank": 46,
-      "title": "工作室回应金晨休闲装走红毯",
-      "url": "https://www.toutiao.com/trending/7546459928039407679/",
-      "label": ""
-    },
-    {
-      "rank": 47,
       "title": "梁振英：中国人要过和平日子须强军",
       "url": "https://www.toutiao.com/trending/7546831685296635914/",
       "label": ""
     },
     {
-      "rank": 48,
-      "title": "日本首相石破茂决定辞职",
-      "url": "https://www.toutiao.com/trending/7546596827287322634/",
-      "label": "hot"
-    },
-    {
-      "rank": 49,
+      "rank": 47,
       "title": "美国导弹轰炸贩毒快艇释放什么信号",
       "url": "https://www.toutiao.com/trending/7547487486553886259/",
       "label": "interpretation"
     },
     {
-      "rank": 50,
+      "rank": 48,
+      "title": "工作室回应金晨休闲装走红毯",
+      "url": "https://www.toutiao.com/trending/7546459928039407679/",
+      "label": ""
+    },
+    {
+      "rank": 49,
       "title": "特朗普恢复“战争部”名称有何目的",
       "url": "https://www.toutiao.com/trending/7547488736309677595/",
       "label": "interpretation"
+    },
+    {
+      "rank": 50,
+      "title": "曝特朗普下月将赴韩参加APEC会议",
+      "url": "https://www.toutiao.com/trending/7547106140484583478/",
+      "label": "new"
     }
   ]
 }
