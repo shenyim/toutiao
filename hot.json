@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 08 Sep 2025 02:20:03 GMT",
+  "generated_at": "Mon, 08 Sep 2025 02:25:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "人类和平与发展的崇高事业必将胜利",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "男子忘关火27天后回家才发现",
       "url": "https://www.toutiao.com/trending/7547364326378602532/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 2,
@@ -30,13 +30,13 @@
       "rank": 4,
       "title": "李在明回应超300名韩国人在美被抓",
       "url": "https://www.toutiao.com/trending/7546999086692499499/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 5,
       "title": "朝鲜驻华使馆内部首次公开",
       "url": "https://www.toutiao.com/trending/7547484716467883546/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
     },
     {
       "rank": 10,
-      "title": "中国女排世锦赛未进八强是何原因",
-      "url": "https://www.toutiao.com/trending/7547296701044756031/",
+      "title": "如何看待桃李面包月饼广告语引争议",
+      "url": "https://www.toutiao.com/trending/7547235294718725651/",
       "label": "forum"
     },
     {
@@ -100,9 +100,9 @@
     },
     {
       "rank": 16,
-      "title": "国民党主席选举下周登记",
-      "url": "https://www.toutiao.com/trending/7546883028744880182/",
-      "label": ""
+      "title": "金正恩访华专车车牌有何深意",
+      "url": "https://www.toutiao.com/trending/7546913721210129959/",
+      "label": "new"
     },
     {
       "rank": 17,
@@ -112,8 +112,8 @@
     },
     {
       "rank": 18,
-      "title": "如何看待桃李面包月饼广告语引争议",
-      "url": "https://www.toutiao.com/trending/7547235294718725651/",
+      "title": "中国女排世锦赛未进八强是何原因",
+      "url": "https://www.toutiao.com/trending/7547296701044756031/",
       "label": "forum"
     },
     {
@@ -130,15 +130,15 @@
     },
     {
       "rank": 21,
-      "title": "金正恩访华专车车牌有何深意",
-      "url": "https://www.toutiao.com/trending/7546913721210129959/",
-      "label": "new"
-    },
-    {
-      "rank": 22,
       "title": "基辅政府大楼首次遇袭释放什么信号",
       "url": "https://www.toutiao.com/trending/7547489790577348159/",
       "label": ""
+    },
+    {
+      "rank": 22,
+      "title": "阅兵式上出现的新装备意味着什么",
+      "url": "https://www.toutiao.com/trending/7547513754158632502/",
+      "label": "interpretation"
     },
     {
       "rank": 23,
@@ -148,20 +148,20 @@
     },
     {
       "rank": 24,
-      "title": "治理电动车乱象的关键在哪",
-      "url": "https://www.toutiao.com/trending/7546900205078315054/",
+      "title": "胡塞称用8架无人机袭击以多个目标",
+      "url": "https://www.toutiao.com/trending/7547345705468313641/",
       "label": ""
     },
     {
       "rank": 25,
-      "title": "解锁九三阅兵特种机位",
-      "url": "https://www.toutiao.com/trending/7546941265347231785/",
-      "label": "new"
+      "title": "基辅最强防空区首次被俄突破说明啥",
+      "url": "https://www.toutiao.com/trending/7547495159861087795/",
+      "label": "interpretation"
     },
     {
       "rank": 26,
-      "title": "曝特朗普下月将赴韩参加APEC会议",
-      "url": "https://www.toutiao.com/trending/7547106140484583478/",
+      "title": "治理电动车乱象的关键在哪",
+      "url": "https://www.toutiao.com/trending/7546900205078315054/",
       "label": ""
     },
     {
@@ -172,15 +172,15 @@
     },
     {
       "rank": 28,
-      "title": "基辅最强防空区首次被俄突破说明啥",
-      "url": "https://www.toutiao.com/trending/7547495159861087795/",
+      "title": "我国为何将主动撞击一颗小行星",
+      "url": "https://www.toutiao.com/trending/7547506009644731946/",
       "label": "interpretation"
     },
     {
       "rank": 29,
-      "title": "我国为何将主动撞击一颗小行星",
-      "url": "https://www.toutiao.com/trending/7547506009644731946/",
-      "label": "interpretation"
+      "title": "曝特朗普下月将赴韩参加APEC会议",
+      "url": "https://www.toutiao.com/trending/7547106140484583478/",
+      "label": ""
     },
     {
       "rank": 30,
@@ -190,9 +190,9 @@
     },
     {
       "rank": 31,
-      "title": "胡塞称用8架无人机袭击以多个目标",
-      "url": "https://www.toutiao.com/trending/7547345705468313641/",
-      "label": ""
+      "title": "解锁九三阅兵特种机位",
+      "url": "https://www.toutiao.com/trending/7546941265347231785/",
+      "label": "new"
     },
     {
       "rank": 32,
@@ -208,56 +208,56 @@
     },
     {
       "rank": 34,
-      "title": "我们为何如此期待“湘超”",
-      "url": "https://www.toutiao.com/trending/7547486902325087753/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "俄乌两军调精锐决战红军城",
-      "url": "https://www.toutiao.com/trending/7547501545789591094/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "博主：辛芷蕾的赢不是85花的输",
-      "url": "https://www.toutiao.com/trending/7547490752218009151/",
-      "label": "hot"
-    },
-    {
-      "rank": 37,
-      "title": "激光武器首次亮相抗战阅兵有何意义",
-      "url": "https://www.toutiao.com/trending/7547198148637556778/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 38,
       "title": "男子为骑手打抱不平遭女子踹门",
       "url": "https://www.toutiao.com/trending/7546604617204547638/",
       "label": ""
     },
     {
-      "rank": 39,
-      "title": "初中老师说辛芷蕾打小看就行",
-      "url": "https://www.toutiao.com/trending/7546867190717366314/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "该如何重新为房产定价",
-      "url": "https://www.toutiao.com/trending/7547495065183063606/",
-      "label": ""
-    },
-    {
-      "rank": 41,
+      "rank": 35,
       "title": "石破茂为何执意辞职",
       "url": "https://www.toutiao.com/trending/7547528835231649323/",
       "label": "interpretation"
     },
     {
-      "rank": 42,
+      "rank": 36,
+      "title": "台风“塔巴”在广东台山市登陆",
+      "url": "https://www.toutiao.com/trending/7547270418303303707/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "初中老师说辛芷蕾打小看就行",
+      "url": "https://www.toutiao.com/trending/7546867190717366314/",
+      "label": ""
+    },
+    {
+      "rank": 38,
       "title": "现役男子网球球员大满贯数排行",
       "url": "https://www.toutiao.com/trending/7546801748548223030/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "激光武器首次亮相抗战阅兵有何意义",
+      "url": "https://www.toutiao.com/trending/7547198148637556778/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 40,
+      "title": "博主：辛芷蕾的赢不是85花的输",
+      "url": "https://www.toutiao.com/trending/7547490752218009151/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "俄乌两军调精锐决战红军城",
+      "url": "https://www.toutiao.com/trending/7547501545789591094/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "梁振英：中国人要过和平日子须强军",
+      "url": "https://www.toutiao.com/trending/7546831685296635914/",
       "label": ""
     },
     {
@@ -268,21 +268,21 @@
     },
     {
       "rank": 44,
-      "title": "阅兵式上出现的新装备意味着什么",
-      "url": "https://www.toutiao.com/trending/7547513754158632502/",
-      "label": "interpretation"
+      "title": "该如何重新为房产定价",
+      "url": "https://www.toutiao.com/trending/7547495065183063606/",
+      "label": ""
     },
     {
       "rank": 45,
-      "title": "台风“塔巴”在广东台山市登陆",
-      "url": "https://www.toutiao.com/trending/7547270418303303707/",
-      "label": ""
+      "title": "普京与金正恩在华乘车茶歇画面曝光",
+      "url": "https://www.toutiao.com/trending/7546576841772158503/",
+      "label": "new"
     },
     {
       "rank": 46,
-      "title": "梁振英：中国人要过和平日子须强军",
-      "url": "https://www.toutiao.com/trending/7546831685296635914/",
-      "label": ""
+      "title": "四大“失误”压垮石破茂首相大位",
+      "url": "https://www.toutiao.com/trending/7547509480972357146/",
+      "label": "interpretation"
     },
     {
       "rank": 47,
@@ -292,21 +292,21 @@
     },
     {
       "rank": 48,
-      "title": "普京与金正恩在华乘车茶歇画面曝光",
-      "url": "https://www.toutiao.com/trending/7546576841772158503/",
-      "label": "new"
+      "title": "特朗普恢复“战争部”名称有何目的",
+      "url": "https://www.toutiao.com/trending/7547488736309677595/",
+      "label": "interpretation"
     },
     {
       "rank": 49,
-      "title": "东契奇欧锦赛总得分515",
-      "url": "https://www.toutiao.com/trending/7546833968952524850/",
-      "label": ""
+      "title": "美拘捕大量韩国人会影响两国关系吗",
+      "url": "https://www.toutiao.com/trending/7547515910123163182/",
+      "label": "interpretation"
     },
     {
       "rank": 50,
-      "title": "美国防部更名“战争部”引争议",
-      "url": "https://www.toutiao.com/trending/7547520227366407734/",
-      "label": "new"
+      "title": "常州队已经确定无缘“苏超”淘汰赛",
+      "url": "https://www.toutiao.com/trending/7546543131597242410/",
+      "label": ""
     }
   ]
 }
