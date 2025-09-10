@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 10 Sep 2025 01:40:06 GMT",
+  "generated_at": "Wed, 10 Sep 2025 01:50:40 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平回信勉励特岗教师代表",
@@ -34,27 +34,27 @@
     },
     {
       "rank": 5,
-      "title": "尼泊尔总理辞职后乘直升机离开首都",
-      "url": "https://www.toutiao.com/trending/7547924104913931795/",
-      "label": "onSite"
-    },
-    {
-      "rank": 6,
       "title": "尼泊尔前总理住所被烧 妻子去世",
       "url": "https://www.toutiao.com/trending/7547710765252447786/",
       "label": "hot"
     },
     {
+      "rank": 6,
+      "title": "苹果AirPods Pro 3售价约1775元",
+      "url": "https://www.toutiao.com/trending/7547924104913882643/",
+      "label": ""
+    },
+    {
       "rank": 7,
-      "title": "哈马斯5人死于空袭 高层躲过暗杀",
-      "url": "https://www.toutiao.com/trending/7547710765252415018/",
+      "title": "卡塔尔称遭袭10分钟后才接到美电话",
+      "url": "https://www.toutiao.com/trending/7547710622893477439/",
       "label": "hot"
     },
     {
       "rank": 8,
-      "title": "苹果AirPods Pro 3售价约1775元",
-      "url": "https://www.toutiao.com/trending/7547924104913882643/",
-      "label": ""
+      "title": "尼泊尔总理辞职后乘直升机离开首都",
+      "url": "https://www.toutiao.com/trending/7547924104913931795/",
+      "label": "onSite"
     },
     {
       "rank": 9,
@@ -64,8 +64,8 @@
     },
     {
       "rank": 10,
-      "title": "15架以战机向多哈数秒齐射10枚导弹",
-      "url": "https://www.toutiao.com/trending/7548234952039665190/",
+      "title": "哈马斯5人死于空袭 高层躲过暗杀",
+      "url": "https://www.toutiao.com/trending/7547710765252415018/",
       "label": "hot"
     },
     {
@@ -76,39 +76,39 @@
     },
     {
       "rank": 12,
-      "title": "苹果一口气发布8款新品",
-      "url": "https://www.toutiao.com/trending/7548228927228120595/",
+      "title": "iPhone 17系列售价公布",
+      "url": "https://www.toutiao.com/trending/7548157843497799214/",
       "label": "hot"
     },
     {
       "rank": 13,
-      "title": "苹果将如何应对消费电子市场压力",
-      "url": "https://www.toutiao.com/trending/7547602341795069961/",
-      "label": "new"
-    },
-    {
-      "rank": 14,
-      "title": "卡塔尔称遭袭10分钟后才接到美电话",
-      "url": "https://www.toutiao.com/trending/7547710622893477439/",
+      "title": "学者：以色列大胆行动或有两大后果",
+      "url": "https://www.toutiao.com/trending/7548243651554446884/",
       "label": "hot"
     },
     {
-      "rank": 15,
-      "title": "iPhone 17系列售价公布",
-      "url": "https://www.toutiao.com/trending/7548157843497799214/",
-      "label": ""
-    },
-    {
-      "rank": 16,
+      "rank": 14,
       "title": "做人该不该厚道一点",
       "url": "https://www.toutiao.com/trending/7548218360454974985/",
       "label": "forum"
     },
     {
+      "rank": 15,
+      "title": "苹果一口气发布8款新品",
+      "url": "https://www.toutiao.com/trending/7548228927228120595/",
+      "label": ""
+    },
+    {
+      "rank": 16,
+      "title": "15架以战机向多哈数秒齐射10枚导弹",
+      "url": "https://www.toutiao.com/trending/7548234952039665190/",
+      "label": ""
+    },
+    {
       "rank": 17,
-      "title": "卡塔尔遭袭爆炸声巨大民众惊慌奔跑",
-      "url": "https://www.toutiao.com/trending/7548086053262360602/",
-      "label": "onSite"
+      "title": "U22国足0-0战平澳大利亚",
+      "url": "https://www.toutiao.com/trending/7547764205890420786/",
+      "label": "new"
     },
     {
       "rank": 18,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 19,
-      "title": "专家：以军“灭国之战”正在打响",
-      "url": "https://www.toutiao.com/trending/7548008818903354919/",
-      "label": ""
+      "title": "卡塔尔遭袭爆炸声巨大民众惊慌奔跑",
+      "url": "https://www.toutiao.com/trending/7548086053262360602/",
+      "label": "onSite"
     },
     {
       "rank": 20,
-      "title": "学者：以色列大胆行动或有两大后果",
-      "url": "https://www.toutiao.com/trending/7548243651554446884/",
+      "title": "女生的腿被车压住 路人抬车救人",
+      "url": "https://www.toutiao.com/trending/7546859749858377755/",
       "label": "new"
     },
     {
@@ -136,62 +136,62 @@
     },
     {
       "rank": 22,
-      "title": "女生的腿被车压住 路人抬车救人",
-      "url": "https://www.toutiao.com/trending/7546859749858377755/",
+      "title": "以总理称以色列为多哈爆炸负全责",
+      "url": "https://www.toutiao.com/trending/7547267344234610698/",
       "label": "new"
     },
     {
       "rank": 23,
+      "title": "老师诱骗20余名小学生加入邪教",
+      "url": "https://www.toutiao.com/trending/7547521969844928553/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "iPhone 17GPU性能较上代提升20%",
+      "url": "https://www.toutiao.com/trending/7548146277012393522/",
+      "label": ""
+    },
+    {
+      "rank": 25,
       "title": "曝美为以色列在多哈发动袭击开绿灯",
       "url": "https://www.toutiao.com/trending/7548092154502106662/",
       "label": ""
     },
     {
-      "rank": 24,
-      "title": "苹果发布会都讲了啥",
-      "url": "https://www.toutiao.com/trending/7547619884072370230/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "山东警方侦破一起邪教复辟案",
-      "url": "https://www.toutiao.com/trending/7547521969844928553/",
-      "label": ""
-    },
-    {
       "rank": 26,
+      "title": "专家：以军“灭国之战”正在打响",
+      "url": "https://www.toutiao.com/trending/7548008818903354919/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "iPhone 17全系真机上手体验",
+      "url": "https://www.toutiao.com/trending/7548264600089677362/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
       "title": "他信身穿囚服微笑竖大拇指",
       "url": "https://www.toutiao.com/trending/7548018605653311497/",
       "label": "onSite"
     },
     {
-      "rank": 27,
-      "title": "苹果新品哪些值得买",
-      "url": "https://www.toutiao.com/trending/7548229822061743670/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "以色列袭击多哈对中东局势有何影响",
-      "url": "https://www.toutiao.com/trending/7548231349669203498/",
-      "label": "interpretation"
-    },
-    {
       "rank": 29,
+      "title": "特朗普：印美继续谈判解决贸易壁垒",
+      "url": "https://www.toutiao.com/trending/7547308797102932018/",
+      "label": "new"
+    },
+    {
+      "rank": 30,
       "title": "车辆擦碰 司机和外卖员大打出手",
       "url": "https://www.toutiao.com/trending/7548085455020245055/",
       "label": ""
     },
     {
-      "rank": 30,
-      "title": "男子回家遇德牧拦路 报警反遭威胁",
-      "url": "https://www.toutiao.com/trending/7547610420350074889/",
-      "label": ""
-    },
-    {
       "rank": 31,
-      "title": "特朗普称指示敲定与卡塔尔防务协议",
-      "url": "https://www.toutiao.com/trending/7547213766841630747/",
+      "title": "卡塔尔首都浓烟升腾爆炸声不断",
+      "url": "https://www.toutiao.com/trending/7547710765252316714/",
       "label": ""
     },
     {
@@ -202,81 +202,81 @@
     },
     {
       "rank": 33,
-      "title": "毛新宇少将携家人到毛主席纪念堂祭奠",
-      "url": "https://www.toutiao.com/trending/7547619256444403754/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "卡塔尔首都浓烟升腾爆炸声不断",
-      "url": "https://www.toutiao.com/trending/7547710765252316714/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "WTT澳门冠军赛：高桥布鲁娜晋级16强",
-      "url": "https://www.toutiao.com/trending/7547188080080584714/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "美国宣布制裁东南亚诈骗集团",
-      "url": "https://www.toutiao.com/trending/7547635325330394663/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "U22国足小组出线后主教练振臂高呼",
-      "url": "https://www.toutiao.com/trending/7548232073455193638/",
-      "label": "onSite"
-    },
-    {
-      "rank": 38,
-      "title": "为什么说iPhone Air最适合普通用户",
-      "url": "https://www.toutiao.com/trending/7548236662745075219/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "特朗普：印美继续谈判解决贸易壁垒",
-      "url": "https://www.toutiao.com/trending/7547308797102932018/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "官方通报初一新生在学校坠亡",
-      "url": "https://www.toutiao.com/trending/7548238290910989878/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
       "title": "他信为何又被判刑",
       "url": "https://www.toutiao.com/trending/7547546671208005671/",
       "label": ""
     },
     {
+      "rank": 34,
+      "title": "特朗普称指示敲定与卡塔尔防务协议",
+      "url": "https://www.toutiao.com/trending/7547213766841630747/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "男子回家遇德牧拦路 报警反遭威胁",
+      "url": "https://www.toutiao.com/trending/7547610420350074889/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "毛新宇少将携家人到毛主席纪念堂祭奠",
+      "url": "https://www.toutiao.com/trending/7547619256444403754/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "古特雷斯谴责以色列袭击卡塔尔多哈",
+      "url": "https://www.toutiao.com/trending/7548227646761602569/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "为什么说iPhone Air最适合普通用户",
+      "url": "https://www.toutiao.com/trending/7548236662745075219/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "WTT澳门冠军赛：高桥布鲁娜晋级16强",
+      "url": "https://www.toutiao.com/trending/7547188080080584714/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "以军空袭卡塔尔哈马斯高层意味什么",
+      "url": "https://www.toutiao.com/trending/7548231770051710527/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 41,
+      "title": "美国宣布制裁东南亚诈骗集团",
+      "url": "https://www.toutiao.com/trending/7547635325330394663/",
+      "label": ""
+    },
+    {
       "rank": 42,
+      "title": "美财长拟发文说明如何保住美元地位",
+      "url": "https://www.toutiao.com/trending/7548233844214730282/",
+      "label": ""
+    },
+    {
+      "rank": 43,
       "title": "俄军发射火箭炮炸毁乌军防御工事",
       "url": "https://www.toutiao.com/trending/7546835929211093028/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "为泰党为何在总理选举中惨败",
-      "url": "https://www.toutiao.com/trending/7547956931256667667/",
-      "label": ""
-    },
-    {
       "rank": 44,
-      "title": "媒体：对教师的礼赞应超越三尺讲台",
-      "url": "https://www.toutiao.com/trending/7547506411673747494/",
-      "label": "new"
+      "title": "U22国足小组出线后主教练振臂高呼",
+      "url": "https://www.toutiao.com/trending/7548232073455193638/",
+      "label": "onSite"
     },
     {
       "rank": 45,
-      "title": "司机分神车辆失控连续撞击护栏",
-      "url": "https://www.toutiao.com/trending/7547905257469247514/",
-      "label": ""
+      "title": "申京成欧锦赛历史上最年轻三双先生",
+      "url": "https://www.toutiao.com/trending/7547278582381363238/",
+      "label": "new"
     },
     {
       "rank": 46,
@@ -286,27 +286,27 @@
     },
     {
       "rank": 47,
-      "title": "他信与女儿拥抱面带笑容上囚车",
-      "url": "https://www.toutiao.com/trending/7548030281433828915/",
-      "label": ""
+      "title": "官方通报初一新生在学校坠亡",
+      "url": "https://www.toutiao.com/trending/7548238290910989878/",
+      "label": "new"
     },
     {
       "rank": 48,
+      "title": "世预赛葡萄牙3-2匈牙利 C罗平纪录",
+      "url": "https://www.toutiao.com/trending/7548170098025201703/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
       "title": "马克龙任命防长勒科尔尼担任法总理",
       "url": "https://www.toutiao.com/trending/7548232708917300775/",
       "label": "new"
     },
     {
-      "rank": 49,
-      "title": "以总理称以色列为多哈爆炸负全责",
-      "url": "https://www.toutiao.com/trending/7547267344234610698/",
-      "label": "new"
-    },
-    {
       "rank": 50,
-      "title": "火箭官方晒申京三双",
-      "url": "https://www.toutiao.com/trending/7547278582381363238/",
-      "label": "new"
+      "title": "以色列袭击多哈对中东局势有何影响",
+      "url": "https://www.toutiao.com/trending/7548231349669203498/",
+      "label": "interpretation"
     }
   ]
 }
