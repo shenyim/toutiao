@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 10 Sep 2025 02:40:05 GMT",
+  "generated_at": "Wed, 10 Sep 2025 02:45:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平回信勉励特岗教师代表",
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "苹果AirPods Pro 3售价约1775元",
-      "url": "https://www.toutiao.com/trending/7547924104913882643/",
-      "label": ""
+      "title": "iPhone 17迎来最大改版够惊艳吗",
+      "url": "https://www.toutiao.com/trending/7548229764876602899/",
+      "label": "hot"
     },
     {
       "rank": 9,
@@ -84,7 +84,7 @@
       "rank": 13,
       "title": "学者：以色列大胆行动或有两大后果",
       "url": "https://www.toutiao.com/trending/7548243651554446884/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 14,
@@ -94,15 +94,15 @@
     },
     {
       "rank": 15,
-      "title": "做人该不该厚道一点",
-      "url": "https://www.toutiao.com/trending/7548218360454974985/",
-      "label": "forum"
+      "title": "业内：新iPhone让我重新相信苹果",
+      "url": "https://www.toutiao.com/trending/7548234060867309075/",
+      "label": ""
     },
     {
       "rank": 16,
-      "title": "以色列首次空袭卡塔尔释放何信号",
-      "url": "https://www.toutiao.com/trending/7548264900364078634/",
-      "label": "interpretation"
+      "title": "卡塔尔遇袭当地中国人：没收到预警",
+      "url": "https://www.toutiao.com/trending/7548274843121274418/",
+      "label": "new"
     },
     {
       "rank": 17,
@@ -118,9 +118,9 @@
     },
     {
       "rank": 19,
-      "title": "卡塔尔遭袭爆炸声巨大民众惊慌奔跑",
-      "url": "https://www.toutiao.com/trending/7548086053262360602/",
-      "label": "onSite"
+      "title": "以总理称以色列为多哈爆炸负全责",
+      "url": "https://www.toutiao.com/trending/7547267344234610698/",
+      "label": ""
     },
     {
       "rank": 20,
@@ -130,15 +130,15 @@
     },
     {
       "rank": 21,
-      "title": "业内：新iPhone让我重新相信苹果",
-      "url": "https://www.toutiao.com/trending/7548234060867309075/",
+      "title": "苹果AirPods Pro 3售价约1775元",
+      "url": "https://www.toutiao.com/trending/7547924104913882643/",
       "label": ""
     },
     {
       "rank": 22,
-      "title": "15架以战机向多哈数秒齐射10枚导弹",
-      "url": "https://www.toutiao.com/trending/7548234952039665190/",
-      "label": ""
+      "title": "卡塔尔遭袭爆炸声巨大民众惊慌奔跑",
+      "url": "https://www.toutiao.com/trending/7548086053262360602/",
+      "label": "onSite"
     },
     {
       "rank": 23,
@@ -148,44 +148,44 @@
     },
     {
       "rank": 24,
-      "title": "iPhone 17迎来最大改版够惊艳吗",
-      "url": "https://www.toutiao.com/trending/7548229764876602899/",
+      "title": "重庆政法委原书记陆克华被公诉",
+      "url": "https://www.toutiao.com/trending/7548274161546821671/",
       "label": "new"
     },
     {
       "rank": 25,
-      "title": "以总理称以色列为多哈爆炸负全责",
-      "url": "https://www.toutiao.com/trending/7547267344234610698/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "车辆擦碰 司机和外卖员大打出手",
-      "url": "https://www.toutiao.com/trending/7548085455020245055/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "特朗普称指示敲定与卡塔尔防务协议",
-      "url": "https://www.toutiao.com/trending/7547213766841630747/",
-      "label": ""
-    },
-    {
-      "rank": 28,
       "title": "卡塔尔：卡方保留回应以色列的权利",
       "url": "https://www.toutiao.com/trending/7547854872721408038/",
       "label": "new"
     },
     {
+      "rank": 26,
+      "title": "特朗普称指示敲定与卡塔尔防务协议",
+      "url": "https://www.toutiao.com/trending/7547213766841630747/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "车辆擦碰 司机和外卖员大打出手",
+      "url": "https://www.toutiao.com/trending/7548085455020245055/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "以色列首次空袭卡塔尔释放何信号",
+      "url": "https://www.toutiao.com/trending/7548264900364078634/",
+      "label": "interpretation"
+    },
+    {
       "rank": 29,
-      "title": "特朗普：印美继续谈判解决贸易壁垒",
-      "url": "https://www.toutiao.com/trending/7547308797102932018/",
+      "title": "他信为何又被判刑",
+      "url": "https://www.toutiao.com/trending/7547546671208005671/",
       "label": ""
     },
     {
       "rank": 30,
-      "title": "他信为何又被判刑",
-      "url": "https://www.toutiao.com/trending/7547546671208005671/",
+      "title": "iPhone 17GPU性能较上代提升20%",
+      "url": "https://www.toutiao.com/trending/7548146277012393522/",
       "label": ""
     },
     {
@@ -196,8 +196,8 @@
     },
     {
       "rank": 32,
-      "title": "iPhone 17GPU性能较上代提升20%",
-      "url": "https://www.toutiao.com/trending/7548146277012393522/",
+      "title": "特朗普：印美继续谈判解决贸易壁垒",
+      "url": "https://www.toutiao.com/trending/7547308797102932018/",
       "label": ""
     },
     {
@@ -208,9 +208,9 @@
     },
     {
       "rank": 34,
-      "title": "卡塔尔遇袭当地中国人：没收到预警",
-      "url": "https://www.toutiao.com/trending/7548274843121274418/",
-      "label": "new"
+      "title": "15架以战机向多哈数秒齐射10枚导弹",
+      "url": "https://www.toutiao.com/trending/7548234952039665190/",
+      "label": ""
     },
     {
       "rank": 35,
@@ -220,56 +220,56 @@
     },
     {
       "rank": 36,
-      "title": "王楚钦把日本选手松岛辉空打破防了",
-      "url": "https://www.toutiao.com/trending/7547898394556923946/",
-      "label": ""
-    },
-    {
-      "rank": 37,
       "title": "美国宣布制裁东南亚诈骗集团",
       "url": "https://www.toutiao.com/trending/7547635325330394663/",
       "label": ""
     },
     {
-      "rank": 38,
-      "title": "取消高速收费的第一枪打响了",
-      "url": "https://www.toutiao.com/trending/7548258512065973796/",
+      "rank": 37,
+      "title": "那些年老师们的经典语录",
+      "url": "https://www.toutiao.com/trending/7547955964893544486/",
       "label": "new"
     },
     {
-      "rank": 39,
-      "title": "为什么说iPhone Air最适合普通用户",
-      "url": "https://www.toutiao.com/trending/7548236662745075219/",
+      "rank": 38,
+      "title": "王楚钦把日本选手松岛辉空打破防了",
+      "url": "https://www.toutiao.com/trending/7547898394556923946/",
       "label": ""
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "牛弹琴：中东发生转折性事件",
       "url": "https://www.toutiao.com/trending/7548245024157208105/",
       "label": "depth"
     },
     {
-      "rank": 41,
-      "title": "俄乌若参照韩国模式停火有何影响",
-      "url": "https://www.toutiao.com/trending/7548236089174003238/",
-      "label": "interpretation"
+      "rank": 40,
+      "title": "取消高速收费的第一枪打响了",
+      "url": "https://www.toutiao.com/trending/7548258512065973796/",
+      "label": "new"
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "歼-10CE成巴基斯坦空军宣传片主角",
       "url": "https://www.toutiao.com/trending/7547714844507258899/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "重庆政法委原书记陆克华被公诉",
-      "url": "https://www.toutiao.com/trending/7548274161546821671/",
+      "rank": 42,
+      "title": "安东尼奥：队员像11个兵马俑在战斗",
+      "url": "https://www.toutiao.com/trending/7548213595482472484/",
       "label": "new"
     },
     {
+      "rank": 43,
+      "title": "以军空袭卡塔尔哈马斯高层意味什么",
+      "url": "https://www.toutiao.com/trending/7548231770051710527/",
+      "label": "interpretation"
+    },
+    {
       "rank": 44,
-      "title": "古特雷斯谴责以色列袭击卡塔尔多哈",
-      "url": "https://www.toutiao.com/trending/7548227646761602569/",
+      "title": "为什么说iPhone Air最适合普通用户",
+      "url": "https://www.toutiao.com/trending/7548236662745075219/",
       "label": ""
     },
     {
@@ -286,27 +286,27 @@
     },
     {
       "rank": 47,
-      "title": "以军空袭卡塔尔哈马斯高层意味什么",
-      "url": "https://www.toutiao.com/trending/7548231770051710527/",
+      "title": "俄乌若参照韩国模式停火有何影响",
+      "url": "https://www.toutiao.com/trending/7548236089174003238/",
       "label": "interpretation"
     },
     {
       "rank": 48,
-      "title": "官方通报初一新生在学校坠亡",
-      "url": "https://www.toutiao.com/trending/7548238290910989878/",
-      "label": ""
-    },
-    {
-      "rank": 49,
-      "title": "安东尼奥：队员像11个兵马俑在战斗",
-      "url": "https://www.toutiao.com/trending/7548213595482472484/",
+      "title": "北体军训现场同学们“秀”才艺",
+      "url": "https://www.toutiao.com/trending/7547177426314035227/",
       "label": "new"
     },
     {
+      "rank": 49,
+      "title": "古特雷斯谴责以色列袭击卡塔尔多哈",
+      "url": "https://www.toutiao.com/trending/7548227646761602569/",
+      "label": ""
+    },
+    {
       "rank": 50,
-      "title": "以色列袭击多哈对中东局势有何影响",
-      "url": "https://www.toutiao.com/trending/7548231349669203498/",
-      "label": "interpretation"
+      "title": "汪涵主持湘超联赛开幕式",
+      "url": "https://www.toutiao.com/trending/7546543292302475300/",
+      "label": ""
     }
   ]
 }
