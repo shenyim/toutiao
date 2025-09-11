@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 11 Sep 2025 15:30:06 GMT",
+  "generated_at": "Thu, 11 Sep 2025 15:35:12 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平推动“大金砖合作”开新局",
@@ -16,8 +16,8 @@
     },
     {
       "rank": 2,
-      "title": "北约和俄罗斯要正式交手了吗",
-      "url": "https://www.toutiao.com/trending/7548779251323899433/",
+      "title": "餐饮店使用预制菜到底要不要明示",
+      "url": "https://www.toutiao.com/trending/7548786331204193830/",
       "label": "hot"
     },
     {
@@ -34,9 +34,9 @@
     },
     {
       "rank": 5,
-      "title": "河南许昌暴雨破纪录：行车如行船",
-      "url": "https://www.toutiao.com/trending/7548337626487554090/",
-      "label": "onSite"
+      "title": "北约和俄罗斯要正式交手了吗",
+      "url": "https://www.toutiao.com/trending/7548779251323899433/",
+      "label": ""
     },
     {
       "rank": 6,
@@ -54,7 +54,7 @@
       "rank": 8,
       "title": "14岁男生被教官猥亵 父亲发声",
       "url": "https://www.toutiao.com/trending/7548761520806215743/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 9,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 12,
+      "title": "河南许昌暴雨破纪录：行车如行船",
+      "url": "https://www.toutiao.com/trending/7548337626487554090/",
+      "label": "onSite"
+    },
+    {
+      "rank": 13,
       "title": "外交部回应墨西哥拟对华征50%关税",
       "url": "https://www.toutiao.com/trending/7548147647014748199/",
       "label": ""
     },
     {
-      "rank": 13,
-      "title": "96岁老兵拿起现役装备笑得像个孩子",
-      "url": "https://www.toutiao.com/trending/7548673026355826230/",
-      "label": ""
-    },
-    {
       "rank": 14,
-      "title": "美国“网红”柯克什么来头",
-      "url": "https://www.toutiao.com/trending/7548792172896587305/",
-      "label": "hot"
+      "title": "卡塔尔首相谈是否被美背叛：不能直说",
+      "url": "https://www.toutiao.com/trending/7548252515427483691/",
+      "label": "new"
     },
     {
       "rank": 15,
@@ -106,9 +106,9 @@
     },
     {
       "rank": 17,
-      "title": "媒体评少女身亡：老师拦信断生机",
-      "url": "https://www.toutiao.com/trending/7548735591928565289/",
-      "label": "hot"
+      "title": "96岁老兵拿起现役装备笑得像个孩子",
+      "url": "https://www.toutiao.com/trending/7548673026355826230/",
+      "label": ""
     },
     {
       "rank": 18,
@@ -118,21 +118,21 @@
     },
     {
       "rank": 19,
-      "title": "美联储降息押注进入“暴走”模式",
-      "url": "https://www.toutiao.com/trending/7548752720119729715/",
+      "title": "媒体评少女身亡：老师拦信断生机",
+      "url": "https://www.toutiao.com/trending/7548735591928565289/",
       "label": ""
     },
     {
       "rank": 20,
-      "title": "卡塔尔首相谈是否被美背叛：不能直说",
-      "url": "https://www.toutiao.com/trending/7548252515427483691/",
-      "label": "new"
+      "title": "A股大突破下牛市洗盘是否结束",
+      "url": "https://www.toutiao.com/trending/7548725113428905498/",
+      "label": "hot"
     },
     {
       "rank": 21,
       "title": "西贝创始人贾国龙称将起诉罗永浩",
       "url": "https://www.toutiao.com/trending/7548578069511143443/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 22,
@@ -142,14 +142,14 @@
     },
     {
       "rank": 23,
-      "title": "男子突发精神疾病央求民警上铐",
-      "url": "https://www.toutiao.com/trending/7548696527507062823/",
-      "label": "new"
+      "title": "学者：以色列让卡塔尔防空网静默",
+      "url": "https://www.toutiao.com/trending/7548735678377365033/",
+      "label": ""
     },
     {
       "rank": 24,
-      "title": "俩儿子非亲生案当事人：想要个后人",
-      "url": "https://www.toutiao.com/trending/7548662801179463206/",
+      "title": "一图看懂两孩非亲生热点事件",
+      "url": "https://www.toutiao.com/trending/7548239438506639399/",
       "label": ""
     },
     {
@@ -160,153 +160,153 @@
     },
     {
       "rank": 26,
-      "title": "学者：以色列让卡塔尔防空网静默",
-      "url": "https://www.toutiao.com/trending/7548735678377365033/",
-      "label": ""
+      "title": "甲骨文创始人为何突然成为世界首富",
+      "url": "https://www.toutiao.com/trending/7548748600285597227/",
+      "label": "hot"
     },
     {
       "rank": 27,
-      "title": "A股大突破下牛市洗盘是否结束",
-      "url": "https://www.toutiao.com/trending/7548725113428905498/",
-      "label": ""
+      "title": "男子突发精神疾病央求民警上铐",
+      "url": "https://www.toutiao.com/trending/7548696527507062823/",
+      "label": "new"
     },
     {
       "rank": 28,
-      "title": "甲骨文创始人为何突然成为世界首富",
-      "url": "https://www.toutiao.com/trending/7548748600285597227/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "一图看懂两孩非亲生热点事件",
-      "url": "https://www.toutiao.com/trending/7548239438506639399/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "朱一龙参加烈士遗骸迎回仪式",
-      "url": "https://www.toutiao.com/trending/7548226593102037001/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "泽连斯基会见芬兰总统",
-      "url": "https://www.toutiao.com/trending/7548765219103834175/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "业内如何预测美联储降息幅度与速度",
-      "url": "https://www.toutiao.com/trending/7548765063675383335/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 33,
-      "title": "成都地铁误会偷拍案维持原判",
-      "url": "https://www.toutiao.com/trending/7548117620973781028/",
-      "label": ""
-    },
-    {
-      "rank": 34,
       "title": "14岁少女寄不出的信留下什么良知拷问",
       "url": "https://www.toutiao.com/trending/7548779478730673705/",
       "label": "depth"
     },
     {
-      "rank": 35,
-      "title": "餐饮店使用预制菜到底要不要明示",
-      "url": "https://www.toutiao.com/trending/7548786331204193830/",
+      "rank": 29,
+      "title": "俩儿子非亲生案当事人：想要个后人",
+      "url": "https://www.toutiao.com/trending/7548662801179463206/",
       "label": ""
     },
     {
-      "rank": 36,
-      "title": "小红书回应被查：将深刻吸取教训",
-      "url": "https://www.toutiao.com/trending/7548701250150285355/",
+      "rank": 30,
+      "title": "成都地铁误会偷拍案维持原判",
+      "url": "https://www.toutiao.com/trending/7548117620973781028/",
       "label": ""
     },
     {
-      "rank": 37,
-      "title": "以色列空袭完卡塔尔又轰炸也门",
-      "url": "https://www.toutiao.com/trending/7548769717918502409/",
+      "rank": 31,
+      "title": "朱一龙参加烈士遗骸迎回仪式",
+      "url": "https://www.toutiao.com/trending/7548226593102037001/",
       "label": ""
     },
     {
-      "rank": 38,
-      "title": "李若彤现身长沙夜市",
-      "url": "https://www.toutiao.com/trending/7547954710368813092/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "00后男子捅人致死 已被执行死刑",
-      "url": "https://www.toutiao.com/trending/7548665692894101555/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "NASA“毅力号”发现疑似生物标志物",
-      "url": "https://www.toutiao.com/trending/7548754420079529510/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "以价换量 方程豹们是否在饮鸩止渴",
-      "url": "https://www.toutiao.com/trending/7548781288191168041/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "福建舰出海 中国为何还需要航母",
-      "url": "https://www.toutiao.com/trending/7548758368194678315/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 43,
+      "rank": 32,
       "title": "涉嫌“馆长”枪击案 邵柏杰被判无罪",
       "url": "https://www.toutiao.com/trending/7548453328867491859/",
       "label": "new"
     },
     {
-      "rank": 44,
-      "title": "《赴山海》剧情有何新意",
-      "url": "https://www.toutiao.com/trending/7548797916534541863/",
+      "rank": 33,
+      "title": "小红书回应被查：将深刻吸取教训",
+      "url": "https://www.toutiao.com/trending/7548701250150285355/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "NASA“毅力号”发现疑似生物标志物",
+      "url": "https://www.toutiao.com/trending/7548754420079529510/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "媒体：911事件永远改变了美国",
-      "url": "https://www.toutiao.com/trending/7548466458092437513/",
+      "rank": 35,
+      "title": "以色列空袭完卡塔尔又轰炸也门",
+      "url": "https://www.toutiao.com/trending/7548769717918502409/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "媒体评罗永浩吐槽西贝预制菜",
-      "url": "https://www.toutiao.com/trending/7548702075723451946/",
+      "rank": 36,
+      "title": "美国“网红”柯克什么来头",
+      "url": "https://www.toutiao.com/trending/7548792172896587305/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "多所高校对部分研究生不提供宿舍",
-      "url": "https://www.toutiao.com/trending/7548799931729841707/",
+      "rank": 37,
+      "title": "福建舰出海 中国为何还需要航母",
+      "url": "https://www.toutiao.com/trending/7548758368194678315/",
       "label": "interpretation"
     },
     {
-      "rank": 48,
-      "title": "世界新首富什么来头",
-      "url": "https://www.toutiao.com/trending/7548658359864397354/",
-      "label": "depth"
+      "rank": 38,
+      "title": "00后男子捅人致死 已被执行死刑",
+      "url": "https://www.toutiao.com/trending/7548665692894101555/",
+      "label": ""
     },
     {
-      "rank": 49,
+      "rank": 39,
+      "title": "以价换量 方程豹们是否在饮鸩止渴",
+      "url": "https://www.toutiao.com/trending/7548781288191168041/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "李若彤现身长沙夜市",
+      "url": "https://www.toutiao.com/trending/7547954710368813092/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "泽连斯基会见芬兰总统",
+      "url": "https://www.toutiao.com/trending/7548765219103834175/",
+      "label": ""
+    },
+    {
+      "rank": 42,
       "title": "美在火星发现最清晰的古代生命迹象",
       "url": "https://www.toutiao.com/trending/7548747759587708442/",
       "label": "new"
     },
     {
-      "rank": 50,
+      "rank": 43,
+      "title": "媒体评罗永浩吐槽西贝预制菜",
+      "url": "https://www.toutiao.com/trending/7548702075723451946/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "媒体：911事件永远改变了美国",
+      "url": "https://www.toutiao.com/trending/7548466458092437513/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "世界新首富什么来头",
+      "url": "https://www.toutiao.com/trending/7548658359864397354/",
+      "label": "depth"
+    },
+    {
+      "rank": 46,
+      "title": "三维还原黄岩岛国家级自然保护区",
+      "url": "https://www.toutiao.com/trending/7548830478061538855/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "特朗普就盟友被枪杀发表全国讲话",
+      "url": "https://www.toutiao.com/trending/7547833186093662251/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "河南这场雨为啥下这么大",
+      "url": "https://www.toutiao.com/trending/7548665217216839690/",
+      "label": ""
+    },
+    {
+      "rank": 49,
       "title": "少女生前求助信被老师拦截案再开庭",
       "url": "https://www.toutiao.com/trending/7548376412534013971/",
       "label": ""
+    },
+    {
+      "rank": 50,
+      "title": "业内如何预测美联储降息幅度与速度",
+      "url": "https://www.toutiao.com/trending/7548765063675383335/",
+      "label": "interpretation"
     }
   ]
 }
