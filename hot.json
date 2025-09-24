@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 24 Sep 2025 00:30:05 GMT",
+  "generated_at": "Wed, 24 Sep 2025 00:35:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平率中央代表团抵达乌鲁木齐",
@@ -18,7 +18,7 @@
       "rank": 2,
       "title": "广东省委书记：决战就在眼前",
       "url": "https://www.toutiao.com/trending/7552911760854106148/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 3,
@@ -30,18 +30,18 @@
       "rank": 4,
       "title": "特朗普称其重返白宫后已结束7场战争",
       "url": "https://www.toutiao.com/trending/7553209826621394468/",
-      "label": ""
-    },
-    {
-      "rank": 5,
-      "title": "台风“桦加沙”影响有多大",
-      "url": "https://www.toutiao.com/trending/7553293924714941995/",
       "label": "hot"
     },
     {
+      "rank": 5,
+      "title": "小区近百辆车停桥上防台风天泡水",
+      "url": "https://www.toutiao.com/trending/7553212757827505727/",
+      "label": ""
+    },
+    {
       "rank": 6,
-      "title": "iPhone 17 Pro展示机划痕背后",
-      "url": "https://www.toutiao.com/trending/7553117507243773476/",
+      "title": "中欧北极快航开通",
+      "url": "https://www.toutiao.com/trending/7553110407586516523/",
       "label": ""
     },
     {
@@ -58,8 +58,8 @@
     },
     {
       "rank": 9,
-      "title": "中欧北极快航开通",
-      "url": "https://www.toutiao.com/trending/7553110407586516523/",
+      "title": "美高官称曾不敢相信解放军发展速度",
+      "url": "https://www.toutiao.com/trending/7553132421848350774/",
       "label": "new"
     },
     {
@@ -70,15 +70,15 @@
     },
     {
       "rank": 11,
-      "title": "小区近百辆车停桥上防台风天泡水",
-      "url": "https://www.toutiao.com/trending/7553212757827505727/",
-      "label": ""
+      "title": "“风王”桦加沙来临前的广州",
+      "url": "https://www.toutiao.com/trending/7552864244677853226/",
+      "label": "hot"
     },
     {
       "rank": 12,
-      "title": "巴勒斯坦国“承认潮”意味着什么",
-      "url": "https://www.toutiao.com/trending/7553228929067126335/",
-      "label": "interpretation"
+      "title": "iPhone 17 Pro展示机划痕背后",
+      "url": "https://www.toutiao.com/trending/7553117507243773476/",
+      "label": ""
     },
     {
       "rank": 13,
@@ -94,15 +94,15 @@
     },
     {
       "rank": 15,
-      "title": "“韦神”韦东奕获奖",
-      "url": "https://www.toutiao.com/trending/7553059492674502695/",
-      "label": ""
+      "title": "美媒：美大豆收获季中国订购量仍为零",
+      "url": "https://www.toutiao.com/trending/7552143781387829311/",
+      "label": "new"
     },
     {
       "rank": 16,
-      "title": "学者：福建舰三型机弹射证明中国速度",
-      "url": "https://www.toutiao.com/trending/7553425087530012202/",
-      "label": "new"
+      "title": "巴勒斯坦国“承认潮”意味着什么",
+      "url": "https://www.toutiao.com/trending/7553228929067126335/",
+      "label": "interpretation"
     },
     {
       "rank": 17,
@@ -112,32 +112,32 @@
     },
     {
       "rank": 18,
-      "title": "媒体：美议员罕见访华传递三个信号",
-      "url": "https://www.toutiao.com/trending/7553092208547630630/",
-      "label": "depth"
+      "title": "台风桦加沙逼近 深圳海浪已超5米",
+      "url": "https://www.toutiao.com/trending/7552908476088516662/",
+      "label": "hot"
     },
     {
       "rank": 19,
-      "title": "美高官称曾不敢相信解放军发展速度",
-      "url": "https://www.toutiao.com/trending/7553132421848350774/",
-      "label": "new"
+      "title": "“韦神”韦东奕获奖",
+      "url": "https://www.toutiao.com/trending/7553059492674502695/",
+      "label": ""
     },
     {
       "rank": 20,
-      "title": "“风王”桦加沙来临前的广州",
-      "url": "https://www.toutiao.com/trending/7552864244677853226/",
+      "title": "台风“桦加沙”影响有多大",
+      "url": "https://www.toutiao.com/trending/7553293924714941995/",
       "label": "hot"
     },
     {
       "rank": 21,
-      "title": "台风桦加沙逼近 深圳海浪已超5米",
-      "url": "https://www.toutiao.com/trending/7552908476088516662/",
-      "label": "new"
+      "title": "学者：福建舰三型机弹射证明中国速度",
+      "url": "https://www.toutiao.com/trending/7553425087530012202/",
+      "label": "hot"
     },
     {
       "rank": 22,
-      "title": "美媒：美大豆收获季中国订购量仍为零",
-      "url": "https://www.toutiao.com/trending/7552143781387829311/",
+      "title": "预计广州10级以上大风将持续12小时",
+      "url": "https://www.toutiao.com/trending/7553182200607735827/",
       "label": "new"
     },
     {
@@ -148,80 +148,80 @@
     },
     {
       "rank": 24,
-      "title": "男子捡菌子一抬头见黑熊龇牙站面前",
-      "url": "https://www.toutiao.com/trending/7553243054128283675/",
-      "label": ""
+      "title": "媒体：美议员罕见访华传递三个信号",
+      "url": "https://www.toutiao.com/trending/7553092208547630630/",
+      "label": "depth"
     },
     {
       "rank": 25,
-      "title": "上海再通报臭午餐事件：已立案",
-      "url": "https://www.toutiao.com/trending/7552394545686741035/",
-      "label": "recentProgress"
-    },
-    {
-      "rank": 26,
-      "title": "香港一家三口观看台风不慎落海",
-      "url": "https://www.toutiao.com/trending/7553203450759282707/",
-      "label": "hot"
-    },
-    {
-      "rank": 27,
       "title": "为何说西方承认巴勒斯坦国没这么简单",
       "url": "https://www.toutiao.com/trending/7553424136563854874/",
       "label": "interpretation"
     },
     {
+      "rank": 26,
+      "title": "香港一家三口观看台风不慎落海",
+      "url": "https://www.toutiao.com/trending/7553203450759282707/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "上海再通报臭午餐事件：已立案",
+      "url": "https://www.toutiao.com/trending/7552394545686741035/",
+      "label": "recentProgress"
+    },
+    {
       "rank": 28,
-      "title": "预计广州10级以上大风将持续12小时",
-      "url": "https://www.toutiao.com/trending/7553182200607735827/",
-      "label": "new"
+      "title": "男子捡菌子一抬头见黑熊龇牙站面前",
+      "url": "https://www.toutiao.com/trending/7553243054128283675/",
+      "label": ""
     },
     {
       "rank": 29,
       "title": "珠海一酒店用大巴堵门防风",
       "url": "https://www.toutiao.com/trending/7552262172370272310/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 30,
-      "title": "专家：以变本加厉推进吞并约旦河西岸",
-      "url": "https://www.toutiao.com/trending/7553278985707212297/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
       "title": "专家解读三型舰载机在福建舰起降",
       "url": "https://www.toutiao.com/trending/7553171008522292772/",
       "label": "interpretation"
     },
     {
-      "rank": 32,
-      "title": "广东蓝天救援队第一梯队抵达茂名",
-      "url": "https://www.toutiao.com/trending/7553073228281937947/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "冯文娟谈电影《731》",
-      "url": "https://www.toutiao.com/trending/7553106709432369206/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "王晓晨否认与俞灏明结婚",
-      "url": "https://www.toutiao.com/trending/7553253058604597267/",
+      "rank": 31,
+      "title": "古法黄金快涨成奢侈品了",
+      "url": "https://www.toutiao.com/trending/7553253892117499446/",
       "label": ""
     },
     {
-      "rank": 35,
+      "rank": 32,
       "title": "香港下水道疑因海水倒灌喷巨大水柱",
       "url": "https://www.toutiao.com/trending/7552372553240887315/",
       "label": ""
     },
     {
+      "rank": 33,
+      "title": "专家：以变本加厉推进吞并约旦河西岸",
+      "url": "https://www.toutiao.com/trending/7553278985707212297/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "冯文娟谈电影《731》",
+      "url": "https://www.toutiao.com/trending/7553106709432369206/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "广东蓝天救援队第一梯队抵达茂名",
+      "url": "https://www.toutiao.com/trending/7553073228281937947/",
+      "label": "new"
+    },
+    {
       "rank": 36,
-      "title": "古法黄金快涨成奢侈品了",
-      "url": "https://www.toutiao.com/trending/7553253892117499446/",
+      "title": "妻子透露蔡磊完全丧失语言能力",
+      "url": "https://www.toutiao.com/trending/7553249719896719414/",
       "label": ""
     },
     {
@@ -232,39 +232,39 @@
     },
     {
       "rank": 38,
+      "title": "航拍：桦加沙风眼壁画面曝光",
+      "url": "https://www.toutiao.com/trending/7552437534899355698/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "在华俄罗斯人分享独特的中国",
+      "url": "https://www.toutiao.com/trending/7553054365188653098/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "张柏芝晒二儿子近照",
+      "url": "https://www.toutiao.com/trending/7552955451391033353/",
+      "label": ""
+    },
+    {
+      "rank": 41,
       "title": "台湾女子被泥流包围抱铁柱求生",
       "url": "https://www.toutiao.com/trending/7553436777579695654/",
       "label": "new"
     },
     {
-      "rank": 39,
-      "title": "特朗普称乌边界有望“恢复原状”",
-      "url": "https://www.toutiao.com/trending/7553419016073773097/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "媒体：中介雇人扮买家砍价危害极大",
-      "url": "https://www.toutiao.com/trending/7553212513517588004/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "航拍：桦加沙风眼壁画面曝光",
-      "url": "https://www.toutiao.com/trending/7552437534899355698/",
-      "label": "hot"
-    },
-    {
       "rank": 42,
-      "title": "专家：巴勒斯坦建国希望愈加渺茫",
-      "url": "https://www.toutiao.com/trending/7553278952240844331/",
+      "title": "王晓晨否认与俞灏明结婚",
+      "url": "https://www.toutiao.com/trending/7553253058604597267/",
       "label": ""
     },
     {
       "rank": 43,
-      "title": "妻子透露蔡磊完全丧失语言能力",
-      "url": "https://www.toutiao.com/trending/7553249719896719414/",
-      "label": ""
+      "title": "中方敦促爱沙尼亚领空事件当事方冷静",
+      "url": "https://www.toutiao.com/trending/7553090251384995881/",
+      "label": "new"
     },
     {
       "rank": 44,
@@ -274,39 +274,39 @@
     },
     {
       "rank": 45,
-      "title": "波兰关停中欧班列 中方还留了后手",
-      "url": "https://www.toutiao.com/trending/7553232011779903012/",
-      "label": ""
+      "title": "电影《731》加拿大首映",
+      "url": "https://www.toutiao.com/trending/7552047478665789479/",
+      "label": "new"
     },
     {
       "rank": 46,
-      "title": "在华俄罗斯人分享独特的中国",
-      "url": "https://www.toutiao.com/trending/7553054365188653098/",
+      "title": "特朗普称乌边界有望“恢复原状”",
+      "url": "https://www.toutiao.com/trending/7553419016073773097/",
       "label": "new"
     },
     {
       "rank": 47,
-      "title": "桦加沙强度接近地球上限？专家回应",
-      "url": "https://www.toutiao.com/trending/7552570545662033958/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 48,
-      "title": "中方敦促爱沙尼亚领空事件当事方冷静",
-      "url": "https://www.toutiao.com/trending/7553090251384995881/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
-      "title": "中欧班列中断：中国制造紧急转海运",
-      "url": "https://www.toutiao.com/trending/7553098056577584686/",
-      "label": ""
-    },
-    {
-      "rank": 50,
       "title": "广东电白多个水库排水纳洪",
       "url": "https://www.toutiao.com/trending/7552944871594622986/",
       "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "媒体：中介雇人扮买家砍价危害极大",
+      "url": "https://www.toutiao.com/trending/7553212513517588004/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "民调显示特朗普支持率近几周略降",
+      "url": "https://www.toutiao.com/trending/7552826998894477348/",
+      "label": "new"
+    },
+    {
+      "rank": 50,
+      "title": "金门机场飞机遇强风 机翼狂甩险砸地",
+      "url": "https://www.toutiao.com/trending/7553110662965251627/",
+      "label": ""
     }
   ]
 }
