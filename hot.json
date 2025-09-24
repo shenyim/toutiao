@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 24 Sep 2025 04:40:04 GMT",
+  "generated_at": "Wed, 24 Sep 2025 04:45:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "新疆各族群众热烈欢迎习近平总书记",
@@ -28,9 +28,9 @@
     },
     {
       "rank": 4,
-      "title": "24小时直击超强台风桦加沙",
-      "url": "https://webcast-open.douyin.com/open/media_live/321427588766",
-      "label": "hot"
+      "title": "珠海17级狂风",
+      "url": "https://www.toutiao.com/trending/7552851188201046025/",
+      "label": "onSite"
     },
     {
       "rank": 5,
@@ -46,33 +46,33 @@
     },
     {
       "rank": 7,
-      "title": "深圳巨浪如排山倒海 香港高楼晃动",
-      "url": "https://www.toutiao.com/trending/7553435196462255643/",
+      "title": "24小时直击超强台风桦加沙",
+      "url": "https://webcast-open.douyin.com/open/media_live/321427588766",
       "label": "hot"
     },
     {
       "rank": 8,
-      "title": "珠海17级狂风",
-      "url": "https://www.toutiao.com/trending/7552851188201046025/",
-      "label": "onSite"
-    },
-    {
-      "rank": 9,
       "title": "特朗普：与普京要好对解决冲突没用",
       "url": "https://www.toutiao.com/trending/7552778774371434505/",
       "label": "hot"
     },
     {
+      "rank": 9,
+      "title": "广东中山最强风雨时段中午前后来临",
+      "url": "https://www.toutiao.com/trending/7553488553489993266/",
+      "label": "hot"
+    },
+    {
       "rank": 10,
-      "title": "孩子长高就要大量吃肉？不实",
-      "url": "https://www.toutiao.com/trending/7553204503496163337/",
+      "title": "深圳腾讯大厦门口企鹅雕塑被吹走？假",
+      "url": "https://www.toutiao.com/trending/7553215317883813931/",
       "label": "refuteRumors"
     },
     {
       "rank": 11,
-      "title": "台风天在窗上贴字有效吗",
-      "url": "https://www.toutiao.com/trending/7553173741539803190/",
-      "label": "forum"
+      "title": "深圳巨浪如排山倒海 香港高楼晃动",
+      "url": "https://www.toutiao.com/trending/7553435196462255643/",
+      "label": "hot"
     },
     {
       "rank": 12,
@@ -82,9 +82,9 @@
     },
     {
       "rank": 13,
-      "title": "医院通报CT报告单出现不文明用语",
-      "url": "https://www.toutiao.com/trending/7553208429646135335/",
-      "label": ""
+      "title": "福建舰电磁弹射技术有多强",
+      "url": "https://www.toutiao.com/trending/7553479496528039460/",
+      "label": "interpretation"
     },
     {
       "rank": 14,
@@ -94,129 +94,129 @@
     },
     {
       "rank": 15,
-      "title": "广东中山最强风雨时段中午前后来临",
-      "url": "https://www.toutiao.com/trending/7553488553489993266/",
-      "label": "hot"
+      "title": "医院通报CT报告单出现不文明用语",
+      "url": "https://www.toutiao.com/trending/7553208429646135335/",
+      "label": ""
     },
     {
       "rank": 16,
-      "title": "福建舰电磁弹射技术有多强",
-      "url": "https://www.toutiao.com/trending/7553479496528039460/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 17,
-      "title": "“桦加沙”冲走台湾16吨救援军车",
-      "url": "https://www.toutiao.com/trending/7553476289014042158/",
-      "label": "onSite"
-    },
-    {
-      "rank": 18,
       "title": "特朗普施政乱糟糟为何还能获支持",
       "url": "https://www.toutiao.com/trending/7553470160842001970/",
       "label": "interpretation"
     },
     {
-      "rank": 19,
-      "title": "北约国家在联大对俄发出战争警告",
-      "url": "https://www.toutiao.com/trending/7553458396951760410/",
-      "label": "new"
-    },
-    {
-      "rank": 20,
-      "title": "台风“博罗依”来袭你做准备了吗",
-      "url": "https://www.toutiao.com/trending/7553321140463337526/",
+      "rank": 17,
+      "title": "台风天在窗上贴字有效吗",
+      "url": "https://www.toutiao.com/trending/7553173741539803190/",
       "label": "forum"
     },
     {
-      "rank": 21,
-      "title": "132万网友参与的三班班长投票",
-      "url": "https://www.toutiao.com/trending/7553243029071675431/",
-      "label": "new"
-    },
-    {
-      "rank": 22,
-      "title": "雷军把造车造芯比喻成供孩子上大学",
-      "url": "https://www.toutiao.com/trending/7553448935239647258/",
-      "label": "new"
-    },
-    {
-      "rank": 23,
-      "title": "盒马最难吃甜品被台风选出来了",
-      "url": "https://www.toutiao.com/trending/7552541338483720231/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "特朗普为何称乌有望赢回全部领土",
-      "url": "https://www.toutiao.com/trending/7553481380521332267/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 25,
-      "title": "福建舰电磁弹射有何优势",
-      "url": "https://www.toutiao.com/trending/7553498725843209770/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 26,
-      "title": "广东省委书记：决战就在眼前",
-      "url": "https://www.toutiao.com/trending/7552911760854106148/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "上海再通报臭午餐事件：已立案",
-      "url": "https://www.toutiao.com/trending/7552394545686741035/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "美媒如何看待福建舰弹射歼-35",
-      "url": "https://www.toutiao.com/trending/7553432629916208694/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "演员李若彤晒应对台风“杰作”",
-      "url": "https://www.toutiao.com/trending/7552960222109941823/",
-      "label": ""
-    },
-    {
-      "rank": 30,
+      "rank": 18,
       "title": "哥伦比亚总统谴责特朗普 美代表离场",
       "url": "https://www.toutiao.com/trending/7552518393745211419/",
       "label": "new"
     },
     {
-      "rank": 31,
+      "rank": 19,
+      "title": "雷军把造车造芯比喻成供孩子上大学",
+      "url": "https://www.toutiao.com/trending/7553448935239647258/",
+      "label": "new"
+    },
+    {
+      "rank": 20,
+      "title": "“桦加沙”冲走台湾16吨救援军车",
+      "url": "https://www.toutiao.com/trending/7553476289014042158/",
+      "label": "onSite"
+    },
+    {
+      "rank": 21,
+      "title": "北约国家在联大对俄发出战争警告",
+      "url": "https://www.toutiao.com/trending/7553458396951760410/",
+      "label": "new"
+    },
+    {
+      "rank": 22,
+      "title": "特朗普为何称乌有望赢回全部领土",
+      "url": "https://www.toutiao.com/trending/7553481380521332267/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 23,
+      "title": "演员李若彤晒应对台风“杰作”",
+      "url": "https://www.toutiao.com/trending/7552960222109941823/",
+      "label": ""
+    },
+    {
+      "rank": 24,
       "title": "国台办：所谓“中华民国台湾”不存在",
       "url": "https://www.toutiao.com/trending/7552422355465945142/",
       "label": "new"
     },
     {
-      "rank": 32,
-      "title": "“桦加沙”已致台湾14死124失联",
-      "url": "https://www.toutiao.com/trending/7553448731060981298/",
+      "rank": 25,
+      "title": "美媒如何看待福建舰弹射歼-35",
+      "url": "https://www.toutiao.com/trending/7553432629916208694/",
       "label": ""
     },
     {
-      "rank": 33,
-      "title": "美国盟友们为何集体承认巴勒斯坦国",
-      "url": "https://www.toutiao.com/trending/7553426146226867722/",
-      "label": "depth"
+      "rank": 26,
+      "title": "台风“博罗依”来袭你做准备了吗",
+      "url": "https://www.toutiao.com/trending/7553321140463337526/",
+      "label": "forum"
     },
     {
-      "rank": 34,
+      "rank": 27,
+      "title": "特朗普联大演讲与欧洲国家针锋相对",
+      "url": "https://www.toutiao.com/trending/7553505910274919986/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
       "title": "福建舰“3连弹”报道用词有何讲究",
       "url": "https://www.toutiao.com/trending/7553465508310289963/",
       "label": "interpretation"
     },
     {
-      "rank": 35,
-      "title": "航拍：桦加沙风眼壁画面曝光",
-      "url": "https://www.toutiao.com/trending/7552437534899355698/",
+      "rank": 29,
+      "title": "广东省委书记：决战就在眼前",
+      "url": "https://www.toutiao.com/trending/7552911760854106148/",
       "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "美国盟友们为何集体承认巴勒斯坦国",
+      "url": "https://www.toutiao.com/trending/7553426146226867722/",
+      "label": "depth"
+    },
+    {
+      "rank": 31,
+      "title": "国台办回应蔡英文窜访日本",
+      "url": "https://www.toutiao.com/trending/7553480964421206079/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
+      "title": "海水冲爆香港酒店大门有人摔倒",
+      "url": "https://www.toutiao.com/trending/7552751527765721151/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "132万网友参与的三班班长投票",
+      "url": "https://www.toutiao.com/trending/7553243029071675431/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "国台办：“以武谋独”注定失败",
+      "url": "https://www.toutiao.com/trending/7553476900007903268/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "大数据揭秘登陆广东台风之最",
+      "url": "https://www.toutiao.com/trending/7553490355746311743/",
+      "label": "new"
     },
     {
       "rank": 36,
@@ -226,9 +226,9 @@
     },
     {
       "rank": 37,
-      "title": "国台办：“以武谋独”注定失败",
-      "url": "https://www.toutiao.com/trending/7553476900007903268/",
-      "label": "new"
+      "title": "上海再通报臭午餐事件：已立案",
+      "url": "https://www.toutiao.com/trending/7552394545686741035/",
+      "label": ""
     },
     {
       "rank": 38,
@@ -238,75 +238,75 @@
     },
     {
       "rank": 39,
-      "title": "电池弹射技术引发次生灾害担忧",
-      "url": "https://www.toutiao.com/trending/7553257011085839935/",
+      "title": "专家批特朗普拿中印买俄油说事",
+      "url": "https://www.toutiao.com/trending/7553440505896373814/",
       "label": ""
     },
     {
       "rank": 40,
-      "title": "国台办回应蔡英文窜访日本",
-      "url": "https://www.toutiao.com/trending/7553480964421206079/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "大数据揭秘登陆广东台风之最",
-      "url": "https://www.toutiao.com/trending/7553490355746311743/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "中方回应是否打算从美增加购买大豆",
-      "url": "https://www.toutiao.com/trending/7553131481720274983/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "人老了最怕的事情是什么",
-      "url": "https://www.toutiao.com/trending/7553295239658602559/",
-      "label": "forum"
-    },
-    {
-      "rank": 44,
-      "title": "金门机场飞机遇强风 机翼狂甩险砸地",
-      "url": "https://www.toutiao.com/trending/7553110662965251627/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "预制菜到底是不是“垃圾”",
-      "url": "https://www.toutiao.com/trending/7553428362169962022/",
-      "label": "new"
-    },
-    {
-      "rank": 46,
-      "title": "媒体：中介雇人扮买家砍价危害极大",
-      "url": "https://www.toutiao.com/trending/7553212513517588004/",
-      "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "台风致台湾发生洪灾 民众爬墙求救",
-      "url": "https://www.toutiao.com/trending/7552830354596741161/",
-      "label": ""
-    },
-    {
-      "rank": 48,
-      "title": "20万以下的鸿蒙智行有威力吗",
-      "url": "https://www.toutiao.com/trending/7553480105041858084/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
       "title": "国台办：台当局损害中华民族经济",
       "url": "https://www.toutiao.com/trending/7553165453682540587/",
       "label": "new"
     },
     {
-      "rank": 50,
+      "rank": 41,
+      "title": "盒马最难吃甜品被台风选出来了",
+      "url": "https://www.toutiao.com/trending/7552541338483720231/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "人老了最怕的事情是什么",
+      "url": "https://www.toutiao.com/trending/7553295239658602559/",
+      "label": "forum"
+    },
+    {
+      "rank": 43,
+      "title": "国台办评“台湾全民安全指引”手册",
+      "url": "https://www.toutiao.com/trending/7553476595710754843/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "“桦加沙”已致台湾14死124失联",
+      "url": "https://www.toutiao.com/trending/7553448731060981298/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "女婿每日为九旬岳父送饭",
+      "url": "https://www.toutiao.com/trending/7553281597135421483/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "国台办回应民进党当局采购美农产品",
+      "url": "https://www.toutiao.com/trending/7553127223973494825/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
       "title": "堰塞湖溢堤 台当局被批此前应对不力",
       "url": "https://www.toutiao.com/trending/7553421022679236618/",
       "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "专家谈中美关系未来的发展趋势",
+      "url": "https://www.toutiao.com/trending/7553453028288761407/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 49,
+      "title": "媒体：高原烟花炸碎了品牌遮羞布",
+      "url": "https://www.toutiao.com/trending/7553287387204292134/",
+      "label": "new"
+    },
+    {
+      "rank": 50,
+      "title": "台风致台湾发生洪灾 民众爬墙求救",
+      "url": "https://www.toutiao.com/trending/7552830354596741161/",
+      "label": ""
     }
   ]
 }
