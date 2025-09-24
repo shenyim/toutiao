@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 24 Sep 2025 03:45:04 GMT",
+  "generated_at": "Wed, 24 Sep 2025 03:50:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "新疆各族群众热烈欢迎习近平总书记",
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "媒体：中欧班列明日恢复通行",
-      "url": "https://www.toutiao.com/trending/7553120563674218550/",
-      "label": "hot"
+      "title": "波兰为何急忙放行中欧班列",
+      "url": "https://www.toutiao.com/trending/7553471750902664723/",
+      "label": "interpretation"
     },
     {
       "rank": 3,
@@ -30,18 +30,18 @@
       "rank": 4,
       "title": "深圳巨浪如排山倒海 香港高楼晃动",
       "url": "https://www.toutiao.com/trending/7553435196462255643/",
-      "label": "onSite"
+      "label": "hot"
     },
     {
       "rank": 5,
-      "title": "波兰为何急忙放行中欧班列",
-      "url": "https://www.toutiao.com/trending/7553471750902664723/",
-      "label": "interpretation"
+      "title": "媒体：中欧班列明日恢复通行",
+      "url": "https://www.toutiao.com/trending/7553120563674218550/",
+      "label": "hot"
     },
     {
       "rank": 6,
-      "title": "男子暴力强奸杀害路过女子获死刑",
-      "url": "https://www.toutiao.com/trending/7552710839477239847/",
+      "title": "男子称在茅台镇8亿建厂被强行接管",
+      "url": "https://www.toutiao.com/trending/7553454307015245834/",
       "label": "new"
     },
     {
@@ -58,8 +58,8 @@
     },
     {
       "rank": 9,
-      "title": "男子称在茅台镇8亿建厂被强行接管",
-      "url": "https://www.toutiao.com/trending/7553454307015245834/",
+      "title": "男子暴力强奸杀害路过女子获死刑",
+      "url": "https://www.toutiao.com/trending/7552710839477239847/",
       "label": "new"
     },
     {
@@ -82,9 +82,9 @@
     },
     {
       "rank": 13,
-      "title": "特朗普施政乱糟糟为何还能获支持",
-      "url": "https://www.toutiao.com/trending/7553470160842001970/",
-      "label": "interpretation"
+      "title": "特朗普：与普京要好对解决冲突没用",
+      "url": "https://www.toutiao.com/trending/7552778774371434505/",
+      "label": "new"
     },
     {
       "rank": 14,
@@ -94,14 +94,14 @@
     },
     {
       "rank": 15,
-      "title": "成立不足4年 邮惠万家银行为何退场",
-      "url": "https://www.toutiao.com/trending/7553458995407638043/",
-      "label": "depth"
+      "title": "医院通报CT报告单出现不文明用语",
+      "url": "https://www.toutiao.com/trending/7553208429646135335/",
+      "label": "new"
     },
     {
       "rank": 16,
-      "title": "特朗普：与普京要好对解决冲突没用",
-      "url": "https://www.toutiao.com/trending/7552778774371434505/",
+      "title": "特朗普就俄乌问题突然“改变立场”",
+      "url": "https://www.toutiao.com/trending/7552710344708472874/",
       "label": "new"
     },
     {
@@ -112,15 +112,15 @@
     },
     {
       "rank": 18,
-      "title": "落马正部吴存荣被公诉",
-      "url": "https://www.toutiao.com/trending/7553212757827571263/",
-      "label": "hot"
+      "title": "人老了最怕的事情是什么",
+      "url": "https://www.toutiao.com/trending/7553295239658602559/",
+      "label": "forum"
     },
     {
       "rank": 19,
-      "title": "特朗普就俄乌问题突然“改变立场”",
-      "url": "https://www.toutiao.com/trending/7552710344708472874/",
-      "label": "new"
+      "title": "特朗普施政乱糟糟为何还能获支持",
+      "url": "https://www.toutiao.com/trending/7553470160842001970/",
+      "label": "interpretation"
     },
     {
       "rank": 20,
@@ -130,14 +130,14 @@
     },
     {
       "rank": 21,
-      "title": "医院通报CT报告单出现不文明用语",
-      "url": "https://www.toutiao.com/trending/7553208429646135335/",
-      "label": "new"
+      "title": "落马正部吴存荣被公诉",
+      "url": "https://www.toutiao.com/trending/7553212757827571263/",
+      "label": "hot"
     },
     {
       "rank": 22,
-      "title": "美国盟友们为何集体承认巴勒斯坦国",
-      "url": "https://www.toutiao.com/trending/7553426146226867722/",
+      "title": "成立不足4年 邮惠万家银行为何退场",
+      "url": "https://www.toutiao.com/trending/7553458995407638043/",
       "label": "depth"
     },
     {
@@ -148,21 +148,21 @@
     },
     {
       "rank": 24,
+      "title": "美国盟友们为何集体承认巴勒斯坦国",
+      "url": "https://www.toutiao.com/trending/7553426146226867722/",
+      "label": "depth"
+    },
+    {
+      "rank": 25,
       "title": "珠海中午前后将出现更强风雨",
       "url": "https://www.toutiao.com/trending/7553444189564833343/",
       "label": "hot"
     },
     {
-      "rank": 25,
-      "title": "男孩走失32年 今日团圆",
-      "url": "https://webcast-open.douyin.com/open/media_live/684938926972",
-      "label": ""
-    },
-    {
       "rank": 26,
       "title": "台风致台湾发生洪灾 民众爬墙求救",
       "url": "https://www.toutiao.com/trending/7552830354596741161/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 27,
@@ -172,45 +172,45 @@
     },
     {
       "rank": 28,
-      "title": "人老了最怕的事情是什么",
-      "url": "https://www.toutiao.com/trending/7553295239658602559/",
-      "label": "forum"
+      "title": "福建舰电磁弹射技术有多强",
+      "url": "https://www.toutiao.com/trending/7553479496528039460/",
+      "label": "interpretation"
     },
     {
       "rank": 29,
-      "title": "台湾女子被泥流包围抱铁柱求生",
-      "url": "https://www.toutiao.com/trending/7553436777579695654/",
-      "label": "onSite"
-    },
-    {
-      "rank": 30,
-      "title": "专家批特朗普拿中印买俄油说事",
-      "url": "https://www.toutiao.com/trending/7553440505896373814/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "大湾区人花式防风名场面",
-      "url": "https://www.toutiao.com/trending/7553156408972214326/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
       "title": "盒马最难吃甜品被台风选出来了",
       "url": "https://www.toutiao.com/trending/7552541338483720231/",
       "label": ""
     },
     {
-      "rank": 33,
-      "title": "以色列寻求永久控制加沙",
-      "url": "https://www.toutiao.com/trending/7552338910894981170/",
+      "rank": 30,
+      "title": "男孩走失32年 今日团圆",
+      "url": "https://webcast-open.douyin.com/open/media_live/684938926972",
       "label": ""
     },
     {
-      "rank": 34,
-      "title": "欧洲央行：欧元区严重依赖中国稀土",
-      "url": "https://www.toutiao.com/trending/7553453759607606827/",
+      "rank": 31,
+      "title": "专家批特朗普拿中印买俄油说事",
+      "url": "https://www.toutiao.com/trending/7553440505896373814/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "台湾女子被泥流包围抱铁柱求生",
+      "url": "https://www.toutiao.com/trending/7553436777579695654/",
+      "label": "onSite"
+    },
+    {
+      "rank": 33,
+      "title": "大湾区人花式防风名场面",
+      "url": "https://www.toutiao.com/trending/7553156408972214326/",
       "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "以色列寻求永久控制加沙",
+      "url": "https://www.toutiao.com/trending/7552338910894981170/",
+      "label": ""
     },
     {
       "rank": 35,
@@ -220,15 +220,15 @@
     },
     {
       "rank": 36,
-      "title": "惠州最强风雨时段来了",
-      "url": "https://www.toutiao.com/trending/7553470991440023067/",
+      "title": "欧洲央行：欧元区严重依赖中国稀土",
+      "url": "https://www.toutiao.com/trending/7553453759607606827/",
       "label": "new"
     },
     {
       "rank": 37,
-      "title": "电池弹射技术引发次生灾害担忧",
-      "url": "https://www.toutiao.com/trending/7553257011085839935/",
-      "label": ""
+      "title": "哈尔滨存冰2个月后将解封启用",
+      "url": "https://www.toutiao.com/trending/7553261869839155227/",
+      "label": "new"
     },
     {
       "rank": 38,
@@ -238,15 +238,15 @@
     },
     {
       "rank": 39,
-      "title": "今年第20号台风博罗依生成",
-      "url": "https://www.toutiao.com/trending/7553440744640446483/",
-      "label": ""
+      "title": "泰国总理出席我驻泰使馆国庆招待会",
+      "url": "https://www.toutiao.com/trending/7553431749612322862/",
+      "label": "new"
     },
     {
       "rank": 40,
-      "title": "为何说西方承认巴勒斯坦国没这么简单",
-      "url": "https://www.toutiao.com/trending/7553424136563854874/",
-      "label": "interpretation"
+      "title": "惠州最强风雨时段来了",
+      "url": "https://www.toutiao.com/trending/7553470991440023067/",
+      "label": "new"
     },
     {
       "rank": 41,
@@ -256,15 +256,15 @@
     },
     {
       "rank": 42,
-      "title": "福建舰电磁弹射技术有多强",
-      "url": "https://www.toutiao.com/trending/7553479496528039460/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 43,
       "title": "媒体：中介雇人扮买家砍价危害极大",
       "url": "https://www.toutiao.com/trending/7553212513517588004/",
       "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "泰国启动中泰友好月活动吸引中国游客",
+      "url": "https://www.toutiao.com/trending/7553113549544423460/",
+      "label": "new"
     },
     {
       "rank": 44,
@@ -274,15 +274,15 @@
     },
     {
       "rank": 45,
-      "title": "如何看待特朗普与古特雷斯的分歧",
-      "url": "https://www.toutiao.com/trending/7553343155702136886/",
-      "label": "forum"
+      "title": "电池弹射技术引发次生灾害担忧",
+      "url": "https://www.toutiao.com/trending/7553257011085839935/",
+      "label": ""
     },
     {
       "rank": 46,
-      "title": "女婿每日为九旬岳父送饭",
-      "url": "https://www.toutiao.com/trending/7553281597135421483/",
-      "label": "new"
+      "title": "今年第20号台风博罗依生成",
+      "url": "https://www.toutiao.com/trending/7553440744640446483/",
+      "label": ""
     },
     {
       "rank": 47,
@@ -292,9 +292,9 @@
     },
     {
       "rank": 48,
-      "title": "乌鲁木齐：城市焕新迎盛会",
-      "url": "https://www.toutiao.com/trending/7553104228747919379/",
-      "label": ""
+      "title": "女婿每日为九旬岳父送饭",
+      "url": "https://www.toutiao.com/trending/7553281597135421483/",
+      "label": "new"
     },
     {
       "rank": 49,
@@ -304,8 +304,8 @@
     },
     {
       "rank": 50,
-      "title": "“风王”桦加沙来临前的广州",
-      "url": "https://www.toutiao.com/trending/7552864244677853226/",
+      "title": "“风王”桦加沙直径比广东省还大",
+      "url": "https://www.toutiao.com/trending/7552935299622928447/",
       "label": ""
     }
   ]
