@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 30 Sep 2025 05:06:44 GMT",
+  "generated_at": "Tue, 30 Sep 2025 05:14:51 GMT",
   "top": {
     "rank": "置顶",
     "title": "天地英雄气，千秋尚凛然",
@@ -34,9 +34,9 @@
     },
     {
       "rank": 5,
-      "title": "聪明的人已经提前出发了",
-      "url": "https://www.toutiao.com/trending/7554637829147377715/",
-      "label": ""
+      "title": "罗永浩声援小米",
+      "url": "https://www.toutiao.com/trending/7555700913403592758/",
+      "label": "new"
     },
     {
       "rank": 6,
@@ -46,27 +46,27 @@
     },
     {
       "rank": 7,
-      "title": "外媒报道贵州省花江峡谷大桥",
-      "url": "https://www.toutiao.com/trending/7554926882702655539/",
-      "label": ""
-    },
-    {
-      "rank": 8,
       "title": "中秋节你给岳父母送什么礼",
       "url": "https://www.toutiao.com/trending/7555388922021920822/",
       "label": "forum"
     },
     {
-      "rank": 9,
-      "title": "评论员：节后A股或将迎新一轮上涨",
-      "url": "https://www.toutiao.com/trending/7555704356339715626/",
-      "label": "new"
+      "rank": 8,
+      "title": "特朗普想要成为新时期的麦克阿瑟吗",
+      "url": "https://www.toutiao.com/trending/7555692862113844782/",
+      "label": "depth"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "同事辞职单干邀入伙你会答应吗",
       "url": "https://www.toutiao.com/trending/7555428696992464937/",
       "label": "forum"
+    },
+    {
+      "rank": 10,
+      "title": "聪明的人已经提前出发了",
+      "url": "https://www.toutiao.com/trending/7554637829147377715/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -100,8 +100,8 @@
     },
     {
       "rank": 16,
-      "title": "各地国庆实时路况直播",
-      "url": "https://webcast-open.douyin.com/open/media_live/944483853805",
+      "title": "外媒报道贵州省花江峡谷大桥",
+      "url": "https://www.toutiao.com/trending/7554926882702655539/",
       "label": ""
     },
     {
@@ -112,159 +112,159 @@
     },
     {
       "rank": 18,
-      "title": "王家卫与王晶都有共同的来时路",
-      "url": "https://www.toutiao.com/trending/7555717358916996651/",
-      "label": "new"
-    },
-    {
-      "rank": 19,
       "title": "五台山上空现“七彩祥云” 专家解析",
       "url": "https://www.toutiao.com/trending/7554761883421704255/",
       "label": ""
     },
     {
+      "rank": 19,
+      "title": "评论员：节后A股或将迎新一轮上涨",
+      "url": "https://www.toutiao.com/trending/7555704356339715626/",
+      "label": "new"
+    },
+    {
       "rank": 20,
-      "title": "以色列接受加沙和平计划？专家解读",
-      "url": "https://www.toutiao.com/trending/7555695410753310234/",
-      "label": "hot"
+      "title": "美或向乌提供战斧导弹 俄强硬质问",
+      "url": "https://www.toutiao.com/trending/7555227218226823204/",
+      "label": ""
     },
     {
       "rank": 21,
-      "title": "今晚零点这10条高速最忙",
-      "url": "https://www.toutiao.com/trending/7555154829707788307/",
-      "label": "new"
+      "title": "各地国庆实时路况直播",
+      "url": "https://webcast-open.douyin.com/open/media_live/944483853805",
+      "label": ""
     },
     {
       "rank": 22,
-      "title": "K字签证在印度引发关注 中方回应",
-      "url": "https://www.toutiao.com/trending/7554331120906223658/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "以总理称在加沙看不到一个消瘦的人",
-      "url": "https://www.toutiao.com/trending/7555173209902399507/",
-      "label": "hot"
-    },
-    {
-      "rank": 24,
-      "title": "中国班列公司将开辟多元通道",
-      "url": "https://www.toutiao.com/trending/7555696439364423187/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "罗永浩声援小米",
-      "url": "https://www.toutiao.com/trending/7555700913403592758/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
-      "title": "特朗普想要成为新时期的麦克阿瑟吗",
-      "url": "https://www.toutiao.com/trending/7555692862113844782/",
-      "label": "depth"
-    },
-    {
-      "rank": 27,
-      "title": "王思聪公司被执行1210万",
-      "url": "https://www.toutiao.com/trending/7555377901126913586/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "四川舰能弹射歼-35吗",
-      "url": "https://www.toutiao.com/trending/7555705801147420199/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 29,
-      "title": "以色列吞并加沙计划彻底破灭了吗",
-      "url": "https://www.toutiao.com/trending/7555425971818466835/",
-      "label": "depth"
-    },
-    {
-      "rank": 30,
-      "title": "景德镇因鸡排哥假期模式提前开启",
-      "url": "https://www.toutiao.com/trending/7555131347062128703/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "《三国的星空第一部》为何没刘关张",
-      "url": "https://www.toutiao.com/trending/7555345057269022774/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "国乒小将陈俊菘谈战胜张本智和",
-      "url": "https://www.toutiao.com/trending/7555497787169852954/",
-      "label": "hot"
-    },
-    {
-      "rank": 33,
-      "title": "台网红馆长喊话“台独”勿一错再错",
-      "url": "https://www.toutiao.com/trending/7554789589010448393/",
-      "label": ""
-    },
-    {
-      "rank": 34,
       "title": "埃及通报：失联中国女孩涉电诈被捕",
       "url": "https://www.toutiao.com/trending/7554852378864877609/",
       "label": ""
     },
     {
-      "rank": 35,
-      "title": "美或向乌提供战斧导弹 俄强硬质问",
-      "url": "https://www.toutiao.com/trending/7555227218226823204/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "花莲堰塞湖酿灾民调痛批台当局",
-      "url": "https://www.toutiao.com/trending/7554711675430125587/",
+      "rank": 23,
+      "title": "中国班列公司将开辟多元通道",
+      "url": "https://www.toutiao.com/trending/7555696439364423187/",
       "label": ""
     },
     {
-      "rank": 37,
-      "title": "美军5天4射洲际导弹正常吗",
-      "url": "https://www.toutiao.com/trending/7555379035077905966/",
-      "label": "interpretation"
+      "rank": 24,
+      "title": "台网红馆长喊话“台独”勿一错再错",
+      "url": "https://www.toutiao.com/trending/7554789589010448393/",
+      "label": ""
     },
     {
-      "rank": 38,
+      "rank": 25,
+      "title": "今晚零点这10条高速最忙",
+      "url": "https://www.toutiao.com/trending/7555154829707788307/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "王思聪公司被执行1210万",
+      "url": "https://www.toutiao.com/trending/7555377901126913586/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "以色列接受加沙和平计划？专家解读",
+      "url": "https://www.toutiao.com/trending/7555695410753310234/",
+      "label": "hot"
+    },
+    {
+      "rank": 28,
       "title": "中方回应是否要求美国反对“台独”",
       "url": "https://www.toutiao.com/trending/7555018303404736548/",
       "label": ""
     },
     {
-      "rank": 39,
+      "rank": 29,
+      "title": "K字签证在印度引发关注 中方回应",
+      "url": "https://www.toutiao.com/trending/7554331120906223658/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "美国希望用“20点计划”下注中东",
+      "url": "https://www.toutiao.com/trending/7555699213393202707/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "四川舰能弹射歼-35吗",
+      "url": "https://www.toutiao.com/trending/7555705801147420199/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 32,
       "title": "杜兰特谈与火箭续约情况",
       "url": "https://www.toutiao.com/trending/7555188525033930761/",
       "label": "new"
     },
     {
-      "rank": 40,
-      "title": "鸡排哥走红 小买卖也能有声有色",
-      "url": "https://www.toutiao.com/trending/7555674670792445449/",
-      "label": ""
+      "rank": 33,
+      "title": "哥伦比亚外长主动放弃美国签证",
+      "url": "https://www.toutiao.com/trending/7555366471481262106/",
+      "label": "new"
     },
     {
-      "rank": 41,
-      "title": "特朗普召集美军将领开会有何意味",
-      "url": "https://www.toutiao.com/trending/7555385011046927918/",
+      "rank": 34,
+      "title": "以色列吞并加沙计划彻底破灭了吗",
+      "url": "https://www.toutiao.com/trending/7555425971818466835/",
+      "label": "depth"
+    },
+    {
+      "rank": 35,
+      "title": "美军5天4射洲际导弹正常吗",
+      "url": "https://www.toutiao.com/trending/7555379035077905966/",
       "label": "interpretation"
     },
     {
-      "rank": 42,
-      "title": "樊振东欧冠首秀门票明日开售",
-      "url": "https://www.toutiao.com/trending/7555397872947134502/",
+      "rank": 36,
+      "title": "景德镇因鸡排哥假期模式提前开启",
+      "url": "https://www.toutiao.com/trending/7555131347062128703/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "花莲堰塞湖酿灾民调痛批台当局",
+      "url": "https://www.toutiao.com/trending/7554711675430125587/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "台外事官员窜访欧洲大放厥词",
+      "url": "https://www.toutiao.com/trending/7555688539334574089/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "王家卫与王晶都有共同的来时路",
+      "url": "https://www.toutiao.com/trending/7555717358916996651/",
       "label": "new"
     },
     {
-      "rank": 43,
+      "rank": 40,
+      "title": "国乒小将陈俊菘谈战胜张本智和",
+      "url": "https://www.toutiao.com/trending/7555497787169852954/",
+      "label": "hot"
+    },
+    {
+      "rank": 41,
+      "title": "《三国的星空第一部》为何没刘关张",
+      "url": "https://www.toutiao.com/trending/7555345057269022774/",
+      "label": ""
+    },
+    {
+      "rank": 42,
       "title": "鸡排哥说不管多少游客来都能控制",
       "url": "https://www.toutiao.com/trending/7555346612629835327/",
-      "label": "new"
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "中方敦促美方停止对中企的无理打压",
+      "url": "https://www.toutiao.com/trending/7555513266009620489/",
+      "label": ""
     },
     {
       "rank": 44,
@@ -274,38 +274,38 @@
     },
     {
       "rank": 45,
-      "title": "美国希望用“20点计划”下注中东",
-      "url": "https://www.toutiao.com/trending/7555699213393202707/",
-      "label": "new"
+      "title": "特朗普召集美军将领开会有何意味",
+      "url": "https://www.toutiao.com/trending/7555385011046927918/",
+      "label": "interpretation"
     },
     {
       "rank": 46,
-      "title": "中方敦促美方停止对中企的无理打压",
-      "url": "https://www.toutiao.com/trending/7555513266009620489/",
+      "title": "鸡排哥走红 小买卖也能有声有色",
+      "url": "https://www.toutiao.com/trending/7555674670792445449/",
       "label": ""
     },
     {
       "rank": 47,
-      "title": "“苏超”是文旅项目实锤了",
-      "url": "https://www.toutiao.com/trending/7555359989876260906/",
-      "label": "new"
+      "title": "以总理称在加沙看不到一个消瘦的人",
+      "url": "https://www.toutiao.com/trending/7555173209902399507/",
+      "label": ""
     },
     {
       "rank": 48,
-      "title": "詹姆斯：并未计划与二儿子同场竞技",
-      "url": "https://www.toutiao.com/trending/7555579453234184228/",
+      "title": "第一批拼假游客已抵达",
+      "url": "https://www.toutiao.com/trending/7555086568101560358/",
       "label": "new"
     },
     {
       "rank": 49,
-      "title": "俄军对乌发动大规模空袭传递啥信号",
-      "url": "https://www.toutiao.com/trending/7555692369312484918/",
-      "label": "interpretation"
+      "title": "贵州卫健委原副主任田艳被双开",
+      "url": "https://www.toutiao.com/trending/7555704704195362858/",
+      "label": "new"
     },
     {
       "rank": 50,
-      "title": "江西升华为何让宁德时代一再青睐",
-      "url": "https://www.toutiao.com/trending/7554936987275771958/",
+      "title": "印度人看上的中国K签究竟是什么",
+      "url": "https://www.toutiao.com/trending/7555700651787980330/",
       "label": "new"
     }
   ]
