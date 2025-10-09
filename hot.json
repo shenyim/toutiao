@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 09 Oct 2025 01:30:05 GMT",
+  "generated_at": "Thu, 09 Oct 2025 01:35:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "在古城老街寻根脉悟情怀",
@@ -10,7 +10,7 @@
   "items": [
     {
       "rank": 1,
-      "title": "商务部：对稀土技术等实施出口管制",
+      "title": "中国对稀土相关技术实施出口管制",
       "url": "https://www.toutiao.com/trending/7558069595666202660/",
       "label": "hot"
     },
@@ -58,9 +58,9 @@
     },
     {
       "rank": 9,
-      "title": "无锡3-0盐城 进苏超半决赛",
-      "url": "https://www.toutiao.com/trending/7557789298884493366/",
-      "label": "hot"
+      "title": "高市早苗考虑放弃秋季参拜靖国神社",
+      "url": "https://www.toutiao.com/trending/7558708980898647561/",
+      "label": ""
     },
     {
       "rank": 10,
@@ -84,7 +84,7 @@
       "rank": 13,
       "title": "你在北方裹着袄 我在南方露着腰",
       "url": "https://www.toutiao.com/trending/7557995531503435819/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 14,
@@ -94,69 +94,69 @@
     },
     {
       "rank": 15,
+      "title": "女子将奶茶倒在他人头上后逃跑",
+      "url": "https://www.toutiao.com/trending/7557897800797716507/",
+      "label": ""
+    },
+    {
+      "rank": 16,
       "title": "中国最大收费站被返程大军挤爆",
       "url": "https://www.toutiao.com/trending/7558337655219175467/",
       "label": "onSite"
     },
     {
-      "rank": 16,
-      "title": "南宁北大桥附近现一陷坑",
-      "url": "https://www.toutiao.com/trending/7559005767009832491/",
-      "label": "new"
-    },
-    {
       "rank": 17,
-      "title": "高市早苗考虑放弃秋季参拜靖国神社",
-      "url": "https://www.toutiao.com/trending/7558708980898647561/",
-      "label": ""
+      "title": "无锡3-0盐城 进苏超半决赛",
+      "url": "https://www.toutiao.com/trending/7557789298884493366/",
+      "label": "hot"
     },
     {
       "rank": 18,
       "title": "蜜雪冰城小票藏连载小说",
       "url": "https://www.toutiao.com/trending/7558713246338334761/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 19,
-      "title": "你期待威少加盟火箭与杜兰特重聚吗",
-      "url": "https://www.toutiao.com/trending/7558887358323015699/",
+      "title": "你如何看待C罗的商业变现能力",
+      "url": "https://www.toutiao.com/trending/7558946229728690202/",
       "label": "forum"
     },
     {
       "rank": 20,
-      "title": "《盛夏芬德拉》播放量破30亿开庆功宴",
-      "url": "https://www.toutiao.com/trending/7558508030564892691/",
-      "label": ""
+      "title": "南宁北大桥附近现一陷坑",
+      "url": "https://www.toutiao.com/trending/7559005767009832491/",
+      "label": "new"
     },
     {
       "rank": 21,
-      "title": "意外长晒与王毅合影强调中国重要性",
-      "url": "https://www.toutiao.com/trending/7559012276490096137/",
-      "label": "new"
-    },
-    {
-      "rank": 22,
-      "title": "苏超四强出炉 苏北五虎全军覆没",
-      "url": "https://www.toutiao.com/trending/7558696121787252777/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "汽车凌空飞起冲入田地",
-      "url": "https://www.toutiao.com/trending/7558823147357929513/",
-      "label": "new"
-    },
-    {
-      "rank": 24,
       "title": "王毅：中方将继续对意延长免签政策",
       "url": "https://www.toutiao.com/trending/7557722207347166759/",
       "label": "new"
     },
     {
-      "rank": 25,
-      "title": "网红“猴哥说车”官宣离婚",
-      "url": "https://www.toutiao.com/trending/7558794434570354734/",
+      "rank": 22,
+      "title": "《盛夏芬德拉》播放量破30亿开庆功宴",
+      "url": "https://www.toutiao.com/trending/7558508030564892691/",
       "label": ""
+    },
+    {
+      "rank": 23,
+      "title": "苏超四强出炉 苏北五虎全军覆没",
+      "url": "https://www.toutiao.com/trending/7558696121787252777/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "意外长晒与王毅合影强调中国重要性",
+      "url": "https://www.toutiao.com/trending/7559012276490096137/",
+      "label": "new"
+    },
+    {
+      "rank": 25,
+      "title": "汽车凌空飞起冲入田地",
+      "url": "https://www.toutiao.com/trending/7558823147357929513/",
+      "label": "new"
     },
     {
       "rank": 26,
@@ -172,27 +172,27 @@
     },
     {
       "rank": 28,
-      "title": "获诺贝尔化学奖的金属有机框架是啥",
-      "url": "https://www.toutiao.com/trending/7558994266224070195/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 29,
-      "title": "女子将奶茶倒在他人头上后逃跑",
-      "url": "https://www.toutiao.com/trending/7557897800797716507/",
-      "label": ""
-    },
-    {
-      "rank": 30,
       "title": "美媒称中国近半年没买过美一粒大豆",
       "url": "https://www.toutiao.com/trending/7558395693372031003/",
       "label": "new"
     },
     {
-      "rank": 31,
+      "rank": 29,
+      "title": "网红“猴哥说车”官宣离婚",
+      "url": "https://www.toutiao.com/trending/7558794434570354734/",
+      "label": ""
+    },
+    {
+      "rank": 30,
       "title": "中方为何高规格出席朝鲜庆典",
       "url": "https://www.toutiao.com/trending/7558783956137545259/",
       "label": "hot"
+    },
+    {
+      "rank": 31,
+      "title": "获诺贝尔化学奖的金属有机框架是啥",
+      "url": "https://www.toutiao.com/trending/7558994266224070195/",
+      "label": "interpretation"
     },
     {
       "rank": 32,
@@ -202,15 +202,15 @@
     },
     {
       "rank": 33,
-      "title": "郭宇欣笑容也太甜了",
-      "url": "https://www.toutiao.com/trending/7558518773948039231/",
-      "label": ""
+      "title": "特朗普关税战会摧毁美国经济根基吗",
+      "url": "https://www.toutiao.com/trending/7559007121333816873/",
+      "label": "new"
     },
     {
       "rank": 34,
-      "title": "体育“流量”如何变消费“增量”",
-      "url": "https://www.toutiao.com/trending/7558634777311805459/",
-      "label": "new"
+      "title": "郭宇欣笑容也太甜了",
+      "url": "https://www.toutiao.com/trending/7558518773948039231/",
+      "label": ""
     },
     {
       "rank": 35,
@@ -220,15 +220,15 @@
     },
     {
       "rank": 36,
-      "title": "鸡排哥登顶 烟火气如何接住泼天富贵",
-      "url": "https://www.toutiao.com/trending/7558993337793908287/",
+      "title": "如何看待美军高级将领接连请辞",
+      "url": "https://www.toutiao.com/trending/7558997055008411190/",
       "label": "new"
     },
     {
       "rank": 37,
-      "title": "如何看待美军高级将领接连请辞",
-      "url": "https://www.toutiao.com/trending/7558997055008411190/",
-      "label": "new"
+      "title": "男子看演唱会撞脸谢霆锋被围拍",
+      "url": "https://www.toutiao.com/trending/7558662919416938546/",
+      "label": ""
     },
     {
       "rank": 38,
@@ -238,62 +238,62 @@
     },
     {
       "rank": 39,
-      "title": "2025诺贝尔物理学奖解读",
-      "url": "https://www.toutiao.com/trending/7558993582183419428/",
-      "label": "depth"
-    },
-    {
-      "rank": 40,
-      "title": "杜星霖回应与74岁张纪中没有爱情",
-      "url": "https://www.toutiao.com/trending/7557989131209457700/",
+      "title": "重庆女子打出租车去内蒙古旅游",
+      "url": "https://www.toutiao.com/trending/7558781547592450111/",
       "label": ""
     },
     {
+      "rank": 40,
+      "title": "孙燕姿韩红合唱《遇见》",
+      "url": "https://www.toutiao.com/trending/7558501128931115049/",
+      "label": "new"
+    },
+    {
       "rank": 41,
-      "title": "特朗普关税战会摧毁美国经济根基吗",
-      "url": "https://www.toutiao.com/trending/7559007121333816873/",
+      "title": "疑似马来西亚失联二人照片曝光",
+      "url": "https://www.toutiao.com/trending/7558410299029258290/",
       "label": "new"
     },
     {
       "rank": 42,
-      "title": "辽宁发生重大刑案 警方悬赏6万协查",
-      "url": "https://www.toutiao.com/trending/7558695189770931753/",
-      "label": "hot"
-    },
-    {
-      "rank": 43,
-      "title": "男子看演唱会撞脸谢霆锋被围拍",
-      "url": "https://www.toutiao.com/trending/7558662919416938546/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "歼-35出口中东真的有希望了吗",
-      "url": "https://www.toutiao.com/trending/7559000370798677543/",
+      "title": "男子被拐31年后与妈妈团聚",
+      "url": "https://webcast-open.douyin.com/open/media_live/977342641821",
       "label": "new"
     },
     {
-      "rank": 45,
+      "rank": 43,
+      "title": "美国政府拟投150亿美元援助农民",
+      "url": "https://www.toutiao.com/trending/7558075364637589514/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
       "title": "金属有机框架有啥用",
       "url": "https://www.toutiao.com/trending/7558993253060578855/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "女子花500元买的鸵鸟仔长到200斤",
-      "url": "https://www.toutiao.com/trending/7557907977811050535/",
-      "label": ""
-    },
-    {
-      "rank": 47,
+      "rank": 45,
       "title": "世界第一高桥成假期热门打卡地",
       "url": "https://www.toutiao.com/trending/7557890236844818483/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 46,
       "title": "浙江海宁追潮船上观钱江潮",
       "url": "https://www.toutiao.com/trending/7558262957084524582/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "辽宁发生重大刑案 警方悬赏6万协查",
+      "url": "https://www.toutiao.com/trending/7558695189770931753/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "关淑怡病危：有一种叛逆叫关淑怡",
+      "url": "https://www.toutiao.com/trending/7558815431306251826/",
       "label": ""
     },
     {
@@ -304,8 +304,8 @@
     },
     {
       "rank": 50,
-      "title": "关淑怡病危：有一种叛逆叫关淑怡",
-      "url": "https://www.toutiao.com/trending/7558815431306251826/",
+      "title": "中国金属有机框架材料领域发展如何",
+      "url": "https://www.toutiao.com/trending/7558994583535750697/",
       "label": ""
     }
   ]
