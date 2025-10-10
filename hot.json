@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Fri, 10 Oct 2025 05:05:07 GMT",
+  "generated_at": "Fri, 10 Oct 2025 05:10:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "谱写全球妇女事业发展新篇章",
@@ -42,7 +42,7 @@
       "rank": 6,
       "title": "曹德旺回应做慈善慷慨对员工苛刻",
       "url": "https://www.toutiao.com/trending/7558295753761062975/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 7,
@@ -58,9 +58,9 @@
     },
     {
       "rank": 9,
-      "title": "梅德韦杰夫在朝鲜开记者会",
-      "url": "https://www.toutiao.com/trending/7559329184091258921/",
-      "label": "hot"
+      "title": "全运会全红婵陈芋汐对决你看好谁",
+      "url": "https://www.toutiao.com/trending/7559182856384446505/",
+      "label": "forum"
     },
     {
       "rank": 10,
@@ -70,57 +70,57 @@
     },
     {
       "rank": 11,
-      "title": "全运会全红婵陈芋汐对决你看好谁",
-      "url": "https://www.toutiao.com/trending/7559182856384446505/",
-      "label": "forum"
+      "title": "梅德韦杰夫在朝鲜开记者会",
+      "url": "https://www.toutiao.com/trending/7559329184091258921/",
+      "label": "hot"
     },
     {
       "rank": 12,
-      "title": "家属不献血不给病人做手术？医院回应",
-      "url": "https://www.toutiao.com/trending/7559392144772710463/",
-      "label": "new"
-    },
-    {
-      "rank": 13,
       "title": "我国成功研发全新架构闪存芯片",
       "url": "https://www.toutiao.com/trending/7558981709161840703/",
       "label": "new"
     },
     {
-      "rank": 14,
-      "title": "A股9只个股遭遇“去杠杆”",
-      "url": "https://www.toutiao.com/trending/7559398666704784922/",
-      "label": ""
-    },
-    {
-      "rank": 15,
+      "rank": 13,
       "title": "美国“大豆困局”暴露什么问题",
       "url": "https://www.toutiao.com/trending/7559407471454850623/",
       "label": "new"
     },
     {
+      "rank": 14,
+      "title": "直击菲律宾强震",
+      "url": "https://www.toutiao.com/trending/7558616162720910887/",
+      "label": "onSite"
+    },
+    {
+      "rank": 15,
+      "title": "你赞同取消英语主科地位吗",
+      "url": "https://www.toutiao.com/trending/7559072431734931483/",
+      "label": "vote"
+    },
+    {
       "rank": 16,
-      "title": "北京降温你穿秋裤了吗",
-      "url": "https://www.toutiao.com/trending/7559355302467354665/",
-      "label": "forum"
-    },
-    {
-      "rank": 17,
-      "title": "黄金什么时候崩盘",
-      "url": "https://www.toutiao.com/trending/7559385783375760932/",
-      "label": ""
-    },
-    {
-      "rank": 18,
       "title": "选举在即 郝龙斌郑丽文进入核心对决",
       "url": "https://www.toutiao.com/trending/7559276663796776996/",
       "label": "new"
     },
     {
-      "rank": 19,
+      "rank": 17,
+      "title": "A股9只个股遭遇“去杠杆”",
+      "url": "https://www.toutiao.com/trending/7559398666704784922/",
+      "label": ""
+    },
+    {
+      "rank": 18,
       "title": "俄老兵一挑六全身而退无人机立功",
       "url": "https://www.toutiao.com/trending/7559410146770734635/",
       "label": ""
+    },
+    {
+      "rank": 19,
+      "title": "南宁丢铁笼浇筑混凝土阻挡洪水",
+      "url": "https://www.toutiao.com/trending/7558484480013533226/",
+      "label": "onSite"
     },
     {
       "rank": 20,
@@ -130,39 +130,39 @@
     },
     {
       "rank": 21,
-      "title": "南宁丢铁笼浇筑混凝土阻挡洪水",
-      "url": "https://www.toutiao.com/trending/7558484480013533226/",
-      "label": "onSite"
+      "title": "黄金什么时候崩盘",
+      "url": "https://www.toutiao.com/trending/7559385783375760932/",
+      "label": ""
     },
     {
       "rank": 22,
-      "title": "比亚迪宋PLUS疑将停产",
-      "url": "https://www.toutiao.com/trending/7559217155183496747/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "双节哪个省份是人气王",
-      "url": "https://www.toutiao.com/trending/7558759701379743798/",
-      "label": ""
-    },
-    {
-      "rank": 24,
       "title": "媒体：终于在短剧吃到细糠了",
       "url": "https://www.toutiao.com/trending/7559239874897776154/",
       "label": ""
     },
     {
-      "rank": 25,
+      "rank": 23,
       "title": "你的养老金去年赚了多少",
       "url": "https://www.toutiao.com/trending/7559045638764691497/",
       "label": "new"
     },
     {
-      "rank": 26,
-      "title": "直击菲律宾强震",
-      "url": "https://www.toutiao.com/trending/7558616162720910887/",
+      "rank": 24,
+      "title": "家属不献血不给病人做手术？医院回应",
+      "url": "https://www.toutiao.com/trending/7559392144772710463/",
       "label": "new"
+    },
+    {
+      "rank": 25,
+      "title": "干部收95只鸽子价值132万 最贵18万",
+      "url": "https://www.toutiao.com/trending/7559225017406586921/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "比亚迪宋PLUS疑将停产",
+      "url": "https://www.toutiao.com/trending/7559217155183496747/",
+      "label": ""
     },
     {
       "rank": 27,
@@ -172,26 +172,26 @@
     },
     {
       "rank": 28,
+      "title": "梅德韦杰夫抵朝发文：敌人正在颤抖",
+      "url": "https://www.toutiao.com/trending/7559431892991217195/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
       "title": "男子乘机遇超员获1200元补偿后改签",
       "url": "https://www.toutiao.com/trending/7559078521571229732/",
       "label": ""
     },
     {
-      "rank": 29,
-      "title": "iPhone 17e全面曝光",
-      "url": "https://www.toutiao.com/trending/7559380107324821018/",
-      "label": ""
-    },
-    {
       "rank": 30,
-      "title": "干部收95只鸽子价值132万 最贵18万",
-      "url": "https://www.toutiao.com/trending/7559225017406586921/",
+      "title": "以媒公布停火协议文本",
+      "url": "https://www.toutiao.com/trending/7559374643673435675/",
       "label": ""
     },
     {
       "rank": 31,
-      "title": "男子开智驾酣睡 车辆停滞超车道",
-      "url": "https://www.toutiao.com/trending/7559188807493697562/",
+      "title": "iPhone 17e全面曝光",
+      "url": "https://www.toutiao.com/trending/7559380107324821018/",
       "label": ""
     },
     {
@@ -202,39 +202,39 @@
     },
     {
       "rank": 33,
-      "title": "特朗普提议将西班牙“踢出”北约",
-      "url": "https://www.toutiao.com/trending/7559049674519412762/",
+      "title": "男子开智驾酣睡 车辆停滞超车道",
+      "url": "https://www.toutiao.com/trending/7559188807493697562/",
       "label": ""
     },
     {
       "rank": 34,
+      "title": "四川新龙震中居民：地面巨响20多秒",
+      "url": "https://www.toutiao.com/trending/7559124224351309363/",
+      "label": ""
+    },
+    {
+      "rank": 35,
       "title": "“跪行巨人”胡雷驰援广西百色",
       "url": "https://www.toutiao.com/trending/7558806540339183642/",
       "label": ""
     },
     {
-      "rank": 35,
-      "title": "以媒公布停火协议文本",
-      "url": "https://www.toutiao.com/trending/7559374643673435675/",
-      "label": ""
-    },
-    {
       "rank": 36,
-      "title": "高市早苗称无意引发日元过度贬值",
-      "url": "https://www.toutiao.com/trending/7558887374793785395/",
-      "label": "new"
+      "title": "特朗普提议将西班牙“踢出”北约",
+      "url": "https://www.toutiao.com/trending/7559049674519412762/",
+      "label": ""
     },
     {
       "rank": 37,
-      "title": "大疆降价 也属无奈？",
-      "url": "https://www.toutiao.com/trending/7559365454951616038/",
-      "label": ""
+      "title": "男子夜间开收割机收玉米险撞上老人",
+      "url": "https://www.toutiao.com/trending/7559410206921506858/",
+      "label": "new"
     },
     {
       "rank": 38,
-      "title": "解放军舰载激光武器有多强",
-      "url": "https://www.toutiao.com/trending/7559382329811013130/",
-      "label": "interpretation"
+      "title": "大疆降价 也属无奈？",
+      "url": "https://www.toutiao.com/trending/7559365454951616038/",
+      "label": ""
     },
     {
       "rank": 39,
@@ -244,69 +244,69 @@
     },
     {
       "rank": 40,
-      "title": "四川新龙震中居民：地面巨响20多秒",
-      "url": "https://www.toutiao.com/trending/7559124224351309363/",
-      "label": ""
-    },
-    {
-      "rank": 41,
       "title": "被儿子遗弃荒野 母亲狂奔拦车求助",
       "url": "https://www.toutiao.com/trending/7558999202651488275/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "梅德韦杰夫抵朝发文：敌人正在颤抖",
-      "url": "https://www.toutiao.com/trending/7559431892991217195/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
+      "rank": 41,
       "title": "一家3口被撞身亡 肇事方提出养老赎罪",
       "url": "https://www.toutiao.com/trending/7559248898057895990/",
       "label": "new"
     },
     {
-      "rank": 44,
+      "rank": 42,
+      "title": "解放军舰载激光武器有多强",
+      "url": "https://www.toutiao.com/trending/7559382329811013130/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 43,
       "title": "委内瑞拉请求安理会召开紧急会议",
       "url": "https://www.toutiao.com/trending/7559409092255760447/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "当金毛遇到机器狗",
-      "url": "https://www.toutiao.com/trending/7558832034341421102/",
-      "label": "new"
-    },
-    {
-      "rank": 46,
+      "rank": 44,
       "title": "哈马斯首度公开发声：加沙战争结束",
       "url": "https://www.toutiao.com/trending/7558616452530474539/",
       "label": ""
     },
     {
-      "rank": 47,
+      "rank": 45,
       "title": "女游客高反仍在ICU 驴友还原救援过程",
       "url": "https://www.toutiao.com/trending/7558440676217487396/",
       "label": ""
     },
     {
+      "rank": 46,
+      "title": "当金毛遇到机器狗",
+      "url": "https://www.toutiao.com/trending/7558832034341421102/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "河北1地提前启动冬季供暖",
+      "url": "https://www.toutiao.com/trending/7559431988902366730/",
+      "label": "new"
+    },
+    {
       "rank": 48,
-      "title": "河南小伙画“作战图”抢秋收",
-      "url": "https://www.toutiao.com/trending/7558855464759623722/",
-      "label": ""
+      "title": "交警处理事故时 车辆从应急车道窜出",
+      "url": "https://www.toutiao.com/trending/7558580639453446163/",
+      "label": "onSite"
     },
     {
       "rank": 49,
-      "title": "业内：多重利好提振A股",
-      "url": "https://www.toutiao.com/trending/7559422735219166746/",
+      "title": "北方冷出11月的水平",
+      "url": "https://www.toutiao.com/trending/7558304311869374507/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "北方冷出11月的水平",
-      "url": "https://www.toutiao.com/trending/7558304311869374507/",
-      "label": "new"
+      "title": "沪指第3次逼近4000点 这次有何不同",
+      "url": "https://www.toutiao.com/trending/7559399686004543018/",
+      "label": ""
     }
   ]
 }
