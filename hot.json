@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Sat, 11 Oct 2025 07:25:03 GMT",
+  "generated_at": "Sat, 11 Oct 2025 07:30:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记关心妇女事业发展的故事",
@@ -10,9 +10,9 @@
   "items": [
     {
       "rank": 1,
-      "title": "特朗普威胁实施关键软件出口管制",
-      "url": "https://www.toutiao.com/trending/7559785174477573668/",
-      "label": "hot"
+      "title": "全球股市现黑天鹅 A股散户如何应对",
+      "url": "https://www.toutiao.com/trending/7559824517074259482/",
+      "label": "new"
     },
     {
       "rank": 2,
@@ -28,14 +28,14 @@
     },
     {
       "rank": 4,
-      "title": "全球股市现黑天鹅 A股散户如何应对",
-      "url": "https://www.toutiao.com/trending/7559824517074259482/",
+      "title": "特朗普发文感谢普京",
+      "url": "https://www.toutiao.com/trending/7559142149669998099/",
       "label": "new"
     },
     {
       "rank": 5,
-      "title": "特朗普发文感谢普京",
-      "url": "https://www.toutiao.com/trending/7559142149669998099/",
+      "title": "朝鲜阅兵式为何在半夜举行",
+      "url": "https://www.toutiao.com/trending/7559771509535804967/",
       "label": "new"
     },
     {
@@ -52,21 +52,21 @@
     },
     {
       "rank": 8,
-      "title": "朝鲜阅兵式为何在半夜举行",
-      "url": "https://www.toutiao.com/trending/7559771509535804967/",
-      "label": "new"
-    },
-    {
-      "rank": 9,
       "title": "你看好哪家中国科技企业",
       "url": "https://www.toutiao.com/trending/7559428961277902867/",
       "label": "forum"
     },
     {
+      "rank": 9,
+      "title": "司机误把油门当刹车将8米高假山撞毁",
+      "url": "https://www.toutiao.com/trending/7559499149197066267/",
+      "label": "new"
+    },
+    {
       "rank": 10,
-      "title": "库里：杨瀚森很有潜力",
-      "url": "https://www.toutiao.com/trending/7559082447577825331/",
-      "label": "hot"
+      "title": "为何特朗普威胁对华加征100%关税",
+      "url": "https://www.toutiao.com/trending/7559810642455039524/",
+      "label": "depth"
     },
     {
       "rank": 11,
@@ -82,15 +82,15 @@
     },
     {
       "rank": 13,
-      "title": "媒体：特朗普威胁对华加征100%新关税",
-      "url": "https://www.toutiao.com/trending/7559639310039957550/",
+      "title": "特朗普威胁实施关键软件出口管制",
+      "url": "https://www.toutiao.com/trending/7559785174477573668/",
       "label": "hot"
     },
     {
       "rank": 14,
-      "title": "重庆一村民将地里乌木卖给私人开挖",
-      "url": "https://www.toutiao.com/trending/7559574146280505385/",
-      "label": "new"
+      "title": "50岁日剧收视女王米仓凉子涉毒被查",
+      "url": "https://www.toutiao.com/trending/7559752518671073331/",
+      "label": ""
     },
     {
       "rank": 15,
@@ -100,14 +100,14 @@
     },
     {
       "rank": 16,
-      "title": "50岁日剧收视女王米仓凉子涉毒被查",
-      "url": "https://www.toutiao.com/trending/7559752518671073331/",
-      "label": ""
+      "title": "媒体：特朗普威胁对华加征100%新关税",
+      "url": "https://www.toutiao.com/trending/7559639310039957550/",
+      "label": "hot"
     },
     {
       "rank": 17,
-      "title": "张本智和会淡出一流高手行列吗",
-      "url": "https://www.toutiao.com/trending/7559713057090617386/",
+      "title": "你会在乎孩子学习成绩吗",
+      "url": "https://www.toutiao.com/trending/7559716240785424426/",
       "label": "forum"
     },
     {
@@ -118,9 +118,9 @@
     },
     {
       "rank": 19,
-      "title": "为何特朗普威胁对华加征100%关税",
-      "url": "https://www.toutiao.com/trending/7559810642455039524/",
-      "label": "depth"
+      "title": "库里：杨瀚森很有潜力",
+      "url": "https://www.toutiao.com/trending/7559082447577825331/",
+      "label": "hot"
     },
     {
       "rank": 20,
@@ -130,21 +130,21 @@
     },
     {
       "rank": 21,
-      "title": "司机误把油门当刹车将8米高假山撞毁",
-      "url": "https://www.toutiao.com/trending/7559499149197066267/",
-      "label": "new"
-    },
-    {
-      "rank": 22,
       "title": "宗馥莉或独立经营“娃小宗”",
       "url": "https://www.toutiao.com/trending/7559823909067968054/",
       "label": "hot"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "title": "媒体：美关税恐吓把美股吓出心脏病",
       "url": "https://www.toutiao.com/trending/7559804067162099210/",
       "label": ""
+    },
+    {
+      "rank": 23,
+      "title": "重庆一村民将地里乌木卖给私人开挖",
+      "url": "https://www.toutiao.com/trending/7559574146280505385/",
+      "label": "new"
     },
     {
       "rank": 24,
@@ -154,15 +154,15 @@
     },
     {
       "rank": 25,
-      "title": "宗馥莉“接班”娃哈哈20个月的布局",
-      "url": "https://www.toutiao.com/trending/7559830860447354394/",
-      "label": "depth"
-    },
-    {
-      "rank": 26,
       "title": "特朗普威胁对华加税100%意欲何为",
       "url": "https://www.toutiao.com/trending/7559778445308202539/",
       "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "宗馥莉“接班”娃哈哈20个月的布局",
+      "url": "https://www.toutiao.com/trending/7559830860447354394/",
+      "label": "depth"
     },
     {
       "rank": 27,
@@ -172,57 +172,57 @@
     },
     {
       "rank": 28,
-      "title": "高通罚款金额或达17.9亿美元",
-      "url": "https://www.toutiao.com/trending/7559749576844922406/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "英伟达市值一夜蒸发超1.6万亿元",
-      "url": "https://www.toutiao.com/trending/7559761113210949183/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "朝鲜举行盛大阅兵式",
-      "url": "https://www.toutiao.com/trending/7559741052693925402/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "中国征美船舶费 皇家加勒比危矣",
-      "url": "https://www.toutiao.com/trending/7559793390158614055/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "台媒体人：赖清德讲话藏“台独”谎言",
-      "url": "https://www.toutiao.com/trending/7559808981980417574/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "如何看待朝鲜举行盛大阅兵式",
-      "url": "https://www.toutiao.com/trending/7559829665842466343/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
       "title": "中方一天6条反制公告传递啥信号",
       "url": "https://www.toutiao.com/trending/7559814943818649130/",
       "label": "new"
     },
     {
-      "rank": 35,
+      "rank": 29,
+      "title": "高通罚款金额或达17.9亿美元",
+      "url": "https://www.toutiao.com/trending/7559749576844922406/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "台媒体人：赖清德讲话藏“台独”谎言",
+      "url": "https://www.toutiao.com/trending/7559808981980417574/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "英伟达市值一夜蒸发超1.6万亿元",
+      "url": "https://www.toutiao.com/trending/7559761113210949183/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "朝鲜举行盛大阅兵式",
+      "url": "https://www.toutiao.com/trending/7559741052693925402/",
+      "label": ""
+    },
+    {
+      "rank": 33,
       "title": "当地回应“一门店老板当街打狗”",
       "url": "https://www.toutiao.com/trending/7559725285936005162/",
       "label": "new"
     },
     {
-      "rank": 36,
-      "title": "朝“火星20”洲际弹道导弹性能如何",
-      "url": "https://www.toutiao.com/trending/7559825933775932964/",
+      "rank": 34,
+      "title": "缅北电诈集团3要犯被公诉",
+      "url": "https://www.toutiao.com/trending/7559777953036173353/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "如何看待朝鲜举行盛大阅兵式",
+      "url": "https://www.toutiao.com/trending/7559829665842466343/",
       "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "中国征美船舶费 皇家加勒比危矣",
+      "url": "https://www.toutiao.com/trending/7559793390158614055/",
+      "label": "new"
     },
     {
       "rank": 37,
@@ -232,33 +232,33 @@
     },
     {
       "rank": 38,
-      "title": "人民币还是美元？铁矿石巨头低头记",
-      "url": "https://www.toutiao.com/trending/7559765449110474294/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
       "title": "宗馥莉押注“娃小宗”胜算几何",
       "url": "https://www.toutiao.com/trending/7559828220997013030/",
       "label": "new"
     },
     {
+      "rank": 39,
+      "title": "人民币还是美元？铁矿石巨头低头记",
+      "url": "https://www.toutiao.com/trending/7559765449110474294/",
+      "label": "new"
+    },
+    {
       "rank": 40,
-      "title": "高通为何被反垄断立案调查",
-      "url": "https://www.toutiao.com/trending/7559792787755896366/",
+      "title": "比卢普斯：我特别为杨瀚森感到骄傲",
+      "url": "https://www.toutiao.com/trending/7559169269687517227/",
       "label": "new"
     },
     {
       "rank": 41,
-      "title": "姚明与奥尼尔的“姚鲨重逢”",
-      "url": "https://www.toutiao.com/trending/7559181660639379492/",
-      "label": ""
-    },
-    {
-      "rank": 42,
       "title": "宗馥莉和娃哈哈是双输吗",
       "url": "https://www.toutiao.com/trending/7559832837851975194/",
       "label": "new"
+    },
+    {
+      "rank": 42,
+      "title": "朝“火星20”洲际弹道导弹性能如何",
+      "url": "https://www.toutiao.com/trending/7559825933775932964/",
+      "label": ""
     },
     {
       "rank": 43,
@@ -268,45 +268,45 @@
     },
     {
       "rank": 44,
+      "title": "卢拉：不会受制于某位外国总统情绪",
+      "url": "https://www.toutiao.com/trending/7559118860545474623/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "美不许中国航司经俄领空往返美能成吗",
+      "url": "https://www.toutiao.com/trending/7559818304496340543/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 46,
+      "title": "俄军重磅炸弹打爆乌机械化旅指挥所",
+      "url": "https://www.toutiao.com/trending/7558750533503746057/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
       "title": "官方：人民群众住房条件进一步改善",
       "url": "https://www.toutiao.com/trending/7559779438343225363/",
       "label": ""
     },
     {
-      "rank": 45,
-      "title": "于东来：胖东来对标的是世界顶级公司",
-      "url": "https://www.toutiao.com/trending/7559725669668634687/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "朝鲜女兵阅兵式舞剑英姿飒爽",
-      "url": "https://www.toutiao.com/trending/7559400909035274286/",
-      "label": ""
-    },
-    {
-      "rank": 47,
+      "rank": 48,
       "title": "吉林一号卫星工程组网卫星达141颗",
       "url": "https://www.toutiao.com/trending/7559121790544461843/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "孙颖莎王楚钦亚锦赛场地适应性训练",
       "url": "https://www.toutiao.com/trending/7559045688802967606/",
       "label": "new"
     },
     {
-      "rank": 49,
-      "title": "缅北电诈集团3要犯被公诉",
-      "url": "https://www.toutiao.com/trending/7559777953036173353/",
-      "label": ""
-    },
-    {
       "rank": 50,
-      "title": "俄军重磅炸弹打爆乌机械化旅指挥所",
-      "url": "https://www.toutiao.com/trending/7558750533503746057/",
-      "label": "new"
+      "title": "朝鲜女兵阅兵式舞剑英姿飒爽",
+      "url": "https://www.toutiao.com/trending/7559400909035274286/",
+      "label": ""
     }
   ]
 }
