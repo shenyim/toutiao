@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Sat, 11 Oct 2025 16:30:05 GMT",
+  "generated_at": "Sat, 11 Oct 2025 16:35:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "树立全球妇女事业发展新的里程碑",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "德国就中国出台稀土新规表态",
       "url": "https://www.toutiao.com/trending/7559954828210736694/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 2,
@@ -82,20 +82,20 @@
     },
     {
       "rank": 13,
-      "title": "大爷理发给外币店主以为是假钱",
-      "url": "https://www.toutiao.com/trending/7558798416705437750/",
-      "label": ""
-    },
-    {
-      "rank": 14,
       "title": "业界惊呼：对美反制中方动真格了",
       "url": "https://www.toutiao.com/trending/7559890867465489930/",
       "label": ""
     },
     {
+      "rank": 14,
+      "title": "女子捅丈夫中途后悔 被判故意杀人罪",
+      "url": "https://www.toutiao.com/trending/7559803757845643315/",
+      "label": ""
+    },
+    {
       "rank": 15,
-      "title": "与狗狗久别重逢是啥感受",
-      "url": "https://www.toutiao.com/trending/7559777450054565942/",
+      "title": "外国游客吐槽中国游贵你咋看",
+      "url": "https://www.toutiao.com/trending/7559625163273338922/",
       "label": "forum"
     },
     {
@@ -112,117 +112,117 @@
     },
     {
       "rank": 18,
-      "title": "“人生的意义”小吃店老板回应爆红",
-      "url": "https://www.toutiao.com/trending/7559465050243825714/",
-      "label": ""
-    },
-    {
-      "rank": 19,
-      "title": "评论员：中国吹响贸易战全面反攻号角",
-      "url": "https://www.toutiao.com/trending/7559879914237726262/",
-      "label": ""
-    },
-    {
-      "rank": 20,
-      "title": "男子车祸身亡7年后家属才得知",
-      "url": "https://www.toutiao.com/trending/7559375761489264667/",
-      "label": ""
-    },
-    {
-      "rank": 21,
-      "title": "币圈暴跌启示录",
-      "url": "https://www.toutiao.com/trending/7559718252944064563/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "摩托疑死亡摇摆撞上花坛 驾驶员身亡",
-      "url": "https://www.toutiao.com/trending/7558773300642791487/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "南方的气温转折要来了",
-      "url": "https://www.toutiao.com/trending/7559424282347520043/",
-      "label": "new"
-    },
-    {
-      "rank": 24,
-      "title": "半年爆卖47万辆 比亚迪出海杀疯了",
-      "url": "https://www.toutiao.com/trending/7559929724231749174/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "孟凡利任广东省代省长",
-      "url": "https://www.toutiao.com/trending/7559882441482047003/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "孙颖莎为印度亚锦赛主办方录你好视频",
-      "url": "https://www.toutiao.com/trending/7559165168078487615/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "暴跌前夕币圈神秘“巨鲸”精准做空",
-      "url": "https://www.toutiao.com/trending/7559952373351714358/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "女子出轨两次后起诉离婚被判赔1万元",
-      "url": "https://www.toutiao.com/trending/7559888494664810538/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "朝鲜阅兵式为何在半夜举行",
-      "url": "https://www.toutiao.com/trending/7559771509535804967/",
-      "label": "hot"
-    },
-    {
-      "rank": 30,
-      "title": "下周起南北方气温都有大变化",
-      "url": "https://www.toutiao.com/trending/7558836352595410954/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "气候越来越反常 当北方不再“北方”",
-      "url": "https://www.toutiao.com/trending/7559875817715535414/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "女子捅丈夫中途后悔 被判故意杀人罪",
-      "url": "https://www.toutiao.com/trending/7559803757845643315/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "美刊评F-22对歼-16有哪些点值得关注",
-      "url": "https://www.toutiao.com/trending/7559958669530500654/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "女子在大兴安岭偶遇“屠狼机器”猞猁",
-      "url": "https://www.toutiao.com/trending/7558981131460132906/",
-      "label": ""
-    },
-    {
-      "rank": 35,
       "title": "男子躺沙发休息时蛇爬身上",
       "url": "https://www.toutiao.com/trending/7559551971830841371/",
       "label": ""
     },
     {
+      "rank": 19,
+      "title": "大爷理发给外币店主以为是假钱",
+      "url": "https://www.toutiao.com/trending/7558798416705437750/",
+      "label": ""
+    },
+    {
+      "rank": 20,
+      "title": "评论员：中国吹响贸易战全面反攻号角",
+      "url": "https://www.toutiao.com/trending/7559879914237726262/",
+      "label": ""
+    },
+    {
+      "rank": 21,
+      "title": "南方的气温转折要来了",
+      "url": "https://www.toutiao.com/trending/7559424282347520043/",
+      "label": "new"
+    },
+    {
+      "rank": 22,
+      "title": "孙颖莎为印度亚锦赛主办方录你好视频",
+      "url": "https://www.toutiao.com/trending/7559165168078487615/",
+      "label": ""
+    },
+    {
+      "rank": 23,
+      "title": "女子出轨两次后起诉离婚被判赔1万元",
+      "url": "https://www.toutiao.com/trending/7559888494664810538/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "币圈暴跌启示录",
+      "url": "https://www.toutiao.com/trending/7559718252944064563/",
+      "label": ""
+    },
+    {
+      "rank": 25,
+      "title": "摩托疑死亡摇摆撞上花坛 驾驶员身亡",
+      "url": "https://www.toutiao.com/trending/7558773300642791487/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "半年爆卖47万辆 比亚迪出海杀疯了",
+      "url": "https://www.toutiao.com/trending/7559929724231749174/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "孟凡利任广东省代省长",
+      "url": "https://www.toutiao.com/trending/7559882441482047003/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "男子车祸身亡7年后家属才得知",
+      "url": "https://www.toutiao.com/trending/7559375761489264667/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "暴跌前夕币圈神秘“巨鲸”精准做空",
+      "url": "https://www.toutiao.com/trending/7559952373351714358/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "“人生的意义”小吃店老板回应爆红",
+      "url": "https://www.toutiao.com/trending/7559465050243825714/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "女子在大兴安岭偶遇“屠狼机器”猞猁",
+      "url": "https://www.toutiao.com/trending/7558981131460132906/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "下周起南北方气温都有大变化",
+      "url": "https://www.toutiao.com/trending/7558836352595410954/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "泽连斯基同特朗普通电话",
+      "url": "https://www.toutiao.com/trending/7559956756647313450/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "美刊评F-22对歼-16有哪些点值得关注",
+      "url": "https://www.toutiao.com/trending/7559958669530500654/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "朝鲜阅兵式为何在半夜举行",
+      "url": "https://www.toutiao.com/trending/7559771509535804967/",
+      "label": "hot"
+    },
+    {
       "rank": 36,
-      "title": "中国为何突然对澳矿“亮红牌”",
-      "url": "https://www.toutiao.com/trending/7559865682666475058/",
-      "label": "depth"
+      "title": "驴友爬山捡到小蛇轮流抚摸 专家提醒",
+      "url": "https://www.toutiao.com/trending/7559572183727996947/",
+      "label": ""
     },
     {
       "rank": 37,
@@ -232,81 +232,81 @@
     },
     {
       "rank": 38,
-      "title": "泽连斯基同特朗普通电话",
-      "url": "https://www.toutiao.com/trending/7559956756647313450/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "中方一天6条反制公告传递啥信号",
-      "url": "https://www.toutiao.com/trending/7559814943818649130/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "驴友爬山捡到小蛇轮流抚摸 专家提醒",
-      "url": "https://www.toutiao.com/trending/7559572183727996947/",
-      "label": ""
-    },
-    {
-      "rank": 41,
       "title": "印度亚锦赛开赛首日场馆才搭建完成",
       "url": "https://www.toutiao.com/trending/7558978207173607450/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "巴基斯坦一警察培训中心夜间遭袭",
-      "url": "https://www.toutiao.com/trending/7559931549425156146/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
-      "title": "关税政策冲击美国零售业",
-      "url": "https://www.toutiao.com/trending/7559938197183008306/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
-      "title": "专家解读朝鲜“最强战略核武器”",
-      "url": "https://www.toutiao.com/trending/7559951237131554347/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "中国征美船舶费 皇家加勒比危矣",
-      "url": "https://www.toutiao.com/trending/7559793390158614055/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "美不许中国航司经俄领空往返美能成吗",
-      "url": "https://www.toutiao.com/trending/7559818304496340543/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 47,
+      "rank": 39,
       "title": "村民获180万拆迁款被控敲诈获刑10年",
       "url": "https://www.toutiao.com/trending/7559860790791274550/",
       "label": ""
     },
     {
-      "rank": 48,
-      "title": "朝鲜深夜阅兵展示了哪些大杀器",
-      "url": "https://www.toutiao.com/trending/7559913439968103978/",
-      "label": "hot"
-    },
-    {
-      "rank": 49,
-      "title": "湖北省公安厅经侦总队原总队长被查",
-      "url": "https://www.toutiao.com/trending/7559915559291224114/",
+      "rank": 40,
+      "title": "巴基斯坦一警察培训中心夜间遭袭",
+      "url": "https://www.toutiao.com/trending/7559931549425156146/",
       "label": "new"
     },
     {
-      "rank": 50,
-      "title": "美股重挫背后的三重博弈",
-      "url": "https://www.toutiao.com/trending/7559891428457844287/",
+      "rank": 41,
+      "title": "中方一天6条反制公告传递啥信号",
+      "url": "https://www.toutiao.com/trending/7559814943818649130/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "气候越来越反常 当北方不再“北方”",
+      "url": "https://www.toutiao.com/trending/7559875817715535414/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "高市早苗当不成日本首相了吗",
+      "url": "https://www.toutiao.com/trending/7559933490087595546/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "中国征美船舶费 皇家加勒比危矣",
+      "url": "https://www.toutiao.com/trending/7559793390158614055/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "美不许中国航司经俄领空往返美能成吗",
+      "url": "https://www.toutiao.com/trending/7559818304496340543/",
       "label": "interpretation"
+    },
+    {
+      "rank": 46,
+      "title": "专家解读朝鲜“最强战略核武器”",
+      "url": "https://www.toutiao.com/trending/7559951237131554347/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "宜宾有人贩子抢娃？警方：系误会",
+      "url": "https://www.toutiao.com/trending/7559939259709390874/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "网红打卡过的“炒八掺”生意火爆",
+      "url": "https://www.toutiao.com/trending/7559712224592592935/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "评论员：高市早苗首相梦恐彻底泡汤",
+      "url": "https://www.toutiao.com/trending/7559839404823416362/",
+      "label": ""
+    },
+    {
+      "rank": 50,
+      "title": "杨瀚森2分钟连砍10分",
+      "url": "https://www.toutiao.com/trending/7559822752887082515/",
+      "label": ""
     }
   ]
 }
