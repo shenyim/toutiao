@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Sun, 12 Oct 2025 07:30:05 GMT",
+  "generated_at": "Sun, 12 Oct 2025 07:35:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "树立全球妇女事业发展新的里程碑",
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "妈妈用旧羽绒服给女儿充羽绒被",
-      "url": "https://www.toutiao.com/trending/7559109272337793087/",
-      "label": ""
+      "title": "陕西一小区突发塌方 多车被埋",
+      "url": "https://www.toutiao.com/trending/7559721832552038443/",
+      "label": "onSite"
     },
     {
       "rank": 3,
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "中方回应美威胁对华加100%关税",
-      "url": "https://www.toutiao.com/trending/7560150398208790066/",
-      "label": ""
+      "title": "四川雅安芦山县发生4.7级地震",
+      "url": "https://www.toutiao.com/trending/7560233125600378943/",
+      "label": "new"
     },
     {
       "rank": 5,
-      "title": "陕西一小区突发塌方 多车被埋",
-      "url": "https://www.toutiao.com/trending/7559721832552038443/",
-      "label": "onSite"
+      "title": "妈妈用旧羽绒服给女儿充羽绒被",
+      "url": "https://www.toutiao.com/trending/7559109272337793087/",
+      "label": ""
     },
     {
       "rank": 6,
@@ -46,27 +46,27 @@
     },
     {
       "rank": 7,
+      "title": "中方回应美威胁对华加100%关税",
+      "url": "https://www.toutiao.com/trending/7560150398208790066/",
+      "label": ""
+    },
+    {
+      "rank": 8,
       "title": "男子合成保时捷女销冠不雅视频被拘",
       "url": "https://www.toutiao.com/trending/7559546898265296423/",
       "label": ""
     },
     {
-      "rank": 8,
-      "title": "下周A股是加仓还是撤退",
-      "url": "https://www.toutiao.com/trending/7560127046853070372/",
-      "label": "hot"
-    },
-    {
       "rank": 9,
-      "title": "如何看待印尼无缘世界杯",
-      "url": "https://www.toutiao.com/trending/7559826243355328531/",
+      "title": "你能区分湘菜和川菜吗",
+      "url": "https://www.toutiao.com/trending/7559887969194131495/",
       "label": "forum"
     },
     {
       "rank": 10,
-      "title": "高洪波骑自行车告别荣昌",
-      "url": "https://www.toutiao.com/trending/7560198544515141161/",
-      "label": ""
+      "title": "重庆通报“学生下跪”事件",
+      "url": "https://www.toutiao.com/trending/7559882258287444018/",
+      "label": "new"
     },
     {
       "rank": 11,
@@ -82,51 +82,51 @@
     },
     {
       "rank": 13,
-      "title": "女子痛斥丈夫中奖1000万后变心",
-      "url": "https://www.toutiao.com/trending/7559840411511095359/",
-      "label": ""
-    },
-    {
-      "rank": 14,
-      "title": "朝鲜深夜阅兵释放什么信号",
-      "url": "https://www.toutiao.com/trending/7560205829874421274/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 15,
-      "title": "你能区分湘菜和川菜吗",
-      "url": "https://www.toutiao.com/trending/7559887969194131495/",
-      "label": "forum"
-    },
-    {
-      "rank": 16,
       "title": "女生骑摩托车回校 父亲爷爷开车护送",
       "url": "https://www.toutiao.com/trending/7559178231304486958/",
       "label": ""
     },
     {
+      "rank": 14,
+      "title": "高洪波骑自行车告别荣昌",
+      "url": "https://www.toutiao.com/trending/7560198544515141161/",
+      "label": ""
+    },
+    {
+      "rank": 15,
+      "title": "如何看待印尼无缘世界杯",
+      "url": "https://www.toutiao.com/trending/7559826243355328531/",
+      "label": "forum"
+    },
+    {
+      "rank": 16,
+      "title": "朝鲜深夜阅兵释放什么信号",
+      "url": "https://www.toutiao.com/trending/7560205829874421274/",
+      "label": "interpretation"
+    },
+    {
       "rank": 17,
-      "title": "卡塔尔代表团遭遇车祸已致3死3伤",
-      "url": "https://www.toutiao.com/trending/7560099175565328435/",
+      "title": "女子痛斥丈夫中奖1000万后变心",
+      "url": "https://www.toutiao.com/trending/7559840411511095359/",
       "label": ""
     },
     {
       "rank": 18,
-      "title": "被拐25年千万富翁之子解清帅结婚",
-      "url": "https://www.toutiao.com/trending/7559546898265263655/",
-      "label": "hot"
+      "title": "兰州一小吃餐饮店发生闪爆致1死2伤",
+      "url": "https://www.toutiao.com/trending/7560144510556454948/",
+      "label": ""
     },
     {
       "rank": 19,
-      "title": "女孩大口吃父母摊位剩食意外走红",
-      "url": "https://www.toutiao.com/trending/7558785025457373235/",
+      "title": "济南趵突泉地下水位直冲30米",
+      "url": "https://www.toutiao.com/trending/7559163133177266239/",
       "label": ""
     },
     {
       "rank": 20,
-      "title": "重庆通报“学生下跪”事件",
-      "url": "https://www.toutiao.com/trending/7559882258287444018/",
-      "label": "new"
+      "title": "中方回应美将对中国船舶征收港口费",
+      "url": "https://www.toutiao.com/trending/7560177317499325961/",
+      "label": ""
     },
     {
       "rank": 21,
@@ -136,75 +136,75 @@
     },
     {
       "rank": 22,
-      "title": "陕西出现1961年以来第二强严重连阴雨",
-      "url": "https://www.toutiao.com/trending/7559567347612024878/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "阿富汗与巴基斯坦边境发生交火",
-      "url": "https://www.toutiao.com/trending/7559900191932629043/",
-      "label": "hot"
-    },
-    {
-      "rank": 24,
-      "title": "中方回应美将对中国船舶征收港口费",
-      "url": "https://www.toutiao.com/trending/7560177317499325961/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "兰州一小吃餐饮店发生闪爆致1死2伤",
-      "url": "https://www.toutiao.com/trending/7560144510556454948/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "币圈为何遭遇“史诗级暴跌”",
-      "url": "https://www.toutiao.com/trending/7560175482960875062/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
-      "title": "商务部再谈反制美“301调查”措施",
-      "url": "https://www.toutiao.com/trending/7560015890092163122/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
-      "title": "济南趵突泉地下水位直冲30米",
-      "url": "https://www.toutiao.com/trending/7559163133177266239/",
-      "label": ""
-    },
-    {
-      "rank": 29,
       "title": "工作人员称张靓颖腿和胳膊伤势严重",
       "url": "https://www.toutiao.com/trending/7559967519029870655/",
       "label": "hot"
     },
     {
+      "rank": 23,
+      "title": "币圈为何遭遇“史诗级暴跌”",
+      "url": "https://www.toutiao.com/trending/7560175482960875062/",
+      "label": "new"
+    },
+    {
+      "rank": 24,
+      "title": "阿富汗与巴基斯坦边境发生交火",
+      "url": "https://www.toutiao.com/trending/7559900191932629043/",
+      "label": "hot"
+    },
+    {
+      "rank": 25,
+      "title": "卡塔尔代表团遭遇车祸已致3死3伤",
+      "url": "https://www.toutiao.com/trending/7560099175565328435/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "被拐25年千万富翁之子解清帅结婚",
+      "url": "https://www.toutiao.com/trending/7559546898265263655/",
+      "label": "hot"
+    },
+    {
+      "rank": 27,
+      "title": "下周A股是加仓还是撤退",
+      "url": "https://www.toutiao.com/trending/7560127046853070372/",
+      "label": "hot"
+    },
+    {
+      "rank": 28,
+      "title": "陕西出现1961年以来第二强严重连阴雨",
+      "url": "https://www.toutiao.com/trending/7559567347612024878/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "女孩大口吃父母摊位剩食意外走红",
+      "url": "https://www.toutiao.com/trending/7558785025457373235/",
+      "label": ""
+    },
+    {
       "rank": 30,
+      "title": "男子自学印制伪钞1650张被判刑",
+      "url": "https://www.toutiao.com/trending/7560167455143247913/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "商务部再谈反制美“301调查”措施",
+      "url": "https://www.toutiao.com/trending/7560015890092163122/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
       "title": "美股全线暴跌对A股冲击会有多大",
       "url": "https://www.toutiao.com/trending/7560106683574259251/",
       "label": "interpretation"
     },
     {
-      "rank": 31,
-      "title": "专家：中方反制意在将谈判拉回正轨",
-      "url": "https://www.toutiao.com/trending/7560137681779297802/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "深铁兼万科董事长辛杰被曝失联",
-      "url": "https://www.toutiao.com/trending/7560126788676881930/",
-      "label": ""
-    },
-    {
       "rank": 33,
-      "title": "美股三季报开启 AI依旧是焦点",
-      "url": "https://www.toutiao.com/trending/7560157492764741129/",
-      "label": "new"
+      "title": "名嘴：金正恩反对“台独”是敲打日本",
+      "url": "https://www.toutiao.com/trending/7559541422052098102/",
+      "label": ""
     },
     {
       "rank": 34,
@@ -214,98 +214,98 @@
     },
     {
       "rank": 35,
-      "title": "特朗普为何邀伊朗参加加沙问题峰会",
-      "url": "https://www.toutiao.com/trending/7560134717618523657/",
-      "label": "new"
+      "title": "深铁兼万科董事长辛杰被曝失联",
+      "url": "https://www.toutiao.com/trending/7560126788676881930/",
+      "label": ""
     },
     {
       "rank": 36,
-      "title": "国家烟草专卖局副局长韩占武被查",
-      "url": "https://www.toutiao.com/trending/7560149104656875546/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "男子自学印制伪钞1650张被判刑",
-      "url": "https://www.toutiao.com/trending/7560167455143247913/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "女子吐槽丈夫婚后变脸",
-      "url": "https://www.toutiao.com/trending/7559813175642980390/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "中国海警局回应菲方侵闯铁线礁",
-      "url": "https://www.toutiao.com/trending/7559553217399947318/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
       "title": "张靓颖回应摔下2米高舞台",
       "url": "https://www.toutiao.com/trending/7559967648327696427/",
       "label": "hot"
     },
     {
-      "rank": 41,
+      "rank": 37,
       "title": "专家：中方反制戳到美国“大动脉”",
       "url": "https://www.toutiao.com/trending/7560117116578303526/",
       "label": "interpretation"
     },
     {
-      "rank": 42,
+      "rank": 38,
+      "title": "特朗普为何邀伊朗参加加沙问题峰会",
+      "url": "https://www.toutiao.com/trending/7560134717618523657/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
+      "title": "女子吐槽丈夫婚后变脸",
+      "url": "https://www.toutiao.com/trending/7559813175642980390/",
+      "label": ""
+    },
+    {
+      "rank": 40,
       "title": "连输五场积0分 湘超球员场边落泪",
       "url": "https://www.toutiao.com/trending/7560199258104958515/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "律师：王暖暖离婚案50万赔偿罕见",
-      "url": "https://www.toutiao.com/trending/7560169456769437247/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
-      "title": "101岁院士被蹭合影 合影当事人回应",
-      "url": "https://www.toutiao.com/trending/7559571620516335145/",
-      "label": ""
-    },
-    {
-      "rank": 45,
+      "rank": 41,
       "title": "如何看待巴沙尔被曝沉迷网游",
       "url": "https://www.toutiao.com/trending/7560152597596737034/",
       "label": "interpretation"
     },
     {
-      "rank": 46,
-      "title": "四次历史性大跌暴露加密货币内在缺陷",
-      "url": "https://www.toutiao.com/trending/7560122223579631146/",
-      "label": "depth"
-    },
-    {
-      "rank": 47,
-      "title": "《命悬一生》真相出人意料",
-      "url": "https://www.toutiao.com/trending/7560162519243820587/",
-      "label": ""
-    },
-    {
-      "rank": 48,
-      "title": "政府“停摆” 特朗普要求确保发军饷",
-      "url": "https://www.toutiao.com/trending/7560154204858224182/",
+      "rank": 42,
+      "title": "专家：中方反制意在将谈判拉回正轨",
+      "url": "https://www.toutiao.com/trending/7560137681779297802/",
       "label": "new"
     },
     {
-      "rank": 49,
+      "rank": 43,
       "title": "速读全球第三大稳定币短暂脱锚事件",
       "url": "https://www.toutiao.com/trending/7560156994003275327/",
       "label": "new"
     },
     {
+      "rank": 44,
+      "title": "中国海警局回应菲方侵闯铁线礁",
+      "url": "https://www.toutiao.com/trending/7559553217399947318/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "商务部回应近期中方相关经贸政策措施",
+      "url": "https://www.toutiao.com/trending/7560168771680210482/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "云南丽江一景点被指画风诡异",
+      "url": "https://www.toutiao.com/trending/7559961107282214950/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "朝鲜火星20导弹有能力击碎美韩同盟吗",
+      "url": "https://www.toutiao.com/trending/7560163019225828891/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "媒体：解决公交拥挤不能让老人退场",
+      "url": "https://www.toutiao.com/trending/7560121381816372787/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
+      "title": "政府“停摆” 特朗普要求确保发军饷",
+      "url": "https://www.toutiao.com/trending/7560154204858224182/",
+      "label": "new"
+    },
+    {
       "rank": 50,
-      "title": "美军高官称不会向加沙派驻地面部队",
-      "url": "https://www.toutiao.com/trending/7559975581212639259/",
+      "title": "以色列为何空袭黎巴嫩真主党目标",
+      "url": "https://www.toutiao.com/trending/7560165554795859510/",
       "label": "new"
     }
   ]
