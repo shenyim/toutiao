@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 13 Oct 2025 01:20:05 GMT",
+  "generated_at": "Mon, 13 Oct 2025 01:25:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记为“她”点赞",
@@ -36,7 +36,7 @@
       "rank": 5,
       "title": "美股期指集体反弹",
       "url": "https://www.toutiao.com/trending/7560480850865835529/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 6,
@@ -58,14 +58,14 @@
     },
     {
       "rank": 9,
-      "title": "比特币向上升破115000美元",
-      "url": "https://www.toutiao.com/trending/7560207426181316649/",
+      "title": "牛弹琴：巴阿大打出手 战况惨烈",
+      "url": "https://www.toutiao.com/trending/7560488582012472851/",
       "label": ""
     },
     {
       "rank": 10,
-      "title": "景区：趵突泉下没水泵但确有水管",
-      "url": "https://www.toutiao.com/trending/7560484678663376435/",
+      "title": "比特币向上升破115000美元",
+      "url": "https://www.toutiao.com/trending/7560207426181316649/",
       "label": ""
     },
     {
@@ -88,21 +88,21 @@
     },
     {
       "rank": 14,
-      "title": "牛弹琴：巴阿大打出手 战况惨烈",
-      "url": "https://www.toutiao.com/trending/7560488582012472851/",
+      "title": "景区：趵突泉下没水泵但确有水管",
+      "url": "https://www.toutiao.com/trending/7560484678663376435/",
       "label": ""
     },
     {
       "rank": 15,
-      "title": "张学政与闻泰的崛起为何栽在荷兰安世",
-      "url": "https://www.toutiao.com/trending/7560485192863845934/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 16,
       "title": "沈月与半裸男模对视捂脸低头笑",
       "url": "https://www.toutiao.com/trending/7560284583548321835/",
       "label": ""
+    },
+    {
+      "rank": 16,
+      "title": "张学政与闻泰的崛起为何栽在荷兰安世",
+      "url": "https://www.toutiao.com/trending/7560485192863845934/",
+      "label": "interpretation"
     },
     {
       "rank": 17,
@@ -130,81 +130,81 @@
     },
     {
       "rank": 21,
-      "title": "西安的雨把城墙都下绿了",
-      "url": "https://www.toutiao.com/trending/7560179363858300969/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "NBA主场首秀 队友夸杨瀚森不一般",
-      "url": "https://www.toutiao.com/trending/7560477586300603958/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "陈冰：中美贸易战进入决战美国露怯",
-      "url": "https://www.toutiao.com/trending/7560334849270091290/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "苏超淘汰球队喊话明年再战：全是世仇",
-      "url": "https://www.toutiao.com/trending/7560209952401326089/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "中国海警公布菲船只侵闯铁线礁视频",
-      "url": "https://www.toutiao.com/trending/7560479077866409513/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "永州籍主持人伊一现身湘超赛场",
-      "url": "https://www.toutiao.com/trending/7559470324879392804/",
-      "label": ""
-    },
-    {
-      "rank": 27,
       "title": "孩子考试进步考了61分全家欢呼",
       "url": "https://www.toutiao.com/trending/7560237182201757750/",
       "label": "new"
     },
     {
-      "rank": 28,
-      "title": "母子俩拍回忆杀 网友误以为夫妻",
-      "url": "https://www.toutiao.com/trending/7560178880804438026/",
+      "rank": 22,
+      "title": "西安的雨把城墙都下绿了",
+      "url": "https://www.toutiao.com/trending/7560179363858300969/",
       "label": ""
     },
     {
-      "rank": 29,
-      "title": "加密货币市场或面临新的“黑天鹅”",
-      "url": "https://www.toutiao.com/trending/7560221254628691498/",
+      "rank": 23,
+      "title": "NBA主场首秀 队友夸杨瀚森不一般",
+      "url": "https://www.toutiao.com/trending/7560477586300603958/",
       "label": ""
     },
     {
-      "rank": 30,
+      "rank": 24,
       "title": "周杰伦自曝有时会恐慌发作无法上台",
       "url": "https://www.toutiao.com/trending/7560344316724887593/",
       "label": ""
     },
     {
-      "rank": 31,
+      "rank": 25,
+      "title": "永州籍主持人伊一现身湘超赛场",
+      "url": "https://www.toutiao.com/trending/7559470324879392804/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "苏超淘汰球队喊话明年再战：全是世仇",
+      "url": "https://www.toutiao.com/trending/7560209952401326089/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
+      "title": "中国海警公布菲船只侵闯铁线礁视频",
+      "url": "https://www.toutiao.com/trending/7560479077866409513/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "陈冰：中美贸易战进入决战美国露怯",
+      "url": "https://www.toutiao.com/trending/7560334849270091290/",
+      "label": ""
+    },
+    {
+      "rank": 29,
       "title": "川超门将用屁股上演神扑救",
       "url": "https://www.toutiao.com/trending/7560483327627578889/",
       "label": "onSite"
     },
     {
+      "rank": 30,
+      "title": "母子俩拍回忆杀 网友误以为夫妻",
+      "url": "https://www.toutiao.com/trending/7560178880804438026/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "未来A股会怎么走",
+      "url": "https://www.toutiao.com/trending/7560493721465130534/",
+      "label": "interpretation"
+    },
+    {
       "rank": 32,
-      "title": "巴基斯坦称200余人在夜间冲突丧生",
-      "url": "https://www.toutiao.com/trending/7560219596517326894/",
+      "title": "加密货币市场或面临新的“黑天鹅”",
+      "url": "https://www.toutiao.com/trending/7560221254628691498/",
       "label": ""
     },
     {
       "rank": 33,
-      "title": "未来A股会怎么走",
-      "url": "https://www.toutiao.com/trending/7560493721465130534/",
-      "label": "interpretation"
+      "title": "巴基斯坦称200余人在夜间冲突丧生",
+      "url": "https://www.toutiao.com/trending/7560219596517326894/",
+      "label": ""
     },
     {
       "rank": 34,
@@ -214,98 +214,98 @@
     },
     {
       "rank": 35,
-      "title": "这些素菜是血糖“刺客”",
-      "url": "https://www.toutiao.com/trending/7559928470294642707/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "美被曝帮乌方制定袭击俄路线",
-      "url": "https://www.toutiao.com/trending/7560208770375204903/",
-      "label": ""
-    },
-    {
-      "rank": 37,
       "title": "NBA中国赛次战曾凡博未获出场机会",
       "url": "https://www.toutiao.com/trending/7559742869691826202/",
       "label": ""
     },
     {
+      "rank": 36,
+      "title": "这些素菜是血糖“刺客”",
+      "url": "https://www.toutiao.com/trending/7559928470294642707/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "克宫担忧美或向乌提供战斧导弹",
+      "url": "https://www.toutiao.com/trending/7560321117770088484/",
+      "label": ""
+    },
+    {
       "rank": 38,
-      "title": "亚洲首个电磁弹射微重力实验装置揭秘",
-      "url": "https://www.toutiao.com/trending/7560208144145317930/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "美专家：以色列没有美国就是弱国",
-      "url": "https://www.toutiao.com/trending/7559950618123763721/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "民航从业者：美打波音牌是没牌打了",
-      "url": "https://www.toutiao.com/trending/7560475043373780522/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
       "title": "广州公交站S型护栏拆除 官方致歉",
       "url": "https://www.toutiao.com/trending/7560178539581227051/",
       "label": "new"
     },
     {
-      "rank": 42,
+      "rank": 39,
+      "title": "民航从业者：美打波音牌是没牌打了",
+      "url": "https://www.toutiao.com/trending/7560475043373780522/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "美被曝帮乌方制定袭击俄路线",
+      "url": "https://www.toutiao.com/trending/7560208770375204903/",
+      "label": ""
+    },
+    {
+      "rank": 41,
       "title": "“搞抽象”为何成互联网走红秘籍",
       "url": "https://www.toutiao.com/trending/7560209098138979881/",
       "label": "new"
     },
     {
+      "rank": 42,
+      "title": "亚洲首个电磁弹射微重力实验装置揭秘",
+      "url": "https://www.toutiao.com/trending/7560208144145317930/",
+      "label": ""
+    },
+    {
       "rank": 43,
-      "title": "关税阴霾再临 “稀土牌”效力如何",
-      "url": "https://www.toutiao.com/trending/7560485480307887670/",
-      "label": "interpretation"
+      "title": "美专家：以色列没有美国就是弱国",
+      "url": "https://www.toutiao.com/trending/7559950618123763721/",
+      "label": ""
     },
     {
       "rank": 44,
-      "title": "“螺丝钉危机”揭示“台独”困境",
-      "url": "https://www.toutiao.com/trending/7560476189275226175/",
-      "label": "new"
-    },
-    {
-      "rank": 45,
-      "title": "中方回应美威胁对华加100%关税",
-      "url": "https://www.toutiao.com/trending/7560150398208790066/",
-      "label": "hot"
-    },
-    {
-      "rank": 46,
       "title": "悬疑剧《命悬一生》尺度拉满",
       "url": "https://www.toutiao.com/trending/7559829284232249380/",
       "label": "new"
     },
     {
-      "rank": 47,
+      "rank": 45,
+      "title": "“螺丝钉危机”揭示“台独”困境",
+      "url": "https://www.toutiao.com/trending/7560476189275226175/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
       "title": "中国楼市转型释信号",
       "url": "https://www.toutiao.com/trending/7560154752831458879/",
       "label": ""
     },
     {
-      "rank": 48,
-      "title": "媒体：重诺守信才能稳定中美经贸关系",
-      "url": "https://www.toutiao.com/trending/7559361684721123369/",
+      "rank": 47,
+      "title": "俄称打击乌能源设施乌称夺回一定居点",
+      "url": "https://www.toutiao.com/trending/7560401179467595830/",
       "label": ""
     },
     {
-      "rank": 49,
-      "title": "现货黄金升至每盎司4060美元上方",
-      "url": "https://www.toutiao.com/trending/7560485732788227593/",
+      "rank": 48,
+      "title": "美政府超4000人将失业",
+      "url": "https://www.toutiao.com/trending/7560490721447251498/",
       "label": "new"
     },
     {
+      "rank": 49,
+      "title": "川超也有脚后跟进球了",
+      "url": "https://www.toutiao.com/trending/7560278631767998490/",
+      "label": "onSite"
+    },
+    {
       "rank": 50,
-      "title": "湘超株洲队主场3比0轻取怀化队",
-      "url": "https://www.toutiao.com/trending/7559780460264734730/",
+      "title": "美国防部计划采购10亿美元关键矿产",
+      "url": "https://www.toutiao.com/trending/7560492734008528410/",
       "label": "new"
     }
   ]
