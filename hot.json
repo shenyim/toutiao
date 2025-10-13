@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 13 Oct 2025 07:57:46 GMT",
+  "generated_at": "Mon, 13 Oct 2025 08:00:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记重要讲话指引妇女事业发展",
@@ -40,8 +40,8 @@
     },
     {
       "rank": 6,
-      "title": "美政府停摆近两周 特朗普趁机大裁员",
-      "url": "https://www.toutiao.com/trending/7560582028605787690/",
+      "title": "女生跳楼身亡 父母起诉物业等被驳回",
+      "url": "https://www.toutiao.com/trending/7560176369960288319/",
       "label": "new"
     },
     {
@@ -58,15 +58,15 @@
     },
     {
       "rank": 9,
-      "title": "女生跳楼身亡 父母起诉物业等被驳回",
-      "url": "https://www.toutiao.com/trending/7560176369960288319/",
+      "title": "美政府停摆近两周 特朗普趁机大裁员",
+      "url": "https://www.toutiao.com/trending/7560582028605787690/",
       "label": "new"
     },
     {
       "rank": 10,
-      "title": "紫金矿业又拿下一座金矿",
-      "url": "https://www.toutiao.com/trending/7559858364059418660/",
-      "label": ""
+      "title": "《沉默的荣耀》最阴险的人是谁",
+      "url": "https://www.toutiao.com/trending/7559896679337394215/",
+      "label": "depth"
     },
     {
       "rank": 11,
@@ -82,9 +82,9 @@
     },
     {
       "rank": 13,
-      "title": "《沉默的荣耀》最阴险的人是谁",
-      "url": "https://www.toutiao.com/trending/7559896679337394215/",
-      "label": "depth"
+      "title": "紫金矿业又拿下一座金矿",
+      "url": "https://www.toutiao.com/trending/7559858364059418660/",
+      "label": ""
     },
     {
       "rank": 14,
@@ -94,27 +94,27 @@
     },
     {
       "rank": 15,
-      "title": "长期不上班会变成什么样子",
-      "url": "https://www.toutiao.com/trending/7560206583024992292/",
+      "title": "老师考公校长不签字你遇过吗",
+      "url": "https://www.toutiao.com/trending/7560566824581562404/",
       "label": "forum"
     },
     {
       "rank": 16,
-      "title": "戈壁滩“为人民服务”大字遭破坏",
-      "url": "https://www.toutiao.com/trending/7560146343282933823/",
-      "label": ""
-    },
-    {
-      "rank": 17,
       "title": "巴基斯坦空袭阿富汗 印度机会来了吗",
       "url": "https://www.toutiao.com/trending/7560582945417743908/",
       "label": ""
     },
     {
-      "rank": 18,
+      "rank": 17,
       "title": "金价还能涨多高",
       "url": "https://www.toutiao.com/trending/7560579461146480170/",
       "label": "new"
+    },
+    {
+      "rank": 18,
+      "title": "戈壁滩“为人民服务”大字遭破坏",
+      "url": "https://www.toutiao.com/trending/7560146343282933823/",
+      "label": ""
     },
     {
       "rank": 19,
@@ -124,9 +124,9 @@
     },
     {
       "rank": 20,
-      "title": "立讯精密公告对闻泰科技资产收购情况",
-      "url": "https://www.toutiao.com/trending/7560525664349064730/",
-      "label": ""
+      "title": "中美贸易战为何又开打",
+      "url": "https://www.toutiao.com/trending/7560521963001613833/",
+      "label": "interpretation"
     },
     {
       "rank": 21,
@@ -142,9 +142,9 @@
     },
     {
       "rank": 23,
-      "title": "中美贸易战为何又开打",
-      "url": "https://www.toutiao.com/trending/7560521963001613833/",
-      "label": "interpretation"
+      "title": "立讯精密公告对闻泰科技资产收购情况",
+      "url": "https://www.toutiao.com/trending/7560525664349064730/",
+      "label": ""
     },
     {
       "rank": 24,
@@ -154,27 +154,27 @@
     },
     {
       "rank": 25,
-      "title": "闻泰半导体资产被冻结背后",
-      "url": "https://www.toutiao.com/trending/7560543364307750436/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
       "title": "辛杰曾多次代表深铁力挺万科",
       "url": "https://www.toutiao.com/trending/7560512175631240754/",
       "label": ""
     },
     {
-      "rank": 27,
-      "title": "美国跟委内瑞拉要打起来了吗",
-      "url": "https://www.toutiao.com/trending/7560590337077415467/",
-      "label": "interpretation"
+      "rank": 26,
+      "title": "闻泰半导体资产被冻结背后",
+      "url": "https://www.toutiao.com/trending/7560543364307750436/",
+      "label": "new"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "依法惩治“台独” 大陆再度“亮剑”",
       "url": "https://www.toutiao.com/trending/7559585712916709426/",
       "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "美国跟委内瑞拉要打起来了吗",
+      "url": "https://www.toutiao.com/trending/7560590337077415467/",
+      "label": "interpretation"
     },
     {
       "rank": 29,
@@ -184,33 +184,33 @@
     },
     {
       "rank": 30,
-      "title": "巴阿交火谁在劝和谁在搅和",
-      "url": "https://www.toutiao.com/trending/7560600012959256105/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 31,
       "title": "科创50指数涨1.4% 稀土永磁逆势大涨",
       "url": "https://www.toutiao.com/trending/7559914697194455076/",
       "label": "new"
     },
     {
-      "rank": 32,
-      "title": "赖清德妄图“以武谋独”只会带来灾难",
-      "url": "https://www.toutiao.com/trending/7559910893615579178/",
-      "label": ""
+      "rank": 31,
+      "title": "阿富汗与巴基斯坦大打出手为哪般",
+      "url": "https://www.toutiao.com/trending/7560595496033586742/",
+      "label": "new"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "title": "万科董事长辛杰为何突然辞职",
       "url": "https://www.toutiao.com/trending/7560592302297583158/",
       "label": "interpretation"
     },
     {
-      "rank": 34,
-      "title": "演员洛桑群培去世 享年68岁",
-      "url": "https://www.toutiao.com/trending/7560558504881389604/",
+      "rank": 33,
+      "title": "电动自行车未投保交强险出事咋赔",
+      "url": "https://www.toutiao.com/trending/7559421408859013183/",
       "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "巴阿交火谁在劝和谁在搅和",
+      "url": "https://www.toutiao.com/trending/7560600012959256105/",
+      "label": "interpretation"
     },
     {
       "rank": 35,
@@ -226,38 +226,38 @@
     },
     {
       "rank": 37,
-      "title": "台学者：台湾投入军备竞赛将万劫不复",
-      "url": "https://www.toutiao.com/trending/7559480842415194162/",
-      "label": "new"
+      "title": "赖清德妄图“以武谋独”只会带来灾难",
+      "url": "https://www.toutiao.com/trending/7559910893615579178/",
+      "label": ""
     },
     {
       "rank": 38,
+      "title": "演员洛桑群培去世 享年68岁",
+      "url": "https://www.toutiao.com/trending/7560558504881389604/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
       "title": "业内：特朗普挑起关税战不得人心",
       "url": "https://www.toutiao.com/trending/7560592347826753078/",
       "label": "new"
     },
     {
-      "rank": 39,
+      "rank": 40,
+      "title": "卢卡申科：美不会向乌交付战斧导弹",
+      "url": "https://www.toutiao.com/trending/7559677572410327081/",
+      "label": ""
+    },
+    {
+      "rank": 41,
       "title": "深铁还会继续输血救万科吗",
       "url": "https://www.toutiao.com/trending/7560584025035771411/",
       "label": "interpretation"
     },
     {
-      "rank": 40,
-      "title": "卢卡申科：美不会向乌交付战斧导弹",
-      "url": "https://www.toutiao.com/trending/7559677572410327081/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "电动自行车未投保交强险出事咋赔",
-      "url": "https://www.toutiao.com/trending/7559421408859013183/",
-      "label": "new"
-    },
-    {
       "rank": 42,
-      "title": "阿富汗与巴基斯坦大打出手为哪般",
-      "url": "https://www.toutiao.com/trending/7560595496033586742/",
+      "title": "台学者：台湾投入军备竞赛将万劫不复",
+      "url": "https://www.toutiao.com/trending/7559480842415194162/",
       "label": "new"
     },
     {
@@ -286,21 +286,21 @@
     },
     {
       "rank": 47,
+      "title": "河南省粮食作物收获已过八成",
+      "url": "https://www.toutiao.com/trending/7560487443934527514/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
       "title": "企业家：中美贸易摩擦大概率美先松口",
       "url": "https://www.toutiao.com/trending/7560524481836355122/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "辛杰任内一年深铁9次输血万科近260亿",
       "url": "https://www.toutiao.com/trending/7560538413284199986/",
       "label": ""
-    },
-    {
-      "rank": 49,
-      "title": "河南省粮食作物收获已过八成",
-      "url": "https://www.toutiao.com/trending/7560487443934527514/",
-      "label": "new"
     },
     {
       "rank": 50,
