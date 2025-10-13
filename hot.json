@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 13 Oct 2025 10:20:04 GMT",
+  "generated_at": "Mon, 13 Oct 2025 10:25:03 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平在全球妇女峰会上提出四点建议",
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "马斯克“巨硬”项目能颠覆软件业吗",
-      "url": "https://www.toutiao.com/trending/7560532501543731219/",
-      "label": "forum"
+      "title": "沪深两市今日成交额合计2.35万亿元",
+      "url": "https://www.toutiao.com/trending/7560208520869150763/",
+      "label": ""
     },
     {
       "rank": 9,
@@ -64,8 +64,8 @@
     },
     {
       "rank": 10,
-      "title": "哈马斯已释放全部以方在世被扣押人员",
-      "url": "https://www.toutiao.com/trending/7559898682808700470/",
+      "title": "内塔尼亚胡：加沙战争已结束",
+      "url": "https://www.toutiao.com/trending/7559745074310332458/",
       "label": ""
     },
     {
@@ -76,14 +76,14 @@
     },
     {
       "rank": 12,
-      "title": "沪深两市今日成交额合计2.35万亿元",
-      "url": "https://www.toutiao.com/trending/7560208520869150763/",
-      "label": ""
+      "title": "马斯克“巨硬”项目能颠覆软件业吗",
+      "url": "https://www.toutiao.com/trending/7560532501543731219/",
+      "label": "forum"
     },
     {
       "rank": 13,
-      "title": "内塔尼亚胡：加沙战争已结束",
-      "url": "https://www.toutiao.com/trending/7559745074310332458/",
+      "title": "民工接了个语音通话14万被转走",
+      "url": "https://www.toutiao.com/trending/7559978080589283354/",
       "label": ""
     },
     {
@@ -94,15 +94,15 @@
     },
     {
       "rank": 15,
-      "title": "专家：特朗普对华打法该变了",
-      "url": "https://www.toutiao.com/trending/7560604471064006180/",
-      "label": "interpretation"
+      "title": "家里老人去世 孝子去亲戚家下跪报丧",
+      "url": "https://www.toutiao.com/trending/7560547146842357801/",
+      "label": "new"
     },
     {
       "rank": 16,
-      "title": "民工接了个语音通话14万被转走",
-      "url": "https://www.toutiao.com/trending/7559978080589283354/",
-      "label": ""
+      "title": "专家：特朗普对华打法该变了",
+      "url": "https://www.toutiao.com/trending/7560604471064006180/",
+      "label": "interpretation"
     },
     {
       "rank": 17,
@@ -112,63 +112,63 @@
     },
     {
       "rank": 18,
-      "title": "你喜欢秋雨绵绵的天气吗",
-      "url": "https://www.toutiao.com/trending/7560583228768223274/",
+      "title": "晚播小麦你有什么妙招",
+      "url": "https://www.toutiao.com/trending/7560498659855974442/",
       "label": "forum"
     },
     {
       "rank": 19,
-      "title": "专家：中方在南海上演水炮“追击战”",
-      "url": "https://www.toutiao.com/trending/7560598304258526763/",
-      "label": "new"
-    },
-    {
-      "rank": 20,
-      "title": "立讯精密公告对闻泰科技资产收购情况",
-      "url": "https://www.toutiao.com/trending/7560525664349064730/",
-      "label": "hot"
-    },
-    {
-      "rank": 21,
       "title": "巴基斯坦与阿富汗边境交火的背后",
       "url": "https://www.toutiao.com/trending/7560614587976912438/",
       "label": "new"
     },
     {
-      "rank": 22,
+      "rank": 20,
+      "title": "女子花几千元买的婚鞋少了一颗钻",
+      "url": "https://www.toutiao.com/trending/7560529919873499145/",
+      "label": "new"
+    },
+    {
+      "rank": 21,
       "title": "俄乌战场拐点要来了吗",
       "url": "https://www.toutiao.com/trending/7560606421289537063/",
       "label": ""
     },
     {
-      "rank": 23,
-      "title": "家里老人去世 孝子去亲戚家下跪报丧",
-      "url": "https://www.toutiao.com/trending/7560547146842357801/",
-      "label": "new"
-    },
-    {
-      "rank": 24,
-      "title": "为什么塔利班会站队印度",
-      "url": "https://www.toutiao.com/trending/7560591064533306922/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 25,
-      "title": "业内：10月投资风格要有所切换",
-      "url": "https://www.toutiao.com/trending/7560614794978414116/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
-      "title": "闻泰半导体资产被冻结背后",
-      "url": "https://www.toutiao.com/trending/7560543364307750436/",
+      "rank": 22,
+      "title": "全台多名议长倒戈支持郑丽文",
+      "url": "https://www.toutiao.com/trending/7559558013985488915/",
       "label": "hot"
     },
     {
-      "rank": 27,
+      "rank": 23,
       "title": "巴方出动重炮和坦克轰击阿富汗边境",
       "url": "https://www.toutiao.com/trending/7560579481941954057/",
       "label": "onSite"
+    },
+    {
+      "rank": 24,
+      "title": "哈马斯已释放全部以方在世被扣押人员",
+      "url": "https://www.toutiao.com/trending/7559898682808700470/",
+      "label": ""
+    },
+    {
+      "rank": 25,
+      "title": "专家：中方在南海上演水炮“追击战”",
+      "url": "https://www.toutiao.com/trending/7560598304258526763/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "女生跳楼身亡 父母起诉物业等被驳回",
+      "url": "https://www.toutiao.com/trending/7560176369960288319/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "以色列突袭黎巴嫩的动机是什么",
+      "url": "https://www.toutiao.com/trending/7560578798937181747/",
+      "label": "new"
     },
     {
       "rank": 28,
@@ -178,27 +178,27 @@
     },
     {
       "rank": 29,
-      "title": "全台多名议长倒戈支持郑丽文",
-      "url": "https://www.toutiao.com/trending/7559558013985488915/",
-      "label": "hot"
+      "title": "为什么塔利班会站队印度",
+      "url": "https://www.toutiao.com/trending/7560591064533306922/",
+      "label": "interpretation"
     },
     {
       "rank": 30,
+      "title": "闻泰半导体资产被冻结背后",
+      "url": "https://www.toutiao.com/trending/7560543364307750436/",
+      "label": "hot"
+    },
+    {
+      "rank": 31,
       "title": "金价还能涨多高",
       "url": "https://www.toutiao.com/trending/7560579461146480170/",
       "label": ""
     },
     {
-      "rank": 31,
-      "title": "克宫警告：俄乌冲突进入升级时刻",
-      "url": "https://www.toutiao.com/trending/7559903955342377023/",
-      "label": ""
-    },
-    {
       "rank": 32,
-      "title": "女生跳楼身亡 父母起诉物业等被驳回",
-      "url": "https://www.toutiao.com/trending/7560176369960288319/",
-      "label": ""
+      "title": "美国大豆会用人民币结算吗",
+      "url": "https://www.toutiao.com/trending/7560614559619239463/",
+      "label": "interpretation"
     },
     {
       "rank": 33,
@@ -214,27 +214,27 @@
     },
     {
       "rank": 35,
-      "title": "业内：十月风格切换 科技还强势吗",
-      "url": "https://www.toutiao.com/trending/7560579012863462931/",
-      "label": "new"
+      "title": "广东：夫妻可互查对方名下房产",
+      "url": "https://www.toutiao.com/trending/7560206363352252455/",
+      "label": ""
     },
     {
       "rank": 36,
-      "title": "足球报评印尼归化：主帅偏执葬送希望",
-      "url": "https://www.toutiao.com/trending/7560615265667386934/",
+      "title": "业内：10月投资风格要有所切换",
+      "url": "https://www.toutiao.com/trending/7560614794978414116/",
       "label": "new"
     },
     {
       "rank": 37,
-      "title": "万科董事长辛杰为何突然辞职",
-      "url": "https://www.toutiao.com/trending/7560592302297583158/",
-      "label": "interpretation"
+      "title": "万斯释放缓和信号 加密货币市场上涨",
+      "url": "https://www.toutiao.com/trending/7560624834795802154/",
+      "label": "new"
     },
     {
       "rank": 38,
-      "title": "美国大豆会用人民币结算吗",
-      "url": "https://www.toutiao.com/trending/7560614559619239463/",
-      "label": "interpretation"
+      "title": "克宫警告：俄乌冲突进入升级时刻",
+      "url": "https://www.toutiao.com/trending/7559903955342377023/",
+      "label": ""
     },
     {
       "rank": 39,
@@ -244,69 +244,69 @@
     },
     {
       "rank": 40,
-      "title": "气象部门保障秋季农业生产顺利开展",
-      "url": "https://www.toutiao.com/trending/7559920883486457919/",
+      "title": "足球报评印尼归化：主帅偏执葬送希望",
+      "url": "https://www.toutiao.com/trending/7560615265667386934/",
       "label": "new"
     },
     {
       "rank": 41,
+      "title": "立讯精密公告对闻泰科技资产收购情况",
+      "url": "https://www.toutiao.com/trending/7560525664349064730/",
+      "label": "hot"
+    },
+    {
+      "rank": 42,
+      "title": "中美关税战会卷土重来吗",
+      "url": "https://www.toutiao.com/trending/7560616447802609171/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 43,
+      "title": "哈马斯同意停火背后",
+      "url": "https://www.toutiao.com/trending/7560616285474655763/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
       "title": "学者：万斯搞错了美国衰落的根本原因",
       "url": "https://www.toutiao.com/trending/7560545100686691867/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "阿富汗与巴基斯坦大打出手为哪般",
-      "url": "https://www.toutiao.com/trending/7560595496033586742/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "女子花几千元买的婚鞋少了一颗钻",
-      "url": "https://www.toutiao.com/trending/7560529919873499145/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
-      "title": "美贸易代表：对中方反击感到意外",
-      "url": "https://www.toutiao.com/trending/7560547862182891054/",
-      "label": ""
-    },
-    {
       "rank": 45,
-      "title": "金龟子女儿自曝二胎流产",
-      "url": "https://www.toutiao.com/trending/7559519581484892201/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "广东：夫妻可互查对方名下房产",
-      "url": "https://www.toutiao.com/trending/7560206363352252455/",
-      "label": ""
-    },
-    {
-      "rank": 47,
       "title": "中方“以美之道”反制令美国叫苦不迭",
       "url": "https://www.toutiao.com/trending/7560616499073781291/",
       "label": "depth"
     },
     {
-      "rank": 48,
+      "rank": 46,
+      "title": "阿富汗与巴基斯坦大打出手为哪般",
+      "url": "https://www.toutiao.com/trending/7560595496033586742/",
+      "label": ""
+    },
+    {
+      "rank": 47,
       "title": "朝鲜阅兵给半岛局势带来哪些变化",
       "url": "https://www.toutiao.com/trending/7560604338985373203/",
       "label": "new"
     },
     {
+      "rank": 48,
+      "title": "万科董事长辛杰为何突然辞职",
+      "url": "https://www.toutiao.com/trending/7560592302297583158/",
+      "label": "interpretation"
+    },
+    {
       "rank": 49,
-      "title": "万科董事长辛杰辞职背后",
-      "url": "https://www.toutiao.com/trending/7560603776541789739/",
+      "title": "学者：中国稀土管制直击美国软肋",
+      "url": "https://www.toutiao.com/trending/7560595291238305319/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "学者：中国稀土管制直击美国软肋",
-      "url": "https://www.toutiao.com/trending/7560595291238305319/",
-      "label": ""
+      "title": "台民众吐槽台军“心战”装备",
+      "url": "https://www.toutiao.com/trending/7559675504673112127/",
+      "label": "new"
     }
   ]
 }
