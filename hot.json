@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 14 Oct 2025 04:54:20 GMT",
+  "generated_at": "Tue, 14 Oct 2025 04:55:12 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平全球妇女峰会讲话金句来了",
@@ -70,15 +70,15 @@
     },
     {
       "rank": 11,
-      "title": "发现邻居私挖地下室你会报警吗",
-      "url": "https://www.toutiao.com/trending/7560859362215100457/",
-      "label": "forum"
-    },
-    {
-      "rank": 12,
       "title": "微信好友互删后互动清除",
       "url": "https://www.toutiao.com/trending/7560558146574549002/",
       "label": ""
+    },
+    {
+      "rank": 12,
+      "title": "发现邻居私挖地下室你会报警吗",
+      "url": "https://www.toutiao.com/trending/7560859362215100457/",
+      "label": "forum"
     },
     {
       "rank": 13,
@@ -94,9 +94,9 @@
     },
     {
       "rank": 15,
-      "title": "荷兰不要低估中方维护正当权益的决心",
-      "url": "https://www.toutiao.com/trending/7560883675206782527/",
-      "label": "hot"
+      "title": "特朗普C位合影喊话：大家笑起来",
+      "url": "https://www.toutiao.com/trending/7560888494140182043/",
+      "label": "onSite"
     },
     {
       "rank": 16,
@@ -106,9 +106,9 @@
     },
     {
       "rank": 17,
-      "title": "特朗普C位合影喊话：大家笑起来",
-      "url": "https://www.toutiao.com/trending/7560888494140182043/",
-      "label": "onSite"
+      "title": "半导体行业协会就闻泰科技事件发声",
+      "url": "https://www.toutiao.com/trending/7560714171944386602/",
+      "label": ""
     },
     {
       "rank": 18,
@@ -118,27 +118,27 @@
     },
     {
       "rank": 19,
-      "title": "半导体行业协会就闻泰科技事件发声",
-      "url": "https://www.toutiao.com/trending/7560714171944386602/",
-      "label": ""
+      "title": "闻泰科技“保卫战”如何打",
+      "url": "https://www.toutiao.com/trending/7560898022859607593/",
+      "label": "depth"
     },
     {
       "rank": 20,
+      "title": "荷兰不要低估中方维护正当权益的决心",
+      "url": "https://www.toutiao.com/trending/7560883675206782527/",
+      "label": "hot"
+    },
+    {
+      "rank": 21,
       "title": "被主持人闭麦 万斯怒了",
       "url": "https://www.toutiao.com/trending/7560371535484141609/",
       "label": ""
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "专家：中国稀土战略正在发生关键转向",
       "url": "https://www.toutiao.com/trending/7560891518844669483/",
       "label": "interpretation"
-    },
-    {
-      "rank": 22,
-      "title": "闻泰科技“保卫战”如何打",
-      "url": "https://www.toutiao.com/trending/7560898022859607593/",
-      "label": "depth"
     },
     {
       "rank": 23,
@@ -154,20 +154,20 @@
     },
     {
       "rank": 25,
-      "title": "国内黄金饰品克价突破1200元",
-      "url": "https://www.toutiao.com/trending/7560907020056923658/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
       "title": "新手宝妈带娃焦虑出满头白发",
       "url": "https://www.toutiao.com/trending/7560706210345861156/",
       "label": "new"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "title": "两年哈以战争谁赢了",
       "url": "https://www.toutiao.com/trending/7560888171857186342/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 27,
+      "title": "金价离10000美元不远了吗",
+      "url": "https://www.toutiao.com/trending/7560904267347791369/",
       "label": "interpretation"
     },
     {
@@ -178,14 +178,14 @@
     },
     {
       "rank": 29,
-      "title": "金价离10000美元不远了吗",
-      "url": "https://www.toutiao.com/trending/7560904267347791369/",
-      "label": "interpretation"
+      "title": "加总理纠正特朗普将其称为“总统”",
+      "url": "https://www.toutiao.com/trending/7559794637356072996/",
+      "label": "new"
     },
     {
       "rank": 30,
-      "title": "加总理纠正特朗普将其称为“总统”",
-      "url": "https://www.toutiao.com/trending/7559794637356072996/",
+      "title": "国内黄金饰品克价突破1200元",
+      "url": "https://www.toutiao.com/trending/7560907020056923658/",
       "label": "new"
     },
     {
@@ -226,26 +226,26 @@
     },
     {
       "rank": 37,
-      "title": "特朗普旋风访问以色列四小时",
-      "url": "https://www.toutiao.com/trending/7560902462220029486/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
       "title": "湘超近半进球来自学生军",
       "url": "https://www.toutiao.com/trending/7560715785233891370/",
       "label": "new"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "加沙棋局谁才是赢家",
       "url": "https://www.toutiao.com/trending/7560888655888256566/",
       "label": "depth"
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "美军火商展示战斧导弹新型发射装置",
       "url": "https://www.toutiao.com/trending/7560792695292166185/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "特朗普旋风访问以色列四小时",
+      "url": "https://www.toutiao.com/trending/7560902462220029486/",
       "label": "new"
     },
     {
@@ -256,57 +256,57 @@
     },
     {
       "rank": 42,
-      "title": "买车购险缴税上牌一网通办下月起推行",
-      "url": "https://www.toutiao.com/trending/7560706268349448243/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
       "title": "中国“星链”狂飙",
       "url": "https://www.toutiao.com/trending/7560881834423242282/",
       "label": "interpretation"
     },
     {
-      "rank": 44,
-      "title": "中方对美船舶收费今起正式施行",
-      "url": "https://www.toutiao.com/trending/7560713935814164490/",
-      "label": ""
+      "rank": 43,
+      "title": "买车购险缴税上牌一网通办下月起推行",
+      "url": "https://www.toutiao.com/trending/7560706268349448243/",
+      "label": "new"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "专家断言2026银价有望达到100美元",
       "url": "https://www.toutiao.com/trending/7560890937040178707/",
       "label": "new"
     },
     {
+      "rank": 45,
+      "title": "中方对美船舶收费今起正式施行",
+      "url": "https://www.toutiao.com/trending/7560713935814164490/",
+      "label": ""
+    },
+    {
       "rank": 46,
+      "title": "美国GDP全球第一 政府为何会停摆",
+      "url": "https://www.toutiao.com/trending/7560883577773100554/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 47,
       "title": "印度乒乓球亚锦赛场馆到底有多热",
       "url": "https://www.toutiao.com/trending/7559734634695819315/",
       "label": "hot"
     },
     {
-      "rank": 47,
-      "title": "特朗普盟友狂卖“贝森特AI大会”赞助",
-      "url": "https://www.toutiao.com/trending/7560893399037906486/",
-      "label": "depth"
-    },
-    {
       "rank": 48,
-      "title": "美国与巴基斯坦关系升温背后有何考量",
-      "url": "https://www.toutiao.com/trending/7560899234354957887/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
       "title": "向太：后悔没早懂“慈母多败儿”",
       "url": "https://www.toutiao.com/trending/7560356454230949929/",
       "label": "new"
     },
     {
+      "rank": 49,
+      "title": "美国与巴基斯坦关系升温背后有何考量",
+      "url": "https://www.toutiao.com/trending/7560899234354957887/",
+      "label": "new"
+    },
+    {
       "rank": 50,
-      "title": "美国GDP全球第一 政府为何会停摆",
-      "url": "https://www.toutiao.com/trending/7560883577773100554/",
-      "label": "interpretation"
+      "title": "SpaceX证实星舰飞船已溅落至印度洋",
+      "url": "https://www.toutiao.com/trending/7560867602294505535/",
+      "label": ""
     }
   ]
 }
