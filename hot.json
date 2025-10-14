@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 14 Oct 2025 15:15:30 GMT",
+  "generated_at": "Tue, 14 Oct 2025 15:22:09 GMT",
   "top": {
     "rank": "置顶",
     "title": "行之苟有恒 久久自芬芳",
@@ -24,7 +24,7 @@
       "rank": 3,
       "title": "消费新场景激发经济强劲动能",
       "url": "https://www.toutiao.com/article/7560961954397487650",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 4,
@@ -40,9 +40,9 @@
     },
     {
       "rank": 6,
-      "title": "日本男足历史首胜巴西",
-      "url": "https://www.toutiao.com/trending/7561056045247024686/",
-      "label": "hot"
+      "title": "医生：头发容易油可能是洗得太勤了",
+      "url": "https://www.toutiao.com/trending/7560091468607504426/",
+      "label": ""
     },
     {
       "rank": 7,
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "医生：头发容易油可能是洗得太勤了",
-      "url": "https://www.toutiao.com/trending/7560091468607504426/",
-      "label": "new"
+      "title": "日本男足历史首胜巴西",
+      "url": "https://www.toutiao.com/trending/7561056045247024686/",
+      "label": "hot"
     },
     {
       "rank": 9,
@@ -88,15 +88,15 @@
     },
     {
       "rank": 14,
-      "title": "弟弟戴头巾掰玉米被姐姐误认成奶奶",
-      "url": "https://www.toutiao.com/trending/7560649673644949546/",
-      "label": ""
-    },
-    {
-      "rank": 15,
       "title": "荷兰回应“强制”接管中资芯片企业",
       "url": "https://www.toutiao.com/trending/7560929418953100851/",
       "label": "hot"
+    },
+    {
+      "rank": 15,
+      "title": "《沉默的荣耀》“麻将太太团”出圈",
+      "url": "https://www.toutiao.com/trending/7560183181154123785/",
+      "label": "new"
     },
     {
       "rank": 16,
@@ -106,26 +106,26 @@
     },
     {
       "rank": 17,
-      "title": "开豪车逃单你怎么看",
-      "url": "https://www.toutiao.com/trending/7560967504034775049/",
+      "title": "帮助他人时你期待回报吗",
+      "url": "https://www.toutiao.com/trending/7560952182712762419/",
       "label": "forum"
     },
     {
       "rank": 18,
-      "title": "《沉默的荣耀》“麻将太太团”出圈",
-      "url": "https://www.toutiao.com/trending/7560183181154123785/",
-      "label": "new"
-    },
-    {
-      "rank": 19,
       "title": "金价飙升带火洗沙盘",
       "url": "https://www.toutiao.com/trending/7561063810480475711/",
       "label": "new"
     },
     {
+      "rank": 19,
+      "title": "王世坚回应台媒唱《没出息》请求",
+      "url": "https://www.toutiao.com/trending/7560853065718071359/",
+      "label": ""
+    },
+    {
       "rank": 20,
-      "title": "森保一再成巨人杀手",
-      "url": "https://www.toutiao.com/trending/7560110534142689321/",
+      "title": "维尼修斯场边呆坐 目光呆滞",
+      "url": "https://www.toutiao.com/trending/7561057082653576755/",
       "label": "hot"
     },
     {
@@ -142,9 +142,9 @@
     },
     {
       "rank": 23,
-      "title": "日本胜巴西后全员激情庆祝",
-      "url": "https://www.toutiao.com/trending/7561023987304808491/",
-      "label": "hot"
+      "title": "日本成本世纪首支击败巴西的亚洲队",
+      "url": "https://www.toutiao.com/trending/7560704626132746267/",
+      "label": "new"
     },
     {
       "rank": 24,
@@ -154,111 +154,111 @@
     },
     {
       "rank": 25,
-      "title": "王世坚回应台媒唱《没出息》请求",
-      "url": "https://www.toutiao.com/trending/7560853065718071359/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "维尼修斯场边呆坐 目光呆滞",
-      "url": "https://www.toutiao.com/trending/7561057082653576755/",
-      "label": "hot"
-    },
-    {
-      "rank": 27,
       "title": "公务员招录年龄放宽释放了什么信号",
       "url": "https://www.toutiao.com/trending/7559887861613903913/",
       "label": "interpretation"
     },
     {
-      "rank": 28,
+      "rank": 26,
+      "title": "日本胜巴西后全员激情庆祝",
+      "url": "https://www.toutiao.com/trending/7561023987304808491/",
+      "label": "hot"
+    },
+    {
+      "rank": 27,
       "title": "被主持人闭麦 万斯怒了",
       "url": "https://www.toutiao.com/trending/7560371535484141609/",
       "label": ""
     },
     {
-      "rank": 29,
-      "title": "谭松韵发文回应暴瘦",
-      "url": "https://www.toutiao.com/trending/7560131990465298459/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "日本成本世纪首支击败巴西的亚洲队",
-      "url": "https://www.toutiao.com/trending/7560704626132746267/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
-      "title": "解清帅举办婚礼一天后奶奶离世",
-      "url": "https://www.toutiao.com/trending/7560315933647142958/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "iPhone 17系列无法激活？苹果回应",
-      "url": "https://www.toutiao.com/trending/7560947026498830374/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "为何说巴基斯坦没有侵犯中国稀土技术",
-      "url": "https://www.toutiao.com/trending/7560861413703634459/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 34,
-      "title": "糖尿病男子剪趾甲破皮失去10根脚趾",
-      "url": "https://www.toutiao.com/trending/7560896246441984039/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "金价突破4000美元 还该继续买入吗",
-      "url": "https://www.toutiao.com/trending/7561057761866321459/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "以军称打死数名越过停火线的嫌疑人",
-      "url": "https://www.toutiao.com/trending/7560543624019886099/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "青海网友拍下巨大管状物从天而降",
-      "url": "https://www.toutiao.com/trending/7560945250374615076/",
-      "label": "onSite"
-    },
-    {
-      "rank": 38,
-      "title": "宁波公开赛郭涵煜不敌8号种子",
-      "url": "https://www.toutiao.com/trending/7560990277750931494/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "土耳其总统劝意总理戒烟逗乐马克龙",
-      "url": "https://www.toutiao.com/trending/7560133313072414756/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "林子祥叶蒨文香港演唱会唱得过瘾",
-      "url": "https://www.toutiao.com/trending/7560854831322546215/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
+      "rank": 28,
       "title": "武汉国企掷6382万买沥青遇空罐和水",
       "url": "https://www.toutiao.com/trending/7560964743436779546/",
       "label": ""
     },
     {
-      "rank": 42,
+      "rank": 29,
+      "title": "森保一再成巨人杀手",
+      "url": "https://www.toutiao.com/trending/7560110534142689321/",
+      "label": "hot"
+    },
+    {
+      "rank": 30,
+      "title": "金价突破4000美元 还该继续买入吗",
+      "url": "https://www.toutiao.com/trending/7561057761866321459/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "谭松韵发文回应暴瘦",
+      "url": "https://www.toutiao.com/trending/7560131990465298459/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "为何说巴基斯坦没有侵犯中国稀土技术",
+      "url": "https://www.toutiao.com/trending/7560861413703634459/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 33,
+      "title": "糖尿病男子剪趾甲破皮失去10根脚趾",
+      "url": "https://www.toutiao.com/trending/7560896246441984039/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "解清帅举办婚礼一天后奶奶离世",
+      "url": "https://www.toutiao.com/trending/7560315933647142958/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "打虎！纪检“内鬼”许传智被查",
+      "url": "https://www.toutiao.com/trending/7560968104260993074/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "林子祥叶蒨文香港演唱会唱得过瘾",
+      "url": "https://www.toutiao.com/trending/7560854831322546215/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "土耳其总统劝意总理戒烟逗乐马克龙",
+      "url": "https://www.toutiao.com/trending/7560133313072414756/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "吉林一金矿资产竞拍激战931次",
+      "url": "https://www.toutiao.com/trending/7561046194131045931/",
+      "label": ""
+    },
+    {
+      "rank": 39,
       "title": "专家：战斧导弹入乌将给俄带来压力",
       "url": "https://www.toutiao.com/trending/7561047361619758655/",
       "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "iPhone 17系列无法激活？苹果回应",
+      "url": "https://www.toutiao.com/trending/7560947026498830374/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "小伙被催婚后在山里失踪9天遇难",
+      "url": "https://www.toutiao.com/trending/7560658493307600905/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "iPhone Air定于10月22日发售",
+      "url": "https://www.toutiao.com/trending/7560543369903325227/",
+      "label": "new"
     },
     {
       "rank": 43,
@@ -268,21 +268,21 @@
     },
     {
       "rank": 44,
+      "title": "业内：黄金价格仍然有上涨冲动",
+      "url": "https://www.toutiao.com/trending/7561048370240818727/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 45,
       "title": "中东会否迎来和平新开端",
       "url": "https://www.toutiao.com/trending/7560868414797922347/",
       "label": "new"
     },
     {
-      "rank": 45,
+      "rank": 46,
       "title": "特朗普要见泽连斯基",
       "url": "https://www.toutiao.com/trending/7561065398787903012/",
       "label": "new"
-    },
-    {
-      "rank": 46,
-      "title": "特朗普说喜欢和强人打交道",
-      "url": "https://www.toutiao.com/trending/7560441425821859882/",
-      "label": ""
     },
     {
       "rank": 47,
@@ -292,14 +292,14 @@
     },
     {
       "rank": 48,
-      "title": "吉林一金矿资产竞拍激战931次",
-      "url": "https://www.toutiao.com/trending/7561046194131045931/",
+      "title": "你用过“竹制十字裤架”吗",
+      "url": "https://www.toutiao.com/trending/7560682756137697326/",
       "label": ""
     },
     {
       "rank": 49,
-      "title": "iPhone Air定于10月22日发售",
-      "url": "https://www.toutiao.com/trending/7560543369903325227/",
+      "title": "男子手机落网约车被人转走2000多元",
+      "url": "https://www.toutiao.com/trending/7561033757428482075/",
       "label": "new"
     },
     {
