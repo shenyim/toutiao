@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 14 Oct 2025 05:45:04 GMT",
+  "generated_at": "Tue, 14 Oct 2025 05:50:03 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平全球妇女峰会讲话金句来了",
@@ -34,9 +34,9 @@
     },
     {
       "rank": 5,
-      "title": "中美昨日进行了工作层会谈",
-      "url": "https://www.toutiao.com/trending/7560878793456520713/",
-      "label": "hot"
+      "title": "16个月大幼儿被查出艾滋病",
+      "url": "https://www.toutiao.com/trending/7560715686802685991/",
+      "label": "new"
     },
     {
       "rank": 6,
@@ -46,21 +46,21 @@
     },
     {
       "rank": 7,
-      "title": "南京德基广场设会员专厕 需年消20万",
-      "url": "https://www.toutiao.com/trending/7560905595763576356/",
-      "label": "new"
+      "title": "中美昨日进行了工作层会谈",
+      "url": "https://www.toutiao.com/trending/7560878793456520713/",
+      "label": "hot"
     },
     {
       "rank": 8,
-      "title": "业主私挖300平地下室32户开裂",
-      "url": "https://www.toutiao.com/trending/7560671644193292314/",
-      "label": ""
+      "title": "特朗普马克龙上演26秒掰手腕式握手",
+      "url": "https://www.toutiao.com/trending/7560319512873058355/",
+      "label": "onSite"
     },
     {
       "rank": 9,
-      "title": "微信好友互删后互动清除",
-      "url": "https://www.toutiao.com/trending/7560558146574549002/",
-      "label": ""
+      "title": "发现邻居私挖地下室你会报警吗",
+      "url": "https://www.toutiao.com/trending/7560859362215100457/",
+      "label": "forum"
     },
     {
       "rank": 10,
@@ -76,15 +76,15 @@
     },
     {
       "rank": 12,
-      "title": "发现邻居私挖地下室你会报警吗",
-      "url": "https://www.toutiao.com/trending/7560859362215100457/",
-      "label": "forum"
+      "title": "业主私挖300平地下室32户开裂",
+      "url": "https://www.toutiao.com/trending/7560671644193292314/",
+      "label": ""
     },
     {
       "rank": 13,
-      "title": "美财长为何对华口风“软化”",
-      "url": "https://www.toutiao.com/trending/7560916811579936265/",
-      "label": "interpretation"
+      "title": "微信好友互删后互动清除",
+      "url": "https://www.toutiao.com/trending/7560558146574549002/",
+      "label": ""
     },
     {
       "rank": 14,
@@ -106,9 +106,9 @@
     },
     {
       "rank": 17,
-      "title": "16个月大幼儿被查出艾滋病",
-      "url": "https://www.toutiao.com/trending/7560715686802685991/",
-      "label": "new"
+      "title": "美财长为何对华口风“软化”",
+      "url": "https://www.toutiao.com/trending/7560916811579936265/",
+      "label": "interpretation"
     },
     {
       "rank": 18,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 19,
-      "title": "新手宝妈带娃焦虑出满头白发",
-      "url": "https://www.toutiao.com/trending/7560706210345861156/",
+      "title": "半导体行业协会就闻泰科技事件发声",
+      "url": "https://www.toutiao.com/trending/7560714171944386602/",
       "label": ""
     },
     {
       "rank": 20,
-      "title": "半导体行业协会就闻泰科技事件发声",
-      "url": "https://www.toutiao.com/trending/7560714171944386602/",
+      "title": "新手宝妈带娃焦虑出满头白发",
+      "url": "https://www.toutiao.com/trending/7560706210345861156/",
       "label": ""
     },
     {
@@ -142,15 +142,15 @@
     },
     {
       "rank": 23,
-      "title": "河南拟立法保障无偿献血者权益",
-      "url": "https://www.toutiao.com/trending/7560148877568393235/",
+      "title": "日媒打脸赖清德",
+      "url": "https://www.toutiao.com/trending/7560867837628350518/",
       "label": "new"
     },
     {
       "rank": 24,
-      "title": "美称欲与中方通话遭推迟 商务部回应",
-      "url": "https://www.toutiao.com/trending/7560353831533625380/",
-      "label": ""
+      "title": "牛肉产业要变天了吗",
+      "url": "https://www.toutiao.com/trending/7560886574490062355/",
+      "label": "interpretation"
     },
     {
       "rank": 25,
@@ -160,21 +160,21 @@
     },
     {
       "rank": 26,
-      "title": "日媒打脸赖清德",
-      "url": "https://www.toutiao.com/trending/7560867837628350518/",
-      "label": "new"
+      "title": "美称欲与中方通话遭推迟 商务部回应",
+      "url": "https://www.toutiao.com/trending/7560353831533625380/",
+      "label": ""
     },
     {
       "rank": 27,
-      "title": "牛肉产业要变天了吗",
-      "url": "https://www.toutiao.com/trending/7560886574490062355/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 28,
       "title": "国内黄金饰品克价突破1200元",
       "url": "https://www.toutiao.com/trending/7560907020056923658/",
       "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "河南拟立法保障无偿献血者权益",
+      "url": "https://www.toutiao.com/trending/7560148877568393235/",
+      "label": "new"
     },
     {
       "rank": 29,
@@ -190,9 +190,9 @@
     },
     {
       "rank": 31,
-      "title": "特朗普马克龙上演26秒掰手腕式握手",
-      "url": "https://www.toutiao.com/trending/7560319512873058355/",
-      "label": "onSite"
+      "title": "闻泰科技“保卫战”如何打",
+      "url": "https://www.toutiao.com/trending/7560898022859607593/",
+      "label": "depth"
     },
     {
       "rank": 32,
@@ -202,9 +202,9 @@
     },
     {
       "rank": 33,
-      "title": "闻泰科技“保卫战”如何打",
-      "url": "https://www.toutiao.com/trending/7560898022859607593/",
-      "label": "depth"
+      "title": "美国GDP全球第一 政府为何会停摆",
+      "url": "https://www.toutiao.com/trending/7560883577773100554/",
+      "label": "interpretation"
     },
     {
       "rank": 34,
@@ -214,9 +214,9 @@
     },
     {
       "rank": 35,
-      "title": "美国GDP全球第一 政府为何会停摆",
-      "url": "https://www.toutiao.com/trending/7560883577773100554/",
-      "label": "interpretation"
+      "title": "禁毒大队长走私毒品获刑 当庭上诉",
+      "url": "https://www.toutiao.com/trending/7560914584752652338/",
+      "label": "new"
     },
     {
       "rank": 36,
@@ -238,38 +238,38 @@
     },
     {
       "rank": 39,
-      "title": "禁毒大队长走私毒品获刑 当庭上诉",
-      "url": "https://www.toutiao.com/trending/7560914584752652338/",
+      "title": "美威胁对华加征关税 中国如何应对",
+      "url": "https://www.toutiao.com/trending/7560930273840352787/",
       "label": "new"
     },
     {
       "rank": 40,
-      "title": "“自动驾驶”绝非醉驾的免罪符",
-      "url": "https://www.toutiao.com/trending/7560234276911874090/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "专家：中国稀土战略正在发生关键转向",
-      "url": "https://www.toutiao.com/trending/7560891518844669483/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 42,
-      "title": "何超琼：中国女性在全球是最幸运的",
-      "url": "https://www.toutiao.com/trending/7560640040264728586/",
-      "label": ""
-    },
-    {
-      "rank": 43,
       "title": "英伟达再次押注“美版DeepSeek”",
       "url": "https://www.toutiao.com/trending/7560208991125536814/",
       "label": "new"
     },
     {
+      "rank": 41,
+      "title": "何超琼：中国女性在全球是最幸运的",
+      "url": "https://www.toutiao.com/trending/7560640040264728586/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "国考年龄放宽意味着什么",
+      "url": "https://www.toutiao.com/trending/7560127684806787135/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 43,
+      "title": "专家：中国稀土战略正在发生关键转向",
+      "url": "https://www.toutiao.com/trending/7560891518844669483/",
+      "label": "interpretation"
+    },
+    {
       "rank": 44,
-      "title": "美威胁对华加征关税 中国如何应对",
-      "url": "https://www.toutiao.com/trending/7560930273840352787/",
+      "title": "商务部敦促美方停止损害中方利益",
+      "url": "https://www.toutiao.com/trending/7559820734353735743/",
       "label": "new"
     },
     {
@@ -280,15 +280,15 @@
     },
     {
       "rank": 46,
-      "title": "大陆谍战新剧打破民进党“信息茧房”",
-      "url": "https://www.toutiao.com/trending/7560233948522201139/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
       "title": "美军能摆脱对中国稀土的依赖吗",
       "url": "https://www.toutiao.com/trending/7560882796785323558/",
       "label": "interpretation"
+    },
+    {
+      "rank": 47,
+      "title": "eSIM卡来了 三大运营商均已支持",
+      "url": "https://www.toutiao.com/trending/7559643850998824986/",
+      "label": ""
     },
     {
       "rank": 48,
@@ -298,15 +298,15 @@
     },
     {
       "rank": 49,
-      "title": "eSIM卡来了 三大运营商均已支持",
-      "url": "https://www.toutiao.com/trending/7559643850998824986/",
+      "title": "商务部：美方不能一边要谈一边威胁",
+      "url": "https://www.toutiao.com/trending/7560868084647657523/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "商务部：美方不能一边要谈一边威胁",
-      "url": "https://www.toutiao.com/trending/7560868084647657523/",
-      "label": ""
+      "title": "特朗普泽连斯基午餐会藏玄机",
+      "url": "https://www.toutiao.com/trending/7560867787233722404/",
+      "label": "new"
     }
   ]
 }
