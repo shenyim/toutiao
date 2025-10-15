@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 15 Oct 2025 04:15:04 GMT",
+  "generated_at": "Wed, 15 Oct 2025 04:25:10 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平总书记这份关心从未改变",
@@ -24,7 +24,7 @@
       "rank": 3,
       "title": "一组数据看牢牢端稳的“中国饭碗”",
       "url": "https://www.toutiao.com/article/7561031112600863283",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 4,
@@ -60,13 +60,13 @@
       "rank": 9,
       "title": "男子买的油蜡夹克硬得像密封袋",
       "url": "https://www.toutiao.com/trending/7560964576318636078/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 10,
-      "title": "遇到坠河事故你会出手救援吗",
-      "url": "https://www.toutiao.com/trending/7561065730167423019/",
-      "label": "forum"
+      "title": "王楚钦单局让张本智和得1分",
+      "url": "https://www.toutiao.com/trending/7561232112221834803/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -76,15 +76,15 @@
     },
     {
       "rank": 12,
-      "title": "王楚钦单局让张本智和得1分",
-      "url": "https://www.toutiao.com/trending/7561232112221834803/",
-      "label": "hot"
+      "title": "女童坠河被两小伙用鱼钩钩住得救",
+      "url": "https://www.toutiao.com/trending/7561033757428531227/",
+      "label": "new"
     },
     {
       "rank": 13,
-      "title": "全国大部将迎换季式降温",
-      "url": "https://www.toutiao.com/trending/7560622511844474890/",
-      "label": ""
+      "title": "国乒男团逆风翻盘哪个瞬间让你难忘",
+      "url": "https://www.toutiao.com/trending/7561132667698200627/",
+      "label": "forum"
     },
     {
       "rank": 14,
@@ -100,33 +100,33 @@
     },
     {
       "rank": 16,
+      "title": "2026世界杯已定28席",
+      "url": "https://www.toutiao.com/trending/7560222663378173990/",
+      "label": "new"
+    },
+    {
+      "rank": 17,
       "title": "蒋万安力挺郝龙斌参选国民党主席",
       "url": "https://www.toutiao.com/trending/7560853205303803947/",
       "label": "hot"
     },
     {
-      "rank": 17,
-      "title": "全球央行狂买黄金",
-      "url": "https://www.toutiao.com/trending/7561245934894452262/",
-      "label": ""
-    },
-    {
       "rank": 18,
-      "title": "荷兰回应“强制”接管中资芯片企业",
-      "url": "https://www.toutiao.com/trending/7560929418953100851/",
-      "label": "hot"
-    },
-    {
-      "rank": 19,
-      "title": "大陆介入国民党主席选举？国台办回应",
-      "url": "https://www.toutiao.com/trending/7560853582590820378/",
+      "title": "神曲《没出息》何以爆火两岸",
+      "url": "https://www.toutiao.com/trending/7560315486182309924/",
       "label": "new"
     },
     {
-      "rank": 20,
+      "rank": 19,
       "title": "于东来称胖东来账上有41亿",
       "url": "https://www.toutiao.com/trending/7560905595763822116/",
       "label": ""
+    },
+    {
+      "rank": 20,
+      "title": "大陆介入国民党主席选举？国台办回应",
+      "url": "https://www.toutiao.com/trending/7560853582590820378/",
+      "label": "new"
     },
     {
       "rank": 21,
@@ -136,176 +136,176 @@
     },
     {
       "rank": 22,
-      "title": "日本政坛更乱了 谁将是下任首相",
-      "url": "https://www.toutiao.com/trending/7561261085253176883/",
-      "label": ""
-    },
-    {
-      "rank": 23,
       "title": "经济日报：公平航道不容霸权阻拦",
       "url": "https://www.toutiao.com/trending/7561238149821923364/",
       "label": ""
     },
     {
-      "rank": 24,
-      "title": "女童坠河被两小伙用鱼钩钩住得救",
-      "url": "https://www.toutiao.com/trending/7561033757428531227/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "买100克金饰晚1年多花3万元",
-      "url": "https://www.toutiao.com/trending/7561272116566298151/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "老板回应自创火烧咖啡走红",
-      "url": "https://www.toutiao.com/trending/7560904366467845671/",
-      "label": "participant"
-    },
-    {
-      "rank": 27,
-      "title": "醉酒男智驾上高速开了200公里被查获",
-      "url": "https://www.toutiao.com/trending/7560688930702589971/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
+      "rank": 23,
       "title": "哈尔滨下雪了",
       "url": "https://www.toutiao.com/trending/7560994225291280403/",
       "label": "onSite"
     },
     {
-      "rank": 29,
+      "rank": 24,
       "title": "金价创新高还能涨吗",
       "url": "https://www.toutiao.com/trending/7561268723688934921/",
       "label": "depth"
     },
     {
-      "rank": 30,
-      "title": "“成功学大师”诈骗3.8亿被判无期",
-      "url": "https://www.toutiao.com/trending/7561058035243925523/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "小伙回应与农村老人拍低成本三国",
-      "url": "https://www.toutiao.com/trending/7560857402120765494/",
-      "label": "participant"
-    },
-    {
-      "rank": 32,
-      "title": "内地学生在港理工踢死室友的猫获刑",
-      "url": "https://www.toutiao.com/trending/7560988281308102719/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "媚美让台优势产业慌慌张张连滚带爬",
-      "url": "https://www.toutiao.com/trending/7561268719255879723/",
+      "rank": 25,
+      "title": "国台办套用神曲“没出息”评台湾产业",
+      "url": "https://www.toutiao.com/trending/7561275822254902794/",
       "label": "new"
     },
     {
-      "rank": 34,
+      "rank": 26,
+      "title": "日本政坛更乱了 谁将是下任首相",
+      "url": "https://www.toutiao.com/trending/7561261085253176883/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "买100克金饰晚1年多花3万元",
+      "url": "https://www.toutiao.com/trending/7561272116566298151/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "全国大部将迎换季式降温",
+      "url": "https://www.toutiao.com/trending/7560622511844474890/",
+      "label": ""
+    },
+    {
+      "rank": 29,
       "title": "媒体人：“巴铁”久经考验不容置疑",
       "url": "https://www.toutiao.com/trending/7560989530308742695/",
       "label": "new"
     },
     {
-      "rank": 35,
-      "title": "广电总局电视剧司开通官方账号",
-      "url": "https://www.toutiao.com/trending/7560544608091013159/",
+      "rank": 30,
+      "title": "老板回应自创火烧咖啡走红",
+      "url": "https://www.toutiao.com/trending/7560904366467845671/",
+      "label": "participant"
+    },
+    {
+      "rank": 31,
+      "title": "全球央行狂买黄金",
+      "url": "https://www.toutiao.com/trending/7561245934894452262/",
       "label": ""
     },
     {
-      "rank": 36,
-      "title": "2026世界杯已定28席",
-      "url": "https://www.toutiao.com/trending/7560222663378173990/",
+      "rank": 32,
+      "title": "9月份CPI和PPI数据解读",
+      "url": "https://www.toutiao.com/trending/7561031364473176073/",
       "label": "new"
     },
     {
-      "rank": 37,
-      "title": "国台办驳斥赖清德所谓主权和国家言论",
-      "url": "https://www.toutiao.com/trending/7560431946594795574/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "退役军人丢下2岁儿子跳河救人",
-      "url": "https://www.toutiao.com/trending/7561031954926256137/",
+      "rank": 33,
+      "title": "“成功学大师”诈骗3.8亿被判无期",
+      "url": "https://www.toutiao.com/trending/7561058035243925523/",
       "label": ""
     },
     {
-      "rank": 39,
-      "title": "住建部解读房地产如何平稳健康发展",
-      "url": "https://www.toutiao.com/trending/7561239944300072458/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "金价又创新高 何时会下跌",
-      "url": "https://www.toutiao.com/trending/7561245865755561535/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "被帮助男子3个月后塞钱感谢店主",
-      "url": "https://www.toutiao.com/trending/7560958267960950823/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "国乒男团逆转胜日本",
-      "url": "https://www.toutiao.com/trending/7560636388778721289/",
+      "rank": 34,
+      "title": "荷兰回应“强制”接管中资芯片企业",
+      "url": "https://www.toutiao.com/trending/7560929418953100851/",
       "label": "hot"
     },
     {
-      "rank": 43,
-      "title": "神曲《没出息》何以爆火两岸",
-      "url": "https://www.toutiao.com/trending/7560315486182309924/",
-      "label": "new"
+      "rank": 35,
+      "title": "小伙回应与农村老人拍低成本三国",
+      "url": "https://www.toutiao.com/trending/7560857402120765494/",
+      "label": "participant"
     },
     {
-      "rank": 44,
-      "title": "北约秘书长为何称不会击落俄军机",
-      "url": "https://www.toutiao.com/trending/7561264369632284214/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 45,
-      "title": "演员李威出庭不认罪",
-      "url": "https://www.toutiao.com/trending/7560910437485477931/",
+      "rank": 36,
+      "title": "巴获释人员：以色列监狱是“屠宰场”",
+      "url": "https://www.toutiao.com/trending/7561230301662285339/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "特朗普称或强制解除哈马斯武装",
-      "url": "https://www.toutiao.com/trending/7560831214094286894/",
+      "rank": 37,
+      "title": "内地学生在港理工踢死室友的猫获刑",
+      "url": "https://www.toutiao.com/trending/7560988281308102719/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "专家谈美财长拿中国留学生说事",
-      "url": "https://www.toutiao.com/trending/7561229158282432054/",
-      "label": ""
-    },
-    {
-      "rank": 48,
+      "rank": 38,
       "title": "女子刚停好车 大爷刮车后扭头就走",
       "url": "https://www.toutiao.com/trending/7560958536449130559/",
       "label": ""
     },
     {
-      "rank": 49,
-      "title": "美国卫生部“误裁”778名员工",
-      "url": "https://www.toutiao.com/trending/7560174088732491827/",
+      "rank": 39,
+      "title": "媚美让台优势产业慌慌张张连滚带爬",
+      "url": "https://www.toutiao.com/trending/7561268719255879723/",
       "label": ""
     },
     {
+      "rank": 40,
+      "title": "广电总局电视剧司开通官方账号",
+      "url": "https://www.toutiao.com/trending/7560544608091013159/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "北约秘书长为何称不会击落俄军机",
+      "url": "https://www.toutiao.com/trending/7561264369632284214/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 42,
+      "title": "国台办驳斥赖清德所谓主权和国家言论",
+      "url": "https://www.toutiao.com/trending/7560431946594795574/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "社保“第六险”是啥",
+      "url": "https://www.toutiao.com/trending/7560988361104588826/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "专家谈美财长拿中国留学生说事",
+      "url": "https://www.toutiao.com/trending/7561229158282432054/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "国台办发言人介绍两部涉台纪录片",
+      "url": "https://www.toutiao.com/trending/7561053230919106569/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "世预赛：匈牙利2-2战平葡萄牙",
+      "url": "https://www.toutiao.com/trending/7561062254582579254/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "退役军人丢下2岁儿子跳河救人",
+      "url": "https://www.toutiao.com/trending/7561031954926256137/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "国台办：日方应慎之又慎处理涉台问题",
+      "url": "https://www.toutiao.com/trending/7560855300132307007/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
+      "title": "国乒男团逆转胜日本",
+      "url": "https://www.toutiao.com/trending/7560636388778721289/",
+      "label": "hot"
+    },
+    {
       "rank": 50,
-      "title": "赖清德涉蒋万安言论引绿营忧心误判",
-      "url": "https://www.toutiao.com/trending/7560307379812991039/",
+      "title": "金价又创新高 何时会下跌",
+      "url": "https://www.toutiao.com/trending/7561245865755561535/",
       "label": ""
     }
   ]
