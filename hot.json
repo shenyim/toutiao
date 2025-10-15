@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 15 Oct 2025 10:55:04 GMT",
+  "generated_at": "Wed, 15 Oct 2025 11:00:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平总书记这份关心从未改变",
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "title": "外交部回应特朗普拟禁中美航班过境俄",
-      "url": "https://www.toutiao.com/trending/7560715346903236644/",
-      "label": "hot"
-    },
-    {
-      "rank": 6,
       "title": "澳大利亚华人女子遭陌生人持刀袭击",
       "url": "https://www.toutiao.com/trending/7561312467281870902/",
       "label": "new"
+    },
+    {
+      "rank": 6,
+      "title": "外交部回应特朗普拟禁中美航班过境俄",
+      "url": "https://www.toutiao.com/trending/7560715346903236644/",
+      "label": "hot"
     },
     {
       "rank": 7,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "私挖地下室致32户房屋开裂 责任谁担",
-      "url": "https://www.toutiao.com/trending/7560733584437313574/",
-      "label": "new"
+      "title": "梁靖崑妻子边吸氧边看球",
+      "url": "https://www.toutiao.com/trending/7561302420869955626/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -106,32 +106,32 @@
     },
     {
       "rank": 17,
-      "title": "梁靖崑妻子边吸氧边看球",
-      "url": "https://www.toutiao.com/trending/7561302420869955626/",
-      "label": ""
-    },
-    {
-      "rank": 18,
-      "title": "你会用退休金帮衬子女吗",
-      "url": "https://www.toutiao.com/trending/7561069166011809834/",
-      "label": "forum"
-    },
-    {
-      "rank": 19,
       "title": "Lisa出任泰国旅游形象大使",
       "url": "https://www.toutiao.com/trending/7560620170931077161/",
       "label": ""
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "title": "如果欧美坚决不给中国飞机适航证咋办",
+      "url": "https://www.toutiao.com/trending/7560742262495150107/",
+      "label": "forum"
+    },
+    {
+      "rank": 19,
       "title": "俄官员将受损纪念碑比作石头被解雇",
       "url": "https://www.toutiao.com/trending/7561325502981406739/",
       "label": "new"
     },
     {
-      "rank": 21,
+      "rank": 20,
       "title": "中方就美击沉委附近水域船只表态",
       "url": "https://www.toutiao.com/trending/7561358050980937774/",
+      "label": "new"
+    },
+    {
+      "rank": 21,
+      "title": "私挖地下室致32户房屋开裂 责任谁担",
+      "url": "https://www.toutiao.com/trending/7560733584437313574/",
       "label": "new"
     },
     {
@@ -178,15 +178,15 @@
     },
     {
       "rank": 29,
-      "title": "开拓者主帅为杨瀚森画战术",
-      "url": "https://www.toutiao.com/trending/7560318090057498634/",
-      "label": "hot"
-    },
-    {
-      "rank": 30,
       "title": "以后手机不用插卡？三大运营商回应",
       "url": "https://www.toutiao.com/trending/7560885761009074215/",
       "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "河南省财政厅原副厅长高战荣被查",
+      "url": "https://www.toutiao.com/trending/7561356166287507497/",
+      "label": "new"
     },
     {
       "rank": 31,
@@ -202,26 +202,26 @@
     },
     {
       "rank": 33,
-      "title": "河南省财政厅原副厅长高战荣被查",
-      "url": "https://www.toutiao.com/trending/7561356166287507497/",
-      "label": "new"
+      "title": "开拓者主帅为杨瀚森画战术",
+      "url": "https://www.toutiao.com/trending/7560318090057498634/",
+      "label": "hot"
     },
     {
       "rank": 34,
+      "title": "三花智控回应天价订单传闻引爆股价",
+      "url": "https://www.toutiao.com/trending/7560315360268877843/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
       "title": "海边救人揭阳小哥登上中国好人榜",
       "url": "https://www.toutiao.com/trending/7561350820005347355/",
       "label": ""
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "上海一公交司机疑坠楼身亡 警方介入",
       "url": "https://www.toutiao.com/trending/7561251187409715242/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "外交部驳斥美称是否加税取决于中国",
-      "url": "https://www.toutiao.com/trending/7561350632905395758/",
       "label": ""
     },
     {
@@ -232,27 +232,27 @@
     },
     {
       "rank": 38,
-      "title": "三花智控回应天价订单传闻引爆股价",
-      "url": "https://www.toutiao.com/trending/7560315360268877843/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
       "title": "新娘坐窗边隔马路和妈妈聊天",
       "url": "https://www.toutiao.com/trending/7561102422022651923/",
       "label": "new"
     },
     {
-      "rank": 40,
-      "title": "医院300万预算1000元中标：暂停采购",
-      "url": "https://www.toutiao.com/trending/7561227975065698314/",
-      "label": "recentProgress"
+      "rank": 39,
+      "title": "外交部驳斥美称是否加税取决于中国",
+      "url": "https://www.toutiao.com/trending/7561350632905395758/",
+      "label": ""
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "考公年龄放宽至38岁 考生发声",
       "url": "https://www.toutiao.com/trending/7561221567590469174/",
       "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "医院300万预算1000元中标：暂停采购",
+      "url": "https://www.toutiao.com/trending/7561227975065698314/",
+      "label": "recentProgress"
     },
     {
       "rank": 42,
@@ -262,14 +262,14 @@
     },
     {
       "rank": 43,
-      "title": "巴基斯坦与阿富汗边境再次爆发交火",
-      "url": "https://www.toutiao.com/trending/7560402802771001398/",
+      "title": "山东一男子严重醉酒被紧急送医",
+      "url": "https://www.toutiao.com/trending/7561358254551449654/",
       "label": "new"
     },
     {
       "rank": 44,
-      "title": "山东一男子严重醉酒被紧急送医",
-      "url": "https://www.toutiao.com/trending/7561358254551449654/",
+      "title": "巴基斯坦与阿富汗边境再次爆发交火",
+      "url": "https://www.toutiao.com/trending/7560402802771001398/",
       "label": "new"
     },
     {
@@ -280,9 +280,9 @@
     },
     {
       "rank": 46,
-      "title": "媒体人：台军战力堪忧",
-      "url": "https://www.toutiao.com/trending/7560716488462942244/",
-      "label": "new"
+      "title": "中方回应欧盟欲逼中企向欧企移交技术",
+      "url": "https://www.toutiao.com/trending/7561270028923027519/",
+      "label": ""
     },
     {
       "rank": 47,
@@ -292,14 +292,14 @@
     },
     {
       "rank": 48,
-      "title": "如何看李亚鹏离婚被指避债",
-      "url": "https://www.toutiao.com/trending/7561270310482218532/",
-      "label": ""
+      "title": "56岁孙楠瘦成巴掌脸",
+      "url": "https://www.toutiao.com/trending/7560973128915124262/",
+      "label": "new"
     },
     {
       "rank": 49,
-      "title": "中方回应欧盟欲逼中企向欧企移交技术",
-      "url": "https://www.toutiao.com/trending/7561270028923027519/",
+      "title": "如何看李亚鹏离婚被指避债",
+      "url": "https://www.toutiao.com/trending/7561270310482218532/",
       "label": ""
     },
     {
