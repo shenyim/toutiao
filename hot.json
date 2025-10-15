@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 15 Oct 2025 13:50:04 GMT",
+  "generated_at": "Wed, 15 Oct 2025 13:55:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "《求是》杂志发表总书记重要文章",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "国乒女团复仇日本重夺亚锦赛冠军",
-      "url": "https://www.toutiao.com/trending/7561287387410746916/",
-      "label": "hot"
-    },
-    {
-      "rank": 2,
       "title": "中方就美击沉委附近水域船只表态",
       "url": "https://www.toutiao.com/trending/7561358050980937774/",
       "label": ""
+    },
+    {
+      "rank": 2,
+      "title": "国乒女团复仇日本重夺亚锦赛冠军",
+      "url": "https://www.toutiao.com/trending/7561287387410746916/",
+      "label": "hot"
     },
     {
       "rank": 3,
@@ -34,38 +34,38 @@
     },
     {
       "rank": 5,
-      "title": "国乒男团豪取亚锦赛三连冠",
-      "url": "https://www.toutiao.com/trending/7560867753310109742/",
-      "label": "hot"
-    },
-    {
-      "rank": 6,
-      "title": "买手机你选苹果还是华为小米",
-      "url": "https://www.toutiao.com/trending/7561054463373508644/",
-      "label": "forum"
-    },
-    {
-      "rank": 7,
       "title": "美方指责威胁中方再暴露其不良居心",
       "url": "https://www.toutiao.com/trending/7560855473151442998/",
       "label": "new"
     },
     {
+      "rank": 6,
+      "title": "国乒男团豪取亚锦赛三连冠",
+      "url": "https://www.toutiao.com/trending/7560867753310109742/",
+      "label": "hot"
+    },
+    {
+      "rank": 7,
+      "title": "买手机你选苹果还是华为小米",
+      "url": "https://www.toutiao.com/trending/7561054463373508644/",
+      "label": "forum"
+    },
+    {
       "rank": 8,
+      "title": "“首相梦”要破灭？高市早苗道歉",
+      "url": "https://www.toutiao.com/trending/7561413185538887204/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 9,
       "title": "西安“不倒翁小姐姐”正式复出",
       "url": "https://www.toutiao.com/trending/7561360012862324755/",
       "label": "new"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "外交部再回应稀土出口管制政策",
       "url": "https://www.toutiao.com/trending/7560856120777031722/",
-      "label": ""
-    },
-    {
-      "rank": 10,
-      "title": "京东新车预计定价在10-12万",
-      "url": "https://www.toutiao.com/trending/7560313944657838099/",
       "label": ""
     },
     {
@@ -82,15 +82,15 @@
     },
     {
       "rank": 13,
-      "title": "官方问责蔡国强烟花秀：县委书记被免",
-      "url": "https://www.toutiao.com/trending/7560448929725186111/",
-      "label": "recentProgress"
-    },
-    {
-      "rank": 14,
       "title": "男子捕鱼被蛇咬伤将其打死提蛇就诊",
       "url": "https://www.toutiao.com/trending/7561288779597152295/",
       "label": ""
+    },
+    {
+      "rank": 14,
+      "title": "官方问责蔡国强烟花秀：县委书记被免",
+      "url": "https://www.toutiao.com/trending/7560448929725186111/",
+      "label": "recentProgress"
     },
     {
       "rank": 15,
@@ -112,15 +112,15 @@
     },
     {
       "rank": 18,
-      "title": "A股缩量反弹 明天能摸到3950点吗",
-      "url": "https://www.toutiao.com/trending/7561403818705948196/",
+      "title": "京东新车预计定价在10-12万",
+      "url": "https://www.toutiao.com/trending/7560313944657838099/",
       "label": ""
     },
     {
       "rank": 19,
-      "title": "“首相梦”要破灭？高市早苗道歉",
-      "url": "https://www.toutiao.com/trending/7561413185538887204/",
-      "label": "interpretation"
+      "title": "男子变现2公斤金条净赚100万",
+      "url": "https://www.toutiao.com/trending/7561312586591915556/",
+      "label": "hot"
     },
     {
       "rank": 20,
@@ -136,15 +136,15 @@
     },
     {
       "rank": 22,
-      "title": "国台办回应歌曲《没出息》爆红两岸",
-      "url": "https://www.toutiao.com/trending/7560904102692310571/",
+      "title": "实探黄金市场：商家不敢加仓压货",
+      "url": "https://www.toutiao.com/trending/7561423496077643274/",
       "label": ""
     },
     {
       "rank": 23,
-      "title": "男子变现2公斤金条净赚100万",
-      "url": "https://www.toutiao.com/trending/7561312586591915556/",
-      "label": "hot"
+      "title": "国台办回应歌曲《没出息》爆红两岸",
+      "url": "https://www.toutiao.com/trending/7560904102692310571/",
+      "label": ""
     },
     {
       "rank": 24,
@@ -160,8 +160,8 @@
     },
     {
       "rank": 26,
-      "title": "实探黄金市场：商家不敢加仓压货",
-      "url": "https://www.toutiao.com/trending/7561423496077643274/",
+      "title": "阿维塔与京东零售合作",
+      "url": "https://www.toutiao.com/trending/7560534961096294463/",
       "label": "new"
     },
     {
@@ -178,20 +178,20 @@
     },
     {
       "rank": 29,
-      "title": "阿维塔与京东零售合作",
-      "url": "https://www.toutiao.com/trending/7560534961096294463/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
       "title": "中方回应特朗普指责停止进口美大豆",
       "url": "https://www.toutiao.com/trending/7561238900635762751/",
       "label": "hot"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "沪指重返3900点 新一轮上涨开始了吗",
       "url": "https://www.toutiao.com/trending/7561403938197474870/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "马克龙向俄“发出威胁” 俄方回应",
+      "url": "https://www.toutiao.com/trending/7560752801773977641/",
       "label": ""
     },
     {
@@ -202,27 +202,27 @@
     },
     {
       "rank": 33,
-      "title": "马克龙向俄“发出威胁” 俄方回应",
-      "url": "https://www.toutiao.com/trending/7560752801773977641/",
-      "label": ""
+      "title": "陈幸同“高温造型”意外出圈",
+      "url": "https://www.toutiao.com/trending/7560560608669679679/",
+      "label": "new"
     },
     {
       "rank": 34,
-      "title": "女子被拉住手臂回头发现竟是救命恩人",
-      "url": "https://www.toutiao.com/trending/7561143880473853998/",
-      "label": ""
+      "title": "日韩不断创造惊喜 国足连主帅都难产",
+      "url": "https://www.toutiao.com/trending/7560903238401310763/",
+      "label": "new"
     },
     {
       "rank": 35,
-      "title": "男子花30万自制重卡房车出游",
-      "url": "https://www.toutiao.com/trending/7561377703564754990/",
+      "title": "朱枫烈士孙女：看剧时很想抱下吴越",
+      "url": "https://www.toutiao.com/trending/7560856749809614899/",
       "label": "new"
     },
     {
       "rank": 36,
-      "title": "日韩不断创造惊喜 国足连主帅都难产",
-      "url": "https://www.toutiao.com/trending/7560903238401310763/",
-      "label": "new"
+      "title": "媒体人：日本政坛博弈赢家另有其人",
+      "url": "https://www.toutiao.com/trending/7561397595734543882/",
+      "label": ""
     },
     {
       "rank": 37,
@@ -232,81 +232,81 @@
     },
     {
       "rank": 38,
-      "title": "南京石象路秋日限定正式上线",
-      "url": "https://www.toutiao.com/trending/7561237171387269170/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "孟凡利当选广东省省长",
-      "url": "https://www.toutiao.com/trending/7561283766078341159/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "政府停摆半月 美国两党在争什么",
-      "url": "https://www.toutiao.com/trending/7561216236865110035/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "浙大拟用2360万租房当学生宿舍",
-      "url": "https://www.toutiao.com/trending/7561221567590436406/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "湖南双峰一干部勇救落水少年",
-      "url": "https://www.toutiao.com/trending/7560857002939891751/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
-      "title": "美国司法部没收近13万枚比特币",
-      "url": "https://www.toutiao.com/trending/7561094845989912618/",
-      "label": ""
-    },
-    {
-      "rank": 44,
       "title": "TVB老戏骨李国麟拜谒吴石将军",
       "url": "https://www.toutiao.com/trending/7560904020576993290/",
       "label": ""
     },
     {
-      "rank": 45,
-      "title": "专访《沉默的荣耀》朱枫烈士孙女",
-      "url": "https://www.toutiao.com/trending/7560856749809614899/",
+      "rank": 39,
+      "title": "政府停摆半月 美国两党在争什么",
+      "url": "https://www.toutiao.com/trending/7561216236865110035/",
       "label": "new"
     },
     {
-      "rank": 46,
-      "title": "国台办套用神曲“没出息”评台湾产业",
-      "url": "https://www.toutiao.com/trending/7561275822254902794/",
+      "rank": 40,
+      "title": "女子被拉住手臂回头发现竟是救命恩人",
+      "url": "https://www.toutiao.com/trending/7561143880473853998/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "陈幸同“高温造型”意外出圈",
-      "url": "https://www.toutiao.com/trending/7560560608669679679/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
-      "title": "101岁奶奶的长寿秘诀就一句话",
-      "url": "https://www.toutiao.com/trending/7560999075999449129/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
+      "rank": 41,
       "title": "山东企业摁下工业软件国产化加速键",
       "url": "https://www.toutiao.com/trending/7561368940060868651/",
       "label": "new"
     },
     {
+      "rank": 42,
+      "title": "浙大拟用2360万租房当学生宿舍",
+      "url": "https://www.toutiao.com/trending/7561221567590436406/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "湖南双峰一干部勇救落水少年",
+      "url": "https://www.toutiao.com/trending/7560857002939891751/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "101岁奶奶的长寿秘诀就一句话",
+      "url": "https://www.toutiao.com/trending/7560999075999449129/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "南京石象路秋日限定正式上线",
+      "url": "https://www.toutiao.com/trending/7561237171387269170/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "孟凡利当选广东省省长",
+      "url": "https://www.toutiao.com/trending/7561283766078341159/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "国台办套用神曲“没出息”评台湾产业",
+      "url": "https://www.toutiao.com/trending/7561275822254902794/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "沪陕高速集卡侧翻起火 现场黑烟滚滚",
+      "url": "https://www.toutiao.com/trending/7561287087467839539/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
+      "title": "美国司法部没收近13万枚比特币",
+      "url": "https://www.toutiao.com/trending/7561094845989912618/",
+      "label": ""
+    },
+    {
       "rank": 50,
-      "title": "澳大利亚华人女子遭陌生人持刀袭击",
-      "url": "https://www.toutiao.com/trending/7561312467281870902/",
-      "label": "hot"
+      "title": "普京与特朗普近期能否通话尚不确定",
+      "url": "https://www.toutiao.com/trending/7561040918666412095/",
+      "label": "new"
     }
   ]
 }
