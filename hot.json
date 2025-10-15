@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 15 Oct 2025 02:30:05 GMT",
+  "generated_at": "Wed, 15 Oct 2025 02:35:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "行之苟有恒 久久自芬芳",
@@ -40,8 +40,8 @@
     },
     {
       "rank": 6,
-      "title": "“成功学大师”诈骗3.8亿被判无期",
-      "url": "https://www.toutiao.com/trending/7561058035243925523/",
+      "title": "退役军人丢下2岁儿子跳河救人",
+      "url": "https://www.toutiao.com/trending/7561031954926256137/",
       "label": ""
     },
     {
@@ -52,20 +52,20 @@
     },
     {
       "rank": 8,
-      "title": "退役军人丢下2岁儿子跳河救人",
-      "url": "https://www.toutiao.com/trending/7561031954926256137/",
+      "title": "考公年龄放宽至38岁 考生发声",
+      "url": "https://www.toutiao.com/trending/7561221567590469174/",
       "label": ""
     },
     {
       "rank": 9,
-      "title": "考公年龄放宽至38岁 考生发声",
-      "url": "https://www.toutiao.com/trending/7561221567590469174/",
-      "label": "new"
+      "title": "如何看待日本男足3-2逆转战胜巴西",
+      "url": "https://www.toutiao.com/trending/7561070164520730667/",
+      "label": "forum"
     },
     {
       "rank": 10,
-      "title": "英伟达市值一夜蒸发超1.4万亿元",
-      "url": "https://www.toutiao.com/trending/7560481748283572251/",
+      "title": "“成功学大师”诈骗3.8亿被判无期",
+      "url": "https://www.toutiao.com/trending/7561058035243925523/",
       "label": ""
     },
     {
@@ -76,75 +76,75 @@
     },
     {
       "rank": 12,
-      "title": "如果欧美坚决不给中国飞机适航证咋办",
-      "url": "https://www.toutiao.com/trending/7560742262495150107/",
-      "label": "forum"
-    },
-    {
-      "rank": 13,
       "title": "李湘王岳伦从伦敦同回北京",
       "url": "https://www.toutiao.com/trending/7560097916867215402/",
       "label": "new"
     },
     {
+      "rank": 13,
+      "title": "演员李威出庭不认罪",
+      "url": "https://www.toutiao.com/trending/7560910437485477931/",
+      "label": ""
+    },
+    {
       "rank": 14,
-      "title": "唐湘龙称“台湾已回中国怀抱”不会变",
-      "url": "https://www.toutiao.com/trending/7560853426419040319/",
-      "label": ""
-    },
-    {
-      "rank": 15,
-      "title": "于东来称胖东来账上有41亿",
-      "url": "https://www.toutiao.com/trending/7560905595763822116/",
-      "label": ""
-    },
-    {
-      "rank": 16,
-      "title": "遇到坠河事故你会出手救援吗",
-      "url": "https://www.toutiao.com/trending/7561065730167423019/",
-      "label": "forum"
-    },
-    {
-      "rank": 17,
-      "title": "蒋万安力挺郝龙斌参选国民党主席",
-      "url": "https://www.toutiao.com/trending/7560853205303803947/",
+      "title": "经济日报：公平航道不容霸权阻拦",
+      "url": "https://www.toutiao.com/trending/7561238149821923364/",
       "label": "new"
     },
     {
-      "rank": 18,
+      "rank": 15,
       "title": "参加总理座谈会的这8个人是谁",
       "url": "https://www.toutiao.com/trending/7560904366476348967/",
       "label": ""
     },
     {
-      "rank": 19,
-      "title": "冷空气尽力了 闽粤请等下一轮降温",
-      "url": "https://www.toutiao.com/trending/7561236182282014234/",
-      "label": ""
-    },
-    {
-      "rank": 20,
-      "title": "女子刚停好车 大爷刮车后扭头就走",
-      "url": "https://www.toutiao.com/trending/7560958536449130559/",
-      "label": ""
-    },
-    {
-      "rank": 21,
+      "rank": 16,
       "title": "国乒男团逆风翻盘哪个瞬间让你难忘",
       "url": "https://www.toutiao.com/trending/7561132667698200627/",
       "label": "forum"
     },
     {
+      "rank": 17,
+      "title": "英伟达市值一夜蒸发超1.4万亿元",
+      "url": "https://www.toutiao.com/trending/7560481748283572251/",
+      "label": ""
+    },
+    {
+      "rank": 18,
+      "title": "唐湘龙称“台湾已回中国怀抱”不会变",
+      "url": "https://www.toutiao.com/trending/7560853426419040319/",
+      "label": ""
+    },
+    {
+      "rank": 19,
+      "title": "金价又创新高 何时会下跌",
+      "url": "https://www.toutiao.com/trending/7561245865755561535/",
+      "label": "new"
+    },
+    {
+      "rank": 20,
+      "title": "于东来称胖东来账上有41亿",
+      "url": "https://www.toutiao.com/trending/7560905595763822116/",
+      "label": ""
+    },
+    {
+      "rank": 21,
+      "title": "冷空气尽力了 闽粤请等下一轮降温",
+      "url": "https://www.toutiao.com/trending/7561236182282014234/",
+      "label": ""
+    },
+    {
       "rank": 22,
-      "title": "如何看待日本男足3-2逆转战胜巴西",
-      "url": "https://www.toutiao.com/trending/7561070164520730667/",
-      "label": "forum"
+      "title": "蒋万安力挺郝龙斌参选国民党主席",
+      "url": "https://www.toutiao.com/trending/7560853205303803947/",
+      "label": "new"
     },
     {
       "rank": 23,
-      "title": "国考年龄放宽",
-      "url": "https://www.toutiao.com/trending/7560714791988576310/",
-      "label": ""
+      "title": "老板回应自创火烧咖啡走红",
+      "url": "https://www.toutiao.com/trending/7560904366467845671/",
+      "label": "participant"
     },
     {
       "rank": 24,
@@ -154,27 +154,27 @@
     },
     {
       "rank": 25,
-      "title": "被帮助男子3个月后塞钱感谢店主",
-      "url": "https://www.toutiao.com/trending/7560958267960950823/",
+      "title": "女孩在伞上画画 撑开伞的瞬间被惊艳",
+      "url": "https://www.toutiao.com/trending/7560622822511345727/",
       "label": ""
     },
     {
       "rank": 26,
-      "title": "荷兰回应“强制”接管中资芯片企业",
-      "url": "https://www.toutiao.com/trending/7560929418953100851/",
-      "label": "hot"
+      "title": "女子刚停好车 大爷刮车后扭头就走",
+      "url": "https://www.toutiao.com/trending/7560958536449130559/",
+      "label": ""
     },
     {
       "rank": 27,
-      "title": "老板回应自创火烧咖啡走红",
-      "url": "https://www.toutiao.com/trending/7560904366467845671/",
+      "title": "小伙回应与农村老人拍低成本三国",
+      "url": "https://www.toutiao.com/trending/7560857402120765494/",
       "label": "participant"
     },
     {
       "rank": 28,
-      "title": "金价又创新高 何时会下跌",
-      "url": "https://www.toutiao.com/trending/7561245865755561535/",
-      "label": "new"
+      "title": "遇到坠河事故你会出手救援吗",
+      "url": "https://www.toutiao.com/trending/7561065730167423019/",
+      "label": "forum"
     },
     {
       "rank": 29,
@@ -184,128 +184,128 @@
     },
     {
       "rank": 30,
-      "title": "专家谈美财长拿中国留学生说事",
-      "url": "https://www.toutiao.com/trending/7561229158282432054/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "专家：美政府停摆现“有意为之”色彩",
-      "url": "https://www.toutiao.com/trending/7561233287515999798/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 32,
-      "title": "小伙回应与农村老人拍低成本三国",
-      "url": "https://www.toutiao.com/trending/7560857402120765494/",
-      "label": "participant"
-    },
-    {
-      "rank": 33,
-      "title": "经济日报：公平航道不容霸权阻拦",
-      "url": "https://www.toutiao.com/trending/7561238149821923364/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "台湾乘客公交上打架 女子是被通缉小偷",
-      "url": "https://www.toutiao.com/trending/7561112509228286015/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "赖清德涉蒋万安言论引绿营忧心误判",
-      "url": "https://www.toutiao.com/trending/7560307379812991039/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "二代“星舰”谢幕 三代能否担当重任",
-      "url": "https://www.toutiao.com/trending/7561214791667466279/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "土耳其总统劝意总理戒烟逗乐马克龙",
-      "url": "https://www.toutiao.com/trending/7560133313072414756/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "特朗普称或强制解除哈马斯武装",
-      "url": "https://www.toutiao.com/trending/7560831214094286894/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "美政府或走向史上最长停摆",
-      "url": "https://www.toutiao.com/trending/7561230144757567026/",
-      "label": ""
-    },
-    {
-      "rank": 40,
       "title": "安徽多地马拉松宣布取消",
       "url": "https://www.toutiao.com/trending/7560987276780568627/",
       "label": ""
     },
     {
-      "rank": 41,
-      "title": "演员李威出庭不认罪",
-      "url": "https://www.toutiao.com/trending/7560910437485477931/",
+      "rank": 31,
+      "title": "荷兰回应“强制”接管中资芯片企业",
+      "url": "https://www.toutiao.com/trending/7560929418953100851/",
+      "label": "hot"
+    },
+    {
+      "rank": 32,
+      "title": "土耳其总统劝意总理戒烟逗乐马克龙",
+      "url": "https://www.toutiao.com/trending/7560133313072414756/",
       "label": ""
     },
     {
-      "rank": 42,
+      "rank": 33,
+      "title": "台湾乘客公交上打架 女子是被通缉小偷",
+      "url": "https://www.toutiao.com/trending/7561112509228286015/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "赖清德涉蒋万安言论引绿营忧心误判",
+      "url": "https://www.toutiao.com/trending/7560307379812991039/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "被帮助男子3个月后塞钱感谢店主",
+      "url": "https://www.toutiao.com/trending/7560958267960950823/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "特朗普称或强制解除哈马斯武装",
+      "url": "https://www.toutiao.com/trending/7560831214094286894/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
       "title": "广电总局电视剧司开通官方账号",
       "url": "https://www.toutiao.com/trending/7560544608091013159/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "博主回应自驾2000公里修复戈壁滩地标",
-      "url": "https://www.toutiao.com/trending/7560715664835772459/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "女孩在伞上画画 撑开伞的瞬间被惊艳",
-      "url": "https://www.toutiao.com/trending/7560622822511345727/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "国际金价为何再创新高",
-      "url": "https://www.toutiao.com/trending/7561231410615291411/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "专家：俄乌谈判空间已被大幅压缩",
-      "url": "https://www.toutiao.com/trending/7561231568723775012/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
+      "rank": 38,
       "title": "律师：非法淘金或涉刑事责任",
       "url": "https://www.toutiao.com/trending/7561242134041333290/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 39,
+      "title": "专家谈美财长拿中国留学生说事",
+      "url": "https://www.toutiao.com/trending/7561229158282432054/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "二代“星舰”谢幕 三代能否担当重任",
+      "url": "https://www.toutiao.com/trending/7561214791667466279/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "博主回应自驾2000公里修复戈壁滩地标",
+      "url": "https://www.toutiao.com/trending/7560715664835772459/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "美政府或走向史上最长停摆",
+      "url": "https://www.toutiao.com/trending/7561230144757567026/",
+      "label": ""
+    },
+    {
+      "rank": 43,
       "title": "金价2026年会直奔5000美元吗",
       "url": "https://www.toutiao.com/trending/7561239364072672777/",
       "label": "new"
     },
     {
-      "rank": 49,
+      "rank": 44,
       "title": "路口绿化带夜间不易见 男子贴反光膜",
       "url": "https://www.toutiao.com/trending/7560943518407983143/",
       "label": ""
     },
     {
+      "rank": 45,
+      "title": "专家：俄乌谈判空间已被大幅压缩",
+      "url": "https://www.toutiao.com/trending/7561231568723775012/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "国际金价为何再创新高",
+      "url": "https://www.toutiao.com/trending/7561231410615291411/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "专家：美政府停摆现“有意为之”色彩",
+      "url": "https://www.toutiao.com/trending/7561233287515999798/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 48,
+      "title": "美袭击委附近海域“贩毒船只”致6死",
+      "url": "https://www.toutiao.com/trending/7560772618140516393/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "全球央行狂买黄金",
+      "url": "https://www.toutiao.com/trending/7561245934894452262/",
+      "label": "new"
+    },
+    {
       "rank": 50,
-      "title": "美联储10月降息25个基点概率为97.3%",
-      "url": "https://www.toutiao.com/trending/7560208220040675354/",
+      "title": "美政府停摆期联邦雇员靠打零工度日",
+      "url": "https://www.toutiao.com/trending/7561234011167657510/",
       "label": ""
     }
   ]
