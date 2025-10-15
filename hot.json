@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 15 Oct 2025 14:00:03 GMT",
+  "generated_at": "Wed, 15 Oct 2025 14:05:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "《求是》杂志发表总书记重要文章",
@@ -30,13 +30,13 @@
       "rank": 4,
       "title": "网红馆长因“斩首赖清德”言论被调查",
       "url": "https://www.toutiao.com/trending/7560649110361997354/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 5,
       "title": "美方指责威胁中方再暴露其不良居心",
       "url": "https://www.toutiao.com/trending/7560855473151442998/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 6,
@@ -46,9 +46,9 @@
     },
     {
       "rank": 7,
-      "title": "买手机你选苹果还是华为小米",
-      "url": "https://www.toutiao.com/trending/7561054463373508644/",
-      "label": "forum"
+      "title": "京东新车预计定价在10-12万",
+      "url": "https://www.toutiao.com/trending/7560313944657838099/",
+      "label": ""
     },
     {
       "rank": 8,
@@ -64,8 +64,8 @@
     },
     {
       "rank": 10,
-      "title": "京东新车预计定价在10-12万",
-      "url": "https://www.toutiao.com/trending/7560313944657838099/",
+      "title": "两地出1000万大奖 中奖者为同一人",
+      "url": "https://www.toutiao.com/trending/7560710838999564324/",
       "label": ""
     },
     {
@@ -76,38 +76,38 @@
     },
     {
       "rank": 12,
-      "title": "56岁孙楠瘦成巴掌脸",
-      "url": "https://www.toutiao.com/trending/7560973128915124262/",
-      "label": ""
-    },
-    {
-      "rank": 13,
-      "title": "男子捕鱼被蛇咬伤将其打死提蛇就诊",
-      "url": "https://www.toutiao.com/trending/7561288779597152295/",
-      "label": ""
-    },
-    {
-      "rank": 14,
       "title": "官方问责蔡国强烟花秀：县委书记被免",
       "url": "https://www.toutiao.com/trending/7560448929725186111/",
       "label": "recentProgress"
     },
     {
+      "rank": 13,
+      "title": "56岁孙楠瘦成巴掌脸",
+      "url": "https://www.toutiao.com/trending/7560973128915124262/",
+      "label": ""
+    },
+    {
+      "rank": 14,
+      "title": "男子捕鱼被蛇咬伤将其打死提蛇就诊",
+      "url": "https://www.toutiao.com/trending/7561288779597152295/",
+      "label": ""
+    },
+    {
       "rank": 15,
+      "title": "为什么有很多人想回农村建房",
+      "url": "https://www.toutiao.com/trending/7561274372166828051/",
+      "label": "forum"
+    },
+    {
+      "rank": 16,
       "title": "林永健痛斥某些顶流排场很大",
       "url": "https://www.toutiao.com/trending/7560879208621473819/",
       "label": ""
     },
     {
-      "rank": 16,
-      "title": "两地出1000万大奖 中奖者为同一人",
-      "url": "https://www.toutiao.com/trending/7560710838999564324/",
-      "label": ""
-    },
-    {
       "rank": 17,
-      "title": "为什么有很多人想回农村建房",
-      "url": "https://www.toutiao.com/trending/7561274372166828051/",
+      "title": "火箭年轻球员谁进步最大",
+      "url": "https://www.toutiao.com/trending/7561064551858520127/",
       "label": "forum"
     },
     {
@@ -118,14 +118,14 @@
     },
     {
       "rank": 19,
-      "title": "男子变现2公斤金条净赚100万",
-      "url": "https://www.toutiao.com/trending/7561312586591915556/",
-      "label": "hot"
+      "title": "实探黄金市场：商家不敢加仓压货",
+      "url": "https://www.toutiao.com/trending/7561423496077643274/",
+      "label": ""
     },
     {
       "rank": 20,
-      "title": "实探黄金市场：商家不敢加仓压货",
-      "url": "https://www.toutiao.com/trending/7561423496077643274/",
+      "title": "阿维塔与京东零售合作",
+      "url": "https://www.toutiao.com/trending/7560534961096294463/",
       "label": ""
     },
     {
@@ -136,8 +136,8 @@
     },
     {
       "rank": 22,
-      "title": "媒体评高原烟花秀：环保无小事",
-      "url": "https://www.toutiao.com/trending/7561413600154242602/",
+      "title": "男子变现2公斤金条净赚100万",
+      "url": "https://www.toutiao.com/trending/7561312586591915556/",
       "label": "hot"
     },
     {
@@ -148,50 +148,50 @@
     },
     {
       "rank": 24,
-      "title": "阿维塔与京东零售合作",
-      "url": "https://www.toutiao.com/trending/7560534961096294463/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
       "title": "初三女生遭同班男生杀害案择期宣判",
       "url": "https://www.toutiao.com/trending/7561316548548362266/",
       "label": "hot"
     },
     {
-      "rank": 26,
-      "title": "美日菲在南海举行联演有何意图",
-      "url": "https://www.toutiao.com/trending/7560854908547645479/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 27,
-      "title": "参加总理座谈会的这8个人是谁",
-      "url": "https://www.toutiao.com/trending/7560904366476348967/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "中方回应特朗普指责停止进口美大豆",
-      "url": "https://www.toutiao.com/trending/7561238900635762751/",
-      "label": "hot"
-    },
-    {
-      "rank": 29,
-      "title": "荣耀Magic8 Pro评测",
-      "url": "https://www.toutiao.com/trending/7561318390762946599/",
+      "rank": 25,
+      "title": "101岁奶奶的长寿秘诀就一句话",
+      "url": "https://www.toutiao.com/trending/7560999075999449129/",
       "label": "new"
     },
     {
-      "rank": 30,
+      "rank": 26,
       "title": "陈幸同“高温造型”意外出圈",
       "url": "https://www.toutiao.com/trending/7560560608669679679/",
       "label": "new"
     },
     {
+      "rank": 27,
+      "title": "媒体评高原烟花秀：环保无小事",
+      "url": "https://www.toutiao.com/trending/7561413600154242602/",
+      "label": "hot"
+    },
+    {
+      "rank": 28,
+      "title": "参加总理座谈会的这8个人是谁",
+      "url": "https://www.toutiao.com/trending/7560904366476348967/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "南京石象路秋日限定正式上线",
+      "url": "https://www.toutiao.com/trending/7561237171387269170/",
+      "label": "new"
+    },
+    {
+      "rank": 30,
+      "title": "美日菲在南海举行联演有何意图",
+      "url": "https://www.toutiao.com/trending/7560854908547645479/",
+      "label": "interpretation"
+    },
+    {
       "rank": 31,
-      "title": "沪指重返3900点 新一轮上涨开始了吗",
-      "url": "https://www.toutiao.com/trending/7561403938197474870/",
+      "title": "马克龙向俄“发出威胁” 俄方回应",
+      "url": "https://www.toutiao.com/trending/7560752801773977641/",
       "label": ""
     },
     {
@@ -202,27 +202,27 @@
     },
     {
       "rank": 33,
-      "title": "朱枫烈士孙女：看剧时很想抱下吴越",
-      "url": "https://www.toutiao.com/trending/7560856749809614899/",
+      "title": "男子花30万自制重卡房车出游",
+      "url": "https://www.toutiao.com/trending/7561377703564754990/",
       "label": "new"
     },
     {
       "rank": 34,
-      "title": "马克龙向俄“发出威胁” 俄方回应",
-      "url": "https://www.toutiao.com/trending/7560752801773977641/",
-      "label": ""
+      "title": "中方回应特朗普指责停止进口美大豆",
+      "url": "https://www.toutiao.com/trending/7561238900635762751/",
+      "label": "hot"
     },
     {
       "rank": 35,
-      "title": "评论员：红军城侧翼防御被打烂",
-      "url": "https://www.toutiao.com/trending/7561399776403525163/",
-      "label": "new"
+      "title": "解清帅为奶奶守灵一夜未眠",
+      "url": "https://www.toutiao.com/trending/7561055245179109402/",
+      "label": ""
     },
     {
       "rank": 36,
-      "title": "日韩不断创造惊喜 国足连主帅都难产",
-      "url": "https://www.toutiao.com/trending/7560903238401310763/",
-      "label": "new"
+      "title": "沪指重返3900点 新一轮上涨开始了吗",
+      "url": "https://www.toutiao.com/trending/7561403938197474870/",
+      "label": ""
     },
     {
       "rank": 37,
@@ -232,26 +232,26 @@
     },
     {
       "rank": 38,
-      "title": "101岁奶奶的长寿秘诀就一句话",
-      "url": "https://www.toutiao.com/trending/7560999075999449129/",
+      "title": "朱枫烈士孙女：看剧时很想抱下吴越",
+      "url": "https://www.toutiao.com/trending/7560856749809614899/",
       "label": "new"
     },
     {
       "rank": 39,
-      "title": "TVB老戏骨李国麟拜谒吴石将军",
-      "url": "https://www.toutiao.com/trending/7560904020576993290/",
-      "label": ""
+      "title": "俄军恢复“三叉戟攻势”",
+      "url": "https://www.toutiao.com/trending/7561399776403525163/",
+      "label": "new"
     },
     {
       "rank": 40,
-      "title": "政府停摆半月 美国两党在争什么",
-      "url": "https://www.toutiao.com/trending/7561216236865110035/",
+      "title": "林心如加盟《再见爱人5》催更团",
+      "url": "https://www.toutiao.com/trending/7560592187823849526/",
       "label": "new"
     },
     {
       "rank": 41,
-      "title": "媒体人：日本政坛博弈赢家另有其人",
-      "url": "https://www.toutiao.com/trending/7561397595734543882/",
+      "title": "荣耀Magic8 Pro评测",
+      "url": "https://www.toutiao.com/trending/7561318390762946599/",
       "label": ""
     },
     {
@@ -262,27 +262,27 @@
     },
     {
       "rank": 43,
-      "title": "林心如加盟《再见爱人5》催更团",
-      "url": "https://www.toutiao.com/trending/7560592187823849526/",
+      "title": "男子在吉林村道偶遇野生东北虎",
+      "url": "https://www.toutiao.com/trending/7560321713566007315/",
       "label": "new"
     },
     {
       "rank": 44,
-      "title": "南京石象路秋日限定正式上线",
-      "url": "https://www.toutiao.com/trending/7561237171387269170/",
-      "label": "new"
+      "title": "TVB老戏骨李国麟拜谒吴石将军",
+      "url": "https://www.toutiao.com/trending/7560904020576993290/",
+      "label": ""
     },
     {
       "rank": 45,
-      "title": "沪陕高速集卡侧翻起火 现场黑烟滚滚",
-      "url": "https://www.toutiao.com/trending/7561287087467839539/",
-      "label": "new"
-    },
-    {
-      "rank": 46,
       "title": "女子被拉住手臂回头发现竟是救命恩人",
       "url": "https://www.toutiao.com/trending/7561143880473853998/",
       "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "明天A股行情会如何演绎",
+      "url": "https://www.toutiao.com/trending/7561433044758826505/",
+      "label": "interpretation"
     },
     {
       "rank": 47,
@@ -292,21 +292,21 @@
     },
     {
       "rank": 48,
-      "title": "孟凡利当选广东省省长",
-      "url": "https://www.toutiao.com/trending/7561283766078341159/",
-      "label": ""
+      "title": "山东企业摁下工业软件国产化加速键",
+      "url": "https://www.toutiao.com/trending/7561368940060868651/",
+      "label": "new"
     },
     {
       "rank": 49,
-      "title": "男子在吉林村道偶遇野生东北虎",
-      "url": "https://www.toutiao.com/trending/7560321713566007315/",
-      "label": "new"
+      "title": "湖南双峰一干部勇救落水少年",
+      "url": "https://www.toutiao.com/trending/7560857002939891751/",
+      "label": ""
     },
     {
       "rank": 50,
-      "title": "男子花30万自制重卡房车出游",
-      "url": "https://www.toutiao.com/trending/7561377703564754990/",
-      "label": "new"
+      "title": "孟凡利当选广东省省长",
+      "url": "https://www.toutiao.com/trending/7561283766078341159/",
+      "label": ""
     }
   ]
 }
