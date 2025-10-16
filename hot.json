@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 16 Oct 2025 06:10:04 GMT",
+  "generated_at": "Thu, 16 Oct 2025 06:15:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平给中国农业大学师生的回信",
@@ -46,26 +46,26 @@
     },
     {
       "rank": 7,
-      "title": "《爸爸去哪儿》村长李锐当副总裁",
-      "url": "https://www.toutiao.com/trending/7561369951224283177/",
-      "label": "new"
-    },
-    {
-      "rank": 8,
-      "title": "我国芯片研制获重大突破",
-      "url": "https://www.toutiao.com/trending/7561545536600293395/",
-      "label": ""
-    },
-    {
-      "rank": 9,
       "title": "林诗栋颁奖仪式上闻花差点吐了",
       "url": "https://www.toutiao.com/trending/7560938776298864659/",
       "label": "onSite"
     },
     {
+      "rank": 8,
+      "title": "你认同在孩子教育上“放任自流”吗",
+      "url": "https://www.toutiao.com/trending/7561594373646057491/",
+      "label": "forum"
+    },
+    {
+      "rank": 9,
+      "title": "《爸爸去哪儿》村长李锐当副总裁",
+      "url": "https://www.toutiao.com/trending/7561369951224283177/",
+      "label": "new"
+    },
+    {
       "rank": 10,
-      "title": "闻泰科技管理层回应安世“失控”",
-      "url": "https://www.toutiao.com/trending/7561559647220629514/",
+      "title": "我国芯片研制获重大突破",
+      "url": "https://www.toutiao.com/trending/7561545536600293395/",
       "label": ""
     },
     {
@@ -82,9 +82,9 @@
     },
     {
       "rank": 13,
-      "title": "为什么有很多人想回农村建房",
-      "url": "https://www.toutiao.com/trending/7561274372166828051/",
-      "label": "forum"
+      "title": "向太儿子向佑近照曝光",
+      "url": "https://www.toutiao.com/trending/7560838867243401266/",
+      "label": "new"
     },
     {
       "rank": 14,
@@ -94,44 +94,44 @@
     },
     {
       "rank": 15,
-      "title": "邓莎：我是丧偶式婚姻",
-      "url": "https://www.toutiao.com/trending/7561423130339753993/",
+      "title": "甘肃发现大型金矿",
+      "url": "https://www.toutiao.com/trending/7560985053363404838/",
       "label": ""
     },
     {
       "rank": 16,
-      "title": "向太儿子向佑近照曝光",
-      "url": "https://www.toutiao.com/trending/7560838867243401266/",
-      "label": "new"
-    },
-    {
-      "rank": 17,
       "title": "多地将剧烈降温 大雪大暴雨来了",
       "url": "https://www.toutiao.com/trending/7560550702189002815/",
       "label": ""
     },
     {
-      "rank": 18,
-      "title": "你认同在孩子教育上“放任自流”吗",
-      "url": "https://www.toutiao.com/trending/7561594373646057491/",
+      "rank": 17,
+      "title": "学霸家长有哪些共同特点",
+      "url": "https://www.toutiao.com/trending/7561433287076479018/",
       "label": "forum"
     },
     {
+      "rank": 18,
+      "title": "医院回应发喜报庆祝就诊人数创佳绩",
+      "url": "https://www.toutiao.com/trending/7561568978725027876/",
+      "label": "recentProgress"
+    },
+    {
       "rank": 19,
+      "title": "闻泰科技管理层回应安世“失控”",
+      "url": "https://www.toutiao.com/trending/7561559647220629514/",
+      "label": ""
+    },
+    {
+      "rank": 20,
       "title": "重庆男子下楼捡鞋坠绿化带深坑身亡",
       "url": "https://www.toutiao.com/trending/7560959789195362331/",
       "label": ""
     },
     {
-      "rank": 20,
+      "rank": 21,
       "title": "俄媒曝乌士兵欲性侵女子被无人机吓退",
       "url": "https://www.toutiao.com/trending/7561314436981227562/",
-      "label": ""
-    },
-    {
-      "rank": 21,
-      "title": "云南省委副书记石玉钢有新职",
-      "url": "https://www.toutiao.com/trending/7561623084458115113/",
       "label": ""
     },
     {
@@ -142,15 +142,15 @@
     },
     {
       "rank": 23,
-      "title": "打破套路的《沉默的荣耀》太揪心",
-      "url": "https://www.toutiao.com/trending/7560578470460604458/",
-      "label": "hot"
+      "title": "邓莎：我是丧偶式婚姻",
+      "url": "https://www.toutiao.com/trending/7561423130339753993/",
+      "label": ""
     },
     {
       "rank": 24,
-      "title": "甘肃发现大型金矿",
-      "url": "https://www.toutiao.com/trending/7560985053363404838/",
-      "label": ""
+      "title": "打破套路的《沉默的荣耀》太揪心",
+      "url": "https://www.toutiao.com/trending/7560578470460604458/",
+      "label": "hot"
     },
     {
       "rank": 25,
@@ -160,9 +160,9 @@
     },
     {
       "rank": 26,
-      "title": "医院回应发喜报庆祝就诊人数创佳绩",
-      "url": "https://www.toutiao.com/trending/7561568978725027876/",
-      "label": "recentProgress"
+      "title": "娄底技师学院回应保安和外卖员互殴",
+      "url": "https://www.toutiao.com/trending/7561620665099468809/",
+      "label": "new"
     },
     {
       "rank": 27,
@@ -178,14 +178,14 @@
     },
     {
       "rank": 29,
-      "title": "娄底技师学院回应保安和外卖员互殴",
-      "url": "https://www.toutiao.com/trending/7561620665099468809/",
-      "label": "new"
+      "title": "云南省委副书记石玉钢有新职",
+      "url": "https://www.toutiao.com/trending/7561623084458115113/",
+      "label": ""
     },
     {
       "rank": 30,
-      "title": "男子拍到路边出租车集体“侧翻”",
-      "url": "https://www.toutiao.com/trending/7560602755132473383/",
+      "title": "委方谴责美破坏该国和平与稳定",
+      "url": "https://www.toutiao.com/trending/7561467554628862015/",
       "label": "new"
     },
     {
@@ -202,26 +202,26 @@
     },
     {
       "rank": 33,
-      "title": "女生为亡夫守护公婆孩子近五年",
-      "url": "https://www.toutiao.com/trending/7560982004871856169/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "5岁女孩落水用幼儿园知识自救",
-      "url": "https://www.toutiao.com/trending/7561481991268089892/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "美委对抗升级 马杜罗启动大规模军演",
-      "url": "https://www.toutiao.com/trending/7560868054297657385/",
+      "title": "烈士聂曦史料研究工作已展开",
+      "url": "https://www.toutiao.com/trending/7560868881267687487/",
       "label": "new"
     },
     {
-      "rank": 36,
+      "rank": 34,
+      "title": "高校紧急为身高1米92同学加长床铺",
+      "url": "https://www.toutiao.com/trending/7561325686478372927/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
       "title": "美威胁停买的中国油或为废弃食用油",
       "url": "https://www.toutiao.com/trending/7561373292163006505/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "专家：日本正被推向不可知的未来",
+      "url": "https://www.toutiao.com/trending/7561637498636471846/",
       "label": ""
     },
     {
@@ -232,15 +232,15 @@
     },
     {
       "rank": 38,
-      "title": "专家：日本正被推向不可知的未来",
-      "url": "https://www.toutiao.com/trending/7561637498636471846/",
+      "title": "天气恶劣村民借用闲置猪圈摆丧宴",
+      "url": "https://www.toutiao.com/trending/7561627526902087719/",
       "label": ""
     },
     {
       "rank": 39,
-      "title": "高校紧急为身高1米92同学加长床铺",
-      "url": "https://www.toutiao.com/trending/7561325686478372927/",
-      "label": "new"
+      "title": "女生为亡夫守护公婆孩子近五年",
+      "url": "https://www.toutiao.com/trending/7560982004871856169/",
+      "label": ""
     },
     {
       "rank": 40,
@@ -250,9 +250,9 @@
     },
     {
       "rank": 41,
-      "title": "天气恶劣村民借用闲置猪圈摆丧宴",
-      "url": "https://www.toutiao.com/trending/7561627526902087719/",
-      "label": ""
+      "title": "“我听交警的”事件涉事女子被行拘",
+      "url": "https://www.toutiao.com/trending/7561540860664430611/",
+      "label": "new"
     },
     {
       "rank": 42,
@@ -262,51 +262,51 @@
     },
     {
       "rank": 43,
-      "title": "烈士聂曦史料研究工作已展开",
-      "url": "https://www.toutiao.com/trending/7560868881267687487/",
-      "label": "new"
+      "title": "曾凡博被裁将何去何从",
+      "url": "https://www.toutiao.com/trending/7561644698759073299/",
+      "label": ""
     },
     {
       "rank": 44,
-      "title": "稀土反制后美国对华可能打什么牌",
-      "url": "https://www.toutiao.com/trending/7561609261038439999/",
-      "label": "hot"
-    },
-    {
-      "rank": 45,
       "title": "山东省人大常委会委员惠新安被查",
       "url": "https://www.toutiao.com/trending/7561649341337960490/",
       "label": ""
     },
     {
+      "rank": 45,
+      "title": "稀土反制后美国对华可能打什么牌",
+      "url": "https://www.toutiao.com/trending/7561609261038439999/",
+      "label": "hot"
+    },
+    {
       "rank": 46,
+      "title": "哈尔滨气温将刷新下半年来最低纪录",
+      "url": "https://www.toutiao.com/trending/7561364371663339574/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "球迷为孙颖莎创作单曲",
+      "url": "https://www.toutiao.com/trending/7561632921212928009/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "渐入佳境的杨瀚森与姚明有何不一样",
+      "url": "https://www.toutiao.com/trending/7561664240008990247/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
       "title": "国民党称台18县市有规划备战2026人选",
       "url": "https://www.toutiao.com/trending/7561360384188596287/",
       "label": ""
     },
     {
-      "rank": 47,
+      "rank": 50,
       "title": "沉默的荣耀剧中人物朱枫的风雨人生",
       "url": "https://www.toutiao.com/trending/7561365389683327014/",
       "label": "hot"
-    },
-    {
-      "rank": 48,
-      "title": "委方谴责美破坏该国和平与稳定",
-      "url": "https://www.toutiao.com/trending/7561467554628862015/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
-      "title": "财政部副部长王东伟履新安徽",
-      "url": "https://www.toutiao.com/trending/7561622732583682089/",
-      "label": ""
-    },
-    {
-      "rank": 50,
-      "title": "渐入佳境的杨瀚森与姚明有何不一样",
-      "url": "https://www.toutiao.com/trending/7561664240008990247/",
-      "label": "new"
     }
   ]
 }
