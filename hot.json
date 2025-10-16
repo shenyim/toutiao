@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 16 Oct 2025 03:40:55 GMT",
+  "generated_at": "Thu, 16 Oct 2025 03:47:43 GMT",
   "top": {
     "rank": "置顶",
     "title": "《求是》杂志发表总书记重要文章",
@@ -12,12 +12,12 @@
       "rank": 1,
       "title": "官方披露：4名将领涉嫌严重违纪违法",
       "url": "https://www.toutiao.com/trending/7561626679756980243/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 2,
-      "title": "我国芯片研制获重大突破",
-      "url": "https://www.toutiao.com/trending/7561545536600293395/",
+      "title": "林诗栋颁奖仪式上闻花差点吐了",
+      "url": "https://www.toutiao.com/trending/7560938776298864659/",
       "label": ""
     },
     {
@@ -28,8 +28,8 @@
     },
     {
       "rank": 4,
-      "title": "林诗栋颁奖仪式上闻花差点吐了",
-      "url": "https://www.toutiao.com/trending/7560938776298864659/",
+      "title": "我国芯片研制获重大突破",
+      "url": "https://www.toutiao.com/trending/7561545536600293395/",
       "label": ""
     },
     {
@@ -76,33 +76,33 @@
     },
     {
       "rank": 12,
-      "title": "俄媒曝乌士兵欲性侵女子被无人机吓退",
-      "url": "https://www.toutiao.com/trending/7561314436981227562/",
-      "label": "hot"
-    },
-    {
-      "rank": 13,
-      "title": "邓莎：我是丧偶式婚姻",
-      "url": "https://www.toutiao.com/trending/7561423130339753993/",
-      "label": ""
-    },
-    {
-      "rank": 14,
       "title": "34岁女歌手黄小玫因病去世",
       "url": "https://www.toutiao.com/trending/7561375654949109770/",
       "label": "new"
     },
     {
-      "rank": 15,
-      "title": "稀土反制后美国对华可能打什么牌",
-      "url": "https://www.toutiao.com/trending/7561609261038439999/",
-      "label": "hot"
+      "rank": 13,
+      "title": "俄媒曝乌士兵欲性侵女子被无人机吓退",
+      "url": "https://www.toutiao.com/trending/7561314436981227562/",
+      "label": ""
     },
     {
-      "rank": 16,
+      "rank": 14,
+      "title": "邓莎：我是丧偶式婚姻",
+      "url": "https://www.toutiao.com/trending/7561423130339753993/",
+      "label": ""
+    },
+    {
+      "rank": 15,
       "title": "下周金价会重演2015年行情吗",
       "url": "https://www.toutiao.com/trending/7561615409112157705/",
       "label": ""
+    },
+    {
+      "rank": 16,
+      "title": "稀土反制后美国对华可能打什么牌",
+      "url": "https://www.toutiao.com/trending/7561609261038439999/",
+      "label": "hot"
     },
     {
       "rank": 17,
@@ -112,15 +112,15 @@
     },
     {
       "rank": 18,
-      "title": "云南省委副书记石玉钢有新职",
-      "url": "https://www.toutiao.com/trending/7561623084458115113/",
-      "label": "new"
-    },
-    {
-      "rank": 19,
       "title": "顾客卖出500克黄金1天赚近5万",
       "url": "https://www.toutiao.com/trending/7560867597089439798/",
       "label": ""
+    },
+    {
+      "rank": 19,
+      "title": "云南省委副书记石玉钢有新职",
+      "url": "https://www.toutiao.com/trending/7561623084458115113/",
+      "label": "new"
     },
     {
       "rank": 20,
@@ -130,14 +130,14 @@
     },
     {
       "rank": 21,
-      "title": "财政部副部长王东伟履新安徽",
-      "url": "https://www.toutiao.com/trending/7561622732583682089/",
-      "label": ""
+      "title": "重庆男子下楼捡鞋坠绿化带深坑身亡",
+      "url": "https://www.toutiao.com/trending/7560959789195362331/",
+      "label": "new"
     },
     {
       "rank": 22,
-      "title": "沉默的荣耀剧中人物朱枫的风雨人生",
-      "url": "https://www.toutiao.com/trending/7561365389683327014/",
+      "title": "财政部副部长王东伟履新安徽",
+      "url": "https://www.toutiao.com/trending/7561622732583682089/",
       "label": ""
     },
     {
@@ -148,44 +148,44 @@
     },
     {
       "rank": 24,
-      "title": "重庆男子下楼捡鞋坠绿化带深坑身亡",
-      "url": "https://www.toutiao.com/trending/7560959789195362331/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "路遇小孩受伤 交警私家车秒变救护车",
-      "url": "https://www.toutiao.com/trending/7560707851115872275/",
+      "title": "沉默的荣耀剧中人物朱枫的风雨人生",
+      "url": "https://www.toutiao.com/trending/7561365389683327014/",
       "label": ""
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "中方坚决反对英方制裁11家中国实体",
       "url": "https://www.toutiao.com/trending/7561590883414507546/",
       "label": ""
     },
     {
-      "rank": 27,
-      "title": "微信重申朋友圈不会有访客功能",
-      "url": "https://www.toutiao.com/trending/7561590046672047662/",
+      "rank": 26,
+      "title": "路遇小孩受伤 交警私家车秒变救护车",
+      "url": "https://www.toutiao.com/trending/7560707851115872275/",
       "label": ""
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "甘肃发现大型金矿",
       "url": "https://www.toutiao.com/trending/7560985053363404838/",
       "label": ""
     },
     {
+      "rank": 28,
+      "title": "微信重申朋友圈不会有访客功能",
+      "url": "https://www.toutiao.com/trending/7561590046672047662/",
+      "label": ""
+    },
+    {
       "rank": 29,
-      "title": "俄方：继续暂停俄乌谈判是唯一选择",
-      "url": "https://www.toutiao.com/trending/7561366664950169638/",
+      "title": "女生为亡夫守护公婆孩子近五年",
+      "url": "https://www.toutiao.com/trending/7560982004871856169/",
       "label": ""
     },
     {
       "rank": 30,
-      "title": "女生为亡夫守护公婆孩子近五年",
-      "url": "https://www.toutiao.com/trending/7560982004871856169/",
+      "title": "俄方：继续暂停俄乌谈判是唯一选择",
+      "url": "https://www.toutiao.com/trending/7561366664950169638/",
       "label": ""
     },
     {
@@ -202,26 +202,26 @@
     },
     {
       "rank": 33,
+      "title": "美政府停摆第三周 多行业受冲击",
+      "url": "https://www.toutiao.com/trending/7561218485863317558/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "北约防长会聚焦哪些内容",
+      "url": "https://www.toutiao.com/trending/7561310570159898643/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
       "title": "黄金还能牛多久",
       "url": "https://www.toutiao.com/trending/7561628638915874354/",
       "label": "depth"
     },
     {
-      "rank": 34,
-      "title": "《命悬一生》姜珮瑶演技被赞",
-      "url": "https://www.toutiao.com/trending/7560869909476933668/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "四川1000名学生复刻《三体》名场面",
-      "url": "https://www.toutiao.com/trending/7561315051731943434/",
-      "label": ""
-    },
-    {
       "rank": 36,
-      "title": "荣耀CEO：荣耀Pro比友商Max还Max",
-      "url": "https://www.toutiao.com/trending/7561535155014467627/",
+      "title": "曾凡博被裁将何去何从",
+      "url": "https://www.toutiao.com/trending/7561644698759073299/",
       "label": "new"
     },
     {
@@ -232,45 +232,45 @@
     },
     {
       "rank": 38,
-      "title": "曾凡博被裁将何去何从",
-      "url": "https://www.toutiao.com/trending/7561644698759073299/",
+      "title": "荣耀CEO：荣耀Pro比友商Max还Max",
+      "url": "https://www.toutiao.com/trending/7561535155014467627/",
       "label": "new"
     },
     {
       "rank": 39,
-      "title": "印乐队演奏40分钟亚锦赛颁奖还未开始",
-      "url": "https://www.toutiao.com/trending/7561445591092477971/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "媒体：美不必对中方的反击感到意外",
-      "url": "https://www.toutiao.com/trending/7561597460628488243/",
-      "label": ""
-    },
-    {
-      "rank": 41,
       "title": "专家：日本正被推向不可知的未来",
       "url": "https://www.toutiao.com/trending/7561637498636471846/",
       "label": "new"
     },
     {
+      "rank": 40,
+      "title": "《命悬一生》姜珮瑶演技被赞",
+      "url": "https://www.toutiao.com/trending/7560869909476933668/",
+      "label": "new"
+    },
+    {
+      "rank": 41,
+      "title": "印乐队演奏40分钟亚锦赛颁奖还未开始",
+      "url": "https://www.toutiao.com/trending/7561445591092477971/",
+      "label": ""
+    },
+    {
       "rank": 42,
-      "title": "国乒女团复仇日本重夺亚锦赛冠军",
-      "url": "https://www.toutiao.com/trending/7561287387410746916/",
-      "label": "hot"
+      "title": "四川1000名学生复刻《三体》名场面",
+      "url": "https://www.toutiao.com/trending/7561315051731943434/",
+      "label": ""
     },
     {
       "rank": 43,
-      "title": "黄金白银还能入场吗",
-      "url": "https://www.toutiao.com/trending/7561620178195205673/",
+      "title": "媒体：美不必对中方的反击感到意外",
+      "url": "https://www.toutiao.com/trending/7561597460628488243/",
       "label": ""
     },
     {
       "rank": 44,
-      "title": "高市早苗能如愿当上日本首相吗",
-      "url": "https://www.toutiao.com/trending/7561610632487767593/",
-      "label": ""
+      "title": "国乒女团复仇日本重夺亚锦赛冠军",
+      "url": "https://www.toutiao.com/trending/7561287387410746916/",
+      "label": "hot"
     },
     {
       "rank": 45,
@@ -280,33 +280,33 @@
     },
     {
       "rank": 46,
+      "title": "黄金白银还能入场吗",
+      "url": "https://www.toutiao.com/trending/7561620178195205673/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "高市早苗能如愿当上日本首相吗",
+      "url": "https://www.toutiao.com/trending/7561610632487767593/",
+      "label": ""
+    },
+    {
+      "rank": 48,
       "title": "马杜罗谴责美中情局策划委内瑞拉政变",
       "url": "https://www.toutiao.com/trending/7560714100503052298/",
       "label": "new"
     },
     {
-      "rank": 47,
-      "title": "猫咪临死前跑到主人身边蹭头求摸",
-      "url": "https://www.toutiao.com/trending/7561273679959670826/",
-      "label": ""
-    },
-    {
-      "rank": 48,
-      "title": "加沙停火遭遇“哈马斯解除武装”难题",
-      "url": "https://www.toutiao.com/trending/7560868419009626158/",
-      "label": ""
-    },
-    {
       "rank": 49,
-      "title": "朱枫外孙女哽咽讲述外婆牺牲故事",
-      "url": "https://www.toutiao.com/trending/7561007830648537129/",
-      "label": ""
+      "title": "世青赛半决赛：摩洛哥淘汰法国",
+      "url": "https://www.toutiao.com/trending/7561360336138731556/",
+      "label": "new"
     },
     {
       "rank": 50,
-      "title": "黄金白银涨价 新能源车面临成本压力",
-      "url": "https://www.toutiao.com/trending/7561617549238996521/",
-      "label": "new"
+      "title": "加沙停火遭遇“哈马斯解除武装”难题",
+      "url": "https://www.toutiao.com/trending/7560868419009626158/",
+      "label": ""
     }
   ]
 }
