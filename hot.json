@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 16 Oct 2025 05:00:04 GMT",
+  "generated_at": "Thu, 16 Oct 2025 05:05:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "《求是》杂志发表总书记重要文章",
@@ -46,27 +46,27 @@
     },
     {
       "rank": 7,
-      "title": "女子在台北车站大厅遭侵犯无人制止",
-      "url": "https://www.toutiao.com/trending/7560971255944446002/",
-      "label": "hot"
-    },
-    {
-      "rank": 8,
       "title": "数十名记者不接受新规离开五角大楼",
       "url": "https://www.toutiao.com/trending/7561664583954337289/",
       "label": "new"
     },
     {
+      "rank": 8,
+      "title": "女子在台北车站大厅遭侵犯无人制止",
+      "url": "https://www.toutiao.com/trending/7560971255944446002/",
+      "label": "hot"
+    },
+    {
       "rank": 9,
-      "title": "你认同在孩子教育上“放任自流”吗",
-      "url": "https://www.toutiao.com/trending/7561594373646057491/",
-      "label": "forum"
+      "title": "云南省委副书记石玉钢有新职",
+      "url": "https://www.toutiao.com/trending/7561623084458115113/",
+      "label": ""
     },
     {
       "rank": 10,
-      "title": "下午A股可能怎样走",
-      "url": "https://www.toutiao.com/trending/7561659645815688745/",
-      "label": "new"
+      "title": "你认同在孩子教育上“放任自流”吗",
+      "url": "https://www.toutiao.com/trending/7561594373646057491/",
+      "label": "forum"
     },
     {
       "rank": 11,
@@ -100,14 +100,14 @@
     },
     {
       "rank": 16,
-      "title": "打破套路的《沉默的荣耀》太揪心",
-      "url": "https://www.toutiao.com/trending/7560578470460604458/",
+      "title": "稀土反制后美国对华可能打什么牌",
+      "url": "https://www.toutiao.com/trending/7561609261038439999/",
       "label": "hot"
     },
     {
       "rank": 17,
-      "title": "看壶口瀑布选山西侧还是陕西侧",
-      "url": "https://www.toutiao.com/trending/7561436688473669674/",
+      "title": "你认为健康和金钱哪个最重要",
+      "url": "https://www.toutiao.com/trending/7561458205009788967/",
       "label": "forum"
     },
     {
@@ -118,39 +118,39 @@
     },
     {
       "rank": 19,
+      "title": "打破套路的《沉默的荣耀》太揪心",
+      "url": "https://www.toutiao.com/trending/7560578470460604458/",
+      "label": "hot"
+    },
+    {
+      "rank": 20,
+      "title": "专家：日本正被推向不可知的未来",
+      "url": "https://www.toutiao.com/trending/7561637498636471846/",
+      "label": ""
+    },
+    {
+      "rank": 21,
+      "title": "刘雯第九次亮相维密大秀",
+      "url": "https://www.toutiao.com/trending/7561111662955102244/",
+      "label": "new"
+    },
+    {
+      "rank": 22,
+      "title": "印度首富妻子爱马仕包镶3000颗钻",
+      "url": "https://www.toutiao.com/trending/7560751723166335015/",
+      "label": "new"
+    },
+    {
+      "rank": 23,
       "title": "甘肃发现大型金矿",
       "url": "https://www.toutiao.com/trending/7560985053363404838/",
       "label": ""
     },
     {
-      "rank": 20,
-      "title": "女生为亡夫守护公婆孩子近五年",
-      "url": "https://www.toutiao.com/trending/7560982004871856169/",
-      "label": ""
-    },
-    {
-      "rank": 21,
-      "title": "云南省委副书记石玉钢有新职",
-      "url": "https://www.toutiao.com/trending/7561623084458115113/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "多地将剧烈降温 大雪大暴雨来了",
-      "url": "https://www.toutiao.com/trending/7560550702189002815/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "稀土反制后美国对华可能打什么牌",
-      "url": "https://www.toutiao.com/trending/7561609261038439999/",
-      "label": "hot"
-    },
-    {
       "rank": 24,
-      "title": "刘雯第九次亮相维密大秀",
-      "url": "https://www.toutiao.com/trending/7561111662955102244/",
-      "label": "new"
+      "title": "黄金暴涨意味着什么",
+      "url": "https://www.toutiao.com/trending/7561655252278054438/",
+      "label": "depth"
     },
     {
       "rank": 25,
@@ -160,68 +160,68 @@
     },
     {
       "rank": 26,
-      "title": "专家：日本正被推向不可知的未来",
-      "url": "https://www.toutiao.com/trending/7561637498636471846/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "印度首富妻子爱马仕包镶3000颗钻",
-      "url": "https://www.toutiao.com/trending/7560751723166335015/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
-      "title": "美威胁停买的中国油或为废弃食用油",
-      "url": "https://www.toutiao.com/trending/7561373292163006505/",
-      "label": ""
-    },
-    {
-      "rank": 29,
       "title": "山东省人大常委会委员惠新安被查",
       "url": "https://www.toutiao.com/trending/7561649341337960490/",
       "label": "new"
     },
     {
-      "rank": 30,
+      "rank": 27,
+      "title": "多地将剧烈降温 大雪大暴雨来了",
+      "url": "https://www.toutiao.com/trending/7560550702189002815/",
+      "label": ""
+    },
+    {
+      "rank": 28,
       "title": "荣耀手机背面翻出一个机器人",
       "url": "https://www.toutiao.com/trending/7560732217845268526/",
       "label": ""
     },
     {
+      "rank": 29,
+      "title": "女生为亡夫守护公婆孩子近五年",
+      "url": "https://www.toutiao.com/trending/7560982004871856169/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "美威胁停买的中国油或为废弃食用油",
+      "url": "https://www.toutiao.com/trending/7561373292163006505/",
+      "label": ""
+    },
+    {
       "rank": 31,
+      "title": "5岁女孩落水用幼儿园知识自救",
+      "url": "https://www.toutiao.com/trending/7561481991268089892/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
       "title": "篮网裁掉曾凡博",
       "url": "https://www.toutiao.com/trending/7560867841725956138/",
       "label": ""
     },
     {
-      "rank": 32,
+      "rank": 33,
+      "title": "男子腰上一阵冰凉伸手摸到一条蛇",
+      "url": "https://www.toutiao.com/trending/7561106772472545299/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "“机器人医生”上岗做艾灸",
+      "url": "https://www.toutiao.com/trending/7560994325229568036/",
+      "label": ""
+    },
+    {
+      "rank": 35,
       "title": "厂商按潦草手绘图还原出异形玻璃",
       "url": "https://www.toutiao.com/trending/7560952714012868635/",
       "label": "new"
     },
     {
-      "rank": 33,
-      "title": "荣耀CEO：荣耀Pro比友商Max还Max",
-      "url": "https://www.toutiao.com/trending/7561535155014467627/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "国民党称台18县市有规划备战2026人选",
-      "url": "https://www.toutiao.com/trending/7561360384188596287/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "曾凡博被裁将何去何从",
-      "url": "https://www.toutiao.com/trending/7561644698759073299/",
-      "label": ""
-    },
-    {
       "rank": 36,
-      "title": "5岁女孩落水用幼儿园知识自救",
-      "url": "https://www.toutiao.com/trending/7561481991268089892/",
+      "title": "球迷为孙颖莎创作单曲",
+      "url": "https://www.toutiao.com/trending/7561632921212928009/",
       "label": "new"
     },
     {
@@ -232,27 +232,27 @@
     },
     {
       "rank": 38,
-      "title": "中方坚决反对英方制裁11家中国实体",
-      "url": "https://www.toutiao.com/trending/7561590883414507546/",
+      "title": "荣耀CEO：荣耀Pro比友商Max还Max",
+      "url": "https://www.toutiao.com/trending/7561535155014467627/",
       "label": ""
     },
     {
       "rank": 39,
-      "title": "媒体：美不必对中方的反击感到意外",
-      "url": "https://www.toutiao.com/trending/7561597460628488243/",
+      "title": "国民党称台18县市有规划备战2026人选",
+      "url": "https://www.toutiao.com/trending/7561360384188596287/",
       "label": ""
     },
     {
       "rank": 40,
-      "title": "沉默的荣耀剧中人物朱枫的风雨人生",
-      "url": "https://www.toutiao.com/trending/7561365389683327014/",
-      "label": "hot"
+      "title": "曾凡博被裁将何去何从",
+      "url": "https://www.toutiao.com/trending/7561644698759073299/",
+      "label": ""
     },
     {
       "rank": 41,
-      "title": "球迷为孙颖莎创作单曲",
-      "url": "https://www.toutiao.com/trending/7561632921212928009/",
-      "label": "new"
+      "title": "下周金价会重演2015年行情吗",
+      "url": "https://www.toutiao.com/trending/7561615409112157705/",
+      "label": ""
     },
     {
       "rank": 42,
@@ -262,39 +262,39 @@
     },
     {
       "rank": 43,
-      "title": "印度承诺停止购买俄油？专家分析",
-      "url": "https://www.toutiao.com/trending/7561620665921441321/",
+      "title": "男子上山摘黄精误踩野猪夹",
+      "url": "https://www.toutiao.com/trending/7561416421205409831/",
       "label": ""
     },
     {
       "rank": 44,
+      "title": "中方坚决反对英方制裁11家中国实体",
+      "url": "https://www.toutiao.com/trending/7561590883414507546/",
+      "label": ""
+    },
+    {
+      "rank": 45,
       "title": "陕西高校9个学科排名全国第一",
       "url": "https://www.toutiao.com/trending/7561422641647763502/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "黄金暴涨意味着什么",
-      "url": "https://www.toutiao.com/trending/7561655252278054438/",
-      "label": "depth"
-    },
-    {
       "rank": 46,
-      "title": "“机器人医生”上岗做艾灸",
-      "url": "https://www.toutiao.com/trending/7560994325229568036/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
       "title": "揭秘“巴铁背刺中国”谣言幕后推手",
       "url": "https://www.toutiao.com/trending/7561425545515728922/",
       "label": ""
     },
     {
+      "rank": 47,
+      "title": "美提供战斧导弹就能改变俄乌战局吗",
+      "url": "https://www.toutiao.com/trending/7561658870741863974/",
+      "label": "new"
+    },
+    {
       "rank": 48,
-      "title": "财政部副部长王东伟履新安徽",
-      "url": "https://www.toutiao.com/trending/7561622732583682089/",
-      "label": ""
+      "title": "沉默的荣耀剧中人物朱枫的风雨人生",
+      "url": "https://www.toutiao.com/trending/7561365389683327014/",
+      "label": "hot"
     },
     {
       "rank": 49,
@@ -304,9 +304,9 @@
     },
     {
       "rank": 50,
-      "title": "美提供战斧导弹就能改变俄乌战局吗",
-      "url": "https://www.toutiao.com/trending/7561658870741863974/",
-      "label": "new"
+      "title": "印度承诺停止购买俄油？专家分析",
+      "url": "https://www.toutiao.com/trending/7561620665921441321/",
+      "label": ""
     }
   ]
 }
