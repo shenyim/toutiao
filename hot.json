@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 16 Oct 2025 10:45:05 GMT",
+  "generated_at": "Thu, 16 Oct 2025 10:50:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "努力培养更多知农爱农的专业人才",
@@ -24,18 +24,18 @@
       "rank": 3,
       "title": "新能源产业持续培育壮大",
       "url": "https://www.toutiao.com/article/7561626891476566582",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 4,
-      "title": "特朗普回应发军饷：有位绅士愿意付",
-      "url": "https://www.toutiao.com/trending/7560868714460823595/",
+      "title": "祖孙被撞身亡 司机十余日后病逝",
+      "url": "https://www.toutiao.com/trending/7560885266047828031/",
       "label": ""
     },
     {
       "rank": 5,
-      "title": "祖孙被撞身亡 司机十余日后病逝",
-      "url": "https://www.toutiao.com/trending/7560885266047828031/",
+      "title": "特朗普回应发军饷：有位绅士愿意付",
+      "url": "https://www.toutiao.com/trending/7560868714460823595/",
       "label": ""
     },
     {
@@ -70,8 +70,8 @@
     },
     {
       "rank": 11,
-      "title": "秋季是光子嫩肤黄金季节？勿轻信",
-      "url": "https://www.toutiao.com/trending/7561647515960606774/",
+      "title": "“云南鲁甸地震致4死24伤”不实",
+      "url": "https://www.toutiao.com/trending/7561312396128649279/",
       "label": "refuteRumors"
     },
     {
@@ -124,9 +124,9 @@
     },
     {
       "rank": 20,
-      "title": "特朗普称对西班牙很不爽",
-      "url": "https://www.toutiao.com/trending/7560714140441509924/",
-      "label": ""
+      "title": "辽宁黑水镇一4岁女童失联",
+      "url": "https://www.toutiao.com/trending/7561605124120952874/",
+      "label": "new"
     },
     {
       "rank": 21,
@@ -142,26 +142,26 @@
     },
     {
       "rank": 23,
-      "title": "金价会掉头向下吗",
-      "url": "https://www.toutiao.com/trending/7561745310884564523/",
-      "label": "new"
+      "title": "特朗普称对西班牙很不爽",
+      "url": "https://www.toutiao.com/trending/7560714140441509924/",
+      "label": ""
     },
     {
       "rank": 24,
+      "title": "叙利亚政权领导人首次访俄与普京握手",
+      "url": "https://www.toutiao.com/trending/7561327520491700251/",
+      "label": "new"
+    },
+    {
+      "rank": 25,
       "title": "外交部：坚决反对美动辄拿中方说事",
       "url": "https://www.toutiao.com/trending/7560925685838200873/",
       "label": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "特朗普下月或亲赴美最高法院“督战”",
       "url": "https://www.toutiao.com/trending/7561326265605898276/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
-      "title": "叙利亚政权领导人首次访俄与普京握手",
-      "url": "https://www.toutiao.com/trending/7561327520491700251/",
       "label": "new"
     },
     {
@@ -172,20 +172,20 @@
     },
     {
       "rank": 28,
-      "title": "雷军：汽车安全是基础 抵制水军",
+      "title": "雷军：汽车安全是基础",
       "url": "https://www.toutiao.com/trending/7560869722347077641/",
       "label": "new"
     },
     {
       "rank": 29,
-      "title": "有人卖七八公斤金条变现700多万",
-      "url": "https://www.toutiao.com/trending/7561355217929814055/",
-      "label": ""
+      "title": "金价会掉头向下吗",
+      "url": "https://www.toutiao.com/trending/7561745310884564523/",
+      "label": "new"
     },
     {
       "rank": 30,
-      "title": "《沉默的荣耀》为何引发观众情感共鸣",
-      "url": "https://www.toutiao.com/trending/7561186664866054190/",
+      "title": "有人卖七八公斤金条变现700多万",
+      "url": "https://www.toutiao.com/trending/7561355217929814055/",
       "label": ""
     },
     {
@@ -196,9 +196,9 @@
     },
     {
       "rank": 32,
-      "title": "辽宁黑水镇一4岁女童失联",
-      "url": "https://www.toutiao.com/trending/7561605124120952874/",
-      "label": "new"
+      "title": "《沉默的荣耀》为何引发观众情感共鸣",
+      "url": "https://www.toutiao.com/trending/7561186664866054190/",
+      "label": ""
     },
     {
       "rank": 33,
@@ -238,9 +238,9 @@
     },
     {
       "rank": 39,
-      "title": "韩华海洋被中方制裁 它究竟干了啥",
-      "url": "https://www.toutiao.com/trending/7560937220467884082/",
-      "label": ""
+      "title": "蒋万安突访台南引发外界关注",
+      "url": "https://www.toutiao.com/trending/7560714928127426587/",
+      "label": "new"
     },
     {
       "rank": 40,
@@ -250,63 +250,63 @@
     },
     {
       "rank": 41,
-      "title": "外交部驳斥中方入侵英计算机系统论调",
-      "url": "https://www.toutiao.com/trending/7560868414798200875/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "微信重申朋友圈不会有访客功能",
-      "url": "https://www.toutiao.com/trending/7561590046672047662/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "NBA新赛季有哪些看点",
-      "url": "https://www.toutiao.com/trending/7561097239884660777/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
-      "title": "外交部回应英国制裁多家中企",
-      "url": "https://www.toutiao.com/trending/7561724513827536939/",
-      "label": ""
-    },
-    {
-      "rank": 45,
       "title": "泽连斯基称乌能源及民用设施遭袭",
       "url": "https://www.toutiao.com/trending/7560867597713997865/",
       "label": "new"
     },
     {
-      "rank": 46,
-      "title": "为何牛市反而容易亏钱",
-      "url": "https://www.toutiao.com/trending/7561459225365856275/",
-      "label": "interpretation"
+      "rank": 42,
+      "title": "韩华海洋被中方制裁 它究竟干了啥",
+      "url": "https://www.toutiao.com/trending/7560937220467884082/",
+      "label": ""
     },
     {
-      "rank": 47,
+      "rank": 43,
+      "title": "微信重申朋友圈不会有访客功能",
+      "url": "https://www.toutiao.com/trending/7561590046672047662/",
+      "label": ""
+    },
+    {
+      "rank": 44,
       "title": "A股成交跌破两万亿",
       "url": "https://www.toutiao.com/trending/7561746609113927207/",
       "label": "new"
     },
     {
-      "rank": 48,
-      "title": "篮网裁掉曾凡博",
-      "url": "https://www.toutiao.com/trending/7560867841725956138/",
-      "label": ""
+      "rank": 45,
+      "title": "外交部驳斥中方入侵英计算机系统论调",
+      "url": "https://www.toutiao.com/trending/7560868414798200875/",
+      "label": "new"
     },
     {
-      "rank": 49,
+      "rank": 46,
       "title": "巴阿爆发冲突背后的“印度魅影”",
       "url": "https://www.toutiao.com/trending/7560867937365835839/",
       "label": "new"
     },
     {
-      "rank": 50,
-      "title": "34岁女歌手黄小玫因病去世",
-      "url": "https://www.toutiao.com/trending/7561375654949109770/",
+      "rank": 47,
+      "title": "篮网裁掉曾凡博",
+      "url": "https://www.toutiao.com/trending/7560867841725956138/",
       "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "外交部回应英国制裁多家中企",
+      "url": "https://www.toutiao.com/trending/7561724513827536939/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "高市早苗距日本首相一步之遥了吗",
+      "url": "https://www.toutiao.com/trending/7561747788397022762/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 50,
+      "title": "为何牛市反而容易亏钱",
+      "url": "https://www.toutiao.com/trending/7561459225365856275/",
+      "label": "interpretation"
     }
   ]
 }
