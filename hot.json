@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 16 Oct 2025 10:41:30 GMT",
+  "generated_at": "Thu, 16 Oct 2025 10:45:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "努力培养更多知农爱农的专业人才",
@@ -58,14 +58,14 @@
     },
     {
       "rank": 9,
-      "title": "中美近期有新一轮会谈？商务部回应",
-      "url": "https://www.toutiao.com/trending/7560887772761554985/",
-      "label": "hot"
+      "title": "金价年内涨幅超50% 专家提醒",
+      "url": "https://www.toutiao.com/trending/7560578938016432191/",
+      "label": "new"
     },
     {
       "rank": 10,
-      "title": "支持郑丽文选国民党主席？洪秀柱回应",
-      "url": "https://www.toutiao.com/trending/7561687286410035239/",
+      "title": "中美近期有新一轮会谈？商务部回应",
+      "url": "https://www.toutiao.com/trending/7560887772761554985/",
       "label": "hot"
     },
     {
@@ -94,9 +94,9 @@
     },
     {
       "rank": 15,
-      "title": "金价年内涨幅超50% 专家提醒",
-      "url": "https://www.toutiao.com/trending/7560578938016432191/",
-      "label": "new"
+      "title": "支持郑丽文选国民党主席？洪秀柱回应",
+      "url": "https://www.toutiao.com/trending/7561687286410035239/",
+      "label": "hot"
     },
     {
       "rank": 16,
@@ -112,15 +112,15 @@
     },
     {
       "rank": 18,
-      "title": "“我听交警的”事件涉事女子被行拘",
-      "url": "https://www.toutiao.com/trending/7561540860664430611/",
-      "label": "recentProgress"
-    },
-    {
-      "rank": 19,
       "title": "林诗栋回应被花臭到表情失控",
       "url": "https://www.toutiao.com/trending/7561749047212625446/",
       "label": "new"
+    },
+    {
+      "rank": 19,
+      "title": "“我听交警的”事件涉事女子被行拘",
+      "url": "https://www.toutiao.com/trending/7561540860664430611/",
+      "label": "recentProgress"
     },
     {
       "rank": 20,
@@ -142,26 +142,26 @@
     },
     {
       "rank": 23,
+      "title": "金价会掉头向下吗",
+      "url": "https://www.toutiao.com/trending/7561745310884564523/",
+      "label": "new"
+    },
+    {
+      "rank": 24,
       "title": "外交部：坚决反对美动辄拿中方说事",
       "url": "https://www.toutiao.com/trending/7560925685838200873/",
       "label": ""
     },
     {
-      "rank": 24,
+      "rank": 25,
       "title": "特朗普下月或亲赴美最高法院“督战”",
       "url": "https://www.toutiao.com/trending/7561326265605898276/",
       "label": "new"
     },
     {
-      "rank": 25,
-      "title": "雷军：汽车安全是基础 抵制水军",
-      "url": "https://www.toutiao.com/trending/7560869722347077641/",
-      "label": "new"
-    },
-    {
       "rank": 26,
-      "title": "金价会掉头向下吗",
-      "url": "https://www.toutiao.com/trending/7561745310884564523/",
+      "title": "叙利亚政权领导人首次访俄与普京握手",
+      "url": "https://www.toutiao.com/trending/7561327520491700251/",
       "label": "new"
     },
     {
@@ -172,8 +172,8 @@
     },
     {
       "rank": 28,
-      "title": "叙利亚政权领导人首次访俄与普京握手",
-      "url": "https://www.toutiao.com/trending/7561327520491700251/",
+      "title": "雷军：汽车安全是基础 抵制水军",
+      "url": "https://www.toutiao.com/trending/7560869722347077641/",
       "label": "new"
     },
     {
@@ -196,9 +196,9 @@
     },
     {
       "rank": 32,
-      "title": "黄子韬徐艺洋举办婚礼",
-      "url": "https://www.toutiao.com/trending/7561286691777019930/",
-      "label": ""
+      "title": "辽宁黑水镇一4岁女童失联",
+      "url": "https://www.toutiao.com/trending/7561605124120952874/",
+      "label": "new"
     },
     {
       "rank": 33,
@@ -208,27 +208,27 @@
     },
     {
       "rank": 34,
+      "title": "黄子韬徐艺洋举办婚礼",
+      "url": "https://www.toutiao.com/trending/7561286691777019930/",
+      "label": ""
+    },
+    {
+      "rank": 35,
       "title": "女童车里睡觉失联 家属悬赏10万寻人",
       "url": "https://www.toutiao.com/trending/7561683413657193993/",
       "label": ""
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "董明珠回应被指霸道：我私下很可爱",
       "url": "https://www.toutiao.com/trending/7560869025388806180/",
       "label": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "我国芯片研制获重大突破",
       "url": "https://www.toutiao.com/trending/7561545536600293395/",
       "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "辽宁黑水镇一4岁女童失联",
-      "url": "https://www.toutiao.com/trending/7561605124120952874/",
-      "label": "new"
     },
     {
       "rank": 38,
@@ -238,21 +238,21 @@
     },
     {
       "rank": 39,
-      "title": "黄金暴涨意味着什么",
-      "url": "https://www.toutiao.com/trending/7561655252278054438/",
-      "label": "depth"
-    },
-    {
-      "rank": 40,
       "title": "韩华海洋被中方制裁 它究竟干了啥",
       "url": "https://www.toutiao.com/trending/7560937220467884082/",
       "label": ""
     },
     {
+      "rank": 40,
+      "title": "黄金暴涨意味着什么",
+      "url": "https://www.toutiao.com/trending/7561655252278054438/",
+      "label": "depth"
+    },
+    {
       "rank": 41,
-      "title": "外交部回应英国制裁多家中企",
-      "url": "https://www.toutiao.com/trending/7561724513827536939/",
-      "label": ""
+      "title": "外交部驳斥中方入侵英计算机系统论调",
+      "url": "https://www.toutiao.com/trending/7560868414798200875/",
+      "label": "new"
     },
     {
       "rank": 42,
@@ -268,9 +268,9 @@
     },
     {
       "rank": 44,
-      "title": "外交部驳斥中方入侵英计算机系统论调",
-      "url": "https://www.toutiao.com/trending/7560868414798200875/",
-      "label": "new"
+      "title": "外交部回应英国制裁多家中企",
+      "url": "https://www.toutiao.com/trending/7561724513827536939/",
+      "label": ""
     },
     {
       "rank": 45,
@@ -286,8 +286,8 @@
     },
     {
       "rank": 47,
-      "title": "杨幂受邀出席今年维密大秀",
-      "url": "https://www.toutiao.com/trending/7560869591870767150/",
+      "title": "A股成交跌破两万亿",
+      "url": "https://www.toutiao.com/trending/7561746609113927207/",
       "label": "new"
     },
     {
@@ -298,15 +298,15 @@
     },
     {
       "rank": 49,
-      "title": "34岁女歌手黄小玫因病去世",
-      "url": "https://www.toutiao.com/trending/7561375654949109770/",
-      "label": ""
-    },
-    {
-      "rank": 50,
       "title": "巴阿爆发冲突背后的“印度魅影”",
       "url": "https://www.toutiao.com/trending/7560867937365835839/",
       "label": "new"
+    },
+    {
+      "rank": 50,
+      "title": "34岁女歌手黄小玫因病去世",
+      "url": "https://www.toutiao.com/trending/7561375654949109770/",
+      "label": ""
     }
   ]
 }
