@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 16 Oct 2025 11:10:05 GMT",
+  "generated_at": "Thu, 16 Oct 2025 11:15:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "努力培养更多知农爱农的专业人才",
@@ -28,8 +28,8 @@
     },
     {
       "rank": 4,
-      "title": "特朗普回应发军饷：有位绅士愿意付",
-      "url": "https://www.toutiao.com/trending/7560868714460823595/",
+      "title": "林诗栋回应被花臭到表情失控",
+      "url": "https://www.toutiao.com/trending/7561749047212625446/",
       "label": ""
     },
     {
@@ -52,21 +52,21 @@
     },
     {
       "rank": 8,
-      "title": "你期待全红婵的全运会表现吗",
-      "url": "https://www.toutiao.com/trending/7561744940398067755/",
-      "label": "forum"
+      "title": "外交部回应美方所谓“去中国化”",
+      "url": "https://www.toutiao.com/trending/7560900554218848310/",
+      "label": "hot"
     },
     {
       "rank": 9,
-      "title": "雷军：汽车安全是基础",
-      "url": "https://www.toutiao.com/trending/7560869722347077641/",
-      "label": "new"
+      "title": "降水线北移对中国是大好事吗",
+      "url": "https://www.toutiao.com/trending/7561592660771831862/",
+      "label": ""
     },
     {
       "rank": 10,
-      "title": "“我听交警的”事件涉事女子被行拘",
-      "url": "https://www.toutiao.com/trending/7561540860664430611/",
-      "label": "recentProgress"
+      "title": "你会轻易借钱给别人吗",
+      "url": "https://www.toutiao.com/trending/7561453185890680886/",
+      "label": "forum"
     },
     {
       "rank": 11,
@@ -94,33 +94,33 @@
     },
     {
       "rank": 15,
-      "title": "降水线北移对中国是大好事吗",
-      "url": "https://www.toutiao.com/trending/7561592660771831862/",
-      "label": ""
-    },
-    {
-      "rank": 16,
       "title": "婆婆不帮忙带孩子你有怨气吗",
       "url": "https://www.toutiao.com/trending/7561444054607249459/",
       "label": "forum"
     },
     {
-      "rank": 17,
-      "title": "林诗栋回应被花臭到表情失控",
-      "url": "https://www.toutiao.com/trending/7561749047212625446/",
-      "label": ""
-    },
-    {
-      "rank": 18,
-      "title": "外交部回应美方所谓“去中国化”",
-      "url": "https://www.toutiao.com/trending/7560900554218848310/",
+      "rank": 16,
+      "title": "中美近期有新一轮会谈？商务部回应",
+      "url": "https://www.toutiao.com/trending/7560887772761554985/",
       "label": "hot"
     },
     {
-      "rank": 19,
-      "title": "辽宁黑水镇一4岁女童失联",
-      "url": "https://www.toutiao.com/trending/7561605124120952874/",
+      "rank": 17,
+      "title": "支持郑丽文选国民党主席？洪秀柱回应",
+      "url": "https://www.toutiao.com/trending/7561687286410035239/",
+      "label": "hot"
+    },
+    {
+      "rank": 18,
+      "title": "雷军：汽车安全是基础",
+      "url": "https://www.toutiao.com/trending/7560869722347077641/",
       "label": "new"
+    },
+    {
+      "rank": 19,
+      "title": "“我听交警的”事件涉事女子被行拘",
+      "url": "https://www.toutiao.com/trending/7561540860664430611/",
+      "label": "recentProgress"
     },
     {
       "rank": 20,
@@ -142,44 +142,44 @@
     },
     {
       "rank": 23,
-      "title": "中美近期有新一轮会谈？商务部回应",
-      "url": "https://www.toutiao.com/trending/7560887772761554985/",
-      "label": "hot"
-    },
-    {
-      "rank": 24,
-      "title": "支持郑丽文选国民党主席？洪秀柱回应",
-      "url": "https://www.toutiao.com/trending/7561687286410035239/",
-      "label": "hot"
-    },
-    {
-      "rank": 25,
-      "title": "A股成交跌破两万亿",
-      "url": "https://www.toutiao.com/trending/7561746609113927207/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
       "title": "特朗普下月或亲赴美最高法院“督战”",
       "url": "https://www.toutiao.com/trending/7561326265605898276/",
       "label": "hot"
     },
     {
-      "rank": 27,
+      "rank": 24,
       "title": "美国拉帮结伙应对中方稀土管制",
       "url": "https://www.toutiao.com/trending/7561066555432648723/",
       "label": ""
     },
     {
-      "rank": 28,
+      "rank": 25,
+      "title": "辽宁黑水镇一4岁女童失联",
+      "url": "https://www.toutiao.com/trending/7561605124120952874/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "A股成交跌破两万亿",
+      "url": "https://www.toutiao.com/trending/7561746609113927207/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
       "title": "印度首富妻子爱马仕包镶3025颗钻",
       "url": "https://www.toutiao.com/trending/7560751723166335015/",
       "label": ""
     },
     {
+      "rank": 28,
+      "title": "颜丙燕和男友曾被误认是母子",
+      "url": "https://www.toutiao.com/trending/7561616519789248554/",
+      "label": "new"
+    },
+    {
       "rank": 29,
-      "title": "叙利亚政权领导人首次访俄与普京握手",
-      "url": "https://www.toutiao.com/trending/7561327520491700251/",
+      "title": "蒋万安突访台南引发外界关注",
+      "url": "https://www.toutiao.com/trending/7560714928127426587/",
       "label": "new"
     },
     {
@@ -190,99 +190,99 @@
     },
     {
       "rank": 31,
-      "title": "女童车里睡觉失联 家属悬赏10万寻人",
-      "url": "https://www.toutiao.com/trending/7561683413657193993/",
+      "title": "叙利亚政权领导人首次访俄与普京握手",
+      "url": "https://www.toutiao.com/trending/7561327520491700251/",
       "label": ""
     },
     {
       "rank": 32,
-      "title": "《沉默的荣耀》为何引发观众情感共鸣",
-      "url": "https://www.toutiao.com/trending/7561186664866054190/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "顾客卖出500克黄金1天赚近5万",
-      "url": "https://www.toutiao.com/trending/7560867597089439798/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "特朗普称对西班牙很不爽",
-      "url": "https://www.toutiao.com/trending/7560714140441509924/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "颜丙燕和男友曾被误认是母子",
-      "url": "https://www.toutiao.com/trending/7561616519789248554/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "蒋万安突访台南引发外界关注",
-      "url": "https://www.toutiao.com/trending/7560714928127426587/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "有人卖七八公斤金条变现700多万",
-      "url": "https://www.toutiao.com/trending/7561355217929814055/",
-      "label": ""
-    },
-    {
-      "rank": 38,
       "title": "揭秘“巴铁背刺中国”谣言幕后推手",
       "url": "https://www.toutiao.com/trending/7561425545515728922/",
       "label": ""
     },
     {
-      "rank": 39,
-      "title": "中方：同俄开展经贸能源合作正当合法",
-      "url": "https://www.toutiao.com/trending/7561729271413293095/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "董明珠回应被指霸道：我私下很可爱",
-      "url": "https://www.toutiao.com/trending/7560869025388806180/",
+      "rank": 33,
+      "title": "女童车里睡觉失联 家属悬赏10万寻人",
+      "url": "https://www.toutiao.com/trending/7561683413657193993/",
       "label": ""
     },
     {
-      "rank": 41,
-      "title": "广西一市民捡到剧毒眼镜王蛇蛇蜕",
-      "url": "https://www.toutiao.com/trending/7560715939110027300/",
+      "rank": 34,
+      "title": "爷爷奶奶坐6个多小时高铁去看孙子",
+      "url": "https://www.toutiao.com/trending/7561336135512834090/",
       "label": "new"
     },
     {
-      "rank": 42,
+      "rank": 35,
+      "title": "《沉默的荣耀》为何引发观众情感共鸣",
+      "url": "https://www.toutiao.com/trending/7561186664866054190/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "巴阿爆发冲突背后的“印度魅影”",
+      "url": "https://www.toutiao.com/trending/7560867937365835839/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "顾客卖出500克黄金1天赚近5万",
+      "url": "https://www.toutiao.com/trending/7560867597089439798/",
+      "label": ""
+    },
+    {
+      "rank": 38,
       "title": "外交部：坚决反对美动辄拿中方说事",
       "url": "https://www.toutiao.com/trending/7560925685838200873/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "微信重申朋友圈不会有访客功能",
-      "url": "https://www.toutiao.com/trending/7561590046672047662/",
-      "label": ""
+      "rank": 39,
+      "title": "广西一市民捡到剧毒眼镜王蛇蛇蜕",
+      "url": "https://www.toutiao.com/trending/7560715939110027300/",
+      "label": "new"
     },
     {
-      "rank": 44,
-      "title": "黄金暴涨意味着什么",
-      "url": "https://www.toutiao.com/trending/7561655252278054438/",
-      "label": "depth"
+      "rank": 40,
+      "title": "高市早苗距日本首相一步之遥了吗",
+      "url": "https://www.toutiao.com/trending/7561747788397022762/",
+      "label": "interpretation"
     },
     {
-      "rank": 45,
+      "rank": 41,
       "title": "美称印度承诺将停买俄石油 俄方回应",
       "url": "https://www.toutiao.com/trending/7561455139547086886/",
       "label": "new"
     },
     {
+      "rank": 42,
+      "title": "微信重申朋友圈不会有访客功能",
+      "url": "https://www.toutiao.com/trending/7561590046672047662/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "董明珠回应被指霸道：我私下很可爱",
+      "url": "https://www.toutiao.com/trending/7560869025388806180/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "机场回应外籍旅客脱鞋躺卧占座",
+      "url": "https://www.toutiao.com/trending/7561683108925145115/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "有人卖七八公斤金条变现700多万",
+      "url": "https://www.toutiao.com/trending/7561355217929814055/",
+      "label": ""
+    },
+    {
       "rank": 46,
-      "title": "高市早苗距日本首相一步之遥了吗",
-      "url": "https://www.toutiao.com/trending/7561747788397022762/",
-      "label": "interpretation"
+      "title": "黄金暴涨意味着什么",
+      "url": "https://www.toutiao.com/trending/7561655252278054438/",
+      "label": "depth"
     },
     {
       "rank": 47,
@@ -292,21 +292,21 @@
     },
     {
       "rank": 48,
-      "title": "爷爷奶奶坐6个多小时高铁去看孙子",
-      "url": "https://www.toutiao.com/trending/7561336135512834090/",
+      "title": "乌军方称袭击俄萨拉托夫炼油厂",
+      "url": "https://www.toutiao.com/trending/7560772618140352553/",
       "label": "new"
     },
     {
       "rank": 49,
-      "title": "黄子韬徐艺洋举办婚礼",
-      "url": "https://www.toutiao.com/trending/7561286691777019930/",
+      "title": "我国芯片研制获重大突破",
+      "url": "https://www.toutiao.com/trending/7561545536600293395/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "曾凡博仍能代表首钢征战新赛季CBA",
-      "url": "https://www.toutiao.com/trending/7560854217569632298/",
-      "label": "new"
+      "title": "印度在美俄间走钢丝行得通吗",
+      "url": "https://www.toutiao.com/trending/7561753133769035283/",
+      "label": "interpretation"
     }
   ]
 }
