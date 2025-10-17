@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Fri, 17 Oct 2025 03:35:04 GMT",
+  "generated_at": "Fri, 17 Oct 2025 03:40:03 GMT",
   "top": {
     "rank": "置顶",
     "title": "粮食安全：习近平心中的头等大事",
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "title": "曹德旺交班给民营企业家什么启示",
-      "url": "https://www.toutiao.com/trending/7561995949489262116/",
-      "label": "hot"
-    },
-    {
-      "rank": 6,
       "title": "国内金饰克价逼近1300元",
       "url": "https://www.toutiao.com/trending/7562005458513317419/",
       "label": "new"
+    },
+    {
+      "rank": 6,
+      "title": "曹德旺交班给民营企业家什么启示",
+      "url": "https://www.toutiao.com/trending/7561995949489262116/",
+      "label": "hot"
     },
     {
       "rank": 7,
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "牛弹琴：普京三板斧轻松搞定特朗普",
-      "url": "https://www.toutiao.com/trending/7561990485552664115/",
-      "label": "hot"
+      "title": "黄金的“疯狂上涨”预示着什么",
+      "url": "https://www.toutiao.com/trending/7562003351156559403/",
+      "label": "interpretation"
     },
     {
       "rank": 9,
@@ -88,45 +88,45 @@
     },
     {
       "rank": 14,
-      "title": "黄金的“疯狂上涨”预示着什么",
-      "url": "https://www.toutiao.com/trending/7562003351156559403/",
-      "label": "interpretation"
+      "title": "牛弹琴：普京三板斧轻松搞定特朗普",
+      "url": "https://www.toutiao.com/trending/7561990485552664115/",
+      "label": "hot"
     },
     {
       "rank": 15,
-      "title": "吴京复刻伸手名场面",
-      "url": "https://www.toutiao.com/trending/7561771554598551561/",
-      "label": ""
-    },
-    {
-      "rank": 16,
-      "title": "媒体：5000万即可“赢”球让中超蒙羞",
-      "url": "https://www.toutiao.com/trending/7561739381296451110/",
-      "label": ""
-    },
-    {
-      "rank": 17,
       "title": "金价逼近4380美元 黄金成终极避风港",
       "url": "https://www.toutiao.com/trending/7561991351475113514/",
       "label": "depth"
     },
     {
+      "rank": 16,
+      "title": "吴京复刻伸手名场面",
+      "url": "https://www.toutiao.com/trending/7561771554598551561/",
+      "label": ""
+    },
+    {
+      "rank": 17,
+      "title": "媒体：5000万即可“赢”球让中超蒙羞",
+      "url": "https://www.toutiao.com/trending/7561739381296451110/",
+      "label": ""
+    },
+    {
       "rank": 18,
-      "title": "教育孩子应避免讲大道理吗",
-      "url": "https://www.toutiao.com/trending/7561786919852589094/",
+      "title": "中国女篮现状问题怎么解决",
+      "url": "https://www.toutiao.com/trending/7561682450285150234/",
       "label": "forum"
     },
     {
       "rank": 19,
-      "title": "王毅会见黑石集团董事长苏世民",
-      "url": "https://www.toutiao.com/trending/7561627894317957174/",
-      "label": ""
-    },
-    {
-      "rank": 20,
       "title": "国民党主席候选人抢打蒋万安牌",
       "url": "https://www.toutiao.com/trending/7561979535772827699/",
       "label": "new"
+    },
+    {
+      "rank": 20,
+      "title": "王毅会见黑石集团董事长苏世民",
+      "url": "https://www.toutiao.com/trending/7561627894317957174/",
+      "label": ""
     },
     {
       "rank": 21,
@@ -148,21 +148,21 @@
     },
     {
       "rank": 24,
-      "title": "美国2025财年预算赤字下降410亿美元",
-      "url": "https://www.toutiao.com/trending/7561449333905276979/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "媒体评“我听交警的”：守法不是无能",
-      "url": "https://www.toutiao.com/trending/7561678364923609129/",
-      "label": ""
-    },
-    {
-      "rank": 26,
       "title": "国民党新党魁明晚7点前出炉",
       "url": "https://www.toutiao.com/trending/7561362944304136246/",
       "label": "new"
+    },
+    {
+      "rank": 25,
+      "title": "OPPO Find X9系列正式发布",
+      "url": "https://www.toutiao.com/trending/7560869488686825522/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "媒体评“我听交警的”：守法不是无能",
+      "url": "https://www.toutiao.com/trending/7561678364923609129/",
+      "label": ""
     },
     {
       "rank": 27,
@@ -184,15 +184,15 @@
     },
     {
       "rank": 30,
-      "title": "广东新人婚礼举动获中央文明办点赞",
-      "url": "https://www.toutiao.com/trending/7560869242183090226/",
-      "label": ""
-    },
-    {
-      "rank": 31,
       "title": "美国的关税大棒为何不灵了",
       "url": "https://www.toutiao.com/trending/7562003497458077203/",
       "label": "interpretation"
+    },
+    {
+      "rank": 31,
+      "title": "丰巢80后创始人提出离职",
+      "url": "https://www.toutiao.com/trending/7560955454558650404/",
+      "label": "new"
     },
     {
       "rank": 32,
@@ -202,33 +202,33 @@
     },
     {
       "rank": 33,
+      "title": "黄金持续创新高还能买吗",
+      "url": "https://www.toutiao.com/trending/7562000593649143332/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "广东新人婚礼举动获中央文明办点赞",
+      "url": "https://www.toutiao.com/trending/7560869242183090226/",
+      "label": ""
+    },
+    {
+      "rank": 35,
       "title": "洪秀柱挺郑丽文：女人不止撑起半边天",
       "url": "https://www.toutiao.com/trending/7561955876035120690/",
       "label": "hot"
     },
     {
-      "rank": 34,
-      "title": "王祖贤30年前捐建的路升级改造竣工",
-      "url": "https://www.toutiao.com/trending/7561793493526872118/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
+      "rank": 36,
       "title": "建立新能源汽车火灾事故企业报告制度",
       "url": "https://www.toutiao.com/trending/7562012775489306666/",
       "label": "new"
     },
     {
-      "rank": 36,
-      "title": "丰巢80后创始人提出离职",
-      "url": "https://www.toutiao.com/trending/7560955454558650404/",
-      "label": "new"
-    },
-    {
       "rank": 37,
-      "title": "日本首相选举难产 日元进退维谷",
-      "url": "https://www.toutiao.com/trending/7561989892218031657/",
-      "label": "interpretation"
+      "title": "男子补胎听见异响几秒后轮胎爆炸",
+      "url": "https://www.toutiao.com/trending/7561354100374814783/",
+      "label": ""
     },
     {
       "rank": 38,
@@ -238,62 +238,62 @@
     },
     {
       "rank": 39,
-      "title": "黄金持续创新高还能买吗",
-      "url": "https://www.toutiao.com/trending/7562000593649143332/",
+      "title": "王祖贤30年前捐建的路升级改造竣工",
+      "url": "https://www.toutiao.com/trending/7561793493526872118/",
       "label": "new"
     },
     {
       "rank": 40,
-      "title": "特朗普称将与普京在布达佩斯会面",
-      "url": "https://www.toutiao.com/trending/7561955734129217050/",
-      "label": "hot"
-    },
-    {
-      "rank": 41,
-      "title": "闻泰科技回应安世半导体“失控”",
-      "url": "https://www.toutiao.com/trending/7561542982135070763/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "男子补胎听见异响几秒后轮胎爆炸",
-      "url": "https://www.toutiao.com/trending/7561354100374814783/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
-      "title": "印度承诺不将中国稀土出口至美国",
-      "url": "https://www.toutiao.com/trending/7560744251769471027/",
-      "label": "hot"
-    },
-    {
-      "rank": 44,
-      "title": "媒体评《沉默的荣耀》《没出息》爆火",
-      "url": "https://www.toutiao.com/trending/7560868805149818934/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "美军在委附近水域袭击船只致6死",
-      "url": "https://www.toutiao.com/trending/7561992855712153663/",
-      "label": "new"
-    },
-    {
-      "rank": 46,
       "title": "美国一储藏约816吨大豆粮仓倒塌",
       "url": "https://www.toutiao.com/trending/7561859739697840182/",
       "label": "new"
     },
     {
-      "rank": 47,
+      "rank": 41,
       "title": "美国信贷“蟑螂”成群出没",
       "url": "https://www.toutiao.com/trending/7562003601510370855/",
       "label": "new"
     },
     {
-      "rank": 48,
+      "rank": 42,
+      "title": "特朗普称将与普京在布达佩斯会面",
+      "url": "https://www.toutiao.com/trending/7561955734129217050/",
+      "label": "hot"
+    },
+    {
+      "rank": 43,
+      "title": "美军在委附近水域袭击船只致6死",
+      "url": "https://www.toutiao.com/trending/7561992855712153663/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "闻泰科技回应安世半导体“失控”",
+      "url": "https://www.toutiao.com/trending/7561542982135070763/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "印度承诺不将中国稀土出口至美国",
+      "url": "https://www.toutiao.com/trending/7560744251769471027/",
+      "label": "hot"
+    },
+    {
+      "rank": 46,
       "title": "赵丽颖38岁生日工作室卡点发文祝福",
       "url": "https://www.toutiao.com/trending/7561295218172870695/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "媒体评《沉默的荣耀》《没出息》爆火",
+      "url": "https://www.toutiao.com/trending/7560868805149818934/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "教授：中国学启迪全球共同发展",
+      "url": "https://www.toutiao.com/trending/7561957433774620714/",
       "label": "new"
     },
     {
@@ -304,9 +304,9 @@
     },
     {
       "rank": 50,
-      "title": "“战斧”导弹是对俄施压的筹码吗",
-      "url": "https://www.toutiao.com/trending/7561532609281556522/",
-      "label": "interpretation"
+      "title": "路行称邓莎最大的付出是生儿子",
+      "url": "https://www.toutiao.com/trending/7561702376491663423/",
+      "label": ""
     }
   ]
 }
