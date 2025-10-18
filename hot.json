@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Sat, 18 Oct 2025 01:30:04 GMT",
+  "generated_at": "Sat, 18 Oct 2025 01:35:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "端起饭碗 就要敬畏农民的劳动",
@@ -76,8 +76,8 @@
     },
     {
       "rank": 12,
-      "title": "退休后你会选择做些什么",
-      "url": "https://www.toutiao.com/trending/7562023908849860627/",
+      "title": "亲戚借住你会同意吗",
+      "url": "https://www.toutiao.com/trending/7562114945560444979/",
       "label": "forum"
     },
     {
@@ -94,15 +94,15 @@
     },
     {
       "rank": 15,
-      "title": "郑丽文拜会洪秀柱",
-      "url": "https://www.toutiao.com/trending/7561959941758746634/",
-      "label": "hot"
-    },
-    {
-      "rank": 16,
       "title": "邰智源模仿王世坚从从容容游刃有余",
       "url": "https://www.toutiao.com/trending/7562183978452221961/",
       "label": ""
+    },
+    {
+      "rank": 16,
+      "title": "郑丽文拜会洪秀柱",
+      "url": "https://www.toutiao.com/trending/7561959941758746634/",
+      "label": "hot"
     },
     {
       "rank": 17,
@@ -112,8 +112,8 @@
     },
     {
       "rank": 18,
-      "title": "亲戚借住你会同意吗",
-      "url": "https://www.toutiao.com/trending/7562114945560444979/",
+      "title": "退休后你会选择做些什么",
+      "url": "https://www.toutiao.com/trending/7562023908849860627/",
       "label": "forum"
     },
     {
@@ -124,9 +124,9 @@
     },
     {
       "rank": 20,
-      "title": "人民日报：全球产供链稳定需共同维护",
-      "url": "https://www.toutiao.com/trending/7562316993295122441/",
-      "label": ""
+      "title": "巴基斯坦和阿富汗为何要在多哈谈判",
+      "url": "https://www.toutiao.com/trending/7562333652030344747/",
+      "label": "interpretation"
     },
     {
       "rank": 21,
@@ -136,8 +136,8 @@
     },
     {
       "rank": 22,
-      "title": "以军公布哈马斯领导辛瓦尔遗体现场",
-      "url": "https://www.toutiao.com/trending/7561050572439224346/",
+      "title": "人民日报：全球产供链稳定需共同维护",
+      "url": "https://www.toutiao.com/trending/7562316993295122441/",
       "label": ""
     },
     {
@@ -148,8 +148,8 @@
     },
     {
       "rank": 24,
-      "title": "美股三大指数集体收涨",
-      "url": "https://www.toutiao.com/trending/7562026461385834537/",
+      "title": "以军公布哈马斯领导辛瓦尔遗体现场",
+      "url": "https://www.toutiao.com/trending/7561050572439224346/",
       "label": ""
     },
     {
@@ -160,14 +160,14 @@
     },
     {
       "rank": 26,
-      "title": "新能源汽车事故冲击公众信心",
-      "url": "https://www.toutiao.com/trending/7562130940915367955/",
-      "label": ""
+      "title": "广西电网全力支撑百色灾后重建",
+      "url": "https://www.toutiao.com/trending/7561992304501293110/",
+      "label": "new"
     },
     {
       "rank": 27,
-      "title": "新加坡大哥40多年来头次看雪太激动",
-      "url": "https://www.toutiao.com/trending/7562018451964018739/",
+      "title": "美股三大指数集体收涨",
+      "url": "https://www.toutiao.com/trending/7562026461385834537/",
       "label": ""
     },
     {
@@ -178,98 +178,98 @@
     },
     {
       "rank": 29,
-      "title": "女子住酒店发现外面能高清观看室内",
-      "url": "https://www.toutiao.com/trending/7562026389143076905/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "洪水围困百色多地 农田景区受损严重",
-      "url": "https://www.toutiao.com/trending/7562334904344645158/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "巴基斯坦和阿富汗为何要在多哈谈判",
-      "url": "https://www.toutiao.com/trending/7562333652030344747/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 32,
-      "title": "中美经贸摩擦持续 外贸企业如何应对",
-      "url": "https://www.toutiao.com/trending/7561342292662714411/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "广西电网全力支撑百色灾后重建",
-      "url": "https://www.toutiao.com/trending/7561992304501293110/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "黄仁勋称英伟达中国份额从95%降至0%",
-      "url": "https://www.toutiao.com/trending/7562084353090522687/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "媒体：两岸交流打破民进党信息茧房",
-      "url": "https://www.toutiao.com/trending/7562186588420325385/",
-      "label": ""
-    },
-    {
-      "rank": 36,
       "title": "上海暴雨",
       "url": "https://www.toutiao.com/trending/7562239088581967911/",
       "label": "new"
     },
     {
-      "rank": 37,
-      "title": "美乌领导人会谈取得了怎样的成果",
-      "url": "https://www.toutiao.com/trending/7562341576790249010/",
+      "rank": 30,
+      "title": "中美经贸摩擦持续 外贸企业如何应对",
+      "url": "https://www.toutiao.com/trending/7561342292662714411/",
       "label": ""
     },
     {
-      "rank": 38,
-      "title": "北方多地即将火速入冬",
-      "url": "https://www.toutiao.com/trending/7561549219396599827/",
+      "rank": 31,
+      "title": "金靖杨迪补刀沙溢尺度最大的戏",
+      "url": "https://www.toutiao.com/trending/7561769845940338731/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
+      "title": "新加坡大哥40多年来头次看雪太激动",
+      "url": "https://www.toutiao.com/trending/7562018451964018739/",
       "label": ""
     },
     {
-      "rank": 39,
+      "rank": 33,
+      "title": "黄仁勋称英伟达中国份额从95%降至0%",
+      "url": "https://www.toutiao.com/trending/7562084353090522687/",
+      "label": "hot"
+    },
+    {
+      "rank": 34,
       "title": "5家企业涉嫌支持台军心战大队",
       "url": "https://www.toutiao.com/trending/7561972369238474791/",
       "label": ""
     },
     {
-      "rank": 40,
-      "title": "美企看好中国的底气和信心在哪里",
-      "url": "https://www.toutiao.com/trending/7562339441147137586/",
+      "rank": 35,
+      "title": "北方多地即将火速入冬",
+      "url": "https://www.toutiao.com/trending/7561549219396599827/",
       "label": ""
     },
     {
-      "rank": 41,
+      "rank": 36,
       "title": "演员克拉拉离婚",
       "url": "https://www.toutiao.com/trending/7561995985908695082/",
       "label": ""
     },
     {
-      "rank": 42,
+      "rank": 37,
+      "title": "黄金白银大跳水",
+      "url": "https://www.toutiao.com/trending/7561551906565259273/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
+      "title": "媒体：两岸交流打破民进党信息茧房",
+      "url": "https://www.toutiao.com/trending/7562186588420325385/",
+      "label": ""
+    },
+    {
+      "rank": 39,
       "title": "亚锦赛结束国乒落地香港",
       "url": "https://www.toutiao.com/trending/7561749739244044351/",
       "label": ""
     },
     {
+      "rank": 40,
+      "title": "狗狗误闯高铁站见到警察躺地露肚皮",
+      "url": "https://www.toutiao.com/trending/7562020773741969454/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "美乌领导人会谈取得了怎样的成果",
+      "url": "https://www.toutiao.com/trending/7562341576790249010/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "国际金价冲击4400美元未果",
+      "url": "https://www.toutiao.com/trending/7562354531573435954/",
+      "label": "new"
+    },
+    {
       "rank": 43,
-      "title": "汪峰携森林北聚餐被拍到室内抽烟",
-      "url": "https://www.toutiao.com/trending/7561935218303680548/",
+      "title": "洪水围困百色多地 农田景区受损严重",
+      "url": "https://www.toutiao.com/trending/7562334904344645158/",
       "label": ""
     },
     {
       "rank": 44,
-      "title": "53度飞天茅台补贴价跌破1700元",
-      "url": "https://www.toutiao.com/trending/7561309325466206249/",
+      "title": "美企看好中国的底气和信心在哪里",
+      "url": "https://www.toutiao.com/trending/7562339441147137586/",
       "label": ""
     },
     {
@@ -280,26 +280,26 @@
     },
     {
       "rank": 46,
-      "title": "日本政坛对决一触即发",
-      "url": "https://www.toutiao.com/trending/7561707323171979300/",
-      "label": "new"
+      "title": "女子住酒店发现外面能高清观看室内",
+      "url": "https://www.toutiao.com/trending/7562026389143076905/",
+      "label": ""
     },
     {
       "rank": 47,
-      "title": "中国夫妻在非洲卖纸尿裤年收入32亿",
-      "url": "https://www.toutiao.com/trending/7561793067545067583/",
-      "label": ""
+      "title": "台民调最欣赏的国民党主席候选人出炉",
+      "url": "https://www.toutiao.com/trending/7562141341514206756/",
+      "label": "hot"
     },
     {
       "rank": 48,
-      "title": "美政府停摆波及核武器储备管理机构",
-      "url": "https://www.toutiao.com/trending/7562316261498159147/",
-      "label": ""
+      "title": "吴石将军墓前有了一座花墙",
+      "url": "https://www.toutiao.com/trending/7561375879373717554/",
+      "label": "hot"
     },
     {
       "rank": 49,
-      "title": "黄金白银大跳水",
-      "url": "https://www.toutiao.com/trending/7561551906565259273/",
+      "title": "日本政坛对决一触即发",
+      "url": "https://www.toutiao.com/trending/7561707323171979300/",
       "label": "new"
     },
     {
