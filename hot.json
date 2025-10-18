@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Sat, 18 Oct 2025 01:45:05 GMT",
+  "generated_at": "Sat, 18 Oct 2025 01:50:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "端起饭碗 就要敬畏农民的劳动",
@@ -18,7 +18,7 @@
       "rank": 2,
       "title": "云南丽江现2岁“袖珍牛”",
       "url": "https://www.toutiao.com/trending/7562209665267171337/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 3,
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "我国已召回汽车1.2亿辆",
-      "url": "https://www.toutiao.com/trending/7561590534926712875/",
-      "label": ""
+      "title": "黄金白银大跳水",
+      "url": "https://www.toutiao.com/trending/7561551906565259273/",
+      "label": "new"
     },
     {
       "rank": 5,
-      "title": "安世半导体内乱始末",
-      "url": "https://www.toutiao.com/trending/7561914493303849003/",
-      "label": "depth"
+      "title": "我国已召回汽车1.2亿辆",
+      "url": "https://www.toutiao.com/trending/7561590534926712875/",
+      "label": ""
     },
     {
       "rank": 6,
@@ -46,9 +46,9 @@
     },
     {
       "rank": 7,
-      "title": "黄金白银大跳水",
-      "url": "https://www.toutiao.com/trending/7561551906565259273/",
-      "label": "new"
+      "title": "安世半导体内乱始末",
+      "url": "https://www.toutiao.com/trending/7561914493303849003/",
+      "label": "depth"
     },
     {
       "rank": 8,
@@ -100,8 +100,8 @@
     },
     {
       "rank": 16,
-      "title": "购入歼10后印尼将拥有7国9种战机",
-      "url": "https://www.toutiao.com/trending/7562206681363385866/",
+      "title": "《沉默的荣耀》在结局撒了一个“谎”",
+      "url": "https://www.toutiao.com/trending/7562009534383276058/",
       "label": ""
     },
     {
@@ -118,27 +118,27 @@
     },
     {
       "rank": 19,
-      "title": "《沉默的荣耀》在结局撒了一个“谎”",
-      "url": "https://www.toutiao.com/trending/7562009534383276058/",
+      "title": "购入歼10后印尼将拥有7国9种战机",
+      "url": "https://www.toutiao.com/trending/7562206681363385866/",
       "label": ""
     },
     {
       "rank": 20,
-      "title": "邰智源模仿王世坚从从容容游刃有余",
-      "url": "https://www.toutiao.com/trending/7562183978452221961/",
-      "label": ""
-    },
-    {
-      "rank": 21,
       "title": "郑丽文拜会洪秀柱",
       "url": "https://www.toutiao.com/trending/7561959941758746634/",
       "label": "hot"
     },
     {
-      "rank": 22,
-      "title": "美企看好中国的底气和信心在哪里",
-      "url": "https://www.toutiao.com/trending/7562339441147137586/",
+      "rank": 21,
+      "title": "邰智源模仿王世坚从从容容游刃有余",
+      "url": "https://www.toutiao.com/trending/7562183978452221961/",
       "label": ""
+    },
+    {
+      "rank": 22,
+      "title": "金靖杨迪补刀沙溢尺度最大的戏",
+      "url": "https://www.toutiao.com/trending/7561769845940338731/",
+      "label": "new"
     },
     {
       "rank": 23,
@@ -148,26 +148,26 @@
     },
     {
       "rank": 24,
-      "title": "金靖杨迪补刀沙溢尺度最大的戏",
-      "url": "https://www.toutiao.com/trending/7561769845940338731/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
       "title": "警方通报演员荣梓杉被曝出轨打人",
       "url": "https://www.toutiao.com/trending/7562187040910049326/",
       "label": ""
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "母亲的最终病理为良性 小伙喜极而泣",
       "url": "https://www.toutiao.com/trending/7562085647474278463/",
       "label": "new"
     },
     {
-      "rank": 27,
+      "rank": 26,
       "title": "中美经贸摩擦持续 外贸企业如何应对",
       "url": "https://www.toutiao.com/trending/7561342292662714411/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "以军公布哈马斯领导辛瓦尔遗体现场",
+      "url": "https://www.toutiao.com/trending/7561050572439224346/",
       "label": ""
     },
     {
@@ -178,15 +178,15 @@
     },
     {
       "rank": 29,
-      "title": "以军公布哈马斯领导辛瓦尔遗体现场",
-      "url": "https://www.toutiao.com/trending/7561050572439224346/",
-      "label": ""
-    },
-    {
-      "rank": 30,
       "title": "上海暴雨",
       "url": "https://www.toutiao.com/trending/7562239088581967911/",
       "label": "new"
+    },
+    {
+      "rank": 30,
+      "title": "人民日报：全球产供链稳定需共同维护",
+      "url": "https://www.toutiao.com/trending/7562316993295122441/",
+      "label": ""
     },
     {
       "rank": 31,
@@ -196,8 +196,8 @@
     },
     {
       "rank": 32,
-      "title": "人民日报：全球产供链稳定需共同维护",
-      "url": "https://www.toutiao.com/trending/7562316993295122441/",
+      "title": "新加坡大哥40多年来头次看雪太激动",
+      "url": "https://www.toutiao.com/trending/7562018451964018739/",
       "label": ""
     },
     {
@@ -214,98 +214,98 @@
     },
     {
       "rank": 35,
-      "title": "新加坡大哥40多年来头次看雪太激动",
-      "url": "https://www.toutiao.com/trending/7562018451964018739/",
-      "label": ""
-    },
-    {
-      "rank": 36,
       "title": "黄仁勋称英伟达中国份额从95%降至0%",
       "url": "https://www.toutiao.com/trending/7562084353090522687/",
       "label": "hot"
     },
     {
-      "rank": 37,
-      "title": "5家企业涉嫌支持台军心战大队",
-      "url": "https://www.toutiao.com/trending/7561972369238474791/",
-      "label": ""
-    },
-    {
-      "rank": 38,
+      "rank": 36,
       "title": "广西电网全力支撑百色灾后重建",
       "url": "https://www.toutiao.com/trending/7561992304501293110/",
       "label": ""
     },
     {
+      "rank": 37,
+      "title": "美企看好中国的底气和信心在哪里",
+      "url": "https://www.toutiao.com/trending/7562339441147137586/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "5家企业涉嫌支持台军心战大队",
+      "url": "https://www.toutiao.com/trending/7561972369238474791/",
+      "label": ""
+    },
+    {
       "rank": 39,
-      "title": "亚锦赛结束国乒落地香港",
-      "url": "https://www.toutiao.com/trending/7561749739244044351/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "北方多地即将火速入冬",
-      "url": "https://www.toutiao.com/trending/7561549219396599827/",
-      "label": ""
-    },
-    {
-      "rank": 41,
       "title": "媒体：两岸交流打破民进党信息茧房",
       "url": "https://www.toutiao.com/trending/7562186588420325385/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "罗智强回本命区办选前之夜",
-      "url": "https://www.toutiao.com/trending/7562091380296286244/",
-      "label": "new"
+      "rank": 40,
+      "title": "亚锦赛结束国乒落地香港",
+      "url": "https://www.toutiao.com/trending/7561749739244044351/",
+      "label": ""
     },
     {
-      "rank": 43,
+      "rank": 41,
       "title": "中超榜首三队集体赢球",
       "url": "https://www.toutiao.com/trending/7561879787942182951/",
       "label": "new"
     },
     {
-      "rank": 44,
+      "rank": 42,
+      "title": "北方多地即将火速入冬",
+      "url": "https://www.toutiao.com/trending/7561549219396599827/",
+      "label": ""
+    },
+    {
+      "rank": 43,
       "title": "美乌领导人会谈取得了怎样的成果",
       "url": "https://www.toutiao.com/trending/7562341576790249010/",
       "label": ""
     },
     {
-      "rank": 45,
-      "title": "洪水围困百色多地 农田景区受损严重",
-      "url": "https://www.toutiao.com/trending/7562334904344645158/",
-      "label": ""
-    },
-    {
-      "rank": 46,
+      "rank": 44,
       "title": "日本政坛对决一触即发",
       "url": "https://www.toutiao.com/trending/7561707323171979300/",
       "label": "new"
     },
     {
+      "rank": 45,
+      "title": "罗智强回本命区办选前之夜",
+      "url": "https://www.toutiao.com/trending/7562091380296286244/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "泽连斯基建议用无人机向美国换战斧",
+      "url": "https://www.toutiao.com/trending/7561704331658313774/",
+      "label": "new"
+    },
+    {
       "rank": 47,
+      "title": "洪水围困百色多地 农田景区受损严重",
+      "url": "https://www.toutiao.com/trending/7562334904344645158/",
+      "label": ""
+    },
+    {
+      "rank": 48,
       "title": "中国拳击手在澳公交上遭锥子扎头",
       "url": "https://www.toutiao.com/trending/7561789757849305097/",
       "label": ""
     },
     {
-      "rank": 48,
-      "title": "美政府停摆波及核武器储备管理机构",
-      "url": "https://www.toutiao.com/trending/7562316261498159147/",
+      "rank": 49,
+      "title": "黄金跌破4240美元 三因素致跳水",
+      "url": "https://www.toutiao.com/trending/7562362820096953919/",
       "label": ""
     },
     {
-      "rank": 49,
-      "title": "台民调最欣赏的国民党主席候选人出炉",
-      "url": "https://www.toutiao.com/trending/7562141341514206756/",
-      "label": "hot"
-    },
-    {
       "rank": 50,
-      "title": "女子住酒店发现外面能高清观看室内",
-      "url": "https://www.toutiao.com/trending/7562026389143076905/",
+      "title": "美政府停摆波及核武器储备管理机构",
+      "url": "https://www.toutiao.com/trending/7562316261498159147/",
       "label": ""
     }
   ]
