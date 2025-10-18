@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Sat, 18 Oct 2025 07:20:05 GMT",
+  "generated_at": "Sat, 18 Oct 2025 07:25:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "非凡十四五 美丽中国铺展新画卷",
@@ -100,9 +100,9 @@
     },
     {
       "rank": 16,
-      "title": "台专家谈《沉默的荣耀》",
-      "url": "https://www.toutiao.com/trending/7561978946678636586/",
-      "label": "hot"
+      "title": "英伟达退出 国产AI芯片要崛起了吗",
+      "url": "https://www.toutiao.com/trending/7562416129633701419/",
+      "label": ""
     },
     {
       "rank": 17,
@@ -112,15 +112,15 @@
     },
     {
       "rank": 18,
-      "title": "英伟达退出 国产AI芯片要崛起了吗",
-      "url": "https://www.toutiao.com/trending/7562416129633701419/",
-      "label": ""
+      "title": "台专家谈《沉默的荣耀》",
+      "url": "https://www.toutiao.com/trending/7561978946678636586/",
+      "label": "hot"
     },
     {
       "rank": 19,
-      "title": "辽宁4岁女童在病床上感谢大家",
-      "url": "https://www.toutiao.com/trending/7562059135173492790/",
-      "label": "new"
+      "title": "欧洲车企呼吁解决芯片供应问题",
+      "url": "https://www.toutiao.com/trending/7562400627268013607/",
+      "label": ""
     },
     {
       "rank": 20,
@@ -130,15 +130,15 @@
     },
     {
       "rank": 21,
-      "title": "黄金白银大跳水",
-      "url": "https://www.toutiao.com/trending/7561551906565259273/",
-      "label": ""
-    },
-    {
-      "rank": 22,
       "title": "小S得奖后泪崩",
       "url": "https://www.toutiao.com/trending/7562350594041036836/",
       "label": "new"
+    },
+    {
+      "rank": 22,
+      "title": "黄金白银大跳水",
+      "url": "https://www.toutiao.com/trending/7561551906565259273/",
+      "label": ""
     },
     {
       "rank": 23,
@@ -148,9 +148,9 @@
     },
     {
       "rank": 24,
-      "title": "欧洲车企呼吁解决芯片供应问题",
-      "url": "https://www.toutiao.com/trending/7562400627268013607/",
-      "label": ""
+      "title": "辽宁4岁女童在病床上感谢大家",
+      "url": "https://www.toutiao.com/trending/7562059135173492790/",
+      "label": "new"
     },
     {
       "rank": 25,
@@ -172,8 +172,8 @@
     },
     {
       "rank": 28,
-      "title": "美国纪录片预告：核设施上空现UFO",
-      "url": "https://www.toutiao.com/trending/7562161809495670794/",
+      "title": "特朗普为何在对华关税问题上态度变软",
+      "url": "https://www.toutiao.com/trending/7562386513762192937/",
       "label": ""
     },
     {
@@ -184,69 +184,69 @@
     },
     {
       "rank": 30,
-      "title": "特朗普为何在对华关税问题上态度变软",
-      "url": "https://www.toutiao.com/trending/7562386513762192937/",
-      "label": ""
-    },
-    {
-      "rank": 31,
       "title": "江西小伙回应丈母娘拒收彩礼",
       "url": "https://www.toutiao.com/trending/7561861070715535414/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "杨振宁逝世：一个世纪的传奇谢幕",
-      "url": "https://www.toutiao.com/trending/7562432295001394714/",
-      "label": "depth"
-    },
-    {
-      "rank": 33,
+      "rank": 31,
       "title": "中方反制见效：首艘美船只被罚446万",
       "url": "https://www.toutiao.com/trending/7561666500550164523/",
       "label": ""
     },
     {
-      "rank": 34,
-      "title": "具俊晔每天画大S画像",
-      "url": "https://www.toutiao.com/trending/7561683943771308074/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "西湖大学悼念杨振宁 官网已变黑白",
-      "url": "https://www.toutiao.com/trending/7562172508456402954/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "巴军空袭阿边境打死至少70名武装人员",
-      "url": "https://www.toutiao.com/trending/7561282488405557290/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "女博主诉马夫性骚扰案下月将开庭",
-      "url": "https://www.toutiao.com/trending/7562195429602279467/",
-      "label": ""
-    },
-    {
-      "rank": 38,
+      "rank": 32,
       "title": "杨振宁去世：一个世纪的探索与乡愁",
       "url": "https://www.toutiao.com/trending/7562435754526248498/",
       "label": "depth"
     },
     {
-      "rank": 39,
+      "rank": 33,
+      "title": "美国纪录片预告：核设施上空现UFO",
+      "url": "https://www.toutiao.com/trending/7562161809495670794/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "国内电影节展体系呈现多样化",
+      "url": "https://www.toutiao.com/trending/7562401456796470810/",
+      "label": "depth"
+    },
+    {
+      "rank": 35,
+      "title": "杨振宁逝世：一个世纪的传奇谢幕",
+      "url": "https://www.toutiao.com/trending/7562432295001394714/",
+      "label": "depth"
+    },
+    {
+      "rank": 36,
+      "title": "若特朗普关税被判“非法”意味什么",
+      "url": "https://www.toutiao.com/trending/7562451405152194084/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
       "title": "美传奇战机总师：中国六代机已领先",
       "url": "https://www.toutiao.com/trending/7562443891580866111/",
       "label": "new"
     },
     {
-      "rank": 40,
-      "title": "曹德旺交班给儿子 捐出1/3财富建大学",
-      "url": "https://www.toutiao.com/trending/7561963971856023579/",
+      "rank": 38,
+      "title": "西湖大学悼念杨振宁 官网已变黑白",
+      "url": "https://www.toutiao.com/trending/7562172508456402954/",
       "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "上海一中学通报两名学生在教室争执",
+      "url": "https://www.toutiao.com/trending/7562097529732038695/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "台风“风神”来袭 海口三港或将停运",
+      "url": "https://www.toutiao.com/trending/7562383610729611310/",
+      "label": "new"
     },
     {
       "rank": 41,
@@ -256,14 +256,14 @@
     },
     {
       "rank": 42,
-      "title": "9月份稀土及其制品出口10538吨",
-      "url": "https://www.toutiao.com/trending/7562095382335864882/",
-      "label": ""
+      "title": "泽连斯基拒谈美国是否提供战斧导弹",
+      "url": "https://www.toutiao.com/trending/7562416110475313193/",
+      "label": "new"
     },
     {
       "rank": 43,
-      "title": "发68页PPT举报妻子出轨当事人发声",
-      "url": "https://www.toutiao.com/trending/7561532297326133299/",
+      "title": "金价继续冲击新高",
+      "url": "https://www.toutiao.com/trending/7562389196388716068/",
       "label": ""
     },
     {
@@ -274,39 +274,39 @@
     },
     {
       "rank": 45,
-      "title": "如何看待普京主动邀约特朗普调停",
-      "url": "https://www.toutiao.com/trending/7562010479171715115/",
+      "title": "印度为何接连跟美国唱反调",
+      "url": "https://www.toutiao.com/trending/7562417852175679514/",
       "label": "interpretation"
     },
     {
       "rank": 46,
-      "title": "福州市市长调研吴石故居",
-      "url": "https://www.toutiao.com/trending/7562395997306011686/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
-      "title": "杨振宁13岁时就立志要拿诺贝尔奖",
-      "url": "https://www.toutiao.com/trending/7561961884165865515/",
+      "title": "9月份稀土及其制品出口10538吨",
+      "url": "https://www.toutiao.com/trending/7562095382335864882/",
       "label": ""
     },
     {
-      "rank": 48,
-      "title": "上海一中学通报两名学生在教室争执",
-      "url": "https://www.toutiao.com/trending/7562097529732038695/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
-      "title": "国内电影节展体系呈现多样化",
-      "url": "https://www.toutiao.com/trending/7562401456796470810/",
-      "label": "depth"
-    },
-    {
-      "rank": 50,
+      "rank": 47,
       "title": "杨振宁精神与中国科学“千里共同途”",
       "url": "https://www.toutiao.com/trending/7562441906454548014/",
       "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "福州市市长调研吴石故居",
+      "url": "https://www.toutiao.com/trending/7562395997306011686/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "院士葛墨林谈杨振宁：小事情大先生",
+      "url": "https://www.toutiao.com/trending/7562441728517017127/",
+      "label": ""
+    },
+    {
+      "rank": 50,
+      "title": "大师西去：杨振宁何以成为杨振宁",
+      "url": "https://www.toutiao.com/trending/7562441872505835046/",
+      "label": ""
     }
   ]
 }
