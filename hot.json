@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 20 Oct 2025 08:05:04 GMT",
+  "generated_at": "Mon, 20 Oct 2025 08:15:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "二十届四中全会开始举行",
@@ -22,20 +22,20 @@
     },
     {
       "rank": 3,
-      "title": "从民生答卷 感受中国“温度”",
-      "url": "https://www.toutiao.com/article/7562933577994764819",
-      "label": ""
+      "title": "写在党的二十届四中全会召开之际",
+      "url": "https://www.toutiao.com/article/7562941198718157350",
+      "label": "new"
     },
     {
       "rank": 4,
-      "title": "媒体：郑丽文当选凸显岛内民意变化",
-      "url": "https://www.toutiao.com/trending/7563180477897510436/",
+      "title": "郑丽文称要赴大陆交流：怕就别出来混",
+      "url": "https://www.toutiao.com/trending/7562860243315609124/",
       "label": "hot"
     },
     {
       "rank": 5,
-      "title": "原副区长被双开：大搞权钱交易",
-      "url": "https://www.toutiao.com/trending/7563147793113120822/",
+      "title": "A股三大指数集体上涨",
+      "url": "https://www.toutiao.com/trending/7563109455744221203/",
       "label": "new"
     },
     {
@@ -52,21 +52,21 @@
     },
     {
       "rank": 8,
-      "title": "特朗普政府为何悄悄放松关税政策",
-      "url": "https://www.toutiao.com/trending/7563192486479269386/",
-      "label": "hot"
-    },
-    {
-      "rank": 9,
-      "title": "这5年 中国为全球发展贡献了什么",
-      "url": "https://www.toutiao.com/article/7562917183584584235",
+      "title": "原副区长被双开：大搞权钱交易",
+      "url": "https://www.toutiao.com/trending/7563147793113120822/",
       "label": ""
     },
     {
-      "rank": 10,
-      "title": "A股三大指数集体上涨",
-      "url": "https://www.toutiao.com/trending/7563109455744221203/",
+      "rank": 9,
+      "title": "前三季度经济运行稳中有进",
+      "url": "https://www.toutiao.com/article/7563127846042944041",
       "label": "new"
+    },
+    {
+      "rank": 10,
+      "title": "媒体：郑丽文当选凸显岛内民意变化",
+      "url": "https://www.toutiao.com/trending/7563180477897510436/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -82,27 +82,27 @@
     },
     {
       "rank": 13,
-      "title": "“由绿转蓝”的郑丽文为何能逆袭成功",
-      "url": "https://www.toutiao.com/trending/7562566400377208873/",
-      "label": "interpretation"
+      "title": "特朗普政府为何悄悄放松关税政策",
+      "url": "https://www.toutiao.com/trending/7563192486479269386/",
+      "label": "hot"
     },
     {
       "rank": 14,
+      "title": "美国为何盯上“北京时间”",
+      "url": "https://www.toutiao.com/trending/7562955952278880307/",
+      "label": "new"
+    },
+    {
+      "rank": 15,
       "title": "女子登山崴脚 小伙徒步3公里背下山",
       "url": "https://www.toutiao.com/trending/7562791289536839723/",
       "label": ""
     },
     {
-      "rank": 15,
-      "title": "农村自建房装修你有啥建议",
-      "url": "https://www.toutiao.com/trending/7562873322175168555/",
-      "label": "forum"
-    },
-    {
       "rank": 16,
-      "title": "郑丽文支持者激动落泪说我是中国人",
-      "url": "https://www.toutiao.com/trending/7563132219426967066/",
-      "label": "hot"
+      "title": "“由绿转蓝”的郑丽文为何能逆袭成功",
+      "url": "https://www.toutiao.com/trending/7562566400377208873/",
+      "label": "interpretation"
     },
     {
       "rank": 17,
@@ -112,201 +112,201 @@
     },
     {
       "rank": 18,
-      "title": "美国为何盯上“北京时间”",
-      "url": "https://www.toutiao.com/trending/7562955952278880307/",
-      "label": "new"
+      "title": "农村自建房装修你有啥建议",
+      "url": "https://www.toutiao.com/trending/7562873322175168555/",
+      "label": "forum"
     },
     {
       "rank": 19,
-      "title": "郑丽文称要赴大陆交流：怕就别出来混",
-      "url": "https://www.toutiao.com/trending/7562860243315609124/",
+      "title": "郑丽文支持者激动落泪说我是中国人",
+      "url": "https://www.toutiao.com/trending/7563132219426967066/",
       "label": "hot"
     },
     {
       "rank": 20,
-      "title": "多地中小学生11月喜提5天“小长假”",
-      "url": "https://www.toutiao.com/trending/7563074747668578313/",
-      "label": ""
-    },
-    {
-      "rank": 21,
-      "title": "“充气青蛙”涌上美国街头抗议",
-      "url": "https://www.toutiao.com/trending/7562852640133185575/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "特朗普为何给泽连斯基下达通牒",
-      "url": "https://www.toutiao.com/trending/7563183434068135466/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 23,
       "title": "卢浮宫大劫案背后：安保人员遭削减",
       "url": "https://www.toutiao.com/trending/7563186281685995027/",
       "label": "interpretation"
     },
     {
-      "rank": 24,
+      "rank": 21,
+      "title": "多地中小学生11月喜提5天“小长假”",
+      "url": "https://www.toutiao.com/trending/7563074747668578313/",
+      "label": "hot"
+    },
+    {
+      "rank": 22,
       "title": "特朗普专机附近疑发现狙击狩猎台",
       "url": "https://www.toutiao.com/trending/7563020612747165715/",
       "label": ""
     },
     {
-      "rank": 25,
-      "title": "以军坦克和战机再次袭击加沙说明啥",
-      "url": "https://www.toutiao.com/trending/7563194003592580662/",
-      "label": "new"
+      "rank": 23,
+      "title": "特朗普为何给泽连斯基下达通牒",
+      "url": "https://www.toutiao.com/trending/7563183434068135466/",
+      "label": "interpretation"
     },
     {
-      "rank": 26,
-      "title": "卢浮宫15年内裁约200个全职岗位",
-      "url": "https://www.toutiao.com/trending/7563194091593272882/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
-      "title": "官方谈三季度GDP增速有所回落",
-      "url": "https://www.toutiao.com/trending/7562448720101494315/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "患癌父亲平静教女儿接受别离",
-      "url": "https://www.toutiao.com/trending/7562750725417041962/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "卢浮宫珠宝失窃背后的文物追索困境",
-      "url": "https://www.toutiao.com/trending/7563193527383887386/",
-      "label": "depth"
-    },
-    {
-      "rank": 30,
-      "title": "“无人版轰-20”要来了吗",
-      "url": "https://www.toutiao.com/trending/7563175787499621924/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
-      "title": "郑丽文：绝不让台湾成“麻烦制造者”",
-      "url": "https://www.toutiao.com/trending/7562416119785521171/",
-      "label": "hot"
-    },
-    {
-      "rank": 32,
-      "title": "前三季度中国GDP同比增长5.2%",
-      "url": "https://www.toutiao.com/trending/7562218887836860435/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "特朗普称努力让美国变得伟大",
-      "url": "https://www.toutiao.com/trending/7563119034879754286/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "男子失联 父亲高血压还坚持上山搜救",
-      "url": "https://www.toutiao.com/trending/7562481695812337706/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "卢浮宫失窃珠宝已找回2件",
-      "url": "https://www.toutiao.com/trending/7562448720101396011/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "美国数百万人示威抗议政府多项政策",
-      "url": "https://www.toutiao.com/trending/7562772066387951655/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "苏超南通队替补门将一战封神",
-      "url": "https://www.toutiao.com/trending/7562899714140913683/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "《沉默的荣耀》原型揭秘",
-      "url": "https://www.toutiao.com/trending/7563191487136026121/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "深圳小哥的随手拍为何总能秒整改",
-      "url": "https://www.toutiao.com/trending/7562860956301131802/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
+      "rank": 24,
       "title": "朱立伦：没抗战胜利哪来的台湾光复",
       "url": "https://www.toutiao.com/trending/7561982218781704235/",
       "label": "new"
     },
     {
-      "rank": 41,
-      "title": "于和伟谈台湾观众看《沉默的荣耀》",
-      "url": "https://www.toutiao.com/trending/7562729392624025646/",
+      "rank": 25,
+      "title": "美国数百万人示威抗议政府多项政策",
+      "url": "https://www.toutiao.com/trending/7562772066387951655/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "官方谈三季度GDP增速有所回落",
+      "url": "https://www.toutiao.com/trending/7562448720101494315/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "中小银行又双叒叕降息了",
-      "url": "https://www.toutiao.com/trending/7563167991697788452/",
+      "rank": 27,
+      "title": "卢浮宫15年内裁约200个全职岗位",
+      "url": "https://www.toutiao.com/trending/7563194091593272882/",
       "label": "new"
     },
     {
-      "rank": 43,
-      "title": "以色列为加沙作战改名",
-      "url": "https://www.toutiao.com/trending/7563183945556590646/",
+      "rank": 28,
+      "title": "“充气青蛙”涌上美国街头抗议",
+      "url": "https://www.toutiao.com/trending/7562852640133185575/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "以军坦克和战机再次袭击加沙说明啥",
+      "url": "https://www.toutiao.com/trending/7563194003592580662/",
       "label": "new"
     },
     {
-      "rank": 44,
-      "title": "新任江苏省省长首次部署“苏超”",
-      "url": "https://www.toutiao.com/trending/7562904253321674815/",
-      "label": "new"
-    },
-    {
-      "rank": 45,
+      "rank": 30,
       "title": "美政府最长停摆纪录或被打破",
       "url": "https://www.toutiao.com/trending/7563188026466111019/",
       "label": "new"
     },
     {
+      "rank": 31,
+      "title": "《沉默的荣耀》原型揭秘",
+      "url": "https://www.toutiao.com/trending/7563191487136026121/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
+      "title": "卢浮宫失窃珠宝已找回2件",
+      "url": "https://www.toutiao.com/trending/7562448720101396011/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "郑丽文：绝不让台湾成“麻烦制造者”",
+      "url": "https://www.toutiao.com/trending/7562416119785521171/",
+      "label": "hot"
+    },
+    {
+      "rank": 34,
+      "title": "新任江苏省省长首次部署“苏超”",
+      "url": "https://www.toutiao.com/trending/7562904253321674815/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "特朗普称努力让美国变得伟大",
+      "url": "https://www.toutiao.com/trending/7563119034879754286/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "中方回应美国将对华提出的三大议题",
+      "url": "https://www.toutiao.com/trending/7562204222754963482/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "以色列为加沙作战改名",
+      "url": "https://www.toutiao.com/trending/7563183945556590646/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
+      "title": "赖氏宗亲欢迎赖岳谦回家",
+      "url": "https://www.toutiao.com/trending/7563117914451656758/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
+      "title": "这轮牛市表现好的品种有啥特点",
+      "url": "https://www.toutiao.com/trending/7563177846542175782/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 40,
+      "title": "“无人版轰-20”要来了吗",
+      "url": "https://www.toutiao.com/trending/7563175787499621924/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "患癌父亲平静教女儿接受别离",
+      "url": "https://www.toutiao.com/trending/7562750725417041962/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "上海二手房挂牌价下调成交价止跌",
+      "url": "https://www.toutiao.com/trending/7563167573290782249/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "英伟达“跌倒” 寒武纪“吃饱”了吗",
+      "url": "https://www.toutiao.com/trending/7563168900712500799/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "苏超南通队替补门将一战封神",
+      "url": "https://www.toutiao.com/trending/7562899714140913683/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "大学生在网吧过夜手机被盗",
+      "url": "https://www.toutiao.com/trending/7562422110073749558/",
+      "label": "new"
+    },
+    {
       "rank": 46,
-      "title": "以军将在加利利地区举行大规模军演",
-      "url": "https://www.toutiao.com/trending/7562839116220629028/",
+      "title": "男子失联 父亲高血压还坚持上山搜救",
+      "url": "https://www.toutiao.com/trending/7562481695812337706/",
       "label": "new"
     },
     {
       "rank": 47,
-      "title": "深圳登山失联男子遗体疑找到",
-      "url": "https://www.toutiao.com/trending/7561977905648140324/",
-      "label": "new"
+      "title": "以军将在加利利地区举行大规模军演",
+      "url": "https://www.toutiao.com/trending/7562839116220629028/",
+      "label": ""
     },
     {
       "rank": 48,
-      "title": "《追光》再现两岸并肩抗日恢宏画卷",
-      "url": "https://www.toutiao.com/trending/7563171982327005203/",
+      "title": "当前黄金市场两大潜在压力或可关注",
+      "url": "https://www.toutiao.com/trending/7563176262512938522/",
       "label": "new"
     },
     {
       "rank": 49,
-      "title": "英伟达“跌倒” 寒武纪“吃饱”了吗",
-      "url": "https://www.toutiao.com/trending/7563168900712500799/",
+      "title": "三轮车斗突然落下砸中修车师傅",
+      "url": "https://www.toutiao.com/trending/7562843833219711019/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "上海二手房挂牌价下调成交价止跌",
-      "url": "https://www.toutiao.com/trending/7563167573290782249/",
-      "label": ""
+      "title": "日本维新会是个什么样的政党",
+      "url": "https://www.toutiao.com/trending/7563173774997065266/",
+      "label": "interpretation"
     }
   ]
 }
