@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 20 Oct 2025 05:20:13 GMT",
+  "generated_at": "Mon, 20 Oct 2025 05:29:43 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记引领中国式现代化迈出坚实步伐",
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "台网红馆长：国民党和民众党是战友",
-      "url": "https://www.toutiao.com/trending/7562690451191644186/",
-      "label": "hot"
+      "title": "新郎不愿新娘感受当地习俗直接抱走",
+      "url": "https://www.toutiao.com/trending/7562696748679266354/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -82,7 +82,7 @@
     },
     {
       "rank": 13,
-      "title": "国家统计局谈三季度GDP增速有所回落",
+      "title": "官方谈三季度GDP增速有所回落",
       "url": "https://www.toutiao.com/trending/7562448720101494315/",
       "label": ""
     },
@@ -96,7 +96,7 @@
       "rank": 15,
       "title": "特朗普专机附近疑发现狙击狩猎台",
       "url": "https://www.toutiao.com/trending/7563020612747165715/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 16,
@@ -106,15 +106,15 @@
     },
     {
       "rank": 17,
-      "title": "新郎不愿新娘感受当地习俗直接抱走",
-      "url": "https://www.toutiao.com/trending/7562696748679266354/",
-      "label": ""
+      "title": "台网红馆长：国民党和民众党是战友",
+      "url": "https://www.toutiao.com/trending/7562690451191644186/",
+      "label": "hot"
     },
     {
       "rank": 18,
-      "title": "被大陆通缉的台军如今生活到处遇挫",
-      "url": "https://www.toutiao.com/trending/7563097678192578074/",
-      "label": ""
+      "title": "男子为狗窝开启“豪华升级模式”",
+      "url": "https://www.toutiao.com/trending/7563066166324035603/",
+      "label": "new"
     },
     {
       "rank": 19,
@@ -142,63 +142,63 @@
     },
     {
       "rank": 23,
-      "title": "被中国制裁的韩华要给菲律宾卖导弹",
-      "url": "https://www.toutiao.com/trending/7563098661983358474/",
+      "title": "被大陆通缉的台军如今生活到处遇挫",
+      "url": "https://www.toutiao.com/trending/7563097678192578074/",
       "label": ""
     },
     {
       "rank": 24,
-      "title": "沪深两市成交额突破1万亿",
-      "url": "https://www.toutiao.com/trending/7563113325475790867/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "男子为狗窝开启“豪华升级模式”",
-      "url": "https://www.toutiao.com/trending/7563066166324035603/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
-      "title": "Apple Music播放《孤勇者》闪退",
-      "url": "https://www.toutiao.com/trending/7562358104961515566/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
-      "title": "四中全会开幕吸引世界目光",
-      "url": "https://www.toutiao.com/trending/7563111779023195674/",
-      "label": "hot"
-    },
-    {
-      "rank": 28,
-      "title": "中美再次回到谈判桌 接下来怎么走",
-      "url": "https://www.toutiao.com/trending/7563094865609756214/",
-      "label": "depth"
-    },
-    {
-      "rank": 29,
       "title": "特朗普政策会走向何方",
       "url": "https://www.toutiao.com/trending/7563147692252073508/",
       "label": "hot"
     },
     {
-      "rank": 30,
-      "title": "中国芯片崛起是否已成定局",
-      "url": "https://www.toutiao.com/trending/7563118374637538857/",
+      "rank": 25,
+      "title": "被中国制裁的韩华要给菲律宾卖导弹",
+      "url": "https://www.toutiao.com/trending/7563098661983358474/",
       "label": ""
     },
     {
-      "rank": 31,
+      "rank": 26,
+      "title": "中美再次回到谈判桌 接下来怎么走",
+      "url": "https://www.toutiao.com/trending/7563094865609756214/",
+      "label": "depth"
+    },
+    {
+      "rank": 27,
+      "title": "全红婵全运会复出争三金",
+      "url": "https://www.toutiao.com/trending/7562416148927545383/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "四中全会开幕吸引世界目光",
+      "url": "https://www.toutiao.com/trending/7563111779023195674/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "沈佳润谢谢大家给她的温暖",
+      "url": "https://www.toutiao.com/trending/7562941706015506473/",
+      "label": ""
+    },
+    {
+      "rank": 30,
       "title": "杜兰特生涯总薪资位列NBA历史第一",
       "url": "https://www.toutiao.com/trending/7562069983342411822/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "全红婵全运会复出争三金",
-      "url": "https://www.toutiao.com/trending/7562416148927545383/",
+      "rank": 31,
+      "title": "中国芯片崛起是否已成定局",
+      "url": "https://www.toutiao.com/trending/7563118374637538857/",
       "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "9月份规模以上工业增加值增长6.5%",
+      "url": "https://www.toutiao.com/trending/7563118643001868307/",
+      "label": "new"
     },
     {
       "rank": 33,
@@ -208,45 +208,45 @@
     },
     {
       "rank": 34,
-      "title": "沈佳润谢谢大家给她的温暖",
-      "url": "https://www.toutiao.com/trending/7562941706015506473/",
-      "label": ""
+      "title": "改革开放以来历届四中全会有哪些部署",
+      "url": "https://www.toutiao.com/trending/7563099722878074919/",
+      "label": "new"
     },
     {
       "rank": 35,
+      "title": "北方多地出现少见绿叶雪",
+      "url": "https://www.toutiao.com/trending/7563077000810728987/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "高市早苗当日本首相又“稳”了吗",
+      "url": "https://www.toutiao.com/trending/7563157714780556841/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
       "title": "美17州检察长起诉特朗普政府说明啥",
       "url": "https://www.toutiao.com/trending/7563083390186950170/",
       "label": "interpretation"
     },
     {
-      "rank": 36,
-      "title": "研究员：西方正经历一场“认知风暴”",
-      "url": "https://www.toutiao.com/trending/7563120193291947566/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "国羽小花患上“恐韩症”了吗",
-      "url": "https://www.toutiao.com/trending/7563092429768327222/",
-      "label": "new"
-    },
-    {
       "rank": 38,
-      "title": "以色列再次进攻加沙意欲何为",
-      "url": "https://www.toutiao.com/trending/7563118155535486505/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 39,
       "title": "丈夫隐瞒艾滋病10年夫妻生活无防护",
       "url": "https://www.toutiao.com/trending/7561715158147334187/",
       "label": ""
     },
     {
+      "rank": 39,
+      "title": "以色列空袭加沙 难民营被大火吞噬",
+      "url": "https://www.toutiao.com/trending/7562416483188768809/",
+      "label": "new"
+    },
+    {
       "rank": 40,
-      "title": "印防长撂狠话：朱砂行动只是开端",
-      "url": "https://www.toutiao.com/trending/7563099399153258026/",
-      "label": ""
+      "title": "郝龙斌选输怪“黄复兴”？栗正杰抗议",
+      "url": "https://www.toutiao.com/trending/7562416394258022442/",
+      "label": "new"
     },
     {
       "rank": 41,
@@ -256,15 +256,15 @@
     },
     {
       "rank": 42,
-      "title": "杭州新房价格两连涨 二手房价六连跌",
-      "url": "https://www.toutiao.com/trending/7562690604015222793/",
-      "label": "new"
+      "title": "以色列再次进攻加沙意欲何为",
+      "url": "https://www.toutiao.com/trending/7563118155535486505/",
+      "label": "interpretation"
     },
     {
       "rank": 43,
-      "title": "北方多地出现少见绿叶雪",
-      "url": "https://www.toutiao.com/trending/7563077000810728987/",
-      "label": ""
+      "title": "河南下雪了",
+      "url": "https://www.toutiao.com/trending/7563105971657408538/",
+      "label": "new"
     },
     {
       "rank": 44,
@@ -274,39 +274,39 @@
     },
     {
       "rank": 45,
+      "title": "研究员：西方正经历一场“认知风暴”",
+      "url": "https://www.toutiao.com/trending/7563120193291947566/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "1-9月全国固定资产投资371535亿元",
+      "url": "https://www.toutiao.com/trending/7563118573972029490/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "万斯观摩军演时安保车被炮弹碎片击中",
+      "url": "https://www.toutiao.com/trending/7562201276663205395/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "印防长撂狠话：朱砂行动只是开端",
+      "url": "https://www.toutiao.com/trending/7563099399153258026/",
+      "label": ""
+    },
+    {
+      "rank": 49,
       "title": "黄金概念股回调",
       "url": "https://www.toutiao.com/trending/7563136324580953642/",
       "label": "new"
     },
     {
-      "rank": 46,
+      "rank": 50,
       "title": "李乾龙：盼给郑丽文一点时间",
       "url": "https://www.toutiao.com/trending/7562751097430114347/",
       "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "日本自民党“电闪再婚”意味什么",
-      "url": "https://www.toutiao.com/trending/7563131687358451242/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
-      "title": "郝龙斌选输怪“黄复兴”？栗正杰抗议",
-      "url": "https://www.toutiao.com/trending/7562416394258022442/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
-      "title": "苏超赛场上的女鼓手太飒了",
-      "url": "https://www.toutiao.com/trending/7562803358642798642/",
-      "label": ""
-    },
-    {
-      "rank": 50,
-      "title": "日本首位女首相“稳了”吗",
-      "url": "https://www.toutiao.com/trending/7562379467370659879/",
-      "label": "new"
     }
   ]
 }
