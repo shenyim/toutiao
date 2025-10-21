@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 21 Oct 2025 14:05:04 GMT",
+  "generated_at": "Tue, 21 Oct 2025 14:10:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "以宏伟蓝图引领高质量发展",
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "外交部回应特朗普称将于明年访华",
-      "url": "https://www.toutiao.com/trending/7563338600507768851/",
-      "label": "hot"
+      "title": "刘和平：美国或用台湾问题换经贸利益",
+      "url": "https://www.toutiao.com/trending/7563332264994930738/",
+      "label": "new"
     },
     {
       "rank": 3,
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "“95后”女干部处级新职明确",
-      "url": "https://www.toutiao.com/trending/7563642857190850603/",
+      "title": "外交部回应特朗普称将于明年访华",
+      "url": "https://www.toutiao.com/trending/7563338600507768851/",
       "label": "hot"
     },
     {
       "rank": 5,
-      "title": "刘和平：美国或用台湾问题换经贸利益",
-      "url": "https://www.toutiao.com/trending/7563332264994930738/",
-      "label": "new"
+      "title": "“95后”女干部处级新职明确",
+      "url": "https://www.toutiao.com/trending/7563642857190850603/",
+      "label": "hot"
     },
     {
       "rank": 6,
@@ -100,9 +100,9 @@
     },
     {
       "rank": 16,
-      "title": "中方回应美威胁对华断供飞机零部件",
-      "url": "https://www.toutiao.com/trending/7563572137936551978/",
-      "label": ""
+      "title": "黄金价格坐过山车 后续怎么走",
+      "url": "https://www.toutiao.com/trending/7563613729208667702/",
+      "label": "interpretation"
     },
     {
       "rank": 17,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 19,
-      "title": "黄金价格坐过山车 后续怎么走",
-      "url": "https://www.toutiao.com/trending/7563613729208667702/",
-      "label": "interpretation"
+      "title": "男子住院看到兄弟们来探望哭成泪人",
+      "url": "https://www.toutiao.com/trending/7563502518652174372/",
+      "label": "new"
     },
     {
       "rank": 20,
-      "title": "越南副防长被曝访韩期间涉“性骚扰”",
-      "url": "https://www.toutiao.com/trending/7563476558108049427/",
+      "title": "中方回应美威胁对华断供飞机零部件",
+      "url": "https://www.toutiao.com/trending/7563572137936551978/",
       "label": ""
     },
     {
@@ -136,9 +136,9 @@
     },
     {
       "rank": 22,
-      "title": "男子住院看到兄弟们来探望哭成泪人",
-      "url": "https://www.toutiao.com/trending/7563502518652174372/",
-      "label": "new"
+      "title": "越南副防长被曝访韩期间涉“性骚扰”",
+      "url": "https://www.toutiao.com/trending/7563476558108049427/",
+      "label": ""
     },
     {
       "rank": 23,
@@ -148,9 +148,9 @@
     },
     {
       "rank": 24,
-      "title": "马斯克转发浏阳无人机烟花秀新闻",
-      "url": "https://www.toutiao.com/trending/7563531261148168255/",
-      "label": ""
+      "title": "朱枫上海地下工作身份证首次亮相",
+      "url": "https://www.toutiao.com/trending/7563344234032594963/",
+      "label": "new"
     },
     {
       "rank": 25,
@@ -160,14 +160,14 @@
     },
     {
       "rank": 26,
-      "title": "俄乌冲突将迎来大结局了吗",
-      "url": "https://www.toutiao.com/trending/7563607432052608553/",
+      "title": "北极地下沉睡4万年古生物正在醒来",
+      "url": "https://www.toutiao.com/trending/7562486569430220836/",
       "label": ""
     },
     {
       "rank": 27,
-      "title": "北极地下沉睡4万年古生物正在醒来",
-      "url": "https://www.toutiao.com/trending/7562486569430220836/",
+      "title": "俄乌冲突将迎来大结局了吗",
+      "url": "https://www.toutiao.com/trending/7563607432052608553/",
       "label": ""
     },
     {
@@ -178,9 +178,9 @@
     },
     {
       "rank": 29,
-      "title": "朱枫上海地下工作身份证首次亮相",
-      "url": "https://www.toutiao.com/trending/7563344234032594963/",
-      "label": "new"
+      "title": "马斯克转发浏阳无人机烟花秀新闻",
+      "url": "https://www.toutiao.com/trending/7563531261148168255/",
+      "label": ""
     },
     {
       "rank": 30,
@@ -202,33 +202,33 @@
     },
     {
       "rank": 33,
-      "title": "67岁面筋爷爷酷似袁隆平走红",
-      "url": "https://www.toutiao.com/trending/7563438192083583022/",
-      "label": ""
-    },
-    {
-      "rank": 34,
       "title": "免费火锅骗走600多名老人4200万",
       "url": "https://www.toutiao.com/trending/7563456264119877686/",
       "label": ""
     },
     {
+      "rank": 34,
+      "title": "67岁面筋爷爷酷似袁隆平走红",
+      "url": "https://www.toutiao.com/trending/7563438192083583022/",
+      "label": ""
+    },
+    {
       "rank": 35,
-      "title": "美称印度若再买俄石油将承受巨额关税",
-      "url": "https://www.toutiao.com/trending/7562661718850093110/",
+      "title": "水利部门回应广西百色村子积水变绿",
+      "url": "https://www.toutiao.com/trending/7562476463522414611/",
       "label": ""
     },
     {
       "rank": 36,
-      "title": "六大AI模型投资对决 谁收益率高",
-      "url": "https://www.toutiao.com/trending/7563637577111047706/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
       "title": "女子穿7厘米高跟鞋征服高山岩壁",
       "url": "https://www.toutiao.com/trending/7563208449422065702/",
       "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "限制人造钻石出口威慑力有多大",
+      "url": "https://www.toutiao.com/trending/7563617244240956971/",
+      "label": "interpretation"
     },
     {
       "rank": 38,
@@ -238,27 +238,27 @@
     },
     {
       "rank": 39,
-      "title": "水利部门回应广西百色村子积水变绿",
-      "url": "https://www.toutiao.com/trending/7562476463522414611/",
+      "title": "“一老一小”人群应尽早接种疫苗",
+      "url": "https://www.toutiao.com/trending/7562842615566696494/",
       "label": ""
     },
     {
       "rank": 40,
-      "title": "限制人造钻石出口威慑力有多大",
-      "url": "https://www.toutiao.com/trending/7563617244240956971/",
-      "label": "interpretation"
+      "title": "媒体批澳军机侵闯南海竟“贼喊捉贼”",
+      "url": "https://www.toutiao.com/trending/7563569095317258291/",
+      "label": ""
     },
     {
       "rank": 41,
-      "title": "法国前总统萨科齐入狱",
-      "url": "https://www.toutiao.com/trending/7563576620615781938/",
+      "title": "印度计划斥巨资购买战机发动机",
+      "url": "https://www.toutiao.com/trending/7563265672299429915/",
       "label": ""
     },
     {
       "rank": 42,
-      "title": "印度计划斥巨资购买战机发动机",
-      "url": "https://www.toutiao.com/trending/7563265672299429915/",
-      "label": ""
+      "title": "00后对出莫言上联获10万奖金",
+      "url": "https://www.toutiao.com/trending/7563124460770934826/",
+      "label": "hot"
     },
     {
       "rank": 43,
@@ -268,8 +268,8 @@
     },
     {
       "rank": 44,
-      "title": "媒体批澳军机侵闯南海竟“贼喊捉贼”",
-      "url": "https://www.toutiao.com/trending/7563569095317258291/",
+      "title": "法国前总统萨科齐入狱",
+      "url": "https://www.toutiao.com/trending/7563576620615781938/",
       "label": ""
     },
     {
@@ -280,32 +280,32 @@
     },
     {
       "rank": 46,
-      "title": "00后对出莫言上联获10万奖金",
-      "url": "https://www.toutiao.com/trending/7563124460770934826/",
-      "label": "hot"
-    },
-    {
-      "rank": 47,
-      "title": "专家：股市走牛形成财富效应",
-      "url": "https://www.toutiao.com/trending/7563616932138585663/",
-      "label": ""
-    },
-    {
-      "rank": 48,
-      "title": "临聘人员偷拍军事装备发家庭群泄密",
-      "url": "https://www.toutiao.com/trending/7563466153012579850/",
-      "label": ""
-    },
-    {
-      "rank": 49,
       "title": "杨振宁缅怀室内的鲜花都摆不下了",
       "url": "https://www.toutiao.com/trending/7562841145611108371/",
       "label": "hot"
     },
     {
-      "rank": 50,
+      "rank": 47,
+      "title": "临聘人员偷拍军事装备发家庭群泄密",
+      "url": "https://www.toutiao.com/trending/7563466153012579850/",
+      "label": ""
+    },
+    {
+      "rank": 48,
       "title": "为何说特朗普根本不了解印度",
       "url": "https://www.toutiao.com/trending/7563548879044480531/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
+      "title": "欧洲：应以俄乌当前战线为谈判起点",
+      "url": "https://www.toutiao.com/trending/7563599683093610505/",
+      "label": "new"
+    },
+    {
+      "rank": 50,
+      "title": "农行市净率破“1”意味着什么",
+      "url": "https://www.toutiao.com/trending/7563381198924726308/",
       "label": "new"
     }
   ]
