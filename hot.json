@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 22 Oct 2025 01:30:03 GMT",
+  "generated_at": "Wed, 22 Oct 2025 01:35:18 GMT",
   "top": {
     "rank": "置顶",
     "title": "以宏伟蓝图引领高质量发展",
@@ -12,13 +12,13 @@
       "rank": 1,
       "title": "王文涛就安世半导体等问题与荷方通话",
       "url": "https://www.toutiao.com/trending/7563689745155719204/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 2,
-      "title": "国际金价一度暴跌6%",
-      "url": "https://www.toutiao.com/trending/7563812032793808394/",
-      "label": "hot"
+      "title": "泽连斯基称已准备好结束俄乌冲突",
+      "url": "https://www.toutiao.com/trending/7563604843634462227/",
+      "label": ""
     },
     {
       "rank": 3,
@@ -28,27 +28,27 @@
     },
     {
       "rank": 4,
-      "title": "泽连斯基称已准备好结束俄乌冲突",
-      "url": "https://www.toutiao.com/trending/7563604843634462227/",
-      "label": ""
-    },
-    {
-      "rank": 5,
       "title": "男子在免费饭馆要求提前开饭被怒怼",
       "url": "https://www.toutiao.com/trending/7563591708731490367/",
       "label": ""
     },
     {
-      "rank": 6,
+      "rank": 5,
       "title": "卢浮宫失窃物品价值约8800万欧元",
       "url": "https://www.toutiao.com/trending/7563824699814481446/",
       "label": ""
     },
     {
-      "rank": 7,
+      "rank": 6,
       "title": "中国停购美国大豆背后",
       "url": "https://www.toutiao.com/trending/7563545010948279850/",
       "label": "depth"
+    },
+    {
+      "rank": 7,
+      "title": "业内：黄金暴跌是重大“求救信号”",
+      "url": "https://www.toutiao.com/trending/7563846663039618586/",
+      "label": "new"
     },
     {
       "rank": 8,
@@ -58,15 +58,15 @@
     },
     {
       "rank": 9,
-      "title": "微信三大更新放出",
-      "url": "https://www.toutiao.com/trending/7563603138776236071/",
-      "label": ""
-    },
-    {
-      "rank": 10,
       "title": "美澳签署关键矿产协议影响几何",
       "url": "https://www.toutiao.com/trending/7563692980981206569/",
       "label": "interpretation"
+    },
+    {
+      "rank": 10,
+      "title": "王楚钦孙颖莎等国乒5人退赛",
+      "url": "https://www.toutiao.com/trending/7563542059719114791/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -94,116 +94,116 @@
     },
     {
       "rank": 15,
-      "title": "王楚钦孙颖莎等国乒5人退赛",
-      "url": "https://www.toutiao.com/trending/7563542059719114791/",
-      "label": ""
+      "title": "布达佩斯美俄峰会为何迅速泡汤",
+      "url": "https://www.toutiao.com/trending/7563833001130348042/",
+      "label": "interpretation"
     },
     {
       "rank": 16,
-      "title": "北极地下沉睡4万年古生物正在醒来",
-      "url": "https://www.toutiao.com/trending/7562486569430220836/",
-      "label": ""
-    },
-    {
-      "rank": 17,
       "title": "媒体：“狗开车”不是趣闻是险情",
       "url": "https://www.toutiao.com/trending/7563597634405928487/",
       "label": ""
     },
     {
-      "rank": 18,
-      "title": "越南副防长被曝访韩期间涉性骚扰",
-      "url": "https://www.toutiao.com/trending/7563476558108049427/",
-      "label": ""
-    },
-    {
-      "rank": 19,
-      "title": "商务部召开专场外企圆桌会",
-      "url": "https://www.toutiao.com/trending/7563641087257329727/",
+      "rank": 17,
+      "title": "国防部回应澳军机侵闯西沙领空",
+      "url": "https://www.toutiao.com/trending/7563843513931009575/",
       "label": "new"
     },
     {
-      "rank": 20,
-      "title": "李在明贴身保镖火了",
-      "url": "https://www.toutiao.com/trending/7563057435247247399/",
-      "label": ""
-    },
-    {
-      "rank": 21,
-      "title": "赖岳谦回福建祭祖：期待两岸和平统一",
-      "url": "https://www.toutiao.com/trending/7563604843634494995/",
-      "label": ""
-    },
-    {
-      "rank": 22,
+      "rank": 18,
       "title": "台网红馆长：“蓝白”应紧密团结",
       "url": "https://www.toutiao.com/trending/7562712793536249906/",
       "label": "new"
     },
     {
+      "rank": 19,
+      "title": "李在明贴身保镖火了",
+      "url": "https://www.toutiao.com/trending/7563057435247247399/",
+      "label": ""
+    },
+    {
+      "rank": 20,
+      "title": "微信三大更新放出",
+      "url": "https://www.toutiao.com/trending/7563603138776236071/",
+      "label": ""
+    },
+    {
+      "rank": 21,
+      "title": "国际金价一度暴跌6%",
+      "url": "https://www.toutiao.com/trending/7563812032793808394/",
+      "label": "hot"
+    },
+    {
+      "rank": 22,
+      "title": "汽车开远光 男子反手爆闪回击",
+      "url": "https://www.toutiao.com/trending/7563226393572655146/",
+      "label": "new"
+    },
+    {
       "rank": 23,
-      "title": "俄乌领土谈判背后的最后博弈",
-      "url": "https://www.toutiao.com/trending/7563815163711720987/",
-      "label": "interpretation"
+      "title": "赖岳谦回福建祭祖：期待两岸和平统一",
+      "url": "https://www.toutiao.com/trending/7563604843634494995/",
+      "label": ""
     },
     {
       "rank": 24,
+      "title": "商务部召开专场外企圆桌会",
+      "url": "https://www.toutiao.com/trending/7563641087257329727/",
+      "label": "hot"
+    },
+    {
+      "rank": 25,
       "title": "深圳“卷尺哥”火了",
       "url": "https://www.toutiao.com/trending/7563603785021623817/",
       "label": ""
     },
     {
-      "rank": 25,
-      "title": "龟背竹居然会自己找水喝",
-      "url": "https://www.toutiao.com/trending/7563073619795116074/",
+      "rank": 26,
+      "title": "黄金首饰价格“坐地起飞”",
+      "url": "https://www.toutiao.com/trending/7563805544432029193/",
       "label": ""
     },
     {
-      "rank": 26,
-      "title": "俄方：“立即停火”违背此前俄美共识",
-      "url": "https://www.toutiao.com/trending/7563498782324654089/",
-      "label": "new"
-    },
-    {
       "rank": 27,
-      "title": "黄金首饰价格“坐地起飞”",
-      "url": "https://www.toutiao.com/trending/7563805544432029193/",
+      "title": "雷霆球迷用漫天嘘声迎接杜兰特",
+      "url": "https://www.toutiao.com/trending/7563568987045445674/",
       "label": "new"
     },
     {
       "rank": 28,
       "title": "高市早苗当选日本首相",
       "url": "https://www.toutiao.com/trending/7563519666883137078/",
-      "label": "hot"
-    },
-    {
-      "rank": 29,
-      "title": "特朗普为何施压泽连斯基",
-      "url": "https://www.toutiao.com/trending/7563815155545411099/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 30,
-      "title": "以色列国家安全顾问被内塔尼亚胡解雇",
-      "url": "https://www.toutiao.com/trending/7563483052455837715/",
       "label": ""
     },
     {
-      "rank": 31,
+      "rank": 29,
+      "title": "前美联储顾问警告“流动性危机”已至",
+      "url": "https://www.toutiao.com/trending/7563834246582767146/",
+      "label": "new"
+    },
+    {
+      "rank": 30,
       "title": "00后女生拍摄75岁老会计同事走红",
       "url": "https://www.toutiao.com/trending/7563598484008599590/",
       "label": ""
     },
     {
+      "rank": 31,
+      "title": "佩通坦决定辞去为泰党党首职务",
+      "url": "https://www.toutiao.com/trending/7563148987080097833/",
+      "label": ""
+    },
+    {
       "rank": 32,
-      "title": "于东来称收费进行“个人分享交流”",
-      "url": "https://www.toutiao.com/trending/7563567125915238426/",
+      "title": "300元以下基本买不到真羽绒",
+      "url": "https://www.toutiao.com/trending/7562197670614843455/",
       "label": ""
     },
     {
       "rank": 33,
-      "title": "刘和平：美国或用台湾问题换经贸利益",
-      "url": "https://www.toutiao.com/trending/7563332264994930738/",
+      "title": "于东来称收费进行“个人分享交流”",
+      "url": "https://www.toutiao.com/trending/7563567125915238426/",
       "label": ""
     },
     {
@@ -214,99 +214,99 @@
     },
     {
       "rank": 35,
-      "title": "汽车开远光 男子反手爆闪回击",
-      "url": "https://www.toutiao.com/trending/7563226393572655146/",
-      "label": "new"
+      "title": "特朗普为何施压泽连斯基",
+      "url": "https://www.toutiao.com/trending/7563815155545411099/",
+      "label": "interpretation"
     },
     {
       "rank": 36,
-      "title": "佩通坦决定辞去为泰党党首职务",
-      "url": "https://www.toutiao.com/trending/7563148987080097833/",
+      "title": "龟背竹居然会自己找水喝",
+      "url": "https://www.toutiao.com/trending/7563073619795116074/",
       "label": ""
     },
     {
       "rank": 37,
-      "title": "于东来官宣启动胖东来高端研学",
-      "url": "https://www.toutiao.com/trending/7563470495576883243/",
+      "title": "以色列国家安全顾问被内塔尼亚胡解雇",
+      "url": "https://www.toutiao.com/trending/7563483052455837715/",
       "label": ""
     },
     {
       "rank": 38,
+      "title": "俄乌领土谈判背后的最后博弈",
+      "url": "https://www.toutiao.com/trending/7563815163711720987/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 39,
+      "title": "刘和平：美国或用台湾问题换经贸利益",
+      "url": "https://www.toutiao.com/trending/7563332264994930738/",
+      "label": ""
+    },
+    {
+      "rank": 40,
       "title": "外交部回应特朗普称将于明年访华",
       "url": "https://www.toutiao.com/trending/7563338600507768851/",
       "label": "hot"
     },
     {
-      "rank": 39,
-      "title": "五角大楼延用你妈式回答",
-      "url": "https://www.toutiao.com/trending/7563646728228126739/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "当美俄直接对话 欧洲何以自处",
-      "url": "https://www.toutiao.com/trending/7563806093563084826/",
+      "rank": 41,
+      "title": "俄方：“立即停火”违背此前俄美共识",
+      "url": "https://www.toutiao.com/trending/7563498782324654089/",
       "label": "new"
     },
     {
-      "rank": 41,
+      "rank": 42,
       "title": "免费火锅骗走600多名老人4200万",
       "url": "https://www.toutiao.com/trending/7563456264119877686/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "失联4岁女童为何现身10米深山沟",
-      "url": "https://www.toutiao.com/trending/7562397021815275561/",
-      "label": ""
-    },
-    {
       "rank": 43,
-      "title": "日本餐饮“平成三十年”的经验借鉴",
-      "url": "https://www.toutiao.com/trending/7563645524948045351/",
+      "title": "“药中茅台”片仔癀跌下神坛了吗",
+      "url": "https://www.toutiao.com/trending/7563549962475146771/",
       "label": ""
     },
     {
       "rank": 44,
-      "title": "朱枫上海地下工作身份证首次亮相",
-      "url": "https://www.toutiao.com/trending/7563344234032594963/",
+      "title": "于东来官宣启动胖东来高端研学",
+      "url": "https://www.toutiao.com/trending/7563470495576883243/",
       "label": ""
     },
     {
       "rank": 45,
-      "title": "布达佩斯美俄峰会为何迅速泡汤",
-      "url": "https://www.toutiao.com/trending/7563833001130348042/",
-      "label": "interpretation"
+      "title": "当美俄直接对话 欧洲何以自处",
+      "url": "https://www.toutiao.com/trending/7563806093563084826/",
+      "label": "new"
     },
     {
       "rank": 46,
-      "title": "加布里埃尔欧冠传射建功",
-      "url": "https://www.toutiao.com/trending/7563266656319995940/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
-      "title": "业内：黄金暴跌是重大“求救信号”",
-      "url": "https://www.toutiao.com/trending/7563846663039618586/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
-      "title": "开拓者已执行3人下赛季球队选项",
-      "url": "https://www.toutiao.com/trending/7562849926179471402/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
       "title": "印尼为何要买多国战机",
       "url": "https://www.toutiao.com/trending/7562573444295917609/",
       "label": "interpretation"
     },
     {
-      "rank": 50,
-      "title": "刚果金的钴为何备受全球钴企关注",
-      "url": "https://www.toutiao.com/trending/7562601982843043890/",
+      "rank": 47,
+      "title": "日本餐饮“平成三十年”的经验借鉴",
+      "url": "https://www.toutiao.com/trending/7563645524948045351/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "北极地下沉睡4万年古生物正在醒来",
+      "url": "https://www.toutiao.com/trending/7562486569430220836/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "韩称朝鲜向半岛东部方向发射导弹",
+      "url": "https://www.toutiao.com/trending/7563450452881260554/",
       "label": "new"
+    },
+    {
+      "rank": 50,
+      "title": "朱枫上海地下工作身份证首次亮相",
+      "url": "https://www.toutiao.com/trending/7563344234032594963/",
+      "label": ""
     }
   ]
 }
