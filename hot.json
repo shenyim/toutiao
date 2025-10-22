@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 22 Oct 2025 11:00:05 GMT",
+  "generated_at": "Wed, 22 Oct 2025 11:05:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "中国式现代化民生为大",
@@ -34,9 +34,9 @@
     },
     {
       "rank": 5,
-      "title": "黄金价格大跳水 金价到顶了吗",
-      "url": "https://www.toutiao.com/trending/7563965781701037609/",
-      "label": "hot"
+      "title": "华为鸿蒙6正式发布",
+      "url": "https://www.toutiao.com/trending/7563645965089931303/",
+      "label": "new"
     },
     {
       "rank": 6,
@@ -46,15 +46,15 @@
     },
     {
       "rank": 7,
-      "title": "华为鸿蒙6正式发布",
-      "url": "https://www.toutiao.com/trending/7563645965089931303/",
-      "label": "new"
-    },
-    {
-      "rank": 8,
       "title": "你如何看深圳“卷尺哥”指哪修哪",
       "url": "https://www.toutiao.com/trending/7563917165113835563/",
       "label": "forum"
+    },
+    {
+      "rank": 8,
+      "title": "黄金为何大跌",
+      "url": "https://www.toutiao.com/trending/7563975650453753380/",
+      "label": "hot"
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "黄金为何大跌",
-      "url": "https://www.toutiao.com/trending/7563975650453753380/",
-      "label": "new"
+      "title": "中方回应朝鲜发射多枚弹道导弹",
+      "url": "https://www.toutiao.com/trending/7563942159364243494/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -82,27 +82,27 @@
     },
     {
       "rank": 13,
+      "title": "《新闻联播》正在直播",
+      "url": "https://webcast-open.douyin.com/open/media_live/330698468897",
+      "label": "new"
+    },
+    {
+      "rank": 14,
       "title": "呼和浩特一小区23部电梯钢绳遭破坏",
       "url": "https://www.toutiao.com/trending/7563911424922222635/",
       "label": "new"
     },
     {
-      "rank": 14,
-      "title": "文玩玉米需求暴涨价格炒到上万元",
-      "url": "https://www.toutiao.com/trending/7563919269663621163/",
-      "label": ""
-    },
-    {
       "rank": 15,
-      "title": "中方回应朝鲜发射多枚弹道导弹",
-      "url": "https://www.toutiao.com/trending/7563942159364243494/",
-      "label": ""
-    },
-    {
-      "rank": 16,
       "title": "你如何看待网吧提供海鲜自助",
       "url": "https://www.toutiao.com/trending/7563918033987616809/",
       "label": "forum"
+    },
+    {
+      "rank": 16,
+      "title": "文玩玉米需求暴涨价格炒到上万元",
+      "url": "https://www.toutiao.com/trending/7563919269663621163/",
+      "label": ""
     },
     {
       "rank": 17,
@@ -112,63 +112,63 @@
     },
     {
       "rank": 18,
-      "title": "大陆或于2027年对台出手？国台办回应",
-      "url": "https://www.toutiao.com/trending/7563874543686484004/",
-      "label": ""
-    },
-    {
-      "rank": 19,
-      "title": "专家称不赞成不支持玉米粒当柴烧",
-      "url": "https://www.toutiao.com/trending/7563595082231218203/",
-      "label": ""
-    },
-    {
-      "rank": 20,
-      "title": "10月就穿羽绒服了",
-      "url": "https://www.toutiao.com/trending/7563474829614628907/",
-      "label": "new"
-    },
-    {
-      "rank": 21,
-      "title": "今日各大金店金价",
-      "url": "https://www.toutiao.com/trending/7563938982417927721/",
-      "label": "hot"
-    },
-    {
-      "rank": 22,
-      "title": "中国女子涉盗窃法国博物馆6公斤金块",
-      "url": "https://www.toutiao.com/trending/7563604843634576915/",
-      "label": ""
-    },
-    {
-      "rank": 23,
       "title": "高市早苗记者会上摸着脸示好韩国",
       "url": "https://www.toutiao.com/trending/7563607620104634410/",
       "label": "new"
     },
     {
-      "rank": 24,
-      "title": "河南一老板挣100万分给员工85万",
-      "url": "https://www.toutiao.com/trending/7563595906356969535/",
+      "rank": 19,
+      "title": "10月就穿羽绒服了",
+      "url": "https://www.toutiao.com/trending/7563474829614628907/",
+      "label": "new"
+    },
+    {
+      "rank": 20,
+      "title": "中国女子涉盗窃法国博物馆6公斤金块",
+      "url": "https://www.toutiao.com/trending/7563604843634576915/",
       "label": ""
     },
     {
+      "rank": 21,
+      "title": "黄金价格大跳水 金价到顶了吗",
+      "url": "https://www.toutiao.com/trending/7563965781701037609/",
+      "label": "hot"
+    },
+    {
+      "rank": 22,
+      "title": "大陆或于2027年对台出手？国台办回应",
+      "url": "https://www.toutiao.com/trending/7563874543686484004/",
+      "label": ""
+    },
+    {
+      "rank": 23,
+      "title": "专家称不赞成不支持玉米粒当柴烧",
+      "url": "https://www.toutiao.com/trending/7563595082231218203/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "今日各大金店金价",
+      "url": "https://www.toutiao.com/trending/7563938982417927721/",
+      "label": "hot"
+    },
+    {
       "rank": 25,
+      "title": "车主买小米汽车被另一品牌销售诅咒",
+      "url": "https://www.toutiao.com/trending/7563446421257650222/",
+      "label": ""
+    },
+    {
+      "rank": 26,
       "title": "美澳协议真能令稀土明年“白菜价”吗",
       "url": "https://www.toutiao.com/trending/7563980124266171967/",
       "label": "new"
     },
     {
-      "rank": 26,
+      "rank": 27,
       "title": "国台办欢迎台湾网红馆长来京",
       "url": "https://www.toutiao.com/trending/7563899311453408814/",
       "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "如何解读高盛称A股应“逢低买入”",
-      "url": "https://www.toutiao.com/trending/7563615464405041179/",
-      "label": "new"
     },
     {
       "rank": 28,
@@ -178,123 +178,123 @@
     },
     {
       "rank": 29,
-      "title": "佩通坦辞任或为布局明年大选",
-      "url": "https://www.toutiao.com/trending/7563847000421191204/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
-      "title": "“文玩玉米”为何走红",
-      "url": "https://www.toutiao.com/trending/7563596500626948106/",
+      "title": "如何解读高盛称A股应“逢低买入”",
+      "url": "https://www.toutiao.com/trending/7563615464405041179/",
       "label": ""
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "曝iPhone Air暂停生产",
       "url": "https://www.toutiao.com/trending/7563910888818970122/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "为何说特朗普不敢对华“掀桌”",
-      "url": "https://www.toutiao.com/trending/7563941901921947190/",
-      "label": "hot"
-    },
-    {
-      "rank": 33,
-      "title": "车主买小米汽车被另一品牌销售诅咒",
-      "url": "https://www.toutiao.com/trending/7563446421257650222/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "黄金连续飙涨后大跌6.3%释放啥信号",
-      "url": "https://www.toutiao.com/trending/7563961820885552681/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 35,
-      "title": "日本新外相回应将实施何种对华政策",
-      "url": "https://www.toutiao.com/trending/7563656307716784191/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "王楚钦孙颖莎等国乒5人退赛",
-      "url": "https://www.toutiao.com/trending/7563542059719114791/",
-      "label": ""
-    },
-    {
-      "rank": 37,
+      "rank": 31,
       "title": "特朗普不满“全美第三好总统”排名",
       "url": "https://www.toutiao.com/trending/7563086292910522422/",
       "label": "new"
     },
     {
-      "rank": 38,
-      "title": "顶级安保的卢浮宫到底是怎么失守的",
-      "url": "https://www.toutiao.com/trending/7562926006689398825/",
+      "rank": 32,
+      "title": "佩通坦辞任或为布局明年大选",
+      "url": "https://www.toutiao.com/trending/7563847000421191204/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "为何说特朗普不敢对华“掀桌”",
+      "url": "https://www.toutiao.com/trending/7563941901921947190/",
+      "label": "hot"
+    },
+    {
+      "rank": 34,
+      "title": "王楚钦孙颖莎等国乒5人退赛",
+      "url": "https://www.toutiao.com/trending/7563542059719114791/",
       "label": ""
     },
     {
-      "rank": 39,
-      "title": "朝鲜为何此时向东部海域发射导弹",
-      "url": "https://www.toutiao.com/trending/7563928694855568938/",
+      "rank": 35,
+      "title": "业内：人形机器人从拟人向类人演进",
+      "url": "https://www.toutiao.com/trending/7563952797377367591/",
       "label": "interpretation"
     },
     {
-      "rank": 40,
+      "rank": 36,
       "title": "希拉里痛批特朗普斥巨资改造白宫",
       "url": "https://www.toutiao.com/trending/7563059002437779465/",
       "label": "new"
     },
     {
-      "rank": 41,
-      "title": "国台办回应郑丽文愿赴大陆访问交流",
-      "url": "https://www.toutiao.com/trending/7563474181859049518/",
-      "label": "hot"
+      "rank": 37,
+      "title": "胖东来告诉你什么才是真正的赚钱",
+      "url": "https://www.toutiao.com/trending/7563914665554628139/",
+      "label": ""
     },
     {
-      "rank": 42,
-      "title": "特朗普为何在中美会晤问题上反复横跳",
-      "url": "https://www.toutiao.com/trending/7563926657778585142/",
-      "label": "hot"
-    },
-    {
-      "rank": 43,
-      "title": "特朗普“私人资助”修缮白宫有何意味",
-      "url": "https://www.toutiao.com/trending/7563956346798738953/",
+      "rank": 38,
+      "title": "黄金连续飙涨后大跌6.3%释放啥信号",
+      "url": "https://www.toutiao.com/trending/7563961820885552681/",
       "label": "interpretation"
     },
     {
-      "rank": 44,
-      "title": "老人被车撞倒 民警伸援手",
-      "url": "https://www.toutiao.com/trending/7563919986851430442/",
-      "label": "new"
-    },
-    {
-      "rank": 45,
+      "rank": 39,
       "title": "李在明贴身保镖火了",
       "url": "https://www.toutiao.com/trending/7563057435247247399/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "鸿蒙披露AI重大进展",
-      "url": "https://www.toutiao.com/trending/7563955237120118318/",
+      "rank": 40,
+      "title": "河南一老板挣100万分给员工85万",
+      "url": "https://www.toutiao.com/trending/7563595906356969535/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "从历史看黄金的牛熊周期有多长",
-      "url": "https://www.toutiao.com/trending/7563924994195983891/",
-      "label": "new"
+      "rank": 41,
+      "title": "“文玩玉米”为何走红",
+      "url": "https://www.toutiao.com/trending/7563596500626948106/",
+      "label": ""
     },
     {
-      "rank": 48,
+      "rank": 42,
+      "title": "国台办回应郑丽文愿赴大陆访问交流",
+      "url": "https://www.toutiao.com/trending/7563474181859049518/",
+      "label": "hot"
+    },
+    {
+      "rank": 43,
+      "title": "特朗普为何在中美会晤问题上反复横跳",
+      "url": "https://www.toutiao.com/trending/7563926657778585142/",
+      "label": "hot"
+    },
+    {
+      "rank": 44,
+      "title": "顶级安保的卢浮宫到底是怎么失守的",
+      "url": "https://www.toutiao.com/trending/7562926006689398825/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "业内：黄金暴跌是重大“求救信号”",
+      "url": "https://www.toutiao.com/trending/7563846663039618586/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 46,
       "title": "马斯克炮轰美交通部长“智商个位数”",
       "url": "https://www.toutiao.com/trending/7563540198224085002/",
       "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "朝鲜为何此时向东部海域发射导弹",
+      "url": "https://www.toutiao.com/trending/7563928694855568938/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 48,
+      "title": "玉米当燃料是助农还是浪费粮食",
+      "url": "https://www.toutiao.com/trending/7563432186259652671/",
+      "label": ""
     },
     {
       "rank": 49,
@@ -304,8 +304,8 @@
     },
     {
       "rank": 50,
-      "title": "金价的牛市结束了吗",
-      "url": "https://www.toutiao.com/trending/7563964254135520777/",
+      "title": "鸿蒙披露AI重大进展",
+      "url": "https://www.toutiao.com/trending/7563955237120118318/",
       "label": ""
     }
   ]
