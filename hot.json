@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 22 Oct 2025 03:00:04 GMT",
+  "generated_at": "Wed, 22 Oct 2025 03:10:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "以宏伟蓝图引领高质量发展",
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "国防部回应澳军机侵闯西沙领空",
-      "url": "https://www.toutiao.com/trending/7563843513931009575/",
-      "label": "hot"
+      "title": "哈工大暖廊有多暖：穿短袖绕行校园",
+      "url": "https://www.toutiao.com/trending/7563692875683201067/",
+      "label": "onSite"
     },
     {
       "rank": 3,
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "哈工大暖廊有多暖：穿短袖绕行校园",
-      "url": "https://www.toutiao.com/trending/7563692875683201067/",
-      "label": "onSite"
+      "title": "国防部回应澳军机侵闯西沙领空",
+      "url": "https://www.toutiao.com/trending/7563843513931009575/",
+      "label": "hot"
     },
     {
       "rank": 5,
       "title": "泽连斯基称已准备好结束俄乌冲突",
       "url": "https://www.toutiao.com/trending/7563604843634462227/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 6,
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "男子要求免费饭馆提前开饭被怒怼",
-      "url": "https://www.toutiao.com/trending/7563591708731490367/",
-      "label": ""
+      "title": "台劳动党主席：台湾光复事实不容辩驳",
+      "url": "https://www.toutiao.com/trending/7563506773320613951/",
+      "label": "new"
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "台劳动党主席：台湾光复事实不容辩驳",
-      "url": "https://www.toutiao.com/trending/7563506773320613951/",
-      "label": "new"
+      "title": "男子要求免费饭馆提前开饭被怒怼",
+      "url": "https://www.toutiao.com/trending/7563591708731490367/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -82,15 +82,15 @@
     },
     {
       "rank": 13,
-      "title": "秋季最后一个节气要来了",
-      "url": "https://www.toutiao.com/trending/7563563999968264238/",
-      "label": ""
+      "title": "雷霆球迷用漫天嘘声迎接杜兰特",
+      "url": "https://www.toutiao.com/trending/7563568987045445674/",
+      "label": "onSite"
     },
     {
       "rank": 14,
-      "title": "布达佩斯美俄峰会为何迅速泡汤",
-      "url": "https://www.toutiao.com/trending/7563833001130348042/",
-      "label": "interpretation"
+      "title": "宇树科技决定更名",
+      "url": "https://www.toutiao.com/trending/7563538459655651354/",
+      "label": "new"
     },
     {
       "rank": 15,
@@ -100,32 +100,32 @@
     },
     {
       "rank": 16,
-      "title": "雷霆球迷用漫天嘘声迎接杜兰特",
-      "url": "https://www.toutiao.com/trending/7563568987045445674/",
-      "label": "onSite"
+      "title": "布达佩斯美俄峰会为何迅速泡汤",
+      "url": "https://www.toutiao.com/trending/7563833001130348042/",
+      "label": "interpretation"
     },
     {
       "rank": 17,
-      "title": "中国停购美国大豆背后",
-      "url": "https://www.toutiao.com/trending/7563545010948279850/",
-      "label": "depth"
-    },
-    {
-      "rank": 18,
       "title": "王鸿薇：蔡英文看透赖清德难有起色",
       "url": "https://www.toutiao.com/trending/7563843905070829092/",
       "label": ""
     },
     {
-      "rank": 19,
+      "rank": 18,
       "title": "《沉默的荣耀》剧组走进中国人民大学",
       "url": "https://www.toutiao.com/trending/7563176008598192179/",
       "label": ""
     },
     {
+      "rank": 19,
+      "title": "高市早苗就任后向国民致歉",
+      "url": "https://www.toutiao.com/trending/7563813962590522906/",
+      "label": ""
+    },
+    {
       "rank": 20,
-      "title": "李在明贴身保镖火了",
-      "url": "https://www.toutiao.com/trending/7563057435247247399/",
+      "title": "王楚钦孙颖莎等国乒5人退赛",
+      "url": "https://www.toutiao.com/trending/7563542059719114791/",
       "label": ""
     },
     {
@@ -136,9 +136,9 @@
     },
     {
       "rank": 22,
-      "title": "高市早苗就任后向国民致歉",
-      "url": "https://www.toutiao.com/trending/7563813962590522906/",
-      "label": ""
+      "title": "中国停购美国大豆背后",
+      "url": "https://www.toutiao.com/trending/7563545010948279850/",
+      "label": "depth"
     },
     {
       "rank": 23,
@@ -150,163 +150,163 @@
       "rank": 24,
       "title": "国际金价一度暴跌6%",
       "url": "https://www.toutiao.com/trending/7563812032793808394/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 25,
-      "title": "佩通坦决定辞去为泰党党首职务",
-      "url": "https://www.toutiao.com/trending/7563148987080097833/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "俄方：“立即停火”违背此前俄美共识",
-      "url": "https://www.toutiao.com/trending/7563498782324654089/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "王楚钦孙颖莎等国乒5人退赛",
-      "url": "https://www.toutiao.com/trending/7563542059719114791/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "微信三大更新放出",
-      "url": "https://www.toutiao.com/trending/7563603138776236071/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "U17女足世界杯：中国队2-5不敌美国",
-      "url": "https://www.toutiao.com/trending/7563530033814487066/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
-      "title": "现货黄金重回4100美元上方",
-      "url": "https://www.toutiao.com/trending/7563849137343434281/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "高市早苗当选日本首相",
-      "url": "https://www.toutiao.com/trending/7563519666883137078/",
-      "label": "hot"
-    },
-    {
-      "rank": 32,
-      "title": "刚果金的钴为何备受全球钴企关注",
-      "url": "https://www.toutiao.com/trending/7562601982843043890/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "南方人来东北上大学深情表白暖气",
-      "url": "https://www.toutiao.com/trending/7563490260786053163/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "越南副防长被曝访韩期间涉性骚扰",
-      "url": "https://www.toutiao.com/trending/7563476558108049427/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "赖岳谦回福建祭祖：期待两岸和平统一",
-      "url": "https://www.toutiao.com/trending/7563604843634494995/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "深圳“卷尺哥”火了",
-      "url": "https://www.toutiao.com/trending/7563603785021623817/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "高盛：中国股市慢牛正在形成",
-      "url": "https://www.toutiao.com/trending/7563562962741461011/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "宇树科技决定更名",
-      "url": "https://www.toutiao.com/trending/7563538459655651354/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "“双普”会前特朗普口风摇摆",
-      "url": "https://www.toutiao.com/trending/7563560594138578970/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "中学年薪40万招竞赛教练无人投简历",
-      "url": "https://www.toutiao.com/trending/7563499249984749595/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "刘和平：美国或用台湾问题换经贸利益",
-      "url": "https://www.toutiao.com/trending/7563332264994930738/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "金价剧烈波动 普通投资者如何应对",
-      "url": "https://www.toutiao.com/trending/7563858730983362102/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 43,
-      "title": "印尼为何要买多国战机",
-      "url": "https://www.toutiao.com/trending/7562573444295917609/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 44,
-      "title": "外交部回应特朗普称将于明年访华",
-      "url": "https://www.toutiao.com/trending/7563338600507768851/",
-      "label": "hot"
-    },
-    {
-      "rank": 45,
       "title": "汽车开远光 男子反手爆闪回击",
       "url": "https://www.toutiao.com/trending/7563226393572655146/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "特朗普为何施压泽连斯基",
-      "url": "https://www.toutiao.com/trending/7563815155545411099/",
-      "label": "interpretation"
+      "rank": 26,
+      "title": "媒体：“人民”中玩漂移必遭人民唾弃",
+      "url": "https://www.toutiao.com/trending/7563615288039473161/",
+      "label": "new"
     },
     {
-      "rank": 47,
-      "title": "乔振宇再现《暗河传》苏喆的名台词",
+      "rank": 27,
+      "title": "高市早苗当选日本首相",
+      "url": "https://www.toutiao.com/trending/7563519666883137078/",
+      "label": "hot"
+    },
+    {
+      "rank": 28,
+      "title": "乔振宇再现《暗河传》名台词",
       "url": "https://www.toutiao.com/trending/7563189994694098986/",
       "label": "new"
     },
     {
-      "rank": 48,
-      "title": "宇树科技新专利优化人机交互体验",
-      "url": "https://www.toutiao.com/trending/7563462520502059034/",
+      "rank": 29,
+      "title": "现货黄金重回4100美元上方",
+      "url": "https://www.toutiao.com/trending/7563849137343434281/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "佩通坦决定辞去为泰党党首职务",
+      "url": "https://www.toutiao.com/trending/7563148987080097833/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "秋季最后一个节气要来了",
+      "url": "https://www.toutiao.com/trending/7563563999968264238/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "李在明贴身保镖火了",
+      "url": "https://www.toutiao.com/trending/7563057435247247399/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "U17女足世界杯：中国队2-5不敌美国",
+      "url": "https://www.toutiao.com/trending/7563530033814487066/",
       "label": "new"
     },
     {
-      "rank": 49,
+      "rank": 34,
+      "title": "中国有运油20还会采购俄制加油机吗",
+      "url": "https://www.toutiao.com/trending/7563862049701236262/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 35,
+      "title": "南方人来东北上大学深情表白暖气",
+      "url": "https://www.toutiao.com/trending/7563490260786053163/",
+      "label": ""
+    },
+    {
+      "rank": 36,
       "title": "00后女生拍摄75岁老会计同事走红",
       "url": "https://www.toutiao.com/trending/7563598484008599590/",
       "label": ""
     },
     {
+      "rank": 37,
+      "title": "深圳“卷尺哥”火了",
+      "url": "https://www.toutiao.com/trending/7563603785021623817/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "“双普”会前特朗普口风摇摆",
+      "url": "https://www.toutiao.com/trending/7563560594138578970/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
+      "title": "媒体：赖清德之流媚日跪舔高市早苗",
+      "url": "https://www.toutiao.com/trending/7563699352494407718/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "钱学森回国历程成书出版",
+      "url": "https://www.toutiao.com/trending/7563144699840725034/",
+      "label": "new"
+    },
+    {
+      "rank": 41,
+      "title": "俄方：“立即停火”违背此前俄美共识",
+      "url": "https://www.toutiao.com/trending/7563498782324654089/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "中学年薪40万招竞赛教练无人投简历",
+      "url": "https://www.toutiao.com/trending/7563499249984749595/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "以色列国家安全顾问被内塔尼亚胡解雇",
+      "url": "https://www.toutiao.com/trending/7563483052455837715/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "高盛：中国股市慢牛正在形成",
+      "url": "https://www.toutiao.com/trending/7563562962741461011/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "金价剧烈波动 普通投资者如何应对",
+      "url": "https://www.toutiao.com/trending/7563858730983362102/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 46,
+      "title": "赖岳谦回福建祭祖：期待两岸和平统一",
+      "url": "https://www.toutiao.com/trending/7563604843634494995/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "外交部回应特朗普称将于明年访华",
+      "url": "https://www.toutiao.com/trending/7563338600507768851/",
+      "label": "hot"
+    },
+    {
+      "rank": 48,
+      "title": "于东来称收费进行“个人分享交流”",
+      "url": "https://www.toutiao.com/trending/7563567125915238426/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "欧冠：巴塞罗那胜奥林匹亚科斯",
+      "url": "https://www.toutiao.com/trending/7563125809456660507/",
+      "label": "new"
+    },
+    {
       "rank": 50,
-      "title": "日本新首相将如何“破局”",
-      "url": "https://www.toutiao.com/trending/7563836276579782195/",
-      "label": "depth"
+      "title": "刘和平：美国或用台湾问题换经贸利益",
+      "url": "https://www.toutiao.com/trending/7563332264994930738/",
+      "label": ""
     }
   ]
 }
