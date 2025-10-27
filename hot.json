@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 27 Oct 2025 07:24:58 GMT",
+  "generated_at": "Mon, 27 Oct 2025 07:25:13 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记的一周(10月20日-10月26日)",
@@ -112,15 +112,15 @@
     },
     {
       "rank": 18,
-      "title": "业内：金价急跌套牢Z世代",
-      "url": "https://www.toutiao.com/trending/7565736865819528746/",
-      "label": ""
-    },
-    {
-      "rank": 19,
       "title": "评论员：特朗普没想到莫迪不给面子",
       "url": "https://www.toutiao.com/trending/7565757039905885723/",
       "label": "new"
+    },
+    {
+      "rank": 19,
+      "title": "业内：金价急跌套牢Z世代",
+      "url": "https://www.toutiao.com/trending/7565736865819528746/",
+      "label": ""
     },
     {
       "rank": 20,
@@ -130,21 +130,21 @@
     },
     {
       "rank": 21,
+      "title": "安徽一地连续21年为鸟留柿子",
+      "url": "https://www.toutiao.com/trending/7565544721385750534/",
+      "label": "new"
+    },
+    {
+      "rank": 22,
       "title": "港媒：会谈后中美紧张局势有所缓和",
       "url": "https://www.toutiao.com/trending/7565734257646112294/",
       "label": "hot"
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "87年女子当上喜婆婆",
       "url": "https://www.toutiao.com/trending/7565348826702790697/",
       "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "中国一重集团原副总经理陆文俊被双开",
-      "url": "https://www.toutiao.com/trending/7565731447098933274/",
-      "label": "new"
     },
     {
       "rank": 24,
@@ -160,74 +160,74 @@
     },
     {
       "rank": 26,
+      "title": "中国一重集团原副总经理陆文俊被双开",
+      "url": "https://www.toutiao.com/trending/7565731447098933274/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
       "title": "男子伙同2人撞死母亲骗保 2名主犯死刑",
       "url": "https://www.toutiao.com/trending/7564781569392443433/",
       "label": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
       "title": "非法收受巨额财物 张建华被开除党籍",
       "url": "https://www.toutiao.com/trending/7565731632574103615/",
       "label": "new"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "title": "阿里前CEO张勇购入香港半山豪宅",
       "url": "https://www.toutiao.com/trending/7564604284818505764/",
       "label": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "渔民捕获约重200多斤“石斑王”",
       "url": "https://www.toutiao.com/trending/7565202437837979702/",
       "label": ""
     },
     {
-      "rank": 30,
-      "title": "各方发出祖国完全统一必定实现最强音",
-      "url": "https://www.toutiao.com/trending/7564593690879000612/",
-      "label": "hot"
-    },
-    {
       "rank": 31,
-      "title": "残障人士需要的尊严与我们每个人有关",
-      "url": "https://www.toutiao.com/trending/7565732220040646187/",
-      "label": "hot"
-    },
-    {
-      "rank": 32,
-      "title": "评论员分析美国对我国稀土依赖度",
-      "url": "https://www.toutiao.com/trending/7565741186929921590/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "美加州州长被指备战2028年总统大选",
-      "url": "https://www.toutiao.com/trending/7565759672117035049/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "未来5年养老金还会涨吗",
-      "url": "https://www.toutiao.com/trending/7565743886815989311/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "毛宁向世界分享中国“人造太阳”",
-      "url": "https://www.toutiao.com/trending/7565572403603030059/",
-      "label": ""
-    },
-    {
-      "rank": 36,
       "title": "送给“馆长”的礼物每个中国人都懂",
       "url": "https://www.toutiao.com/trending/7565495623341015059/",
       "label": "new"
     },
     {
+      "rank": 32,
+      "title": "各方发出祖国完全统一必定实现最强音",
+      "url": "https://www.toutiao.com/trending/7564593690879000612/",
+      "label": "hot"
+    },
+    {
+      "rank": 33,
+      "title": "残障人士需要的尊严与我们每个人有关",
+      "url": "https://www.toutiao.com/trending/7565732220040646187/",
+      "label": "hot"
+    },
+    {
+      "rank": 34,
+      "title": "评论员分析美国对我国稀土依赖度",
+      "url": "https://www.toutiao.com/trending/7565741186929921590/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "未来5年养老金还会涨吗",
+      "url": "https://www.toutiao.com/trending/7565743886815989311/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "毛宁向世界分享中国“人造太阳”",
+      "url": "https://www.toutiao.com/trending/7565572403603030059/",
+      "label": ""
+    },
+    {
       "rank": 37,
-      "title": "淘金者真能“一夜暴富”吗",
-      "url": "https://www.toutiao.com/trending/7565397728361906218/",
+      "title": "中金：大盘成长能否进一步占优",
+      "url": "https://www.toutiao.com/trending/7565769508468559366/",
       "label": "new"
     },
     {
@@ -238,15 +238,15 @@
     },
     {
       "rank": 39,
-      "title": "马来西亚为何与美日签署稀土协议",
-      "url": "https://www.toutiao.com/trending/7565732427499310638/",
-      "label": ""
+      "title": "淘金者真能“一夜暴富”吗",
+      "url": "https://www.toutiao.com/trending/7565397728361906218/",
+      "label": "new"
     },
     {
       "rank": 40,
-      "title": "中金：大盘成长能否进一步占优",
-      "url": "https://www.toutiao.com/trending/7565769508468559366/",
-      "label": "new"
+      "title": "马来西亚为何与美日签署稀土协议",
+      "url": "https://www.toutiao.com/trending/7565732427499310638/",
+      "label": ""
     },
     {
       "rank": 41,
@@ -256,26 +256,26 @@
     },
     {
       "rank": 42,
+      "title": "美加州州长被指备战2028年总统大选",
+      "url": "https://www.toutiao.com/trending/7565759672117035049/",
+      "label": "new"
+    },
+    {
+      "rank": 43,
       "title": "多家央媒就台湾前途命运密集发声",
       "url": "https://www.toutiao.com/trending/7564679581987340324/",
       "label": ""
     },
     {
-      "rank": 43,
+      "rank": 44,
       "title": "山东女孩赵娜获环球小姐中国总冠军",
       "url": "https://www.toutiao.com/trending/7565075169593589803/",
       "label": ""
     },
     {
-      "rank": 44,
+      "rank": 45,
       "title": "周玉琴：我是中国人我骄傲",
       "url": "https://www.toutiao.com/trending/7564948701506633770/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "台大教授苑举正祭拜吴石将军",
-      "url": "https://www.toutiao.com/trending/7564319294852235327/",
       "label": ""
     },
     {
@@ -286,14 +286,14 @@
     },
     {
       "rank": 47,
-      "title": "陈粒演出时耳返爆炸",
-      "url": "https://www.toutiao.com/trending/7565551874952790022/",
+      "title": "台大教授苑举正祭拜吴石将军",
+      "url": "https://www.toutiao.com/trending/7564319294852235327/",
       "label": ""
     },
     {
       "rank": 48,
-      "title": "蔡磊近况：全身瘫软靠眼控仪交流",
-      "url": "https://www.toutiao.com/trending/7565689347677097478/",
+      "title": "陈粒演出时耳返爆炸",
+      "url": "https://www.toutiao.com/trending/7565551874952790022/",
       "label": ""
     },
     {
@@ -304,8 +304,8 @@
     },
     {
       "rank": 50,
-      "title": "加州州长纽森拟竞选2028年美国总统",
-      "url": "https://www.toutiao.com/trending/7564646292430897158/",
+      "title": "蔡磊近况：全身瘫软靠眼控仪交流",
+      "url": "https://www.toutiao.com/trending/7565689347677097478/",
       "label": ""
     }
   ]
