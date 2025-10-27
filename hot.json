@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 27 Oct 2025 03:25:29 GMT",
+  "generated_at": "Mon, 27 Oct 2025 04:24:38 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记的一周(10月20日-10月26日)",
@@ -16,26 +16,26 @@
     },
     {
       "rank": 2,
-      "title": "美财长：不再考虑对华加征100%关税",
-      "url": "https://www.toutiao.com/trending/7564885002891182134/",
+      "title": "正部级蒋超良被双开",
+      "url": "https://www.toutiao.com/trending/7565731027474382886/",
       "label": "hot"
     },
     {
       "rank": 3,
       "title": "中国能源转型速度领跑全球",
       "url": "https://www.toutiao.com/article/7565639559753597440",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 4,
-      "title": "游客把手伸进恐龙模型嘴中被卡住",
-      "url": "https://www.toutiao.com/trending/7565688128791511046/",
-      "label": "new"
+      "title": "美军机在南海坠毁的原因是什么",
+      "url": "https://www.toutiao.com/trending/7565717290054848043/",
+      "label": "hot"
     },
     {
       "rank": 5,
-      "title": "正部级蒋超良被双开：大搞家族式腐败",
-      "url": "https://www.toutiao.com/trending/7565731027474382886/",
+      "title": "杨瀚森4分钟2分1板 开拓者不敌快船",
+      "url": "https://www.toutiao.com/trending/7565741330534501907/",
       "label": "hot"
     },
     {
@@ -46,26 +46,26 @@
     },
     {
       "rank": 7,
-      "title": "郑丽文喊话朱赵二人一起收拾民进党",
-      "url": "https://www.toutiao.com/trending/7565452718194851866/",
-      "label": "hot"
+      "title": "金店销售人员：金条卖不动了",
+      "url": "https://www.toutiao.com/trending/7564500247716823049/",
+      "label": ""
     },
     {
       "rank": 8,
-      "title": "美军机在南海坠毁的原因是什么",
-      "url": "https://www.toutiao.com/trending/7565717290054848043/",
-      "label": "hot"
+      "title": "我国芯片领域取得新突破",
+      "url": "https://www.toutiao.com/trending/7565435598425653257/",
+      "label": "new"
     },
     {
       "rank": 9,
-      "title": "曝印度仿制捡到的中国霹雳15导弹",
-      "url": "https://www.toutiao.com/trending/7564881180697362442/",
+      "title": "各方发出祖国完全统一必定实现最强音",
+      "url": "https://www.toutiao.com/trending/7564593690879000612/",
       "label": ""
     },
     {
       "rank": 10,
-      "title": "俄外长披露俄美领导人会晤推迟原因",
-      "url": "https://www.toutiao.com/trending/7564719802825572361/",
+      "title": "佩斯科夫谈美欧对俄新制裁",
+      "url": "https://www.toutiao.com/trending/7565546553008586798/",
       "label": ""
     },
     {
@@ -76,236 +76,236 @@
     },
     {
       "rank": 12,
-      "title": "国家公务员局郑重提醒",
-      "url": "https://www.toutiao.com/trending/7565495755416174643/",
-      "label": "new"
+      "title": "美财长：不再考虑对华加征100%关税",
+      "url": "https://www.toutiao.com/trending/7564885002891182134/",
+      "label": "hot"
     },
     {
       "rank": 13,
-      "title": "佩斯科夫谈美欧对俄新制裁",
-      "url": "https://www.toutiao.com/trending/7565546553008586798/",
+      "title": "游客把手伸进恐龙模型嘴中被卡住",
+      "url": "https://www.toutiao.com/trending/7565688128791511046/",
       "label": ""
     },
     {
       "rank": 14,
-      "title": "郑丽文选后首场团结大会在花莲举行",
-      "url": "https://www.toutiao.com/trending/7565194519075897387/",
+      "title": "残障人士需要的尊严与我们每个人有关",
+      "url": "https://www.toutiao.com/trending/7565732220040646187/",
       "label": "hot"
     },
     {
       "rank": 15,
+      "title": "港媒：会谈后中美紧张局势有所缓和",
+      "url": "https://www.toutiao.com/trending/7565734257646112294/",
+      "label": "hot"
+    },
+    {
+      "rank": 16,
+      "title": "沪指跳空涨超1% 逼近4000点",
+      "url": "https://www.toutiao.com/trending/7565336254628397110/",
+      "label": "new"
+    },
+    {
+      "rank": 17,
+      "title": "俄外长披露俄美领导人会晤推迟原因",
+      "url": "https://www.toutiao.com/trending/7564719802825572361/",
+      "label": ""
+    },
+    {
+      "rank": 18,
+      "title": "解放军演练抢滩登陆 机器狗打头阵",
+      "url": "https://www.toutiao.com/trending/7565065159816953910/",
+      "label": "new"
+    },
+    {
+      "rank": 19,
+      "title": "郑丽文喊话朱赵二人一起收拾民进党",
+      "url": "https://www.toutiao.com/trending/7565452718194851866/",
+      "label": "hot"
+    },
+    {
+      "rank": 20,
+      "title": "曝印度仿制捡到的中国霹雳15导弹",
+      "url": "https://www.toutiao.com/trending/7564881180697362442/",
+      "label": ""
+    },
+    {
+      "rank": 21,
+      "title": "国家公务员局郑重提醒",
+      "url": "https://www.toutiao.com/trending/7565495755416174643/",
+      "label": ""
+    },
+    {
+      "rank": 22,
+      "title": "郑丽文选后首场团结大会在花莲举行",
+      "url": "https://www.toutiao.com/trending/7565194519075897387/",
+      "label": ""
+    },
+    {
+      "rank": 23,
+      "title": "马来西亚为何与美日签署稀土协议",
+      "url": "https://www.toutiao.com/trending/7565732427499310638/",
+      "label": "new"
+    },
+    {
+      "rank": 24,
+      "title": "存储市场迎来超级周期",
+      "url": "https://www.toutiao.com/trending/7565717501875588618/",
+      "label": "new"
+    },
+    {
+      "rank": 25,
+      "title": "新郎骑着电动车接新娘回家",
+      "url": "https://www.toutiao.com/trending/7564675648898547766/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "维尼修斯社媒晒庆祝照",
+      "url": "https://www.toutiao.com/trending/7564517330668568582/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
+      "title": "糖尿病前期并非不可逆转",
+      "url": "https://www.toutiao.com/trending/7565362622841913398/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
+      "title": "米莱中选意外大胜 阿根廷改革将继续",
+      "url": "https://www.toutiao.com/trending/7565706699420470810/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
+      "title": "广东连续7年成为全国生育第一大省",
+      "url": "https://www.toutiao.com/trending/7565465446838272026/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "香农芯创发力企业级SSD市场",
+      "url": "https://www.toutiao.com/trending/7565708520595656235/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "蔡磊近况：全身瘫软靠眼控仪交流",
+      "url": "https://www.toutiao.com/trending/7565689347677097478/",
+      "label": ""
+    },
+    {
+      "rank": 32,
       "title": "黄金价格下跌是进场“捡便宜”时机吗",
       "url": "https://www.toutiao.com/trending/7565700779416227391/",
       "label": "interpretation"
     },
     {
-      "rank": 16,
-      "title": "各方发出祖国完全统一必定实现最强音",
-      "url": "https://www.toutiao.com/trending/7564593690879000612/",
-      "label": "new"
-    },
-    {
-      "rank": 17,
-      "title": "张卫平：今天的节奏杨瀚森会比较适应",
-      "url": "https://www.toutiao.com/trending/7565385194673848363/",
-      "label": "new"
-    },
-    {
-      "rank": 18,
-      "title": "学者：国民党应做反“独”中坚力量",
-      "url": "https://www.toutiao.com/trending/7565717322061581851/",
-      "label": "hot"
-    },
-    {
-      "rank": 19,
-      "title": "美国与东南亚多国达成贸易协议",
-      "url": "https://www.toutiao.com/trending/7565701992723516982/",
-      "label": ""
-    },
-    {
-      "rank": 20,
-      "title": "万茜一身干练造型现身湖南株洲",
-      "url": "https://www.toutiao.com/trending/7565270742276014121/",
-      "label": ""
-    },
-    {
-      "rank": 21,
-      "title": "黄金大跌有必要恐慌吗",
-      "url": "https://www.toutiao.com/trending/7565698176695406143/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "芯片行业迎来上位窗口",
-      "url": "https://www.toutiao.com/trending/7565718898868227626/",
-      "label": "new"
-    },
-    {
-      "rank": 23,
-      "title": "台湾网红“馆长”称“北京玩不完”",
-      "url": "https://www.toutiao.com/trending/7564750403875749898/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "公园现“离奇”车祸 路人记录仪破案",
-      "url": "https://www.toutiao.com/trending/7565503661653164073/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "东帝汶总理因加入东盟流泪",
-      "url": "https://www.toutiao.com/trending/7565667687415467558/",
-      "label": "hot"
-    },
-    {
-      "rank": 26,
-      "title": "方媛生完三胎后首度现身",
-      "url": "https://www.toutiao.com/trending/7565506914571534363/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "霹雳-15导弹落入印度之手影响几何",
-      "url": "https://www.toutiao.com/trending/7565682131382079039/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "直系亲属间到底能不能相互输血",
-      "url": "https://www.toutiao.com/trending/7565377867270602806/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "首个航班降落广州 中印正式恢复直航",
-      "url": "https://www.toutiao.com/trending/7565696221294104127/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
-      "title": "韩国考虑授予特朗普“无穷花大勋章”",
-      "url": "https://www.toutiao.com/trending/7564722086686507044/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "媒体：国安跌落谷底想不送分也挺难",
-      "url": "https://www.toutiao.com/trending/7565139863096901638/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "新郎骑着电动车接新娘回家",
-      "url": "https://www.toutiao.com/trending/7564675648898547766/",
-      "label": "new"
-    },
-    {
       "rank": 33,
-      "title": "东盟峰会特朗普又来当主角",
-      "url": "https://www.toutiao.com/trending/7565671278867123758/",
-      "label": ""
+      "title": "蔡正元：美智库投书指出冰冷冷事实",
+      "url": "https://www.toutiao.com/trending/7564641624527437851/",
+      "label": "new"
     },
     {
       "rank": 34,
-      "title": "NBA养老金方案给我们哪些启示",
-      "url": "https://www.toutiao.com/trending/7565703532309909028/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
       "title": "山东女孩赵娜获环球小姐中国总冠军",
       "url": "https://www.toutiao.com/trending/7565075169593589803/",
       "label": ""
     },
     {
+      "rank": 35,
+      "title": "申花又一次让人失望了",
+      "url": "https://www.toutiao.com/trending/7565446282526261284/",
+      "label": "new"
+    },
+    {
       "rank": 36,
-      "title": "俄成功试射海燕核动力导弹意味什么",
-      "url": "https://www.toutiao.com/trending/7565670472478625290/",
-      "label": ""
+      "title": "A股、港股市场全线爆发",
+      "url": "https://www.toutiao.com/trending/7564645627653799955/",
+      "label": "new"
     },
     {
       "rank": 37,
-      "title": "世界期待听到来自中美的更多好消息",
-      "url": "https://www.toutiao.com/trending/7565695423524900393/",
+      "title": "芯片行业迎来上位窗口",
+      "url": "https://www.toutiao.com/trending/7565718898868227626/",
       "label": ""
     },
     {
       "rank": 38,
-      "title": "雷倩谈台湾光复的意义",
-      "url": "https://www.toutiao.com/trending/7564913350396641321/",
-      "label": "new"
+      "title": "黄金大跌有必要恐慌吗",
+      "url": "https://www.toutiao.com/trending/7565698176695406143/",
+      "label": ""
     },
     {
       "rank": 39,
-      "title": "小车乱停致公交无法通行 交警找上门",
-      "url": "https://www.toutiao.com/trending/7565513657019809834/",
+      "title": "公园现“离奇”车祸 路人记录仪破案",
+      "url": "https://www.toutiao.com/trending/7565503661653164073/",
       "label": ""
     },
     {
       "rank": 40,
+      "title": "方媛生完三胎后首度现身",
+      "url": "https://www.toutiao.com/trending/7565506914571534363/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "韩国考虑授予特朗普“无穷花大勋章”",
+      "url": "https://www.toutiao.com/trending/7564722086686507044/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "阿斯顿维拉1-0曼城",
+      "url": "https://www.toutiao.com/trending/7565573442322481179/",
+      "label": "new"
+    },
+    {
+      "rank": 43,
+      "title": "雷倩谈台湾光复的意义",
+      "url": "https://www.toutiao.com/trending/7564913350396641321/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "美国与东南亚多国达成贸易协议",
+      "url": "https://www.toutiao.com/trending/7565701992723516982/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "霹雳-15导弹落入印度之手影响几何",
+      "url": "https://www.toutiao.com/trending/7565682131382079039/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "万茜一身干练造型现身湖南株洲",
+      "url": "https://www.toutiao.com/trending/7565270742276014121/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "周玉琴：我是中国人我骄傲",
+      "url": "https://www.toutiao.com/trending/7564948701506633770/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "台湾网红“馆长”称“北京玩不完”",
+      "url": "https://www.toutiao.com/trending/7564750403875749898/",
+      "label": ""
+    },
+    {
+      "rank": 49,
       "title": "美情报机构涉霹雳-15猜测有多离谱",
       "url": "https://www.toutiao.com/trending/7565696564149095978/",
       "label": ""
     },
     {
-      "rank": 41,
-      "title": "青藏高原东部有持续雨雪天气",
-      "url": "https://www.toutiao.com/trending/7565147113047212051/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "A股短期加速窗口或将开启",
-      "url": "https://www.toutiao.com/trending/7565706817053920787/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
-      "title": "美媒：中国制药杠杆是对美“核选项”",
-      "url": "https://www.toutiao.com/trending/7565682872384769546/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "黄金涨跌的逻辑是什么",
-      "url": "https://www.toutiao.com/trending/7565720431768899091/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 45,
-      "title": "皇马2-1巴萨终结国家德比4连败",
-      "url": "https://www.toutiao.com/trending/7565551843783360518/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "特朗普抵达马来西亚和众人跳舞",
-      "url": "https://www.toutiao.com/trending/7565096761908789267/",
-      "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "杨幂拉着吉克隽逸头纱跳舞",
-      "url": "https://www.toutiao.com/trending/7565458856126709810/",
-      "label": ""
-    },
-    {
-      "rank": 48,
-      "title": "金店销售人员：金条卖不动了",
-      "url": "https://www.toutiao.com/trending/7564500247716823049/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
-      "title": "吴石烈士孙女吴红感谢《沉默的荣耀》",
-      "url": "https://www.toutiao.com/trending/7564817285752717348/",
-      "label": ""
-    },
-    {
       "rank": 50,
-      "title": "张韶涵演唱会上发饰被伴舞卡住",
-      "url": "https://www.toutiao.com/trending/7565120091181301798/",
+      "title": "全球化的游戏规则已经反转了吗",
+      "url": "https://www.toutiao.com/trending/7565719674948685355/",
       "label": ""
     }
   ]
