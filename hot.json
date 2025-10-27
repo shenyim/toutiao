@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 27 Oct 2025 09:00:05 GMT",
+  "generated_at": "Mon, 27 Oct 2025 09:05:03 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记的一周(10月20日-10月26日)",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "中方回应“两架美军机南海坠毁”",
       "url": "https://www.toutiao.com/trending/7564613377994313235/",
-      "label": "recentProgress"
+      "label": "hot"
     },
     {
       "rank": 2,
@@ -58,15 +58,15 @@
     },
     {
       "rank": 9,
-      "title": "A股逼近4000点 还能上车吗",
-      "url": "https://www.toutiao.com/trending/7565798490819792390/",
-      "label": "hot"
-    },
-    {
-      "rank": 10,
       "title": "知名港星许绍雄被曝病危入院",
       "url": "https://www.toutiao.com/trending/7565796442690817590/",
       "label": ""
+    },
+    {
+      "rank": 10,
+      "title": "A股逼近4000点 还能上车吗",
+      "url": "https://www.toutiao.com/trending/7565798490819792390/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -94,21 +94,21 @@
     },
     {
       "rank": 15,
+      "title": "刘欢33岁女儿结婚",
+      "url": "https://www.toutiao.com/trending/7565459986294390803/",
+      "label": "new"
+    },
+    {
+      "rank": 16,
       "title": "“世界第一美少年”去世",
       "url": "https://www.toutiao.com/trending/7565702741067186186/",
       "label": ""
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "台网红“馆长”听到沈阳气温陷入沉思",
       "url": "https://www.toutiao.com/trending/7564744489974238739/",
       "label": ""
-    },
-    {
-      "rank": 17,
-      "title": "赵一鸣零食店用糖代替找零遭吐槽",
-      "url": "https://www.toutiao.com/trending/7565779670910864906/",
-      "label": "new"
     },
     {
       "rank": 18,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 19,
-      "title": "贺文萍：中美有望达成全面贸易协议",
-      "url": "https://www.toutiao.com/trending/7565807628614372927/",
-      "label": "interpretation"
+      "title": "美财长：不再考虑对华加征100%关税",
+      "url": "https://www.toutiao.com/trending/7564885002891182134/",
+      "label": "hot"
     },
     {
       "rank": 20,
-      "title": "刘欢33岁女儿结婚",
-      "url": "https://www.toutiao.com/trending/7565459986294390803/",
+      "title": "东盟与中日韩三国峰会大合照解读",
+      "url": "https://www.toutiao.com/trending/7565800332819697193/",
       "label": "new"
     },
     {
@@ -136,177 +136,177 @@
     },
     {
       "rank": 22,
-      "title": "美财长：不再考虑对华加征100%关税",
-      "url": "https://www.toutiao.com/trending/7564885002891182134/",
+      "title": "郑丽文提前布局2026年选举",
+      "url": "https://www.toutiao.com/trending/7564900633510363182/",
       "label": "hot"
     },
     {
       "rank": 23,
-      "title": "东盟与中日韩三国峰会大合照解读",
-      "url": "https://www.toutiao.com/trending/7565800332819697193/",
-      "label": "new"
-    },
-    {
-      "rank": 24,
-      "title": "郑丽文提前布局2026年选举",
-      "url": "https://www.toutiao.com/trending/7564900633510363182/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "俄外长披露俄美领导人会晤推迟原因",
-      "url": "https://www.toutiao.com/trending/7564719802825572361/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "一文带你认识带状疱疹",
-      "url": "https://www.toutiao.com/trending/7565436756624998442/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
       "title": "李大霄谈对4000点的六个看法",
       "url": "https://www.toutiao.com/trending/7565807006330654244/",
       "label": "interpretation"
     },
     {
-      "rank": 28,
+      "rank": 24,
       "title": "如何看待美军南海连摔军机",
       "url": "https://www.toutiao.com/trending/7565509211070251051/",
       "label": "interpretation"
     },
     {
-      "rank": 29,
+      "rank": 25,
       "title": "“馆长”北京爬长城感叹先人智慧",
       "url": "https://www.toutiao.com/trending/7565605157518786566/",
       "label": "new"
     },
     {
-      "rank": 30,
+      "rank": 26,
+      "title": "俄外长披露俄美领导人会晤推迟原因",
+      "url": "https://www.toutiao.com/trending/7564719802825572361/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "赵一鸣零食店用糖代替找零遭吐槽",
+      "url": "https://www.toutiao.com/trending/7565779670910864906/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
+      "title": "2架美军机在南海相继坠毁是巧合吗",
+      "url": "https://www.toutiao.com/trending/7565802840279486006/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 29,
       "title": "安徽一地连续21年为鸟留柿子",
       "url": "https://www.toutiao.com/trending/7565544721385750534/",
       "label": ""
     },
     {
+      "rank": 30,
+      "title": "87年女子当上喜婆婆",
+      "url": "https://www.toutiao.com/trending/7565348826702790697/",
+      "label": ""
+    },
+    {
       "rank": 31,
-      "title": "2架美军机在南海相继坠毁是巧合吗",
-      "url": "https://www.toutiao.com/trending/7565802840279486006/",
+      "title": "美财长说中美会谈深入透彻释放何信号",
+      "url": "https://www.toutiao.com/trending/7565805815890710059/",
       "label": "interpretation"
     },
     {
       "rank": 32,
       "title": "特朗普到访 高市早苗迎外交“大考”",
       "url": "https://www.toutiao.com/trending/7565785838462701075/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 33,
-      "title": "专家：新一轮中美经贸磋商效果良好",
-      "url": "https://www.toutiao.com/trending/7565810435459386921/",
+      "title": "人口结构如何影响城市未来经济",
+      "url": "https://www.toutiao.com/trending/7565763656521092649/",
       "label": "new"
     },
     {
       "rank": 34,
-      "title": "全国多城市西贝门店人流回升",
-      "url": "https://www.toutiao.com/trending/7565701772795461686/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "王毅与巴勒斯坦代表握手：永远支持",
-      "url": "https://www.toutiao.com/trending/7564610674442341942/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "美财长说中美会谈深入透彻释放何信号",
-      "url": "https://www.toutiao.com/trending/7565805815890710059/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 37,
-      "title": "两人骑车掉入泥潭成“出土文物”",
-      "url": "https://www.toutiao.com/trending/7565534953556246537/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "渔民捕获约重200多斤“石斑王”",
-      "url": "https://www.toutiao.com/trending/7565202437837979702/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "业内：金价急跌套牢Z世代",
-      "url": "https://www.toutiao.com/trending/7565736865819528746/",
-      "label": "hot"
-    },
-    {
-      "rank": 40,
-      "title": "男子伙同2人撞死母亲骗保 2名主犯死刑",
-      "url": "https://www.toutiao.com/trending/7564781569392443433/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "广东湛江一处沙滩现中华白海豚尸体",
-      "url": "https://www.toutiao.com/trending/7565538609160978451/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "彩礼给付后婚事迅速告吹 法院判了",
-      "url": "https://www.toutiao.com/trending/7565087555625238571/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
       "title": "外交部回应中美经贸磋商",
       "url": "https://www.toutiao.com/trending/7565803419911409202/",
       "label": "new"
     },
     {
+      "rank": 35,
+      "title": "业内：金价急跌套牢Z世代",
+      "url": "https://www.toutiao.com/trending/7565736865819528746/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "两人骑车掉入泥潭成“出土文物”",
+      "url": "https://www.toutiao.com/trending/7565534953556246537/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "蔡磊近况：全身瘫软靠眼控仪交流",
+      "url": "https://www.toutiao.com/trending/7565689347677097478/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "毛宁向世界分享中国“人造太阳”",
+      "url": "https://www.toutiao.com/trending/7565572403603030059/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "比伯和肯豆海莉同框搂抱",
+      "url": "https://www.toutiao.com/trending/7565111844638572582/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "专家：新一轮中美经贸磋商效果良好",
+      "url": "https://www.toutiao.com/trending/7565810435459386921/",
+      "label": "new"
+    },
+    {
+      "rank": 41,
+      "title": "王毅与巴勒斯坦代表握手：永远支持",
+      "url": "https://www.toutiao.com/trending/7564610674442341942/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "广东湛江一处沙滩现中华白海豚尸体",
+      "url": "https://www.toutiao.com/trending/7565538609160978451/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "多家央媒就台湾前途命运密集发声",
+      "url": "https://www.toutiao.com/trending/7564679581987340324/",
+      "label": ""
+    },
+    {
       "rank": 44,
+      "title": "机构：A股正处于系统性慢牛中",
+      "url": "https://www.toutiao.com/trending/7565816301554257459/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 45,
       "title": "专家：俄罗斯的选择题只剩硬扛或妥协",
       "url": "https://www.toutiao.com/trending/7565767123352423979/",
       "label": ""
     },
     {
-      "rank": 45,
-      "title": "87年女子当上喜婆婆",
-      "url": "https://www.toutiao.com/trending/7565348826702790697/",
-      "label": ""
-    },
-    {
       "rank": 46,
-      "title": "学者：美军老航母硬撑的代价藏不住",
-      "url": "https://www.toutiao.com/trending/7565749383593987620/",
-      "label": "hot"
+      "title": "货车高速追尾撞死父子保姆案再审开庭",
+      "url": "https://www.toutiao.com/trending/7565736462810513418/",
+      "label": "new"
     },
     {
       "rank": 47,
+      "title": "商业航天站上资本风口",
+      "url": "https://www.toutiao.com/trending/7565805827269856787/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
       "title": "克林根快速成长 杨瀚森失去竞争优势",
       "url": "https://www.toutiao.com/trending/7565490880661127174/",
       "label": ""
     },
     {
-      "rank": 48,
-      "title": "湖南披露领导干部插手医药领域问题",
-      "url": "https://www.toutiao.com/trending/7565737954417967123/",
-      "label": "new"
-    },
-    {
       "rank": 49,
-      "title": "女子咬有毒树枝拍视频被大爷提醒",
-      "url": "https://www.toutiao.com/trending/7565693716208451638/",
+      "title": "各方发出祖国完全统一必定实现最强音",
+      "url": "https://www.toutiao.com/trending/7564593690879000612/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "毛宁向世界分享中国“人造太阳”",
-      "url": "https://www.toutiao.com/trending/7565572403603030059/",
-      "label": ""
+      "title": "金价持续跳水是买还是卖",
+      "url": "https://www.toutiao.com/trending/7565805923277475382/",
+      "label": "new"
     }
   ]
 }
