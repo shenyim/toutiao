@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 28 Oct 2025 05:15:09 GMT",
+  "generated_at": "Tue, 28 Oct 2025 05:20:08 GMT",
   "top": {
     "rank": "置顶",
     "title": "呵护好中华文明瑰宝 习近平这样嘱托",
@@ -11,7 +11,7 @@
     {
       "rank": 1,
       "title": "“欢喜哥”许绍雄去世",
-      "url": "https://webcast-open.douyin.com/open/media_live/238099515779",
+      "url": "https://www.toutiao.com/trending/7565063392713625142/",
       "label": "hot"
     },
     {
@@ -60,7 +60,7 @@
       "rank": 9,
       "title": "傅聪：台湾问题必将得到解决",
       "url": "https://www.toutiao.com/trending/7566083529110536230/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 10,
@@ -88,8 +88,8 @@
     },
     {
       "rank": 14,
-      "title": "抗日名将孙立人家属申请迁葬安徽故里",
-      "url": "https://www.toutiao.com/trending/7565745976884494387/",
+      "title": "比亚迪多款新车型上市",
+      "url": "https://www.toutiao.com/trending/7565437065040756745/",
       "label": ""
     },
     {
@@ -100,26 +100,26 @@
     },
     {
       "rank": 16,
-      "title": "比亚迪多款新车型上市",
-      "url": "https://www.toutiao.com/trending/7565437065040756745/",
-      "label": ""
-    },
-    {
-      "rank": 17,
       "title": "国内金饰克价一夜跌超20元",
       "url": "https://www.toutiao.com/trending/7565342302337400842/",
       "label": ""
     },
     {
+      "rank": 17,
+      "title": "抗日名将孙立人家属申请迁葬安徽故里",
+      "url": "https://www.toutiao.com/trending/7565745976884494387/",
+      "label": ""
+    },
+    {
       "rank": 18,
-      "title": "美财长称能感受到中国拒买大豆之痛",
-      "url": "https://www.toutiao.com/trending/7566062494993616390/",
+      "title": "男子盗窃后留字条：钱会还别报警",
+      "url": "https://www.toutiao.com/trending/7566053671386906630/",
       "label": ""
     },
     {
       "rank": 19,
-      "title": "男子盗窃后留字条：钱会还别报警",
-      "url": "https://www.toutiao.com/trending/7566053671386906630/",
+      "title": "拦婚车索财算抢劫吗？律师解读",
+      "url": "https://www.toutiao.com/trending/7565376706429665318/",
       "label": ""
     },
     {
@@ -142,15 +142,15 @@
     },
     {
       "rank": 23,
-      "title": "肉联公司门口堆满死猪 7人被控制",
-      "url": "https://www.toutiao.com/trending/7565931699211223103/",
-      "label": ""
+      "title": "宝宝小嘴急得一直动喊出第一声妈妈",
+      "url": "https://www.toutiao.com/trending/7565884443161051174/",
+      "label": "onSite"
     },
     {
       "rank": 24,
-      "title": "马光远：中国股市一定要克服恐高症",
-      "url": "https://www.toutiao.com/trending/7566084563600936502/",
-      "label": "depth"
+      "title": "美财长称能感受到中国拒买大豆之痛",
+      "url": "https://www.toutiao.com/trending/7566062494993616390/",
+      "label": ""
     },
     {
       "rank": 25,
@@ -160,45 +160,45 @@
     },
     {
       "rank": 26,
-      "title": "船记：快船球员都对开拓者赞誉有加",
-      "url": "https://www.toutiao.com/trending/7564693825629765683/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
-      "title": "特朗普：很长时间内都不想见加总理",
-      "url": "https://www.toutiao.com/trending/7564849349726191658/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "特朗普访日遇运酒车翻倒专车改道",
-      "url": "https://www.toutiao.com/trending/7565133400080895494/",
-      "label": "new"
-    },
-    {
-      "rank": 29,
-      "title": "蔡磊回应研发药物对病友起效自己没用",
-      "url": "https://www.toutiao.com/trending/7565799835174387758/",
-      "label": ""
-    },
-    {
-      "rank": 30,
       "title": "新郎接亲婚礼主持人上演调虎离山",
       "url": "https://www.toutiao.com/trending/7565385339259617322/",
       "label": "onSite"
     },
     {
-      "rank": 31,
+      "rank": 27,
       "title": "黄金失守4000美元大关",
       "url": "https://www.toutiao.com/trending/7566043393697009202/",
       "label": "hot"
     },
     {
+      "rank": 28,
+      "title": "特朗普访日遇运酒车翻倒专车改道",
+      "url": "https://www.toutiao.com/trending/7565133400080895494/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "马光远：中国股市一定要克服恐高症",
+      "url": "https://www.toutiao.com/trending/7566084563600936502/",
+      "label": "depth"
+    },
+    {
+      "rank": 30,
+      "title": "肉联公司门口堆满死猪 7人被控制",
+      "url": "https://www.toutiao.com/trending/7565931699211223103/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "蔡磊回应研发药物对病友起效自己没用",
+      "url": "https://www.toutiao.com/trending/7565799835174387758/",
+      "label": ""
+    },
+    {
       "rank": 32,
-      "title": "宝宝小嘴急得一直动喊出第一声妈妈",
-      "url": "https://www.toutiao.com/trending/7565884443161051174/",
-      "label": "onSite"
+      "title": "花旗下调短期黄金目标价",
+      "url": "https://www.toutiao.com/trending/7566095406795329067/",
+      "label": "new"
     },
     {
       "rank": 33,
@@ -208,27 +208,27 @@
     },
     {
       "rank": 34,
-      "title": "美印关系恶化 印度到底有没有牌",
-      "url": "https://www.toutiao.com/trending/7566037371402534938/",
-      "label": "depth"
-    },
-    {
-      "rank": 35,
-      "title": "高市早苗想推荐特朗普角逐和平奖",
-      "url": "https://www.toutiao.com/trending/7566126453180452390/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
       "title": "歼20落地后为何能直接用无尘布擦拭",
       "url": "https://www.toutiao.com/trending/7566061473877724715/",
       "label": ""
     },
     {
+      "rank": 35,
+      "title": "唐国强到访武侯祠把AI当成旅游搭子",
+      "url": "https://www.toutiao.com/trending/7565821177754484762/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "美印关系恶化 印度到底有没有牌",
+      "url": "https://www.toutiao.com/trending/7566037371402534938/",
+      "label": "depth"
+    },
+    {
       "rank": 37,
-      "title": "花旗下调短期黄金目标价",
-      "url": "https://www.toutiao.com/trending/7566095406795329067/",
-      "label": "new"
+      "title": "四小伙捡900元归还每人被奖100元",
+      "url": "https://www.toutiao.com/trending/7565641861432442922/",
+      "label": ""
     },
     {
       "rank": 38,
@@ -238,20 +238,20 @@
     },
     {
       "rank": 39,
-      "title": "唐国强到访武侯祠把AI当成旅游搭子",
-      "url": "https://www.toutiao.com/trending/7565821177754484762/",
-      "label": ""
+      "title": "高市早苗想推荐特朗普角逐和平奖",
+      "url": "https://www.toutiao.com/trending/7566126453180452390/",
+      "label": "new"
     },
     {
       "rank": 40,
-      "title": "四小伙捡900元归还每人被奖100元",
-      "url": "https://www.toutiao.com/trending/7565641861432442922/",
-      "label": ""
+      "title": "船记：快船球员都对开拓者赞誉有加",
+      "url": "https://www.toutiao.com/trending/7564693825629765683/",
+      "label": "new"
     },
     {
       "rank": 41,
-      "title": "女子上门理论噪音问题被回怼",
-      "url": "https://www.toutiao.com/trending/7564993525726314559/",
+      "title": "台湾高山族青年：期盼统一曙光",
+      "url": "https://www.toutiao.com/trending/7565430705170448434/",
       "label": ""
     },
     {
@@ -262,51 +262,51 @@
     },
     {
       "rank": 43,
-      "title": "名嘴：民进党被郑丽文抓出错事会垮台",
-      "url": "https://www.toutiao.com/trending/7565127283640369158/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "“尼米兹”号扒光了美海军底裤",
-      "url": "https://www.toutiao.com/trending/7566060595380751881/",
-      "label": ""
-    },
-    {
-      "rank": 45,
       "title": "中方：中英应共同维护战后国际秩序",
       "url": "https://www.toutiao.com/trending/7565744877595361321/",
       "label": "new"
     },
     {
-      "rank": 46,
-      "title": "陆军学习俄乌战场无人机实战经验",
-      "url": "https://www.toutiao.com/trending/7565736951375609906/",
+      "rank": 44,
+      "title": "女子上门理论噪音问题被回怼",
+      "url": "https://www.toutiao.com/trending/7564993525726314559/",
       "label": ""
     },
     {
+      "rank": 45,
+      "title": "“尼米兹”号扒光了美海军底裤",
+      "url": "https://www.toutiao.com/trending/7566060595380751881/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "美国与东南亚四国“敲定”关税",
+      "url": "https://www.toutiao.com/trending/7565512058231357481/",
+      "label": "new"
+    },
+    {
       "rank": 47,
-      "title": "特朗普回应俄试射“末日武器”",
-      "url": "https://www.toutiao.com/trending/7566095175211044393/",
+      "title": "倪景阳现身《象山发光事件》首映礼",
+      "url": "https://www.toutiao.com/trending/7565908050302517267/",
       "label": "new"
     },
     {
       "rank": 48,
-      "title": "新人以为放错音乐下一秒惊喜上演",
-      "url": "https://www.toutiao.com/trending/7565160548157964334/",
-      "label": "onSite"
+      "title": "球员冲突扰乱西甲“国家德比”",
+      "url": "https://www.toutiao.com/trending/7565681618758107145/",
+      "label": ""
     },
     {
       "rank": 49,
-      "title": "热依扎说没收到无所畏惧3剧本",
-      "url": "https://www.toutiao.com/trending/7565835705822707775/",
+      "title": "逾4000万低收入美国人面临饥荒风险",
+      "url": "https://www.toutiao.com/trending/7566054066611617834/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "深圳地铁回应印度人地铁上吃手抓饭",
-      "url": "https://www.toutiao.com/trending/7565082718535745578/",
-      "label": ""
+      "title": "热依扎说没收到无所畏惧3剧本",
+      "url": "https://www.toutiao.com/trending/7565835705822707775/",
+      "label": "new"
     }
   ]
 }
