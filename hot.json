@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 28 Oct 2025 08:20:26 GMT",
+  "generated_at": "Tue, 28 Oct 2025 08:32:40 GMT",
   "top": {
     "rank": "置顶",
     "title": "呵护好中华文明瑰宝 习近平这样嘱托",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "高市早苗给特朗普送礼 日网民炸锅",
-      "url": "https://www.toutiao.com/trending/7566135501460098598/",
-      "label": ""
-    },
-    {
-      "rank": 2,
       "title": "“欢喜哥”许绍雄去世",
       "url": "https://www.toutiao.com/trending/7565063392713625142/",
       "label": "hot"
+    },
+    {
+      "rank": 2,
+      "title": "高市早苗给特朗普送礼 日网民炸锅",
+      "url": "https://www.toutiao.com/trending/7566135501460098598/",
+      "label": ""
     },
     {
       "rank": 3,
@@ -28,27 +28,27 @@
     },
     {
       "rank": 4,
-      "title": "解放军大规模抢滩登陆演练",
-      "url": "https://www.toutiao.com/trending/7565323471887302662/",
-      "label": "onSite"
-    },
-    {
-      "rank": 5,
       "title": "鲁迅长孙吊唁许绍雄：情谊始终珍藏",
       "url": "https://www.toutiao.com/trending/7565063392713690678/",
       "label": "hot"
     },
     {
+      "rank": 5,
+      "title": "老板收到4.5万转账后银行卡被冻结",
+      "url": "https://www.toutiao.com/trending/7566112074892345382/",
+      "label": "new"
+    },
+    {
       "rank": 6,
-      "title": "李大霄：中国股市站起来了",
-      "url": "https://www.toutiao.com/trending/7566128083409833515/",
-      "label": "hot"
+      "title": "解放军大规模抢滩登陆演练",
+      "url": "https://www.toutiao.com/trending/7565323471887302662/",
+      "label": "onSite"
     },
     {
       "rank": 7,
-      "title": "男子直播挖蛇被咬 去医院后失联",
-      "url": "https://www.toutiao.com/trending/7566104636340617235/",
-      "label": ""
+      "title": "李大霄：中国股市站起来了",
+      "url": "https://www.toutiao.com/trending/7566128083409833515/",
+      "label": "hot"
     },
     {
       "rank": 8,
@@ -58,15 +58,15 @@
     },
     {
       "rank": 9,
-      "title": "钟台文：祖国必然统一势不可挡",
-      "url": "https://www.toutiao.com/trending/7566099117769818175/",
-      "label": "new"
+      "title": "业内：双十一来临京东太焦虑了",
+      "url": "https://www.toutiao.com/trending/7566096075791011382/",
+      "label": "hot"
     },
     {
       "rank": 10,
-      "title": "学者：特朗普的“慢刀子”扎进俄死穴",
-      "url": "https://www.toutiao.com/trending/7566111913025900074/",
-      "label": "depth"
+      "title": "餐厅回应宴会厅“水管爆裂”",
+      "url": "https://www.toutiao.com/trending/7566104972719325227/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -112,21 +112,21 @@
     },
     {
       "rank": 18,
-      "title": "雷军：小米智能家电工厂正式投产",
-      "url": "https://www.toutiao.com/trending/7565886336918634534/",
-      "label": "new"
+      "title": "A股冲4000点后为何跳水",
+      "url": "https://www.toutiao.com/trending/7566173470686449198/",
+      "label": "interpretation"
     },
     {
       "rank": 19,
       "title": "许绍雄半月前称时间对每个人都公平",
       "url": "https://www.toutiao.com/trending/7566114162498375178/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 20,
-      "title": "老板收到4.5万转账后银行卡被冻结",
-      "url": "https://www.toutiao.com/trending/7566112074892345382/",
-      "label": "new"
+      "title": "钟台文：祖国必然统一势不可挡",
+      "url": "https://www.toutiao.com/trending/7566099117769818175/",
+      "label": ""
     },
     {
       "rank": 21,
@@ -144,163 +144,163 @@
       "rank": 23,
       "title": "专家：牛市趋势进一步确立",
       "url": "https://www.toutiao.com/trending/7566134923975724595/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 24,
-      "title": "媒体：从空姐到空嫂不只是一字之差",
-      "url": "https://www.toutiao.com/trending/7565814379994382345/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "特朗普见高市早苗三句话不离安倍",
-      "url": "https://www.toutiao.com/trending/7565133400080928262/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "A股冲4000点后为何跳水",
-      "url": "https://www.toutiao.com/trending/7566173470686449198/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 27,
-      "title": "媒体：食品安全监管不能只靠网友曝光",
-      "url": "https://www.toutiao.com/trending/7566143029656948233/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
-      "title": "男生没认出订婚当天打扮漂亮的女友",
-      "url": "https://www.toutiao.com/trending/7565787005679157291/",
-      "label": "onSite"
-    },
-    {
-      "rank": 29,
-      "title": "杨瀚森NBA得分超越孙悦",
-      "url": "https://www.toutiao.com/trending/7566164006025563699/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
-      "title": "“安世之乱”如何席卷全欧洲",
-      "url": "https://www.toutiao.com/trending/7566106017805635114/",
-      "label": "depth"
-    },
-    {
-      "rank": 31,
-      "title": "抗日名将孙立人家属申请迁葬安徽故里",
-      "url": "https://www.toutiao.com/trending/7565745976884494387/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "杨千嬅悼念许绍雄",
-      "url": "https://www.toutiao.com/trending/7566144596506378283/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "佘诗曼线下活动状态似少女",
-      "url": "https://www.toutiao.com/trending/7565097499937996841/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "高市早苗会见特朗普 多次伸手笑容满面",
-      "url": "https://www.toutiao.com/trending/7565063392713575990/",
-      "label": "onSite"
-    },
-    {
-      "rank": 35,
-      "title": "为何说欧洲一些国家不想让俄乌停战",
-      "url": "https://www.toutiao.com/trending/7566079244044865043/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "郑立：吴石把台湾带回家的愿望很强烈",
-      "url": "https://www.toutiao.com/trending/7565155931361771562/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "美媒：大豆农和养牛户都受到关税影响",
-      "url": "https://www.toutiao.com/trending/7566112510797942281/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "特朗普访日遇运酒车翻倒专车改道",
-      "url": "https://www.toutiao.com/trending/7565133400080895494/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "连坠两军机 美海军为何事故频发",
-      "url": "https://www.toutiao.com/trending/7565759637237071914/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "特朗普亚洲行藏了什么心思",
-      "url": "https://www.toutiao.com/trending/7566109153677020698/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "业内：双十一来临京东太焦虑了",
-      "url": "https://www.toutiao.com/trending/7566096075791011382/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
       "title": "台退将分析2架美军机在南海坠毁原因",
       "url": "https://www.toutiao.com/trending/7565298072646025267/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "宁波市监回应网友理发一次花6万",
-      "url": "https://www.toutiao.com/trending/7565750832114253834/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "学者：缓解稀土焦虑 欧盟先放下面子",
-      "url": "https://www.toutiao.com/trending/7566109143069625919/",
+      "rank": 25,
+      "title": "美的被曝遭京东罚款500万元",
+      "url": "https://www.toutiao.com/trending/7566150757586829362/",
       "label": "new"
     },
     {
-      "rank": 45,
+      "rank": 26,
+      "title": "杨瀚森NBA得分超越孙悦",
+      "url": "https://www.toutiao.com/trending/7566164006025563699/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
+      "title": "“安世之乱”如何席卷全欧洲",
+      "url": "https://www.toutiao.com/trending/7566106017805635114/",
+      "label": "depth"
+    },
+    {
+      "rank": 28,
+      "title": "为何说欧洲一些国家不想让俄乌停战",
+      "url": "https://www.toutiao.com/trending/7566079244044865043/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
+      "title": "杨千嬅悼念许绍雄",
+      "url": "https://www.toutiao.com/trending/7566144596506378283/",
+      "label": "new"
+    },
+    {
+      "rank": 30,
+      "title": "特朗普见高市早苗三句话不离安倍",
+      "url": "https://www.toutiao.com/trending/7565133400080928262/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "郑立：吴石把台湾带回家的愿望很强烈",
+      "url": "https://www.toutiao.com/trending/7565155931361771562/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "大爷打翻餐品 老板免费送一份",
+      "url": "https://www.toutiao.com/trending/7565927152231890980/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "男生没认出订婚当天打扮漂亮的女友",
+      "url": "https://www.toutiao.com/trending/7565787005679157291/",
+      "label": "onSite"
+    },
+    {
+      "rank": 34,
+      "title": "创业板指冲高回落跌0.15%",
+      "url": "https://www.toutiao.com/trending/7566078793753034815/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "高市早苗会见特朗普 多次伸手笑容满面",
+      "url": "https://www.toutiao.com/trending/7565063392713575990/",
+      "label": "onSite"
+    },
+    {
+      "rank": 36,
+      "title": "佘诗曼线下活动状态似少女",
+      "url": "https://www.toutiao.com/trending/7565097499937996841/",
+      "label": ""
+    },
+    {
+      "rank": 37,
       "title": "惠英红发文悼念许绍雄",
       "url": "https://www.toutiao.com/trending/7566062182723518470/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "特朗普誓言做日本最坚定盟友",
-      "url": "https://www.toutiao.com/trending/7565352016169254931/",
+      "rank": 38,
+      "title": "傅聪：台湾问题必将得到解决",
+      "url": "https://www.toutiao.com/trending/7566083529110536230/",
       "label": ""
     },
     {
-      "rank": 47,
+      "rank": 39,
+      "title": "蔡睿已任全国台联副会长",
+      "url": "https://www.toutiao.com/trending/7566142465170751524/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "特朗普访日遇运酒车翻倒专车改道",
+      "url": "https://www.toutiao.com/trending/7565133400080895494/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "俄乌大规模无人机互袭",
+      "url": "https://www.toutiao.com/trending/7566155132909142058/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
+      "title": "现货黄金跌破3960美元",
+      "url": "https://www.toutiao.com/trending/7566157030134648326/",
+      "label": "new"
+    },
+    {
+      "rank": 43,
       "title": "闻泰科技“安世之乱”何时能解",
       "url": "https://www.toutiao.com/trending/7566135986423926335/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 44,
       "title": "俄称在红军城方向包围乌军5500人",
       "url": "https://www.toutiao.com/trending/7565889764243639817/",
       "label": ""
     },
     {
-      "rank": 49,
-      "title": "东盟赶在马科斯上任前和中国签协议",
-      "url": "https://www.toutiao.com/trending/7566159551829904905/",
+      "rank": 45,
+      "title": "特朗普誓言做日本最坚定盟友",
+      "url": "https://www.toutiao.com/trending/7565352016169254931/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "杨瀚森攻防问题集中暴露",
+      "url": "https://www.toutiao.com/trending/7566140807531466303/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "沪指4000点为何得而复失",
+      "url": "https://www.toutiao.com/trending/7566173938141629993/",
       "label": "interpretation"
+    },
+    {
+      "rank": 48,
+      "title": "宁波市监回应网友理发一次花6万",
+      "url": "https://www.toutiao.com/trending/7565750832114253834/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "太空视角下的中国南海是啥样",
+      "url": "https://www.toutiao.com/trending/7565315104221249579/",
+      "label": "new"
     },
     {
       "rank": 50,
