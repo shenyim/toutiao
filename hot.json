@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 29 Oct 2025 04:25:04 GMT",
+  "generated_at": "Wed, 29 Oct 2025 04:30:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "携手开创亚太发展新时代",
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "外媒：全球投资者以惊人速度从印度撤资",
-      "url": "https://www.toutiao.com/trending/7566444465930374707/",
-      "label": ""
-    },
-    {
-      "rank": 5,
       "title": "3游客爬上泰山仙人桥悬空巨石",
       "url": "https://www.toutiao.com/trending/7565492906854858794/",
       "label": "new"
+    },
+    {
+      "rank": 5,
+      "title": "外媒：全球投资者以惊人速度从印度撤资",
+      "url": "https://www.toutiao.com/trending/7566444465930374707/",
+      "label": ""
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
     },
     {
       "rank": 10,
-      "title": "探访七星山荒野求生比赛现场",
-      "url": "https://webcast-open.douyin.com/open/media_live/18697639737",
+      "title": "专家解读星际访客3I/ATLAS",
+      "url": "https://webcast-open.douyin.com/open/media_live/808207714751",
       "label": ""
     },
     {
@@ -94,14 +94,14 @@
     },
     {
       "rank": 15,
-      "title": "中纪委：1至9月41名省部级被处分",
-      "url": "https://www.toutiao.com/trending/7566426888336408617/",
+      "title": "日本民众连日抗议日美首脑会谈",
+      "url": "https://www.toutiao.com/trending/7566110146591604777/",
       "label": "new"
     },
     {
       "rank": 16,
-      "title": "专家解读星际访客3I/ATLAS",
-      "url": "https://webcast-open.douyin.com/open/media_live/808207714751",
+      "title": "探访七星山荒野求生比赛现场",
+      "url": "https://webcast-open.douyin.com/open/media_live/18697639737",
       "label": ""
     },
     {
@@ -118,15 +118,15 @@
     },
     {
       "rank": 19,
-      "title": "国台办批台陆委会威胁恐吓岛内网友",
-      "url": "https://www.toutiao.com/trending/7565548094314627078/",
+      "title": "国台办：决不承诺放弃使用武力",
+      "url": "https://www.toutiao.com/trending/7566173638169362474/",
       "label": "new"
     },
     {
       "rank": 20,
-      "title": "国台办回应美智库涉台报告",
-      "url": "https://www.toutiao.com/trending/7566467283800064038/",
-      "label": "hot"
+      "title": "国台办批台陆委会威胁恐吓岛内网友",
+      "url": "https://www.toutiao.com/trending/7565548094314627078/",
+      "label": "new"
     },
     {
       "rank": 21,
@@ -136,93 +136,93 @@
     },
     {
       "rank": 22,
-      "title": "国台办：对台决不承诺放弃使用武力",
-      "url": "https://www.toutiao.com/trending/7565515885860405289/",
-      "label": "new"
+      "title": "国台办回应美智库涉台报告",
+      "url": "https://www.toutiao.com/trending/7566467283800064038/",
+      "label": "hot"
     },
     {
       "rank": 23,
-      "title": "“台独”沈伯洋被立案侦查意味着什么",
-      "url": "https://www.toutiao.com/trending/7565063392713805366/",
-      "label": "hot"
-    },
-    {
-      "rank": 24,
-      "title": "日本民众连日抗议日美首脑会谈",
-      "url": "https://www.toutiao.com/trending/7566110146591604777/",
+      "title": "中纪委：1至9月41名省部级被处分",
+      "url": "https://www.toutiao.com/trending/7566426888336408617/",
       "label": "new"
     },
     {
-      "rank": 25,
-      "title": "美智库在台海问题上转向意味着什么",
-      "url": "https://www.toutiao.com/trending/7565818295157751858/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 26,
-      "title": "“台独”沈伯洋都干过哪些勾当",
-      "url": "https://www.toutiao.com/trending/7566419137631620650/",
-      "label": "hot"
-    },
-    {
-      "rank": 27,
+      "rank": 24,
       "title": "洪秀柱：两岸统一是保护台湾唯一方法",
       "url": "https://www.toutiao.com/trending/7565664128279543850/",
       "label": ""
     },
     {
-      "rank": 28,
+      "rank": 25,
+      "title": "“台独”沈伯洋被立案侦查意味着什么",
+      "url": "https://www.toutiao.com/trending/7565063392713805366/",
+      "label": "hot"
+    },
+    {
+      "rank": 26,
       "title": "大批轰-6K贴近台岛释放何种信息",
       "url": "https://www.toutiao.com/trending/7566228007246155290/",
       "label": "interpretation"
     },
     {
-      "rank": 29,
-      "title": "国台办：决不承诺放弃使用武力",
-      "url": "https://www.toutiao.com/trending/7566173638169362474/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
+      "rank": 27,
       "title": "俄亮出“末日导弹” 美欧会被吓住吗",
       "url": "https://www.toutiao.com/trending/7566462996143148595/",
       "label": "interpretation"
     },
     {
-      "rank": 31,
+      "rank": 28,
+      "title": "国台办：对台决不承诺放弃使用武力",
+      "url": "https://www.toutiao.com/trending/7565515885860405289/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
       "title": "杨瀚森为什么总飘在三分线外",
       "url": "https://www.toutiao.com/trending/7565626559747604486/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "下一个五年房地产究竟怎样发展",
-      "url": "https://www.toutiao.com/trending/7566459597179850283/",
+      "rank": 30,
+      "title": "郭正亮：美2架舰载机相继坠海很诡异",
+      "url": "https://www.toutiao.com/trending/7565180116436303922/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "美智库在台海问题上转向意味着什么",
+      "url": "https://www.toutiao.com/trending/7565818295157751858/",
       "label": "interpretation"
     },
     {
-      "rank": 33,
+      "rank": 32,
       "title": "鲁迅长孙吊唁许绍雄：情谊始终珍藏",
       "url": "https://www.toutiao.com/trending/7565063392713690678/",
       "label": "hot"
     },
     {
-      "rank": 34,
-      "title": "第一批在鹤岗买房的人开始撤离",
-      "url": "https://www.toutiao.com/trending/7566212394511240767/",
-      "label": ""
-    },
-    {
-      "rank": 35,
+      "rank": 33,
       "title": "聂曦：比吴石更隐秘的“红色纽带”",
       "url": "https://www.toutiao.com/trending/7565421301108949034/",
       "label": "new"
     },
     {
+      "rank": 34,
+      "title": "“台独”沈伯洋都干过哪些勾当",
+      "url": "https://www.toutiao.com/trending/7566419137631620650/",
+      "label": "hot"
+    },
+    {
+      "rank": 35,
+      "title": "下一个五年房地产究竟怎样发展",
+      "url": "https://www.toutiao.com/trending/7566459597179850283/",
+      "label": "interpretation"
+    },
+    {
       "rank": 36,
-      "title": "80岁父亲捐肾救治48岁儿子",
-      "url": "https://www.toutiao.com/trending/7566074290350030911/",
-      "label": "new"
+      "title": "第一批在鹤岗买房的人开始撤离",
+      "url": "https://www.toutiao.com/trending/7566212394511240767/",
+      "label": ""
     },
     {
       "rank": 37,
@@ -238,21 +238,21 @@
     },
     {
       "rank": 39,
+      "title": "80岁父亲捐肾救治48岁儿子",
+      "url": "https://www.toutiao.com/trending/7566074290350030911/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
       "title": "3I/ATLAS真的是外星飞船吗",
       "url": "https://www.toutiao.com/trending/7566461322401943046/",
       "label": "new"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "硬核家长做出手工版“东风-5C”",
       "url": "https://www.toutiao.com/trending/7566226142937022470/",
       "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "专访中日韩合作秘书处秘书长李熙燮",
-      "url": "https://www.toutiao.com/trending/7565390597117329449/",
-      "label": "new"
     },
     {
       "rank": 42,
@@ -268,14 +268,14 @@
     },
     {
       "rank": 44,
-      "title": "郭正亮：美2架舰载机相继坠海很诡异",
-      "url": "https://www.toutiao.com/trending/7565180116436303922/",
-      "label": "new"
+      "title": "中欧真的存在一场“稀土危机”吗",
+      "url": "https://www.toutiao.com/trending/7566442117375987236/",
+      "label": "depth"
     },
     {
       "rank": 45,
-      "title": "郭一鸣：十五五规划催生万亿投资良机",
-      "url": "https://www.toutiao.com/trending/7566458249050902059/",
+      "title": "阿富汗和巴基斯坦还能和平吗",
+      "url": "https://www.toutiao.com/trending/7565721764408819718/",
       "label": "new"
     },
     {
@@ -286,27 +286,27 @@
     },
     {
       "rank": 47,
+      "title": "郭一鸣：十五五规划催生万亿投资良机",
+      "url": "https://www.toutiao.com/trending/7566458249050902059/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
       "title": "美日同盟迎来新黄金时代了吗",
       "url": "https://www.toutiao.com/trending/7566278896262774811/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 49,
       "title": "东盟“扩圈”官宣新成员",
       "url": "https://www.toutiao.com/trending/7566450800294120996/",
       "label": ""
     },
     {
-      "rank": 49,
+      "rank": 50,
       "title": "吴石将军的副官聂曦为司局级",
       "url": "https://www.toutiao.com/trending/7565526254834237503/",
       "label": ""
-    },
-    {
-      "rank": 50,
-      "title": "男子当主播被要求“擦边”想解约",
-      "url": "https://www.toutiao.com/trending/7566136981718401050/",
-      "label": "new"
     }
   ]
 }
