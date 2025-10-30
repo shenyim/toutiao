@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 30 Oct 2025 06:15:04 GMT",
+  "generated_at": "Thu, 30 Oct 2025 07:19:26 GMT",
   "top": {
     "rank": "置顶",
     "title": "从习主席的APEC足迹感悟中国智慧",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "中美元首握手合影",
-      "url": "https://www.toutiao.com/video/7566852947381109263",
-      "label": "onSite"
+      "title": "会晤全文公布！特朗普邀习近平访美",
+      "url": "https://www.toutiao.com/article/7566895034377732660",
+      "label": "hot"
     },
     {
       "rank": 2,
-      "title": "中美元首会晤开场白传递哪些重磅信息",
-      "url": "https://www.toutiao.com/article/7566863096615043603",
-      "label": "interpretation"
+      "title": "会晤结束后 特朗普送习近平上车",
+      "url": "https://www.toutiao.com/article/7566893454157038106",
+      "label": "onSite"
     },
     {
       "rank": 3,
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "特朗普：相信我们将建立长期良好关系",
-      "url": "https://www.toutiao.com/article/7566842915004219904",
-      "label": "hot"
+      "title": "美将取消对华10%所谓“芬太尼关税”",
+      "url": "https://www.toutiao.com/trending/7566515805073408042/",
+      "label": "new"
     },
     {
       "rank": 5,
-      "title": "两名港澳航天员整体状态良好",
-      "url": "https://www.toutiao.com/trending/7566826002874793990/",
-      "label": "hot"
+      "title": "中美元首会晤开场白传递哪些重磅信息",
+      "url": "https://www.toutiao.com/article/7566863096615043603",
+      "label": "interpretation"
     },
     {
       "rank": 6,
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "中美携手多办一些大事实事好事",
-      "url": "https://www.toutiao.com/article/7566836696604508715",
-      "label": "hot"
+      "title": "中美元首握手合影",
+      "url": "https://www.toutiao.com/video/7566852947381109263",
+      "label": "onSite"
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "国安披露东海小组4人烈士证明",
-      "url": "https://www.toutiao.com/trending/7566200777514532902/",
-      "label": ""
+      "title": "两名港澳航天员整体状态良好",
+      "url": "https://www.toutiao.com/trending/7566826002874793990/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -76,183 +76,183 @@
     },
     {
       "rank": 12,
-      "title": "女子将黄金手镯皮带涂成银色入境被查",
-      "url": "https://www.toutiao.com/trending/7566823557318164499/",
-      "label": "new"
+      "title": "特朗普：相信我们将建立长期良好关系",
+      "url": "https://www.toutiao.com/article/7566842915004219904",
+      "label": "hot"
     },
     {
       "rank": 13,
-      "title": "报告：特朗普在自导自演贸易战中败北",
-      "url": "https://www.toutiao.com/trending/7566831598922894890/",
-      "label": "new"
-    },
-    {
-      "rank": 14,
-      "title": "女子被外国人占卧铺 12306：无需妥协",
-      "url": "https://www.toutiao.com/trending/7566863777568869939/",
-      "label": ""
-    },
-    {
-      "rank": 15,
       "title": "你会让孩子参加竞赛活动吗",
       "url": "https://www.toutiao.com/trending/7566563944098693129/",
       "label": "forum"
     },
     {
-      "rank": 16,
-      "title": "女生晒干会计前后对比照判若两人",
-      "url": "https://www.toutiao.com/trending/7566082784868352041/",
+      "rank": 14,
+      "title": "女子将黄金手镯皮带涂成银色入境被查",
+      "url": "https://www.toutiao.com/trending/7566823557318164499/",
       "label": ""
     },
     {
-      "rank": 17,
-      "title": "中科院85后博导将逐梦太空 姐姐发声",
-      "url": "https://www.toutiao.com/trending/7566661509154164260/",
+      "rank": 15,
+      "title": "报告：特朗普在自导自演贸易战中败北",
+      "url": "https://www.toutiao.com/trending/7566831598922894890/",
+      "label": ""
+    },
+    {
+      "rank": 16,
+      "title": "中美携手多办一些大事实事好事",
+      "url": "https://www.toutiao.com/article/7566836696604508715",
       "label": "hot"
     },
     {
-      "rank": 18,
-      "title": "杭州一些稻田现大量“瑞士卷”",
-      "url": "https://www.toutiao.com/trending/7566034030547501107/",
-      "label": ""
-    },
-    {
-      "rank": 19,
+      "rank": 17,
       "title": "牛弹琴：韩国人讨好特朗普用心良苦",
       "url": "https://www.toutiao.com/trending/7566841369273729043/",
       "label": "hot"
     },
     {
+      "rank": 18,
+      "title": "女子被外国人占卧铺 12306：无需妥协",
+      "url": "https://www.toutiao.com/trending/7566863777568869939/",
+      "label": ""
+    },
+    {
+      "rank": 19,
+      "title": "国安披露东海小组4人烈士证明",
+      "url": "https://www.toutiao.com/trending/7566200777514532902/",
+      "label": ""
+    },
+    {
       "rank": 20,
-      "title": "我国正式启动巴基斯坦航天员选拔工作",
-      "url": "https://www.toutiao.com/trending/7566819562147741715/",
+      "title": "特朗普已下令立即重启美国核试验",
+      "url": "https://www.toutiao.com/trending/7566841528934318086/",
       "label": "new"
     },
     {
       "rank": 21,
       "title": "江一燕离婚",
       "url": "https://www.toutiao.com/trending/7566884351229578802/",
-      "label": "new"
-    },
-    {
-      "rank": 22,
-      "title": "里夫斯压哨绝杀 湖人险胜森林狼",
-      "url": "https://www.toutiao.com/trending/7566864637015428671/",
       "label": "hot"
     },
     {
+      "rank": 22,
+      "title": "中美元首会晤双方代表都有谁",
+      "url": "https://www.toutiao.com/trending/7566900170177170995/",
+      "label": "new"
+    },
+    {
       "rank": 23,
-      "title": "男子做完足疗从消防通道逃单",
-      "url": "https://www.toutiao.com/trending/7566637901522993171/",
+      "title": "我国正式启动巴基斯坦航天员选拔工作",
+      "url": "https://www.toutiao.com/trending/7566819562147741715/",
       "label": ""
     },
     {
       "rank": 24,
-      "title": "神二十乘组有望刷新在轨驻留最长纪录",
-      "url": "https://www.toutiao.com/trending/7566134677032190006/",
-      "label": "hot"
+      "title": "特朗普为何批准韩国建造核潜艇",
+      "url": "https://www.toutiao.com/trending/7566862344162709034/",
+      "label": "new"
     },
     {
       "rank": 25,
-      "title": "云南BIGBANG近7天涨粉超72万",
-      "url": "https://www.toutiao.com/trending/7566086090793631807/",
+      "title": "女生晒干会计前后对比照判若两人",
+      "url": "https://www.toutiao.com/trending/7566082784868352041/",
       "label": ""
     },
     {
       "rank": 26,
-      "title": "德国外长取消访华后解释：我还想来",
-      "url": "https://www.toutiao.com/trending/7565828087310008326/",
-      "label": ""
+      "title": "中科院85后博导将逐梦太空 姐姐发声",
+      "url": "https://www.toutiao.com/trending/7566661509154164260/",
+      "label": "hot"
     },
     {
       "rank": 27,
+      "title": "田径比赛选手起跑后将保洁阿姨撞倒",
+      "url": "https://www.toutiao.com/trending/7566829561250463807/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
+      "title": "特朗普称威胁收关税阻止了印巴冲突",
+      "url": "https://www.toutiao.com/trending/7566596359043170346/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
+      "title": "郑丽文：从没想过参加2028大选",
+      "url": "https://www.toutiao.com/trending/7566881210270502419/",
+      "label": "new"
+    },
+    {
+      "rank": 30,
+      "title": "俄海燕核动力导弹工作原理和优缺点",
+      "url": "https://www.toutiao.com/trending/7566856724796149284/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "28岁国家一级运动员突发脑出血离世",
+      "url": "https://www.toutiao.com/trending/7566835268750213183/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
       "title": "神二十一航天员名单公布",
       "url": "https://www.toutiao.com/trending/7566456049532813354/",
       "label": "hot"
     },
     {
-      "rank": 28,
-      "title": "古巴外长打断美方发言：这不是聊天群",
-      "url": "https://www.toutiao.com/trending/7566812004518956582/",
-      "label": "onSite"
-    },
-    {
-      "rank": 29,
-      "title": "中国元首外交为何落子亚太",
-      "url": "https://www.toutiao.com/trending/7566609518960902153/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 30,
-      "title": "中国年龄最小的航天员",
-      "url": "https://www.toutiao.com/trending/7566831912782859814/",
+      "rank": 33,
+      "title": "普京：海燕导弹启动时间短且射程无限",
+      "url": "https://www.toutiao.com/trending/7566063840555794459/",
       "label": ""
     },
     {
-      "rank": 31,
+      "rank": 34,
+      "title": "南京红山动物园回应豪猪街头奔跑",
+      "url": "https://www.toutiao.com/trending/7566503378366234660/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "神21出征当天是钱学森逝世纪念日",
+      "url": "https://www.toutiao.com/trending/7566812847674605611/",
+      "label": ""
+    },
+    {
+      "rank": 36,
       "title": "郑丽文回应朱立伦带211名干部辞职",
       "url": "https://www.toutiao.com/trending/7566646268962065970/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "美国为何每年花费巨资进口原油",
-      "url": "https://www.toutiao.com/trending/7566833134012993067/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "武飞：让太空的中国年成为人生记忆",
-      "url": "https://www.toutiao.com/trending/7566464484588601398/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "美对韩汽车关税降至15%",
-      "url": "https://www.toutiao.com/trending/7566783375056899638/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "美联储再降息25基点",
-      "url": "https://www.toutiao.com/trending/7565851138500788251/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "4只小鼠将上太空",
-      "url": "https://www.toutiao.com/trending/7566661509154098724/",
-      "label": ""
-    },
-    {
       "rank": 37,
-      "title": "黄磊：我每年都在乌镇多待一天",
-      "url": "https://www.toutiao.com/trending/7566809747454692905/",
-      "label": "new"
+      "title": "特朗普批准韩国建造核潜艇",
+      "url": "https://www.toutiao.com/trending/7566840327332433450/",
+      "label": ""
     },
     {
       "rank": 38,
-      "title": "曝乌情报机构从红军城撤离北约军官",
-      "url": "https://www.toutiao.com/trending/7566811395598061099/",
-      "label": "new"
+      "title": "云南BIGBANG近7天涨粉超72万",
+      "url": "https://www.toutiao.com/trending/7566086090793631807/",
+      "label": ""
     },
     {
       "rank": 39,
-      "title": "解码神舟二十一号任务标识",
-      "url": "https://www.toutiao.com/trending/7566295565437829183/",
-      "label": "new"
+      "title": "中国年龄最小的航天员",
+      "url": "https://www.toutiao.com/trending/7566831912782859814/",
+      "label": ""
     },
     {
       "rank": 40,
-      "title": "“欢喜哥”这个角色为何深入人心",
-      "url": "https://www.toutiao.com/trending/7566541763091910207/",
-      "label": ""
+      "title": "中国元首外交为何落子亚太",
+      "url": "https://www.toutiao.com/trending/7566609518960902153/",
+      "label": "interpretation"
     },
     {
       "rank": 41,
-      "title": "杜兰特19中11砍31分5板3帽",
-      "url": "https://www.toutiao.com/trending/7565825899166269459/",
-      "label": ""
+      "title": "特朗普为何更看好蒸汽弹射",
+      "url": "https://www.toutiao.com/trending/7566872723339611694/",
+      "label": "interpretation"
     },
     {
       "rank": 42,
@@ -262,50 +262,50 @@
     },
     {
       "rank": 43,
+      "title": "李在明：中国仍是韩最大的贸易伙伴",
+      "url": "https://www.toutiao.com/trending/7566467245377028137/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
       "title": "落马女副厅被逮捕 外号“田哥艳姐”",
       "url": "https://www.toutiao.com/trending/7566551088485417002/",
       "label": ""
     },
     {
-      "rank": 44,
-      "title": "特朗普批准韩国建造核潜艇",
-      "url": "https://www.toutiao.com/trending/7566840327332433450/",
-      "label": "new"
-    },
-    {
       "rank": 45,
-      "title": "神21出征当天是钱学森逝世纪念日",
-      "url": "https://www.toutiao.com/trending/7566812847674605611/",
-      "label": "new"
+      "title": "武飞：让太空的中国年成为人生记忆",
+      "url": "https://www.toutiao.com/trending/7566464484588601398/",
+      "label": ""
     },
     {
       "rank": 46,
-      "title": "德机构：中国已在所有领域冲击美优势",
-      "url": "https://www.toutiao.com/trending/7566811934054419994/",
-      "label": ""
+      "title": "“福特”级航母电磁弹射器困住美军",
+      "url": "https://www.toutiao.com/trending/7566844804202499590/",
+      "label": "new"
     },
     {
       "rank": 47,
-      "title": "男孩嫌妈妈凶但仍把奖励都给妈妈",
-      "url": "https://www.toutiao.com/trending/7566596176017145899/",
-      "label": ""
+      "title": "媒体专访APEC秘书处执行主任",
+      "url": "https://www.toutiao.com/trending/7566825174155152937/",
+      "label": "new"
     },
     {
       "rank": 48,
-      "title": "神二十一乘组涵盖70后80后90后",
-      "url": "https://www.toutiao.com/trending/7566824539875901459/",
+      "title": "神二十乘组有望刷新在轨驻留最长纪录",
+      "url": "https://www.toutiao.com/trending/7566134677032190006/",
       "label": ""
     },
     {
       "rank": 49,
-      "title": "8名木工赴柬埔寨务工被转卖",
-      "url": "https://www.toutiao.com/trending/7565863907135324203/",
-      "label": ""
+      "title": "为啥中美航母电磁弹射效果截然不同",
+      "url": "https://www.toutiao.com/trending/7566815065660198446/",
+      "label": "new"
     },
     {
       "rank": 50,
-      "title": "男生上大学学烹饪把学费吃回来了",
-      "url": "https://www.toutiao.com/trending/7566620372322582566/",
+      "title": "美联储再降息25基点",
+      "url": "https://www.toutiao.com/trending/7565851138500788251/",
       "label": ""
     }
   ]
