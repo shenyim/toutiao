@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 30 Oct 2025 05:05:04 GMT",
+  "generated_at": "Thu, 30 Oct 2025 05:15:03 GMT",
   "top": {
     "rank": "置顶",
     "title": "从习主席的APEC足迹感悟中国智慧",
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "特朗普：相信我们将建立长期良好关系",
-      "url": "https://www.toutiao.com/article/7566842915004219904",
-      "label": "hot"
+      "title": "中美元首会晤开场白传递哪些重磅信息",
+      "url": "https://www.toutiao.com/article/7566863096615043603",
+      "label": "interpretation"
     },
     {
       "rank": 3,
@@ -46,15 +46,15 @@
     },
     {
       "rank": 7,
-      "title": "中美元首会晤开场白传递哪些重磅信息",
-      "url": "https://www.toutiao.com/article/7566863096615043603",
-      "label": "interpretation"
+      "title": "特朗普：相信我们将建立长期良好关系",
+      "url": "https://www.toutiao.com/article/7566842915004219904",
+      "label": "hot"
     },
     {
       "rank": 8,
-      "title": "古巴外长打断美方发言：这不是聊天群",
-      "url": "https://www.toutiao.com/trending/7566812004518956582/",
-      "label": "onSite"
+      "title": "国安披露东海小组4人烈士证明",
+      "url": "https://www.toutiao.com/trending/7566200777514532902/",
+      "label": "new"
     },
     {
       "rank": 9,
@@ -76,9 +76,9 @@
     },
     {
       "rank": 12,
-      "title": "国安披露东海小组4人烈士证明",
-      "url": "https://www.toutiao.com/trending/7566200777514532902/",
-      "label": "new"
+      "title": "古巴外长打断美方发言：这不是聊天群",
+      "url": "https://www.toutiao.com/trending/7566812004518956582/",
+      "label": "onSite"
     },
     {
       "rank": 13,
@@ -94,21 +94,21 @@
     },
     {
       "rank": 15,
+      "title": "女子被外国人占卧铺 12306：无需妥协",
+      "url": "https://www.toutiao.com/trending/7566863777568869939/",
+      "label": "new"
+    },
+    {
+      "rank": 16,
       "title": "中国元首外交为何落子亚太",
       "url": "https://www.toutiao.com/trending/7566609518960902153/",
       "label": "interpretation"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "杭州一些稻田现大量“瑞士卷”",
       "url": "https://www.toutiao.com/trending/7566034030547501107/",
       "label": "new"
-    },
-    {
-      "rank": 17,
-      "title": "男生上大学学烹饪把学费吃回来了",
-      "url": "https://www.toutiao.com/trending/7566620372322582566/",
-      "label": ""
     },
     {
       "rank": 18,
@@ -118,15 +118,15 @@
     },
     {
       "rank": 19,
-      "title": "A股加仓时机到了吗",
-      "url": "https://www.toutiao.com/trending/7565799330507128842/",
+      "title": "女生晒干会计前后对比照判若两人",
+      "url": "https://www.toutiao.com/trending/7566082784868352041/",
       "label": "new"
     },
     {
       "rank": 20,
-      "title": "美对韩汽车关税降至15%",
-      "url": "https://www.toutiao.com/trending/7566783375056899638/",
-      "label": "hot"
+      "title": "德国外长取消访华后解释：我还想来",
+      "url": "https://www.toutiao.com/trending/7565828087310008326/",
+      "label": ""
     },
     {
       "rank": 21,
@@ -136,14 +136,14 @@
     },
     {
       "rank": 22,
-      "title": "女生晒干会计前后对比照判若两人",
-      "url": "https://www.toutiao.com/trending/7566082784868352041/",
-      "label": "new"
+      "title": "美对韩汽车关税降至15%",
+      "url": "https://www.toutiao.com/trending/7566783375056899638/",
+      "label": "hot"
     },
     {
       "rank": 23,
-      "title": "德国外长取消访华后解释：我还想来",
-      "url": "https://www.toutiao.com/trending/7565828087310008326/",
+      "title": "男生上大学学烹饪把学费吃回来了",
+      "url": "https://www.toutiao.com/trending/7566620372322582566/",
       "label": ""
     },
     {
@@ -154,75 +154,75 @@
     },
     {
       "rank": 25,
-      "title": "男孩嫌妈妈凶但仍把奖励都给妈妈",
-      "url": "https://www.toutiao.com/trending/7566596176017145899/",
+      "title": "A股加仓时机到了吗",
+      "url": "https://www.toutiao.com/trending/7565799330507128842/",
       "label": ""
     },
     {
       "rank": 26,
+      "title": "男子做完足疗从消防通道逃单",
+      "url": "https://www.toutiao.com/trending/7566637901522993171/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
       "title": "德机构：中国已在所有领域冲击美优势",
       "url": "https://www.toutiao.com/trending/7566811934054419994/",
       "label": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
+      "title": "男孩嫌妈妈凶但仍把奖励都给妈妈",
+      "url": "https://www.toutiao.com/trending/7566596176017145899/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "里夫斯压哨绝杀 湖人险胜森林狼",
+      "url": "https://www.toutiao.com/trending/7566864637015428671/",
+      "label": "new"
+    },
+    {
+      "rank": 30,
       "title": "神舟二十一号瞄准明天23时44分发射",
       "url": "https://www.toutiao.com/trending/7566413157561008147/",
       "label": ""
     },
     {
-      "rank": 28,
-      "title": "王暖暖前夫被曝系电诈人员",
-      "url": "https://www.toutiao.com/trending/7566078790129729572/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "美联储再降息25基点",
-      "url": "https://www.toutiao.com/trending/7565851138500788251/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "有1套舱外服即将“退休”",
-      "url": "https://www.toutiao.com/trending/7566591604056686598/",
-      "label": "new"
-    },
-    {
       "rank": 31,
-      "title": "“欢喜哥”这个角色为何深入人心",
-      "url": "https://www.toutiao.com/trending/7566541763091910207/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
       "title": "郑丽文回应朱立伦带211名干部辞职",
       "url": "https://www.toutiao.com/trending/7566646268962065970/",
       "label": ""
     },
     {
-      "rank": 33,
-      "title": "印度为何在此时举行大规模三军演习",
-      "url": "https://www.toutiao.com/trending/7566581673672838710/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "神二十一将首次在太空养小鼠",
-      "url": "https://www.toutiao.com/trending/7566661509154098724/",
-      "label": ""
-    },
-    {
-      "rank": 35,
+      "rank": 32,
       "title": "云南BIGBANG全开麦走红",
       "url": "https://www.toutiao.com/trending/7566107349556117531/",
       "label": ""
     },
     {
-      "rank": 36,
-      "title": "男子做完足疗从消防通道逃单",
-      "url": "https://www.toutiao.com/trending/7566637901522993171/",
+      "rank": 33,
+      "title": "王暖暖前夫被曝系电诈人员",
+      "url": "https://www.toutiao.com/trending/7566078790129729572/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "杜兰特19中11砍31分5板3帽",
+      "url": "https://www.toutiao.com/trending/7565825899166269459/",
       "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "有1套舱外服即将“退休”",
+      "url": "https://www.toutiao.com/trending/7566591604056686598/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "美联储再降息25基点",
+      "url": "https://www.toutiao.com/trending/7565851138500788251/",
+      "label": ""
     },
     {
       "rank": 37,
@@ -232,32 +232,32 @@
     },
     {
       "rank": 38,
-      "title": "男童在电动车拧油门冲了出去",
-      "url": "https://www.toutiao.com/trending/7566604239783608363/",
+      "title": "神二十一乘组涵盖70后80后90后",
+      "url": "https://www.toutiao.com/trending/7566824539875901459/",
       "label": ""
     },
     {
       "rank": 39,
-      "title": "杜兰特19中11砍31分5板3帽",
-      "url": "https://www.toutiao.com/trending/7565825899166269459/",
+      "title": "“欢喜哥”这个角色为何深入人心",
+      "url": "https://www.toutiao.com/trending/7566541763091910207/",
       "label": "new"
     },
     {
       "rank": 40,
-      "title": "神二十一乘组涵盖70后80后90后",
-      "url": "https://www.toutiao.com/trending/7566824539875901459/",
-      "label": "new"
+      "title": "印度为何在此时举行大规模三军演习",
+      "url": "https://www.toutiao.com/trending/7566581673672838710/",
+      "label": ""
     },
     {
       "rank": 41,
-      "title": "里夫斯压哨绝杀 湖人险胜森林狼",
-      "url": "https://www.toutiao.com/trending/7566864637015428671/",
-      "label": "new"
+      "title": "神二十一将首次在太空养小鼠",
+      "url": "https://www.toutiao.com/trending/7566661509154098724/",
+      "label": ""
     },
     {
       "rank": 42,
-      "title": "“馆长”打卡东北古早汽水",
-      "url": "https://www.toutiao.com/trending/7566568549025071146/",
+      "title": "云南BIGBANG近7天涨粉超72万",
+      "url": "https://www.toutiao.com/trending/7566086090793631807/",
       "label": "new"
     },
     {
@@ -268,27 +268,27 @@
     },
     {
       "rank": 44,
-      "title": "牛市还会持续多久",
-      "url": "https://www.toutiao.com/trending/7566801386592013834/",
+      "title": "男童在电动车拧油门冲了出去",
+      "url": "https://www.toutiao.com/trending/7566604239783608363/",
       "label": ""
     },
     {
       "rank": 45,
-      "title": "探访韩国工厂商铺感受中韩合作热潮",
-      "url": "https://www.toutiao.com/trending/7566440050213388297/",
+      "title": "郑丽文批台当局防务预算过高",
+      "url": "https://www.toutiao.com/trending/7565625282049081385/",
       "label": ""
     },
     {
       "rank": 46,
-      "title": "俄罗斯为何明年开始“全年征兵”",
-      "url": "https://www.toutiao.com/trending/7566809871706754596/",
-      "label": "interpretation"
+      "title": "“馆长”打卡东北古早汽水",
+      "url": "https://www.toutiao.com/trending/7566568549025071146/",
+      "label": "new"
     },
     {
       "rank": 47,
-      "title": "女子被外国人占卧铺 12306：无需妥协",
-      "url": "https://www.toutiao.com/trending/7566863777568869939/",
-      "label": "new"
+      "title": "台名嘴细数两岸统一给台湾带来的好处",
+      "url": "https://www.toutiao.com/trending/7566277037687013414/",
+      "label": ""
     },
     {
       "rank": 48,
@@ -298,15 +298,15 @@
     },
     {
       "rank": 49,
-      "title": "军训女生表演喷火才艺",
-      "url": "https://www.toutiao.com/trending/7566554516533346314/",
-      "label": ""
+      "title": "专家：高市早苗要把日美绑得更紧密",
+      "url": "https://www.toutiao.com/trending/7566579610016550446/",
+      "label": "interpretation"
     },
     {
       "rank": 50,
-      "title": "唐驳虎：全球资本从印度疯狂外逃",
-      "url": "https://www.toutiao.com/trending/7566788372652363318/",
-      "label": "interpretation"
+      "title": "美联储再次降息对你我有何影响",
+      "url": "https://www.toutiao.com/trending/7566816976648015403/",
+      "label": "new"
     }
   ]
 }
