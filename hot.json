@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 30 Oct 2025 14:55:23 GMT",
+  "generated_at": "Thu, 30 Oct 2025 15:15:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平这样谈中美关系",
@@ -24,7 +24,7 @@
       "rank": 3,
       "title": "飞阅韩国庆州",
       "url": "https://www.toutiao.com/article/7566223899172618767",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 4,
@@ -34,27 +34,27 @@
     },
     {
       "rank": 5,
-      "title": "中美谈妥了 美盟友成“小丑”了吗",
-      "url": "https://www.toutiao.com/trending/7566952024453942830/",
+      "title": "外媒如何看待中美元首会晤",
+      "url": "https://www.toutiao.com/trending/7567014553771511347/",
       "label": "hot"
     },
     {
       "rank": 6,
-      "title": "净网：网民编造有人跳桥失踪被查处",
-      "url": "https://www.toutiao.com/trending/7566808721708469811/",
-      "label": ""
+      "title": "女子称丈夫在心梗两三天前就有征兆",
+      "url": "https://www.toutiao.com/trending/7565861332118306835/",
+      "label": "new"
     },
     {
       "rank": 7,
-      "title": "台退将：沈伯洋怕得不得了",
-      "url": "https://www.toutiao.com/trending/7566159917686669322/",
-      "label": ""
-    },
-    {
-      "rank": 8,
       "title": "你如何看待以色列空袭加沙",
       "url": "https://www.toutiao.com/trending/7566866039964254235/",
       "label": "forum"
+    },
+    {
+      "rank": 8,
+      "title": "中美谈妥了 美盟友成“小丑”了吗",
+      "url": "https://www.toutiao.com/trending/7566952024453942830/",
+      "label": "hot"
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "美将取消对华10%所谓“芬太尼关税”",
-      "url": "https://www.toutiao.com/trending/7566515805073408042/",
-      "label": "hot"
+      "title": "劳斯莱斯换胎大娘将螺丝当废品顺走",
+      "url": "https://www.toutiao.com/trending/7566915593560064036/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -88,8 +88,8 @@
     },
     {
       "rank": 14,
-      "title": "28岁国家一级运动员突发脑出血离世",
-      "url": "https://www.toutiao.com/trending/7566835268750213183/",
+      "title": "美将取消对华10%所谓“芬太尼关税”",
+      "url": "https://www.toutiao.com/trending/7566515805073408042/",
       "label": "hot"
     },
     {
@@ -100,33 +100,33 @@
     },
     {
       "rank": 16,
-      "title": "中美元首握手合影",
-      "url": "https://www.toutiao.com/video/7566852947381109263",
-      "label": "onSite"
-    },
-    {
-      "rank": 17,
       "title": "你如何看待黄金走私行为",
       "url": "https://www.toutiao.com/trending/7566907998707531795/",
       "label": "forum"
     },
     {
+      "rank": 17,
+      "title": "中美元首握手合影",
+      "url": "https://www.toutiao.com/video/7566852947381109263",
+      "label": "onSite"
+    },
+    {
       "rank": 18,
-      "title": "老人持锄头砸向女店员 当事人发声",
-      "url": "https://www.toutiao.com/trending/7566594838863626291/",
+      "title": "台退将：沈伯洋怕得不得了",
+      "url": "https://www.toutiao.com/trending/7566159917686669322/",
       "label": ""
     },
     {
       "rank": 19,
-      "title": "美方延期的50%穿透规则是什么",
-      "url": "https://www.toutiao.com/trending/7566002880982122506/",
-      "label": "hot"
+      "title": "28岁国家一级运动员突发脑出血离世",
+      "url": "https://www.toutiao.com/trending/7566835268750213183/",
+      "label": ""
     },
     {
       "rank": 20,
-      "title": "中央定调 未来五年房地产方向明确",
-      "url": "https://www.toutiao.com/trending/7566851624883195411/",
-      "label": ""
+      "title": "美方延期的50%穿透规则是什么",
+      "url": "https://www.toutiao.com/trending/7566002880982122506/",
+      "label": "hot"
     },
     {
       "rank": 21,
@@ -136,39 +136,39 @@
     },
     {
       "rank": 22,
-      "title": "外媒如何看待中美元首会晤",
-      "url": "https://www.toutiao.com/trending/7567014553771511347/",
-      "label": "new"
-    },
-    {
-      "rank": 23,
-      "title": "如何看待特朗普对中美会晤的表述",
-      "url": "https://www.toutiao.com/trending/7567004351504322067/",
+      "title": "特朗普：相信我们将建立长期良好关系",
+      "url": "https://www.toutiao.com/article/7566842915004219904",
       "label": "hot"
     },
     {
-      "rank": 24,
-      "title": "国防部谈《沉默的荣耀》：台湾必归",
-      "url": "https://www.toutiao.com/trending/7566931282635046918/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "中方暂停稀土出口管制？外交部回应",
-      "url": "https://www.toutiao.com/trending/7566439885410713663/",
+      "rank": 23,
+      "title": "中央定调 未来五年房地产方向明确",
+      "url": "https://www.toutiao.com/trending/7566851624883195411/",
       "label": ""
     },
     {
+      "rank": 24,
+      "title": "老人持锄头砸向女店员 当事人发声",
+      "url": "https://www.toutiao.com/trending/7566594838863626291/",
+      "label": ""
+    },
+    {
+      "rank": 25,
+      "title": "如何看待特朗普对中美会晤的表述",
+      "url": "https://www.toutiao.com/trending/7567004351504322067/",
+      "label": "new"
+    },
+    {
       "rank": 26,
-      "title": "叶童身着红裙在梁家辉陪伴下走红毯",
-      "url": "https://www.toutiao.com/trending/7566562851092217882/",
+      "title": "国防部谈《沉默的荣耀》：台湾必归",
+      "url": "https://www.toutiao.com/trending/7566931282635046918/",
       "label": ""
     },
     {
       "rank": 27,
-      "title": "专家：美航母改回蒸汽弹射没那么容易",
-      "url": "https://www.toutiao.com/trending/7566974846467313178/",
-      "label": ""
+      "title": "孙子霸气护爷 让爷爷大方喝酒",
+      "url": "https://www.toutiao.com/trending/7566425311567462442/",
+      "label": "new"
     },
     {
       "rank": 28,
@@ -178,134 +178,134 @@
     },
     {
       "rank": 29,
-      "title": "劳斯莱斯换胎大娘将螺丝当废品顺走",
-      "url": "https://www.toutiao.com/trending/7566915593560064036/",
+      "title": "小孩哥练格斗使出一招飞扑结果扑空",
+      "url": "https://www.toutiao.com/trending/7566469576763572260/",
       "label": ""
     },
     {
       "rank": 30,
-      "title": "特朗普透露计划明年4月访华",
-      "url": "https://www.toutiao.com/trending/7566945252511059482/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "美国对关税松口是扛不住了吗",
-      "url": "https://www.toutiao.com/trending/7566974521744330266/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 32,
-      "title": "小孩哥练格斗使出一招飞扑结果扑空",
-      "url": "https://www.toutiao.com/trending/7566469576763572260/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "孙子霸气护爷 让爷爷大方喝酒",
-      "url": "https://www.toutiao.com/trending/7566425311567462442/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "特朗普：相信我们将建立长期良好关系",
-      "url": "https://www.toutiao.com/article/7566842915004219904",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "女子被外国人占卧铺 12306：无需妥协",
-      "url": "https://www.toutiao.com/trending/7566863777568869939/",
-      "label": ""
-    },
-    {
-      "rank": 36,
       "title": "中国年龄最小的航天员",
       "url": "https://www.toutiao.com/trending/7566831912782859814/",
       "label": ""
     },
     {
-      "rank": 37,
-      "title": "狗狗太贪玩被主人强行拎走",
-      "url": "https://www.toutiao.com/trending/7566470561153892394/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "房地产正告别高容积率时代",
-      "url": "https://www.toutiao.com/trending/7566945312057593398/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 39,
-      "title": "为什么孩子无法摆脱手机",
-      "url": "https://www.toutiao.com/trending/7566922863500856874/",
+      "rank": 31,
+      "title": "中方暂停稀土出口管制？外交部回应",
+      "url": "https://www.toutiao.com/trending/7566439885410713663/",
       "label": ""
     },
     {
-      "rank": 40,
-      "title": "4个同学毕业后住同一小区轮流带5娃",
-      "url": "https://www.toutiao.com/trending/7566595476523909162/",
+      "rank": 32,
+      "title": "女子被外国人占卧铺 12306：无需妥协",
+      "url": "https://www.toutiao.com/trending/7566863777568869939/",
       "label": ""
     },
     {
-      "rank": 41,
-      "title": "中美携手多办一些大事实事好事",
-      "url": "https://www.toutiao.com/article/7566836696604508715",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "郑丽文称收拾民进党 如何打响第一枪",
-      "url": "https://www.toutiao.com/trending/7566533954266873875/",
-      "label": ""
-    },
-    {
-      "rank": 43,
+      "rank": 33,
       "title": "国防部回应印尼将采购歼-10",
       "url": "https://www.toutiao.com/trending/7565940164254646278/",
       "label": ""
     },
     {
-      "rank": 44,
-      "title": "如何看待中美关税战暂时休战",
-      "url": "https://www.toutiao.com/trending/7566937362786160182/",
+      "rank": 34,
+      "title": "特朗普透露计划明年4月访华",
+      "url": "https://www.toutiao.com/trending/7566945252511059482/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "美国对关税松口是扛不住了吗",
+      "url": "https://www.toutiao.com/trending/7566974521744330266/",
       "label": "interpretation"
     },
     {
-      "rank": 45,
+      "rank": 36,
+      "title": "叶童身着红裙在梁家辉陪伴下走红毯",
+      "url": "https://www.toutiao.com/trending/7566562851092217882/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "被指媚男刻薄法学老师硬刚学生",
+      "url": "https://www.toutiao.com/trending/7566944423687258150/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "中美携手多办一些大事实事好事",
+      "url": "https://www.toutiao.com/article/7566836696604508715",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "中科院张洪章研究员将出征太空",
+      "url": "https://www.toutiao.com/trending/7566945798337007110/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "房地产正告别高容积率时代",
+      "url": "https://www.toutiao.com/trending/7566945312057593398/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 41,
+      "title": "为何说美国对华贸易战必败",
+      "url": "https://www.toutiao.com/trending/7566907528777305663/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
       "title": "4只小鼠将上太空",
       "url": "https://www.toutiao.com/trending/7566661509154098724/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "台湾青年谈《沉默的荣耀》观后感",
-      "url": "https://www.toutiao.com/trending/7566948786401083428/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
-      "title": "电磁弹射完爆蒸汽 特朗普为何选后者",
-      "url": "https://www.toutiao.com/trending/7566958860133469702/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 48,
+      "rank": 43,
       "title": "女子赌博输1300万卷跑公司2000万",
       "url": "https://www.toutiao.com/trending/7566810270937399350/",
       "label": ""
     },
     {
+      "rank": 44,
+      "title": "夫妻争执丈夫持刀意外刺中妻子致死",
+      "url": "https://www.toutiao.com/trending/7566936952066392073/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "台湾青年谈《沉默的荣耀》观后感",
+      "url": "https://www.toutiao.com/trending/7566948786401083428/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "狗狗太贪玩被主人强行拎走",
+      "url": "https://www.toutiao.com/trending/7566470561153892394/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "4个同学毕业后住同一小区轮流带5娃",
+      "url": "https://www.toutiao.com/trending/7566595476523909162/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "本田墨西哥工厂已经停产",
+      "url": "https://www.toutiao.com/trending/7566478377440329774/",
+      "label": "new"
+    },
+    {
       "rank": 49,
-      "title": "8名木工赴柬埔寨务工被转卖",
-      "url": "https://www.toutiao.com/trending/7565863907135324203/",
+      "title": "辛芷蕾路演499元一张票卖疯了",
+      "url": "https://www.toutiao.com/trending/7566215032447516714/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "中科院张洪章研究员将出征太空",
-      "url": "https://www.toutiao.com/trending/7566945798337007110/",
+      "title": "特朗普的关税压倒“免费退货”",
+      "url": "https://www.toutiao.com/trending/7566980840626851355/",
       "label": "new"
     }
   ]
