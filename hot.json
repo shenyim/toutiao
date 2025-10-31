@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Fri, 31 Oct 2025 01:05:56 GMT",
+  "generated_at": "Fri, 31 Oct 2025 02:35:07 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平这样谈中美关系",
@@ -10,8 +10,8 @@
   "items": [
     {
       "rank": 1,
-      "title": "美参议院通过终止特朗普关税决议",
-      "url": "https://www.toutiao.com/trending/7567152652803706377/",
+      "title": "中美元首会晤对台湾意味着什么",
+      "url": "https://www.toutiao.com/trending/7567173220520971814/",
       "label": "hot"
     },
     {
@@ -28,33 +28,33 @@
     },
     {
       "rank": 4,
-      "title": "茅台价格暴跌背后的真相",
-      "url": "https://www.toutiao.com/trending/7567011489790299674/",
-      "label": "depth"
+      "title": "美参议院通过终止特朗普关税决议",
+      "url": "https://www.toutiao.com/trending/7567152652803706377/",
+      "label": "hot"
     },
     {
       "rank": 5,
-      "title": "神二十一乘组今天出征太空",
-      "url": "https://www.toutiao.com/trending/7566907153752260618/",
-      "label": "hot"
+      "title": "90岁老人自驾23年游遍全国",
+      "url": "https://www.toutiao.com/trending/7567160399771172874/",
+      "label": ""
     },
     {
       "rank": 6,
       "title": "净网|网警侦破假借高薪招聘实施侵公案",
       "url": "https://www.toutiao.com/trending/7566134564662607914/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 7,
-      "title": "中美元首会晤对台湾意味着什么",
-      "url": "https://www.toutiao.com/trending/7567173220520971814/",
-      "label": "new"
+      "title": "《人民日报》披露中美元首会晤详情",
+      "url": "https://www.toutiao.com/trending/7567186601730641462/",
+      "label": "hot"
     },
     {
       "rank": 8,
-      "title": "你如何看待安德鲁王子被剥夺头衔",
-      "url": "https://www.toutiao.com/trending/7567080249364889627/",
-      "label": "forum"
+      "title": "茅台价格暴跌背后的真相",
+      "url": "https://www.toutiao.com/trending/7567011489790299674/",
+      "label": "depth"
     },
     {
       "rank": 9,
@@ -64,14 +64,14 @@
     },
     {
       "rank": 10,
-      "title": "88年北大女博士拟提名副区县市长人选",
-      "url": "https://www.toutiao.com/trending/7567032834272968713/",
-      "label": ""
+      "title": "你如何看待安德鲁王子被剥夺头衔",
+      "url": "https://www.toutiao.com/trending/7567080249364889627/",
+      "label": "forum"
     },
     {
       "rank": 11,
-      "title": "内蒙古多地市监局辟谣“大检查”",
-      "url": "https://www.toutiao.com/trending/7566850994420645938/",
+      "title": "鸡蛋洗完放冰箱更新鲜？假的",
+      "url": "https://www.toutiao.com/trending/7567194357405827110/",
       "label": "refuteRumors"
     },
     {
@@ -82,14 +82,14 @@
     },
     {
       "rank": 13,
-      "title": "新娘换完敬酒服出来发现宾客全走了",
-      "url": "https://www.toutiao.com/trending/7566532673583349796/",
+      "title": "于和伟捐了1200万片酬？多部门回应",
+      "url": "https://www.toutiao.com/trending/7566306192130113582/",
       "label": ""
     },
     {
       "rank": 14,
-      "title": "女子称丈夫在心梗两三天前就有征兆",
-      "url": "https://www.toutiao.com/trending/7565861332118306835/",
+      "title": "新娘换完敬酒服出来发现宾客全走了",
+      "url": "https://www.toutiao.com/trending/7566532673583349796/",
       "label": ""
     },
     {
@@ -100,212 +100,212 @@
     },
     {
       "rank": 16,
-      "title": "航天员张洪章简历",
-      "url": "https://www.toutiao.com/trending/7566915818605314102/",
-      "label": ""
-    },
-    {
-      "rank": 17,
-      "title": "你如何看孙颖莎王曼昱被清华免试录取",
-      "url": "https://www.toutiao.com/trending/7566956563190136875/",
+      "title": "女儿用英语帮妈妈卖文具你怎么看",
+      "url": "https://www.toutiao.com/trending/7566838934446129158/",
       "label": "forum"
     },
     {
+      "rank": 17,
+      "title": "神二十一乘组今天出征太空",
+      "url": "https://www.toutiao.com/trending/7566907153752260618/",
+      "label": "hot"
+    },
+    {
       "rank": 18,
-      "title": "于和伟捐了1200万片酬？多部门回应",
-      "url": "https://www.toutiao.com/trending/7566306192130113582/",
-      "label": ""
+      "title": "《沉默的荣耀》史实顾问讲述真实历史",
+      "url": "https://www.toutiao.com/trending/7566517454994964516/",
+      "label": "new"
     },
     {
       "rank": 19,
-      "title": "戴眼镜也能上太空吗",
-      "url": "https://www.toutiao.com/trending/7566473233646796842/",
+      "title": "女子称丈夫在心梗两三天前就有征兆",
+      "url": "https://www.toutiao.com/trending/7565861332118306835/",
       "label": ""
     },
     {
       "rank": 20,
-      "title": "蔡正元谈沈伯洋被立案侦查",
-      "url": "https://www.toutiao.com/trending/7566112848209510443/",
+      "title": "AI黄仁勋演讲骗倒10万老外",
+      "url": "https://www.toutiao.com/trending/7566996479697489462/",
       "label": "new"
     },
     {
       "rank": 21,
-      "title": "印度国有炼油公司停购俄石油",
-      "url": "https://www.toutiao.com/trending/7566692637684760582/",
-      "label": ""
+      "title": "林心如谈丈夫霍建华消费观",
+      "url": "https://www.toutiao.com/trending/7566765934283849734/",
+      "label": "new"
     },
     {
       "rank": 22,
+      "title": "石家庄妻子撞死家暴丈夫案开庭",
+      "url": "https://webcast-open.douyin.com/open/media_live/808207714751",
+      "label": "new"
+    },
+    {
+      "rank": 23,
+      "title": "航天员张洪章简历",
+      "url": "https://www.toutiao.com/trending/7566915818605314102/",
+      "label": "hot"
+    },
+    {
+      "rank": 24,
+      "title": "男子街头突发心梗 热心车主疾驰送医",
+      "url": "https://www.toutiao.com/trending/7566897094376767524/",
+      "label": "new"
+    },
+    {
+      "rank": 25,
+      "title": "黄仁勋与韩国两大财阀举行炸鸡啤酒会",
+      "url": "https://www.toutiao.com/trending/7567001660631924742/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "戴眼镜也能上太空吗",
+      "url": "https://www.toutiao.com/trending/7566473233646796842/",
+      "label": "hot"
+    },
+    {
+      "rank": 27,
       "title": "外媒如何看待中美元首会晤",
       "url": "https://www.toutiao.com/trending/7567014553771511347/",
       "label": "hot"
     },
     {
-      "rank": 23,
-      "title": "中央定调 未来五年房地产方向明确",
-      "url": "https://www.toutiao.com/trending/7566851624883195411/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "“空中重卡”首航成功",
-      "url": "https://www.toutiao.com/trending/7566854122222223401/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "小鼠“航天员”魔鬼训练画面曝光",
-      "url": "https://www.toutiao.com/trending/7567016100052094515/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
+      "rank": 28,
       "title": "国防部：赖清德之流必将受最严厉审判",
       "url": "https://www.toutiao.com/trending/7566124129766899766/",
       "label": ""
     },
     {
-      "rank": 27,
+      "rank": 29,
+      "title": "电动车队上机动车道遇交警不敢下桥",
+      "url": "https://www.toutiao.com/trending/7566940864992346148/",
+      "label": "onSite"
+    },
+    {
+      "rank": 30,
+      "title": "智库学者解读中美元首会晤影响",
+      "url": "https://www.toutiao.com/trending/7567155040293490195/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "88年北大女博士拟提名副区县市长人选",
+      "url": "https://www.toutiao.com/trending/7567032834272968713/",
+      "label": ""
+    },
+    {
+      "rank": 32,
       "title": "特朗普：相信我们将建立长期良好关系",
       "url": "https://www.toutiao.com/article/7566842915004219904",
       "label": "hot"
     },
     {
-      "rank": 28,
-      "title": "4个同学毕业后住同一小区轮流带5娃",
-      "url": "https://www.toutiao.com/trending/7566595476523909162/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "福建“红领巾”唱响沉默的荣耀插曲",
-      "url": "https://www.toutiao.com/trending/7567048155087372339/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
-      "title": "特朗普：给中美元首会晤打12分",
-      "url": "https://www.toutiao.com/trending/7566587793552719878/",
-      "label": "hot"
-    },
-    {
-      "rank": 31,
-      "title": "女子被外国人占卧铺 12306：无需妥协",
-      "url": "https://www.toutiao.com/trending/7566863777568869939/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "黄仁勋要做的不只是AI还要接管方向盘",
-      "url": "https://www.toutiao.com/trending/7566904243722915364/",
-      "label": "new"
-    },
-    {
       "rank": 33,
-      "title": "中美元首会晤双方代表都有谁",
-      "url": "https://www.toutiao.com/trending/7566900170177170995/",
-      "label": "hot"
+      "title": "高市早苗向韩国国旗鞠躬",
+      "url": "https://www.toutiao.com/trending/7567163591372066354/",
+      "label": ""
     },
     {
       "rank": 34,
-      "title": "女生晒干会计前后对比照判若两人",
-      "url": "https://www.toutiao.com/trending/7566082784868352041/",
+      "title": "林心如称自己是短视频购物狂",
+      "url": "https://www.toutiao.com/trending/7565827833474465830/",
       "label": ""
     },
     {
       "rank": 35,
-      "title": "夫妻争执丈夫持刀意外刺中妻子致死",
-      "url": "https://www.toutiao.com/trending/7566936952066392073/",
+      "title": "董明珠：有没有国补都不能偷工减料",
+      "url": "https://www.toutiao.com/trending/7566171094295380014/",
       "label": ""
     },
     {
       "rank": 36,
-      "title": "美将取消对华10%所谓“芬太尼关税”",
-      "url": "https://www.toutiao.com/trending/7566515805073408042/",
-      "label": "hot"
-    },
-    {
-      "rank": 37,
-      "title": "中国年龄最小的航天员",
-      "url": "https://www.toutiao.com/trending/7566831912782859814/",
-      "label": "hot"
-    },
-    {
-      "rank": 38,
-      "title": "江一燕官宣离婚后首次发文",
-      "url": "https://www.toutiao.com/trending/7566841237161066559/",
+      "title": "蔡正元谈沈伯洋被立案侦查",
+      "url": "https://www.toutiao.com/trending/7566112848209510443/",
       "label": ""
     },
     {
-      "rank": 39,
-      "title": "高市早苗向韩国国旗鞠躬",
-      "url": "https://www.toutiao.com/trending/7567163591372066354/",
+      "rank": 37,
+      "title": "中美元首会晤双方代表都有谁",
+      "url": "https://www.toutiao.com/trending/7566900170177170995/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "德国副总理被曝将主导跟中国对话",
+      "url": "https://www.toutiao.com/trending/7566660103055867940/",
       "label": "new"
     },
     {
+      "rank": 39,
+      "title": "“空中重卡”首航成功",
+      "url": "https://www.toutiao.com/trending/7566854122222223401/",
+      "label": ""
+    },
+    {
       "rank": 40,
-      "title": "专家：中国需在“场景优势”中破局",
-      "url": "https://www.toutiao.com/trending/7566077697543766059/",
+      "title": "普京为何选择对特朗普“冷处理”",
+      "url": "https://www.toutiao.com/trending/7567155566624116266/",
       "label": "new"
     },
     {
       "rank": 41,
-      "title": "女子赌博输1300万卷跑公司2000万",
-      "url": "https://www.toutiao.com/trending/7566810270937399350/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "4只小鼠将上太空",
-      "url": "https://www.toutiao.com/trending/7566661509154098724/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "高市早苗接待特朗普为何“丑态百出”",
-      "url": "https://www.toutiao.com/trending/7566990340884794923/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "龚俊为苏超决赛打call",
-      "url": "https://www.toutiao.com/trending/7566847760905928758/",
+      "title": "南通队苏超总决赛出征排场拉满",
+      "url": "https://www.toutiao.com/trending/7565858118480314422/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "侯汉廷怒批“台独”分子",
-      "url": "https://www.toutiao.com/trending/7566425314491482162/",
-      "label": ""
+      "rank": 42,
+      "title": "两名内蒙古籍航天员将在太空会师",
+      "url": "https://www.toutiao.com/trending/7566922796442370089/",
+      "label": "new"
     },
     {
-      "rank": 46,
-      "title": "俄称准备在部分地区停火5至6小时",
-      "url": "https://www.toutiao.com/trending/7566913851980185619/",
-      "label": ""
-    },
-    {
-      "rank": 47,
+      "rank": 43,
       "title": "中美携手多办一些大事实事好事",
       "url": "https://www.toutiao.com/article/7566836696604508715",
       "label": ""
     },
     {
+      "rank": 44,
+      "title": "泰国GDP增速为何长期低迷",
+      "url": "https://www.toutiao.com/trending/7566914596053716490/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "迪亚兹胜朱雨玲",
+      "url": "https://www.toutiao.com/trending/7566040634696695850/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "特朗普：给中美元首会晤打12分",
+      "url": "https://www.toutiao.com/trending/7566587793552719878/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "东帝汶入盟 东南亚变局谁获益",
+      "url": "https://www.toutiao.com/trending/7567158706891148854/",
+      "label": "interpretation"
+    },
+    {
       "rank": 48,
-      "title": "中方暂停稀土出口管制？外交部回应",
-      "url": "https://www.toutiao.com/trending/7566439885410713663/",
+      "title": "福建“红领巾”唱响沉默的荣耀插曲",
+      "url": "https://www.toutiao.com/trending/7567048155087372339/",
       "label": ""
     },
     {
       "rank": 49,
-      "title": "美机构称俄目前无意在俄乌冲突中妥协",
-      "url": "https://www.toutiao.com/trending/7566024773340790790/",
-      "label": "new"
+      "title": "黄仁勋要做的不只是AI还要接管方向盘",
+      "url": "https://www.toutiao.com/trending/7566904243722915364/",
+      "label": ""
     },
     {
       "rank": 50,
-      "title": "德称不能让中美单独决定科技的未来",
-      "url": "https://www.toutiao.com/trending/7566941979277115435/",
+      "title": "Meta股价收跌11.33%",
+      "url": "https://www.toutiao.com/trending/7567157884203568683/",
       "label": ""
     }
   ]
