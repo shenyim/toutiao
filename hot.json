@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 03 Nov 2025 08:40:04 GMT",
+  "generated_at": "Mon, 03 Nov 2025 08:45:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "三组关键词看习近平韩国之行",
@@ -36,7 +36,7 @@
       "rank": 5,
       "title": "今日说法主持人被骗1000元买茶叶",
       "url": "https://www.toutiao.com/trending/7567522848361922598/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 6,
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "歼-20弹射救生画面曝光",
-      "url": "https://www.toutiao.com/trending/7568337539413577243/",
-      "label": ""
+      "title": "你如何看76人客场大胜篮网",
+      "url": "https://www.toutiao.com/trending/7568283446616211499/",
+      "label": "forum"
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "你如何看76人客场大胜篮网",
-      "url": "https://www.toutiao.com/trending/7568283446616211499/",
-      "label": "forum"
+      "title": "同胞称帮馆长找到自己的祖籍",
+      "url": "https://www.toutiao.com/trending/7567790568093302834/",
+      "label": "new"
     },
     {
       "rank": 11,
@@ -82,14 +82,14 @@
     },
     {
       "rank": 13,
-      "title": "学者：中国国民党重拾“中国魂”",
-      "url": "https://www.toutiao.com/trending/7567625713018454057/",
-      "label": "new"
+      "title": "歼-20弹射救生画面曝光",
+      "url": "https://www.toutiao.com/trending/7568337539413577243/",
+      "label": ""
     },
     {
       "rank": 14,
-      "title": "同胞称帮馆长找到自己的祖籍",
-      "url": "https://www.toutiao.com/trending/7567790568093302834/",
+      "title": "学者：中国国民党重拾“中国魂”",
+      "url": "https://www.toutiao.com/trending/7567625713018454057/",
       "label": "new"
     },
     {
@@ -100,45 +100,45 @@
     },
     {
       "rank": 16,
-      "title": "洪秀柱喊话郑丽文：两岸关系不复杂",
-      "url": "https://www.toutiao.com/trending/7567574544454680586/",
-      "label": "hot"
-    },
-    {
-      "rank": 17,
-      "title": "警方回应胖东来发生伤人事件",
-      "url": "https://www.toutiao.com/trending/7568382885451795987/",
-      "label": ""
-    },
-    {
-      "rank": 18,
-      "title": "女子为儿子订婚花7千买到假酒",
-      "url": "https://www.toutiao.com/trending/7567732752272228394/",
-      "label": "new"
-    },
-    {
-      "rank": 19,
       "title": "记者：高市早苗滑椅外交日本两极评价",
       "url": "https://www.toutiao.com/trending/7568342859095477787/",
       "label": "hot"
     },
     {
-      "rank": 20,
+      "rank": 17,
+      "title": "洪秀柱喊话郑丽文：两岸关系不复杂",
+      "url": "https://www.toutiao.com/trending/7567574544454680586/",
+      "label": "hot"
+    },
+    {
+      "rank": 18,
       "title": "全红婵时隔183天归来仍是顶流",
       "url": "https://www.toutiao.com/trending/7568394599614402074/",
       "label": "hot"
     },
     {
-      "rank": 21,
-      "title": "海南离岛免税升级首日吸金7800万",
-      "url": "https://www.toutiao.com/trending/7567973971786924068/",
+      "rank": 19,
+      "title": "女子为儿子订婚花7千买到假酒",
+      "url": "https://www.toutiao.com/trending/7567732752272228394/",
+      "label": "new"
+    },
+    {
+      "rank": 20,
+      "title": "媒体：水库放生猫哪里是“善”",
+      "url": "https://www.toutiao.com/trending/7568256866766323718/",
       "label": ""
     },
     {
-      "rank": 22,
+      "rank": 21,
       "title": "高市早苗APEC外交名场面",
       "url": "https://www.toutiao.com/trending/7568324524760989739/",
       "label": "new"
+    },
+    {
+      "rank": 22,
+      "title": "警方回应胖东来发生伤人事件",
+      "url": "https://www.toutiao.com/trending/7568382885451795987/",
+      "label": ""
     },
     {
       "rank": 23,
@@ -148,27 +148,27 @@
     },
     {
       "rank": 24,
-      "title": "谁在惯着王家卫",
-      "url": "https://www.toutiao.com/trending/7568362230417198611/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 25,
       "title": "吴石将军家乡成热门旅游地",
       "url": "https://www.toutiao.com/trending/7567724965047320619/",
       "label": "new"
     },
     {
+      "rank": 25,
+      "title": "谁在惯着王家卫",
+      "url": "https://www.toutiao.com/trending/7568362230417198611/",
+      "label": "interpretation"
+    },
+    {
       "rank": 26,
-      "title": "印度最重卫星发射现场曝光",
-      "url": "https://www.toutiao.com/trending/7568342267832864292/",
-      "label": ""
+      "title": "全红婵的减肥计划精确到克",
+      "url": "https://www.toutiao.com/trending/7567399428664213530/",
+      "label": "hot"
     },
     {
       "rank": 27,
-      "title": "开拓者召回杨瀚森",
-      "url": "https://www.toutiao.com/trending/7567616345014095379/",
-      "label": ""
+      "title": "中方回应美称中方秘密测试核武器",
+      "url": "https://www.toutiao.com/trending/7568398303961546758/",
+      "label": "hot"
     },
     {
       "rank": 28,
@@ -178,9 +178,9 @@
     },
     {
       "rank": 29,
-      "title": "全红婵的减肥计划精确到克",
-      "url": "https://www.toutiao.com/trending/7567399428664213530/",
-      "label": "hot"
+      "title": "全红婵凝视金牌后反复抚摸",
+      "url": "https://www.toutiao.com/trending/7567485312411353131/",
+      "label": ""
     },
     {
       "rank": 30,
@@ -190,15 +190,15 @@
     },
     {
       "rank": 31,
-      "title": "国家发改委原副主任徐宪平被开除党籍",
-      "url": "https://www.toutiao.com/trending/7568329469812015158/",
-      "label": ""
+      "title": "爸爸瞒着孩子回家 女儿喜极而泣",
+      "url": "https://www.toutiao.com/trending/7567653386288627758/",
+      "label": "new"
     },
     {
       "rank": 32,
-      "title": "中方回应美称中方秘密测试核武器",
-      "url": "https://www.toutiao.com/trending/7568398303961546758/",
-      "label": "hot"
+      "title": "中国证监会原副主席王建军被双开",
+      "url": "https://www.toutiao.com/trending/7568328944945479721/",
+      "label": ""
     },
     {
       "rank": 33,
@@ -208,105 +208,105 @@
     },
     {
       "rank": 34,
-      "title": "特朗普拒绝重启与加拿大的贸易谈判",
-      "url": "https://www.toutiao.com/trending/7567532659673727026/",
+      "title": "国家发改委原副主任徐宪平被开除党籍",
+      "url": "https://www.toutiao.com/trending/7568329469812015158/",
       "label": ""
     },
     {
       "rank": 35,
-      "title": "荒野求生女选手爆哭后给自己打气",
-      "url": "https://www.toutiao.com/trending/7568275807035211814/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "全红婵凝视金牌后反复抚摸",
-      "url": "https://www.toutiao.com/trending/7567485312411353131/",
-      "label": ""
-    },
-    {
-      "rank": 37,
       "title": "赖岳谦评高市早苗“丧权辱国”",
       "url": "https://www.toutiao.com/trending/7566947631257288714/",
       "label": "new"
     },
     {
+      "rank": 36,
+      "title": "印度最重卫星发射现场曝光",
+      "url": "https://www.toutiao.com/trending/7568342267832864292/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "海南离岛免税升级首日吸金7800万",
+      "url": "https://www.toutiao.com/trending/7567973971786924068/",
+      "label": ""
+    },
+    {
       "rank": 38,
-      "title": "马斯克万亿美元薪酬方案真实目的是啥",
-      "url": "https://www.toutiao.com/trending/7568389694271016494/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "全红婵伤愈首秀夺冠",
-      "url": "https://www.toutiao.com/trending/7567256789885861914/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "中国证监会原副主席王建军被双开",
-      "url": "https://www.toutiao.com/trending/7568328944945479721/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "媒体：水库放生猫哪里是“善”",
-      "url": "https://www.toutiao.com/trending/7568256866766323718/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "《日掛中天》全国路演启动",
-      "url": "https://www.toutiao.com/trending/7568051650401665087/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
-      "title": "全红婵发文：我真棒",
-      "url": "https://www.toutiao.com/trending/7567914411634147364/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "全球首款家务机器人开卖 只会3件事",
-      "url": "https://www.toutiao.com/trending/7568279986218549291/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "爸爸瞒着孩子回家 女儿喜极而泣",
-      "url": "https://www.toutiao.com/trending/7567653386288627758/",
-      "label": "new"
-    },
-    {
-      "rank": 46,
-      "title": "郑又平批高市早苗发表错误涉台言论",
-      "url": "https://www.toutiao.com/trending/7567820395714445348/",
-      "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "纽森抨击特朗普：美国人现在又穷又病",
-      "url": "https://www.toutiao.com/trending/7568037221660393535/",
-      "label": ""
-    },
-    {
-      "rank": 48,
       "title": "骗子用l0086冒充10086",
       "url": "https://www.toutiao.com/trending/7568298293399371817/",
       "label": "new"
     },
     {
-      "rank": 49,
-      "title": "女子怀疑邻居打洞用镜子照自家",
-      "url": "https://www.toutiao.com/trending/7568045216051298323/",
+      "rank": 39,
+      "title": "全球首款家务机器人开卖 只会3件事",
+      "url": "https://www.toutiao.com/trending/7568279986218549291/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "《日掛中天》全国路演启动",
+      "url": "https://www.toutiao.com/trending/7568051650401665087/",
       "label": "new"
     },
     {
+      "rank": 41,
+      "title": "荒野求生女选手爆哭后给自己打气",
+      "url": "https://www.toutiao.com/trending/7568275807035211814/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "评论员：稀土管制让美方主动求休战",
+      "url": "https://www.toutiao.com/trending/7568357221910711814/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "全红婵伤愈首秀夺冠",
+      "url": "https://www.toutiao.com/trending/7567256789885861914/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "纽森抨击特朗普：美国人现在又穷又病",
+      "url": "https://www.toutiao.com/trending/7568037221660393535/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "马斯克万亿美元薪酬方案真实目的是啥",
+      "url": "https://www.toutiao.com/trending/7568389694271016494/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "民进党高官“文化台独”言论反民意",
+      "url": "https://www.toutiao.com/trending/7568355885500599844/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "外卖小哥吐槽学校送餐太“硬核”",
+      "url": "https://www.toutiao.com/trending/7567254655803392046/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "全红婵发文：我真棒",
+      "url": "https://www.toutiao.com/trending/7567914411634147364/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "魏晨：与原型人物的能量同频共振",
+      "url": "https://www.toutiao.com/trending/7567889165371834411/",
+      "label": ""
+    },
+    {
       "rank": 50,
-      "title": "英伟达为何选择押注韩国",
-      "url": "https://www.toutiao.com/trending/7568352849801776666/",
-      "label": "interpretation"
+      "title": "美政府停摆特朗普“甩锅”民主党",
+      "url": "https://www.toutiao.com/trending/7567615923956547626/",
+      "label": "new"
     }
   ]
 }
