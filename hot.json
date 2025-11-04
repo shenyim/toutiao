@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 04 Nov 2025 12:25:05 GMT",
+  "generated_at": "Tue, 04 Nov 2025 12:35:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平会见俄罗斯总理米舒斯京",
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "菲军舰为何敢对中方喊话",
-      "url": "https://www.toutiao.com/trending/7568784195506408966/",
-      "label": "interpretation"
+      "title": "老人火化后骨灰里多出四个钢钉",
+      "url": "https://www.toutiao.com/trending/7568759544111235081/",
+      "label": "new"
     },
     {
       "rank": 3,
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "电商卖家推出巨型吊牌防退货",
-      "url": "https://www.toutiao.com/trending/7568124704620789766/",
-      "label": ""
+      "title": "5人死刑！缅北白家犯罪集团案宣判",
+      "url": "https://www.toutiao.com/trending/7568335265169752114/",
+      "label": "hot"
     },
     {
       "rank": 5,
-      "title": "老人火化后骨灰里多出四个钢钉",
-      "url": "https://www.toutiao.com/trending/7568759544111235081/",
-      "label": "new"
+      "title": "菲军舰为何敢对中方喊话",
+      "url": "https://www.toutiao.com/trending/7568784195506408966/",
+      "label": "interpretation"
     },
     {
       "rank": 6,
@@ -46,15 +46,15 @@
     },
     {
       "rank": 7,
-      "title": "网红“瑞恩宝贝”去世 年仅3岁",
-      "url": "https://www.toutiao.com/trending/7568631546438221834/",
-      "label": ""
+      "title": "大疆离职员工“打印”出独角兽拓竹",
+      "url": "https://www.toutiao.com/trending/7568672004358802954/",
+      "label": "new"
     },
     {
       "rank": 8,
-      "title": "明年中秋国庆可“请6休17”",
-      "url": "https://www.toutiao.com/trending/7568792514153418294/",
-      "label": "hot"
+      "title": "网红“瑞恩宝贝”去世 年仅3岁",
+      "url": "https://www.toutiao.com/trending/7568631546438221834/",
+      "label": ""
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "5人死刑！缅北白家犯罪集团案宣判",
-      "url": "https://www.toutiao.com/trending/7568335265169752114/",
-      "label": "hot"
+      "title": "中方回应委内瑞拉向中俄伊寻求导弹",
+      "url": "https://www.toutiao.com/trending/7568768743812402714/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 12,
-      "title": "金银暴涨意味全球将进入大滞胀时代吗",
-      "url": "https://www.toutiao.com/trending/7568753925763911222/",
-      "label": "depth"
-    },
-    {
-      "rank": 13,
       "title": "53度飞天茅台跌至1499元",
       "url": "https://www.toutiao.com/trending/7568774805005012534/",
       "label": ""
     },
     {
+      "rank": 13,
+      "title": "饿了么骑手已更换橙黑新工服",
+      "url": "https://www.toutiao.com/trending/7568375359733907519/",
+      "label": ""
+    },
+    {
       "rank": 14,
-      "title": "中国为何不大规模种植大豆",
-      "url": "https://www.toutiao.com/trending/7568750014378282532/",
-      "label": "interpretation"
+      "title": "金银暴涨意味全球将进入大滞胀时代吗",
+      "url": "https://www.toutiao.com/trending/7568753925763911222/",
+      "label": "depth"
     },
     {
       "rank": 15,
@@ -100,69 +100,69 @@
     },
     {
       "rank": 16,
-      "title": "饿了么骑手已更换橙黑新工服",
-      "url": "https://www.toutiao.com/trending/7568375359733907519/",
-      "label": ""
-    },
-    {
-      "rank": 17,
-      "title": "大疆离职员工“打印”出独角兽拓竹",
-      "url": "https://www.toutiao.com/trending/7568672004358802954/",
-      "label": "new"
-    },
-    {
-      "rank": 18,
       "title": "程序员被裁后卖卤肉饭10元一盒",
       "url": "https://www.toutiao.com/trending/7568687618519597119/",
       "label": ""
     },
     {
+      "rank": 17,
+      "title": "明年中秋国庆可“请6休17”",
+      "url": "https://www.toutiao.com/trending/7568792514153418294/",
+      "label": "hot"
+    },
+    {
+      "rank": 18,
+      "title": "中国为何不大规模种植大豆",
+      "url": "https://www.toutiao.com/trending/7568750014378282532/",
+      "label": "interpretation"
+    },
+    {
       "rank": 19,
-      "title": "中方回应委内瑞拉向中俄伊寻求导弹",
-      "url": "https://www.toutiao.com/trending/7568768743812402714/",
+      "title": "电商卖家推出巨型吊牌防退货",
+      "url": "https://www.toutiao.com/trending/7568124704620789766/",
       "label": ""
     },
     {
       "rank": 20,
-      "title": "中美又一场博弈开始了吗",
-      "url": "https://www.toutiao.com/trending/7568791334404754963/",
-      "label": "new"
-    },
-    {
-      "rank": 21,
-      "title": "媒体：王家卫墨镜“碎了”",
-      "url": "https://www.toutiao.com/trending/7568760594136829476/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "美前副总统切尼去世 终年84岁",
-      "url": "https://www.toutiao.com/trending/7568831654329548826/",
-      "label": "hot"
-    },
-    {
-      "rank": 23,
-      "title": "“传家锅”商家限号拉群被疑饥饿营销",
-      "url": "https://www.toutiao.com/trending/7568335305213313078/",
-      "label": ""
-    },
-    {
-      "rank": 24,
       "title": "人民日报：台湾光复昭示祖国必统一",
       "url": "https://www.toutiao.com/trending/7567772901328470042/",
       "label": "hot"
     },
     {
-      "rank": 25,
-      "title": "饿了么更名 淘宝闪购摸着美团过河",
-      "url": "https://www.toutiao.com/trending/7568745922172030510/",
+      "rank": 21,
+      "title": "美前副总统切尼去世 终年84岁",
+      "url": "https://www.toutiao.com/trending/7568831654329548826/",
+      "label": "hot"
+    },
+    {
+      "rank": 22,
+      "title": "中美又一场博弈开始了吗",
+      "url": "https://www.toutiao.com/trending/7568791334404754963/",
+      "label": "new"
+    },
+    {
+      "rank": 23,
+      "title": "上海一老人疑地域歧视打扰顾客用餐",
+      "url": "https://www.toutiao.com/trending/7568475685415338026/",
+      "label": "new"
+    },
+    {
+      "rank": 24,
+      "title": "媒体：王家卫墨镜“碎了”",
+      "url": "https://www.toutiao.com/trending/7568760594136829476/",
       "label": ""
     },
     {
+      "rank": 25,
+      "title": "朝鲜政坛原“二号人物”金永南逝世",
+      "url": "https://www.toutiao.com/trending/7568615599367258166/",
+      "label": "hot"
+    },
+    {
       "rank": 26,
-      "title": "曝香港导演刘家良的墓被盗",
-      "url": "https://www.toutiao.com/trending/7568538235480064042/",
-      "label": ""
+      "title": "中国为何要大量储备原油",
+      "url": "https://www.toutiao.com/trending/7568786010927009307/",
+      "label": "new"
     },
     {
       "rank": 27,
@@ -172,141 +172,141 @@
     },
     {
       "rank": 28,
-      "title": "加拿大和菲律宾为何签署军事协议",
-      "url": "https://www.toutiao.com/trending/7568739333214047780/",
-      "label": "new"
-    },
-    {
-      "rank": 29,
-      "title": "朝鲜政坛原“二号人物”金永南逝世",
-      "url": "https://www.toutiao.com/trending/7568615599367258166/",
-      "label": "hot"
-    },
-    {
-      "rank": 30,
-      "title": "中国为何要大量储备原油",
-      "url": "https://www.toutiao.com/trending/7568786010927009307/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
       "title": "特朗普称对中国与其打压不如合作",
       "url": "https://www.toutiao.com/trending/7568736208902324287/",
       "label": "hot"
     },
     {
-      "rank": 32,
+      "rank": 29,
       "title": "男子修水管时血管疯狂渗血",
       "url": "https://www.toutiao.com/trending/7568692470016835590/",
       "label": ""
     },
     {
-      "rank": 33,
-      "title": "王世坚批台湾“废死派”欺世盗名",
-      "url": "https://www.toutiao.com/trending/7568341434064961546/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
+      "rank": 30,
       "title": "财政部新设债务管理司透露什么信号",
       "url": "https://www.toutiao.com/trending/7568394846307172394/",
       "label": ""
     },
     {
-      "rank": 35,
-      "title": "日本年轻人为何支持高市早苗",
-      "url": "https://www.toutiao.com/trending/7568764656089566766/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 36,
-      "title": "樊振东抵达澳门备战全运会",
-      "url": "https://www.toutiao.com/trending/7568713011897221161/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "上海一老人疑地域歧视打扰顾客用餐",
-      "url": "https://www.toutiao.com/trending/7568475685415338026/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "歌手赵传回乡祭拜爷爷奶奶",
-      "url": "https://www.toutiao.com/trending/7567695421024813097/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "谁买下了星巴克中国公司",
-      "url": "https://www.toutiao.com/trending/7568725365661634057/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "中国军舰南海围观多国军舰演习说明啥",
-      "url": "https://www.toutiao.com/trending/7568749898426748459/",
-      "label": "hot"
-    },
-    {
-      "rank": 41,
-      "title": "济南的树穿上了毛衣",
-      "url": "https://www.toutiao.com/trending/7568295080965111818/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "为什么天冷后要少洗澡",
-      "url": "https://www.toutiao.com/trending/7568315290560479268/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "宋清辉：无障碍环境是城市核心竞争力",
-      "url": "https://www.toutiao.com/trending/7567733934747090980/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "中国空间站变身烧烤摊看呆外国网友",
-      "url": "https://www.toutiao.com/trending/7568735006403759666/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "美媒：美粗暴干预拉丁美洲百年史",
-      "url": "https://www.toutiao.com/trending/7568795075133079571/",
-      "label": "new"
-    },
-    {
-      "rank": 46,
+      "rank": 31,
       "title": "游客拒结账称点抄手上成馄饨",
       "url": "https://www.toutiao.com/trending/7568173510359515199/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "员工买滞销白菜 农民连续13年致谢",
-      "url": "https://www.toutiao.com/trending/7568737859458023487/",
+      "rank": 32,
+      "title": "全红婵搭档王伟莹获跳水个人全能冠军",
+      "url": "https://www.toutiao.com/trending/7568339009320259115/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "加拿大和菲律宾为何签署军事协议",
+      "url": "https://www.toutiao.com/trending/7568739333214047780/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 34,
+      "title": "樊振东抵达澳门备战全运会",
+      "url": "https://www.toutiao.com/trending/7568713011897221161/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "大V：俄总理访华收获定心丸",
+      "url": "https://www.toutiao.com/trending/7568776258469760548/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "饿了么更名 淘宝闪购摸着美团过河",
+      "url": "https://www.toutiao.com/trending/7568745922172030510/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "济南的树穿上了毛衣",
+      "url": "https://www.toutiao.com/trending/7568295080965111818/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
+      "title": "中国空间站变身烧烤摊看呆外国网友",
+      "url": "https://www.toutiao.com/trending/7568735006403759666/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "王世坚批台湾“废死派”欺世盗名",
+      "url": "https://www.toutiao.com/trending/7568341434064961546/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "为什么天冷后要少洗澡",
+      "url": "https://www.toutiao.com/trending/7568315290560479268/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "“传家锅”商家限号拉群被疑饥饿营销",
+      "url": "https://www.toutiao.com/trending/7568335305213313078/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "德国政界与经济界对华认知为何不同",
+      "url": "https://www.toutiao.com/trending/7568745530012995135/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "美媒：美粗暴干预拉丁美洲百年史",
+      "url": "https://www.toutiao.com/trending/7568795075133079571/",
+      "label": "hot"
+    },
+    {
+      "rank": 44,
       "title": "房主任搂着杨幂给女儿录视频",
       "url": "https://www.toutiao.com/trending/7567570513560600630/",
       "label": ""
     },
     {
-      "rank": 49,
+      "rank": 45,
+      "title": "王家卫录音事件暴露编剧界哪些顽疾",
+      "url": "https://www.toutiao.com/trending/7568824243178180142/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "中国军舰南海围观多国军舰演习说明啥",
+      "url": "https://www.toutiao.com/trending/7568749898426748459/",
+      "label": ""
+    },
+    {
+      "rank": 47,
       "title": "博主：中国用实力让美国开始讲道理",
       "url": "https://www.toutiao.com/trending/7568744937869544998/",
       "label": ""
     },
     {
+      "rank": 48,
+      "title": "谁买下了星巴克中国公司",
+      "url": "https://www.toutiao.com/trending/7568725365661634057/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "员工买滞销白菜 农民连续13年致谢",
+      "url": "https://www.toutiao.com/trending/7568737859458023487/",
+      "label": ""
+    },
+    {
       "rank": 50,
-      "title": "黄国昌：民进党眼中只有仇恨对立冲突",
-      "url": "https://www.toutiao.com/trending/7568348723311607854/",
-      "label": "new"
+      "title": "日本年轻人为何支持高市早苗",
+      "url": "https://www.toutiao.com/trending/7568764656089566766/",
+      "label": "interpretation"
     }
   ]
 }
