@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 04 Nov 2025 05:05:07 GMT",
+  "generated_at": "Tue, 04 Nov 2025 05:10:07 GMT",
   "top": {
     "rank": "置顶",
     "title": "共谱亚太发展新篇章",
@@ -36,7 +36,7 @@
       "rank": 5,
       "title": "南京大学通报食堂卖999元帝王蟹",
       "url": "https://www.toutiao.com/trending/7568507863967481897/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 6,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "教练称全红婵“每天疼得不得了”",
-      "url": "https://www.toutiao.com/trending/7568354750388371482/",
-      "label": "hot"
+      "title": "研究员：055南海“正面对决”美航母",
+      "url": "https://www.toutiao.com/trending/7568666616934698537/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -88,9 +88,9 @@
     },
     {
       "rank": 14,
-      "title": "研究员：055南海“正面对决”美航母",
-      "url": "https://www.toutiao.com/trending/7568666616934698537/",
-      "label": ""
+      "title": "教练称全红婵“每天疼得不得了”",
+      "url": "https://www.toutiao.com/trending/7568354750388371482/",
+      "label": "hot"
     },
     {
       "rank": 15,
@@ -148,39 +148,39 @@
     },
     {
       "rank": 24,
-      "title": "中国航天员在空间站吃上烤鸡翅了",
-      "url": "https://www.toutiao.com/trending/7567748047162130442/",
-      "label": ""
-    },
-    {
-      "rank": 25,
       "title": "上海一区年轻人可以在“夜店”领证",
       "url": "https://www.toutiao.com/trending/7568415889301946374/",
       "label": ""
     },
     {
-      "rank": 26,
-      "title": "外交部回应美财长威胁对华加征关税",
-      "url": "https://www.toutiao.com/trending/7568170135060676618/",
-      "label": ""
-    },
-    {
-      "rank": 27,
+      "rank": 25,
       "title": "七星山荒野求生第三季已有超万人报名",
       "url": "https://www.toutiao.com/trending/7567919161238667307/",
       "label": "new"
     },
     {
-      "rank": 28,
-      "title": "火箭三人20+力克独行侠",
-      "url": "https://www.toutiao.com/trending/7568711753467432489/",
-      "label": "hot"
+      "rank": 26,
+      "title": "荒野求生选手违规摘南瓜退赛",
+      "url": "https://www.toutiao.com/trending/7567201931832360996/",
+      "label": ""
     },
     {
-      "rank": 29,
+      "rank": 27,
+      "title": "中国航天员在空间站吃上烤鸡翅了",
+      "url": "https://www.toutiao.com/trending/7567748047162130442/",
+      "label": ""
+    },
+    {
+      "rank": 28,
       "title": "美国多方“围剿”特朗普只为废除关税",
       "url": "https://www.toutiao.com/trending/7568663171070692900/",
       "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "火箭三人20+力克独行侠",
+      "url": "https://www.toutiao.com/trending/7568711753467432489/",
+      "label": "hot"
     },
     {
       "rank": 30,
@@ -190,21 +190,21 @@
     },
     {
       "rank": 31,
-      "title": "全运会跳水项目首个0分",
-      "url": "https://www.toutiao.com/trending/7568388730160021545/",
-      "label": "onSite"
-    },
-    {
-      "rank": 32,
-      "title": "中美互动释放积极信号 美客户忙下单",
-      "url": "https://www.toutiao.com/trending/7567338754416001074/",
+      "title": "俄飞行员在南昌批量采购物品",
+      "url": "https://www.toutiao.com/trending/7567299383763583030/",
       "label": ""
     },
     {
-      "rank": 33,
-      "title": "男子喝6瓶饮料后中毒 医生提醒",
-      "url": "https://www.toutiao.com/trending/7568509982317117494/",
+      "rank": 32,
+      "title": "专家：从日本看德国外交的大失态",
+      "url": "https://www.toutiao.com/trending/7567546396136620068/",
       "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "中美互动释放积极信号 美客户忙下单",
+      "url": "https://www.toutiao.com/trending/7567338754416001074/",
+      "label": ""
     },
     {
       "rank": 34,
@@ -214,99 +214,99 @@
     },
     {
       "rank": 35,
+      "title": "尚界H5累计交付达1万台",
+      "url": "https://www.toutiao.com/trending/7568105243482652714/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "外交部回应美财长威胁对华加征关税",
+      "url": "https://www.toutiao.com/trending/7568170135060676618/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "男子喝6瓶饮料后中毒 医生提醒",
+      "url": "https://www.toutiao.com/trending/7568509982317117494/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
       "title": "俄总理米舒斯京访华所为何事",
       "url": "https://www.toutiao.com/trending/7568687590161796649/",
       "label": "interpretation"
     },
     {
-      "rank": 36,
-      "title": "谁来给天上的四只小鼠取个名",
-      "url": "https://www.toutiao.com/trending/7567448392684060713/",
-      "label": ""
-    },
-    {
-      "rank": 37,
+      "rank": 39,
       "title": "国家跳水队教练陈若琳现身全运会",
       "url": "https://www.toutiao.com/trending/7568385315309158441/",
       "label": "hot"
     },
     {
-      "rank": 38,
-      "title": "专家：从日本看德国外交的大失态",
-      "url": "https://www.toutiao.com/trending/7567546396136620068/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
+      "rank": 40,
       "title": "特朗普威胁拒绝向纽约提供联邦资金",
       "url": "https://www.toutiao.com/trending/7567596183981047859/",
       "label": "new"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "福建舰终于要服役了吗",
       "url": "https://www.toutiao.com/trending/7568691560972291635/",
       "label": "interpretation"
     },
     {
-      "rank": 41,
-      "title": "博主：王家卫道德豁免权画上了句号",
-      "url": "https://www.toutiao.com/trending/7568678447644413483/",
-      "label": ""
+      "rank": 42,
+      "title": "全运会跳水项目首个0分",
+      "url": "https://www.toutiao.com/trending/7568388730160021545/",
+      "label": "onSite"
     },
     {
-      "rank": 42,
+      "rank": 43,
       "title": "安世中国如何闯过供应链难关",
       "url": "https://www.toutiao.com/trending/7568675457017597476/",
       "label": "interpretation"
     },
     {
-      "rank": 43,
-      "title": "何小鹏称10年后中国汽车有5强",
-      "url": "https://www.toutiao.com/trending/7567549548655198250/",
+      "rank": 44,
+      "title": "博主：王家卫道德豁免权画上了句号",
+      "url": "https://www.toutiao.com/trending/7568678447644413483/",
       "label": ""
     },
     {
-      "rank": 44,
+      "rank": 45,
       "title": "俄乌前线平民遇袭身亡 小狗也被炸飞",
       "url": "https://www.toutiao.com/trending/7567578195210453043/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "王鹤棣“翻墙”换座找白鹿",
-      "url": "https://www.toutiao.com/trending/7567520635052621862/",
+      "rank": 46,
+      "title": "谁来给天上的四只小鼠取个名",
+      "url": "https://www.toutiao.com/trending/7567448392684060713/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "“跳水女皇”高敏点赞陈艺文",
-      "url": "https://www.toutiao.com/trending/7568404095686639635/",
-      "label": "new"
+      "rank": 47,
+      "title": "何小鹏称10年后中国汽车有5强",
+      "url": "https://www.toutiao.com/trending/7567549548655198250/",
+      "label": ""
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "俄乌为何在红军城激战三年半",
       "url": "https://www.toutiao.com/trending/7568695151128743466/",
       "label": "interpretation"
     },
     {
-      "rank": 48,
-      "title": "马斯克称找到外星人证据就公开",
-      "url": "https://www.toutiao.com/trending/7567752690584272950/",
+      "rank": 49,
+      "title": "“跳水女皇”高敏点赞陈艺文",
+      "url": "https://www.toutiao.com/trending/7568404095686639635/",
       "label": "new"
     },
     {
-      "rank": 49,
-      "title": "山东即将迈入GDP“10万亿俱乐部”",
-      "url": "https://www.toutiao.com/trending/7567665169204576299/",
-      "label": ""
-    },
-    {
       "rank": 50,
-      "title": "金价还会继续下跌吗",
-      "url": "https://www.toutiao.com/trending/7568642954525412910/",
-      "label": "interpretation"
+      "title": "马斯克称找到外星人证据就公开",
+      "url": "https://www.toutiao.com/trending/7567752690584272950/",
+      "label": "new"
     }
   ]
 }
