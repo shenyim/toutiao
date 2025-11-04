@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 04 Nov 2025 02:40:06 GMT",
+  "generated_at": "Tue, 04 Nov 2025 02:45:08 GMT",
   "top": {
     "rank": "置顶",
     "title": "三组关键词看习近平韩国之行",
@@ -10,14 +10,14 @@
   "items": [
     {
       "rank": 1,
-      "title": "人民日报：台湾光复昭示祖国必统一",
-      "url": "https://www.toutiao.com/trending/7567772901328470042/",
-      "label": ""
+      "title": "习近平会见俄罗斯总理米舒斯京",
+      "url": "https://www.toutiao.com/article/7568693313126154792",
+      "label": "new"
     },
     {
       "rank": 2,
-      "title": "朝鲜政坛原“二号人物”金永南逝世",
-      "url": "https://www.toutiao.com/trending/7568615599367258166/",
+      "title": "人民日报：台湾光复昭示祖国必统一",
+      "url": "https://www.toutiao.com/trending/7567772901328470042/",
       "label": ""
     },
     {
@@ -28,45 +28,45 @@
     },
     {
       "rank": 4,
+      "title": "朝鲜政坛原“二号人物”金永南逝世",
+      "url": "https://www.toutiao.com/trending/7568615599367258166/",
+      "label": ""
+    },
+    {
+      "rank": 5,
       "title": "赖氏宗亲：赖清德对不起祖宗",
       "url": "https://www.toutiao.com/trending/7568635604011978290/",
       "label": "hot"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "title": "教练称全红婵“每天疼得不得了”",
       "url": "https://www.toutiao.com/trending/7568354750388371482/",
       "label": "hot"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "title": "何小鹏称10年后中国汽车有5强",
       "url": "https://www.toutiao.com/trending/7567549548655198250/",
       "label": "new"
     },
     {
-      "rank": 7,
-      "title": "妻儿3人被发小杀害男子发声",
-      "url": "https://webcast-open.douyin.com/open/media_live/855933386558",
+      "rank": 8,
+      "title": "媒体：别因一根淀粉肠背离教育初心",
+      "url": "https://www.toutiao.com/trending/7568431680868847114/",
       "label": "new"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "国家跳水队教练陈若琳现身全运会",
       "url": "https://www.toutiao.com/trending/7568385315309158441/",
       "label": "hot"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "今日说法主持人被骗1000元买茶叶",
       "url": "https://www.toutiao.com/trending/7567522848361922598/",
       "label": ""
-    },
-    {
-      "rank": 10,
-      "title": "俄飞行员南昌狂扫货含成箱啤酒",
-      "url": "https://www.toutiao.com/trending/7568110753627963401/",
-      "label": "onSite"
     },
     {
       "rank": 11,
@@ -82,51 +82,51 @@
     },
     {
       "rank": 13,
-      "title": "男子卖粮款被冻结 警方让其退钱",
-      "url": "https://www.toutiao.com/trending/7567741793626996786/",
-      "label": ""
-    },
-    {
-      "rank": 14,
       "title": "金正恩会同意高市早苗的会晤邀请吗",
       "url": "https://www.toutiao.com/trending/7568664089480678958/",
       "label": "new"
     },
     {
-      "rank": 15,
-      "title": "游泳爱好者逼近货船 船主咆哮驱离",
-      "url": "https://www.toutiao.com/trending/7568338526144577542/",
+      "rank": 14,
+      "title": "男子卖粮款被冻结 警方让其退钱",
+      "url": "https://www.toutiao.com/trending/7567741793626996786/",
       "label": ""
     },
     {
-      "rank": 16,
-      "title": "洪秀柱喊话郑丽文：两岸关系不复杂",
-      "url": "https://www.toutiao.com/trending/7567574544454680586/",
-      "label": "hot"
+      "rank": 15,
+      "title": "俄飞行员南昌狂扫货含成箱啤酒",
+      "url": "https://www.toutiao.com/trending/7568110753627963401/",
+      "label": "onSite"
     },
     {
-      "rank": 17,
+      "rank": 16,
       "title": "记者：高市称想见金正恩是讨好美国",
       "url": "https://www.toutiao.com/trending/7568650788034055686/",
       "label": ""
     },
     {
+      "rank": 17,
+      "title": "美或因政府停摆关闭空域",
+      "url": "https://www.toutiao.com/trending/7568650393602051593/",
+      "label": "new"
+    },
+    {
       "rank": 18,
-      "title": "博主谈水库放生猫：须追问到底是谁",
-      "url": "https://www.toutiao.com/trending/7568449457528770090/",
-      "label": ""
+      "title": "洪秀柱喊话郑丽文：两岸关系不复杂",
+      "url": "https://www.toutiao.com/trending/7567574544454680586/",
+      "label": "hot"
     },
     {
       "rank": 19,
-      "title": "余承东：鸿蒙想走得远必须转变思维",
-      "url": "https://www.toutiao.com/trending/7567925884716564543/",
-      "label": ""
+      "title": "美智库称歼-35有五大弱点 专家驳斥",
+      "url": "https://www.toutiao.com/trending/7568669044220366399/",
+      "label": "new"
     },
     {
       "rank": 20,
-      "title": "媒体：别因一根淀粉肠背离教育初心",
-      "url": "https://www.toutiao.com/trending/7568431680868847114/",
-      "label": "new"
+      "title": "黄金开始征税 部分商家火速下架金条",
+      "url": "https://www.toutiao.com/trending/7568271211139186694/",
+      "label": ""
     },
     {
       "rank": 21,
@@ -142,14 +142,14 @@
     },
     {
       "rank": 23,
-      "title": "老人饮用曼陀罗药酒中毒",
-      "url": "https://www.toutiao.com/trending/7568473989111857206/",
-      "label": "new"
+      "title": "外交部回应美财长威胁对华加征关税",
+      "url": "https://www.toutiao.com/trending/7568170135060676618/",
+      "label": ""
     },
     {
       "rank": 24,
-      "title": "外交部回应美财长威胁对华加征关税",
-      "url": "https://www.toutiao.com/trending/7568170135060676618/",
+      "title": "游泳爱好者逼近货船 船主咆哮驱离",
+      "url": "https://www.toutiao.com/trending/7568338526144577542/",
       "label": ""
     },
     {
@@ -160,87 +160,87 @@
     },
     {
       "rank": 26,
-      "title": "专家：美防长去越南意图明显",
-      "url": "https://www.toutiao.com/trending/7568673213782167081/",
-      "label": "interpretation"
+      "title": "老人饮用曼陀罗药酒中毒",
+      "url": "https://www.toutiao.com/trending/7568473989111857206/",
+      "label": "new"
     },
     {
       "rank": 27,
+      "title": "博主谈水库放生猫：须追问到底是谁",
+      "url": "https://www.toutiao.com/trending/7568449457528770090/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "余承东：鸿蒙想走得远必须转变思维",
+      "url": "https://www.toutiao.com/trending/7567925884716564543/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "荒野求生选手违规摘南瓜退赛",
+      "url": "https://www.toutiao.com/trending/7567201931832360996/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "中韩元首庆州会晤成果几何",
+      "url": "https://www.toutiao.com/trending/7568461095157894697/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 31,
+      "title": "从编曲角度重听《雁渡寒潭》",
+      "url": "https://www.toutiao.com/trending/7568642881582272063/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
+      "title": "郑丽文公布全台县市党部主委名单",
+      "url": "https://www.toutiao.com/trending/7568144129109245988/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
       "title": "丁俊晖上演教科书级6库神级解球",
       "url": "https://www.toutiao.com/trending/7567698481039900678/",
       "label": "onSite"
     },
     {
-      "rank": 28,
-      "title": "菲律宾称“将南海巡逻区扩大两倍”",
-      "url": "https://www.toutiao.com/trending/7567688871580893234/",
-      "label": ""
-    },
-    {
-      "rank": 29,
+      "rank": 34,
       "title": "全运会跳水项目首个0分",
       "url": "https://www.toutiao.com/trending/7568388730160021545/",
       "label": "onSite"
     },
     {
-      "rank": 30,
+      "rank": 35,
+      "title": "菲律宾称“将南海巡逻区扩大两倍”",
+      "url": "https://www.toutiao.com/trending/7567688871580893234/",
+      "label": ""
+    },
+    {
+      "rank": 36,
       "title": "蓝盈莹蔡文静撞衫",
       "url": "https://www.toutiao.com/trending/7567958684798730290/",
       "label": ""
     },
     {
-      "rank": 31,
+      "rank": 37,
       "title": "评论员：美国不想看到中欧关系缓和",
       "url": "https://www.toutiao.com/trending/7568649415318048298/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "蓝营民代批：嘴炮治台让台湾更危险",
-      "url": "https://www.toutiao.com/trending/7567619071786696723/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "西安多棵行道树被指用水泥砌墙围起来",
-      "url": "https://www.toutiao.com/trending/7568014917811437577/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "谁来给天上的四只小鼠取个名",
-      "url": "https://www.toutiao.com/trending/7567448392684060713/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "美智库称歼-35有五大弱点 专家驳斥",
-      "url": "https://www.toutiao.com/trending/7568669044220366399/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "孙颖莎25岁生日全力备战全运会",
-      "url": "https://www.toutiao.com/trending/7568067347010174982/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "内娱的采访为什么越来越难看了",
-      "url": "https://www.toutiao.com/trending/7568664616197164594/",
-      "label": "new"
-    },
-    {
       "rank": 38,
-      "title": "安世中国加速与国内晶圆企业对接",
-      "url": "https://www.toutiao.com/trending/7568642077798452772/",
+      "title": "长沙潮宗街商户称破坏承重墙致垮塌",
+      "url": "https://www.toutiao.com/trending/7567932318661460022/",
       "label": ""
     },
     {
       "rank": 39,
-      "title": "深扒“台独”顽固分子沈伯洋",
-      "url": "https://www.toutiao.com/trending/7567896760517938731/",
-      "label": "depth"
+      "title": "俄飞行员在南昌批量采购物品",
+      "url": "https://www.toutiao.com/trending/7567299383763583030/",
+      "label": ""
     },
     {
       "rank": 40,
@@ -250,63 +250,63 @@
     },
     {
       "rank": 41,
-      "title": "长沙潮宗街商户称破坏承重墙致垮塌",
-      "url": "https://www.toutiao.com/trending/7567932318661460022/",
+      "title": "评论员：特朗普最爱盘剥盟友",
+      "url": "https://www.toutiao.com/trending/7568497514148531758/",
       "label": ""
     },
     {
       "rank": 42,
+      "title": "安世中国加速与国内晶圆企业对接",
+      "url": "https://www.toutiao.com/trending/7568642077798452772/",
+      "label": ""
+    },
+    {
+      "rank": 43,
       "title": "学者：韩在中美间维持的平衡很脆弱",
       "url": "https://www.toutiao.com/trending/7567676117965078571/",
       "label": "new"
     },
     {
-      "rank": 43,
+      "rank": 44,
+      "title": "谁来给天上的四只小鼠取个名",
+      "url": "https://www.toutiao.com/trending/7567448392684060713/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "黄金税的威力从何而来",
+      "url": "https://www.toutiao.com/trending/7568643074495090185/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 46,
       "title": "学者：美方“批赖”未改战略模糊本质",
       "url": "https://www.toutiao.com/trending/7568639113763602438/",
       "label": ""
     },
     {
-      "rank": 44,
-      "title": "核武专家逐字分析特朗普核试验言论",
-      "url": "https://www.toutiao.com/trending/7567494416286531625/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 45,
-      "title": "轻奢女装self-portrait直播“翻车”",
-      "url": "https://www.toutiao.com/trending/7568484009387232774/",
-      "label": ""
-    },
-    {
-      "rank": 46,
+      "rank": 47,
       "title": "委内瑞拉面对美军进逼亮俄制武器",
       "url": "https://www.toutiao.com/trending/7567914037279850502/",
       "label": "new"
     },
     {
-      "rank": 47,
-      "title": "郑丽文公布全台县市党部主委名单",
-      "url": "https://www.toutiao.com/trending/7568144129109245988/",
-      "label": "new"
-    },
-    {
       "rank": 48,
-      "title": "警方回应甘肃深夜现“淘金潮”",
-      "url": "https://www.toutiao.com/trending/7568121709120290867/",
-      "label": ""
+      "title": "黄仁勋：靠人情打通AI世界的男人",
+      "url": "https://www.toutiao.com/trending/7568651984027258422/",
+      "label": "new"
     },
     {
       "rank": 49,
-      "title": "美国能在两年内解决对华稀土依赖吗",
-      "url": "https://www.toutiao.com/trending/7568478813969976886/",
-      "label": ""
+      "title": "深扒“台独”顽固分子沈伯洋",
+      "url": "https://www.toutiao.com/trending/7567896760517938731/",
+      "label": "depth"
     },
     {
       "rank": 50,
-      "title": "中国航天永远值得期待",
-      "url": "https://www.toutiao.com/trending/7567738978821095443/",
-      "label": "new"
+      "title": "广西男子自驾青海失联2月车子被找到",
+      "url": "https://www.toutiao.com/trending/7568391795639123974/",
+      "label": ""
     }
   ]
 }
