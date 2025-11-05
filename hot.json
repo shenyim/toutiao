@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 05 Nov 2025 05:55:04 GMT",
+  "generated_at": "Wed, 05 Nov 2025 06:00:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "让开放的春风温暖世界",
@@ -16,8 +16,8 @@
     },
     {
       "rank": 2,
-      "title": "国台办回应或全球通缉“台独”分子",
-      "url": "https://www.toutiao.com/trending/7568339009324322346/",
+      "title": "中方继续暂停24%对美关税税率",
+      "url": "https://www.toutiao.com/trending/7569084245268811274/",
       "label": "hot"
     },
     {
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "中方继续暂停24%对美关税税率",
-      "url": "https://www.toutiao.com/trending/7569084245268811274/",
+      "title": "国台办回应或全球通缉“台独”分子",
+      "url": "https://www.toutiao.com/trending/7568339009324322346/",
       "label": "hot"
     },
     {
       "rank": 5,
-      "title": "国台办：完成国家统一福泽万代",
-      "url": "https://www.toutiao.com/trending/7569065003957878820/",
-      "label": "hot"
+      "title": "12306回应买靠窗座遇“面壁座”",
+      "url": "https://www.toutiao.com/trending/7568861374182015002/",
+      "label": "forum"
     },
     {
       "rank": 6,
@@ -52,20 +52,20 @@
     },
     {
       "rank": 8,
+      "title": "国台办：完成国家统一福泽万代",
+      "url": "https://www.toutiao.com/trending/7569065003957878820/",
+      "label": "hot"
+    },
+    {
+      "rank": 9,
       "title": "京东“第一辆车”在长沙下线",
       "url": "https://www.toutiao.com/trending/7568022387216744489/",
       "label": "new"
     },
     {
-      "rank": 9,
-      "title": "12306回应买靠窗座遇“面壁座”",
-      "url": "https://www.toutiao.com/trending/7568861374182015002/",
-      "label": "forum"
-    },
-    {
       "rank": 10,
-      "title": "纽约迎来90后新市长",
-      "url": "https://www.toutiao.com/trending/7569073445804379674/",
+      "title": "广东300斤野猪“猪五妹”走红",
+      "url": "https://www.toutiao.com/trending/7568806760543371315/",
       "label": ""
     },
     {
@@ -76,9 +76,9 @@
     },
     {
       "rank": 12,
-      "title": "广东300斤野猪“猪五妹”走红",
-      "url": "https://www.toutiao.com/trending/7568806760543371315/",
-      "label": "new"
+      "title": "纽约迎来90后新市长",
+      "url": "https://www.toutiao.com/trending/7569073445804379674/",
+      "label": ""
     },
     {
       "rank": 13,
@@ -100,21 +100,21 @@
     },
     {
       "rank": 16,
+      "title": "秦雯编剧电视剧被央视撤档",
+      "url": "https://www.toutiao.com/trending/7568193423359000622/",
+      "label": "new"
+    },
+    {
+      "rank": 17,
       "title": "大陆对台政策进入新阶段？国台办回应",
       "url": "https://www.toutiao.com/trending/7568741286308659236/",
       "label": "hot"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "国台办回应高市早苗涉台错误言行",
       "url": "https://www.toutiao.com/trending/7568673862460850182/",
       "label": "hot"
-    },
-    {
-      "rank": 18,
-      "title": "秦雯编剧电视剧被央视撤档",
-      "url": "https://www.toutiao.com/trending/7568193423359000622/",
-      "label": "new"
     },
     {
       "rank": 19,
@@ -130,32 +130,32 @@
     },
     {
       "rank": 21,
-      "title": "李大霄：中国股市或有强大稳定力量",
-      "url": "https://www.toutiao.com/trending/7569086086249451050/",
-      "label": ""
+      "title": "日本在美俄之间“走钢丝”意欲何为",
+      "url": "https://www.toutiao.com/trending/7568862455586098731/",
+      "label": "new"
     },
     {
       "rank": 22,
-      "title": "高市早苗“亲密外交”到底行不行",
-      "url": "https://www.toutiao.com/trending/7569069175298068019/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "电商卖家推出巨型吊牌防退货",
-      "url": "https://www.toutiao.com/trending/7568124704620789766/",
-      "label": ""
-    },
-    {
-      "rank": 24,
       "title": "白百何：还能这么操作",
       "url": "https://www.toutiao.com/trending/7568505271849451539/",
       "label": ""
     },
     {
+      "rank": 23,
+      "title": "李大霄：中国股市或有强大稳定力量",
+      "url": "https://www.toutiao.com/trending/7569086086249451050/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "电商卖家推出巨型吊牌防退货",
+      "url": "https://www.toutiao.com/trending/7568124704620789766/",
+      "label": ""
+    },
+    {
       "rank": 25,
-      "title": "媒体：驻日美军暴力行为打了高市的脸",
-      "url": "https://www.toutiao.com/trending/7568898102292660262/",
+      "title": "高市早苗“亲密外交”到底行不行",
+      "url": "https://www.toutiao.com/trending/7569069175298068019/",
       "label": ""
     },
     {
@@ -172,9 +172,9 @@
     },
     {
       "rank": 28,
-      "title": "日本在美俄之间“走钢丝”意欲何为",
-      "url": "https://www.toutiao.com/trending/7568862455586098731/",
-      "label": "new"
+      "title": "媒体：驻日美军暴力行为打了高市的脸",
+      "url": "https://www.toutiao.com/trending/7568898102292660262/",
+      "label": ""
     },
     {
       "rank": 29,
@@ -220,21 +220,21 @@
     },
     {
       "rank": 36,
-      "title": "男子求见李嘉诚被拒 向公司泼红漆",
-      "url": "https://www.toutiao.com/trending/7568745641884155930/",
-      "label": ""
-    },
-    {
-      "rank": 37,
       "title": "外媒关注中国高超音速武器发展",
       "url": "https://www.toutiao.com/trending/7569046770051714570/",
       "label": "new"
     },
     {
+      "rank": 37,
+      "title": "国台办批民进党当局迫害岛内陆配群体",
+      "url": "https://www.toutiao.com/trending/7569069606834716715/",
+      "label": "hot"
+    },
+    {
       "rank": 38,
-      "title": "特朗普对华“示好”是认清现实了吗",
-      "url": "https://www.toutiao.com/trending/7569074435831909938/",
-      "label": "interpretation"
+      "title": "男子求见李嘉诚被拒 向公司泼红漆",
+      "url": "https://www.toutiao.com/trending/7568745641884155930/",
+      "label": ""
     },
     {
       "rank": 39,
@@ -244,27 +244,27 @@
     },
     {
       "rank": 40,
-      "title": "国台办批民进党当局迫害岛内陆配群体",
-      "url": "https://www.toutiao.com/trending/7569069606834716715/",
-      "label": "hot"
-    },
-    {
-      "rank": 41,
-      "title": "记者：德国政治角力天平倒向社民党",
-      "url": "https://www.toutiao.com/trending/7569049559607807507/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
       "title": "特朗普为何坐视俄乌血战到底",
       "url": "https://www.toutiao.com/trending/7569069238430731795/",
       "label": "new"
     },
     {
+      "rank": 41,
+      "title": "特朗普对华“示好”是认清现实了吗",
+      "url": "https://www.toutiao.com/trending/7569074435831909938/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 42,
+      "title": "白百何东京电影节闭幕式前夜回国",
+      "url": "https://www.toutiao.com/trending/7568894860091326473/",
+      "label": "new"
+    },
+    {
       "rank": 43,
-      "title": "国台办：“台独”是绝路",
-      "url": "https://www.toutiao.com/trending/7568278528559562798/",
-      "label": ""
+      "title": "记者：德国政治角力天平倒向社民党",
+      "url": "https://www.toutiao.com/trending/7569049559607807507/",
+      "label": "new"
     },
     {
       "rank": 44,
@@ -274,15 +274,15 @@
     },
     {
       "rank": 45,
-      "title": "白百何东京电影节闭幕式前夜回国",
-      "url": "https://www.toutiao.com/trending/7568894860091326473/",
-      "label": "new"
+      "title": "国台办：“台独”是绝路",
+      "url": "https://www.toutiao.com/trending/7568278528559562798/",
+      "label": ""
     },
     {
       "rank": 46,
-      "title": "民进党当局“户籍追杀”撕裂台湾家庭",
-      "url": "https://www.toutiao.com/trending/7568396946990366762/",
-      "label": ""
+      "title": "晶圆为何能成为半导体产业链关键环节",
+      "url": "https://www.toutiao.com/trending/7568801876238405174/",
+      "label": "new"
     },
     {
       "rank": 47,
@@ -292,9 +292,9 @@
     },
     {
       "rank": 48,
-      "title": "佘诗曼黄宗泽还原《新闻女王2》角色",
-      "url": "https://www.toutiao.com/trending/7568113806775353353/",
-      "label": "new"
+      "title": "民进党当局“户籍追杀”撕裂台湾家庭",
+      "url": "https://www.toutiao.com/trending/7568396946990366762/",
+      "label": ""
     },
     {
       "rank": 49,
@@ -304,8 +304,8 @@
     },
     {
       "rank": 50,
-      "title": "晶圆为何能成为半导体产业链关键环节",
-      "url": "https://www.toutiao.com/trending/7568801876238405174/",
+      "title": "第十四届中国艺术节在重庆闭幕",
+      "url": "https://www.toutiao.com/trending/7567812297398452270/",
       "label": "new"
     }
   ]
