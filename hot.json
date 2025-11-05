@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 05 Nov 2025 08:50:04 GMT",
+  "generated_at": "Wed, 05 Nov 2025 08:55:08 GMT",
   "top": {
     "rank": "置顶",
     "title": "同世界各国分享发展机遇",
@@ -12,13 +12,13 @@
       "rank": 1,
       "title": "国台办回应一键投诚软件引两岸热议",
       "url": "https://www.toutiao.com/trending/7568273595810660406/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 2,
-      "title": "用利息生活的年轻人去哪了",
-      "url": "https://www.toutiao.com/trending/7569096357911203391/",
-      "label": ""
+      "title": "12306回应买靠窗座遇“面壁座”",
+      "url": "https://www.toutiao.com/trending/7568861374182015002/",
+      "label": "forum"
     },
     {
       "rank": 3,
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "title": "12306回应买靠窗座遇“面壁座”",
-      "url": "https://www.toutiao.com/trending/7568861374182015002/",
-      "label": "forum"
+      "title": "用利息生活的年轻人去哪了",
+      "url": "https://www.toutiao.com/trending/7569096357911203391/",
+      "label": ""
     },
     {
       "rank": 6,
       "title": "京东“第一辆车”在长沙下线",
       "url": "https://www.toutiao.com/trending/7568022387216744489/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 7,
@@ -54,7 +54,7 @@
       "rank": 8,
       "title": "国台办新任发言人张晗首次亮相",
       "url": "https://www.toutiao.com/trending/7569055670410985482/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 9,
@@ -64,8 +64,8 @@
     },
     {
       "rank": 10,
-      "title": "白宫降半旗悼念切尼 特朗普沉默",
-      "url": "https://www.toutiao.com/trending/7568870591252906035/",
+      "title": "校方回应大二女生校园湖内溺亡",
+      "url": "https://www.toutiao.com/trending/7569097359411937286/",
       "label": "new"
     },
     {
@@ -82,8 +82,8 @@
     },
     {
       "rank": 13,
-      "title": "唐嫣新剧《爱情没有神话》疑似撤档",
-      "url": "https://www.toutiao.com/trending/7568917089742864425/",
+      "title": "白宫降半旗悼念切尼 特朗普沉默",
+      "url": "https://www.toutiao.com/trending/7568870591252906035/",
       "label": "new"
     },
     {
@@ -100,8 +100,8 @@
     },
     {
       "rank": 16,
-      "title": "校方回应大二女生校园湖内溺亡",
-      "url": "https://www.toutiao.com/trending/7569097359411937286/",
+      "title": "唐嫣新剧《爱情没有神话》疑似撤档",
+      "url": "https://www.toutiao.com/trending/7568917089742864425/",
       "label": "new"
     },
     {
@@ -124,8 +124,8 @@
     },
     {
       "rank": 20,
-      "title": "美国政府关门打破历史纪录",
-      "url": "https://www.toutiao.com/trending/7568815188931199017/",
+      "title": "水库放生的猫约400只 动机系祈福",
+      "url": "https://www.toutiao.com/trending/7568081961399566387/",
       "label": "new"
     },
     {
@@ -136,44 +136,44 @@
     },
     {
       "rank": 22,
-      "title": "三大指数低开高走 全线收红",
-      "url": "https://www.toutiao.com/trending/7568389931949965338/",
-      "label": "new"
-    },
-    {
-      "rank": 23,
-      "title": "张纪中回应前妻指控涉嫌职务侵占",
-      "url": "https://www.toutiao.com/trending/7568961889167310884/",
-      "label": "new"
-    },
-    {
-      "rank": 24,
-      "title": "新公务员发涉密文件炫耀被处分",
-      "url": "https://www.toutiao.com/trending/7569004245853225023/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "国台办：完成国家统一福泽万代",
-      "url": "https://www.toutiao.com/trending/7569065003957878820/",
-      "label": "hot"
-    },
-    {
-      "rank": 26,
-      "title": "媒体：民进党的未来如何安放是个问题",
-      "url": "https://www.toutiao.com/trending/7569072409462967849/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
       "title": "小区地下车库现裂缝下沉？当地回应",
       "url": "https://www.toutiao.com/trending/7569002537622437907/",
       "label": "new"
     },
     {
+      "rank": 23,
+      "title": "美国政府关门打破历史纪录",
+      "url": "https://www.toutiao.com/trending/7568815188931199017/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "张纪中回应前妻指控涉嫌职务侵占",
+      "url": "https://www.toutiao.com/trending/7568961889167310884/",
+      "label": "new"
+    },
+    {
+      "rank": 25,
+      "title": "新公务员发涉密文件炫耀被处分",
+      "url": "https://www.toutiao.com/trending/7569004245853225023/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "三大指数低开高走 全线收红",
+      "url": "https://www.toutiao.com/trending/7568389931949965338/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
+      "title": "媒体：民进党的未来如何安放是个问题",
+      "url": "https://www.toutiao.com/trending/7569072409462967849/",
+      "label": "new"
+    },
+    {
       "rank": 28,
-      "title": "美媒：印度面临的美国关税比中国高",
-      "url": "https://www.toutiao.com/trending/7568349123104653354/",
+      "title": "金饰突破1260元/克",
+      "url": "https://www.toutiao.com/trending/7569026656820547115/",
       "label": ""
     },
     {
@@ -184,27 +184,27 @@
     },
     {
       "rank": 30,
-      "title": "94版射雕丘处机饰演者林尚武去世",
-      "url": "https://www.toutiao.com/trending/7569077715816579110/",
-      "label": ""
-    },
-    {
-      "rank": 31,
       "title": "国台办回应网友给太空小鼠取名",
       "url": "https://www.toutiao.com/trending/7569081806507884598/",
       "label": ""
     },
     {
+      "rank": 31,
+      "title": "94版射雕丘处机饰演者林尚武去世",
+      "url": "https://www.toutiao.com/trending/7569077715816579110/",
+      "label": ""
+    },
+    {
       "rank": 32,
-      "title": "墨西哥总统当街遭男子猥亵",
-      "url": "https://www.toutiao.com/trending/7568684232021671982/",
-      "label": "onSite"
+      "title": "美媒：印度面临的美国关税比中国高",
+      "url": "https://www.toutiao.com/trending/7568349123104653354/",
+      "label": ""
     },
     {
       "rank": 33,
-      "title": "广东300斤野猪“猪五妹”走红",
-      "url": "https://www.toutiao.com/trending/7568806760543371315/",
-      "label": ""
+      "title": "国台办：完成国家统一福泽万代",
+      "url": "https://www.toutiao.com/trending/7569065003957878820/",
+      "label": "hot"
     },
     {
       "rank": 34,
@@ -214,45 +214,45 @@
     },
     {
       "rank": 35,
-      "title": "金饰突破1260元/克",
-      "url": "https://www.toutiao.com/trending/7569026656820547115/",
+      "title": "广东300斤野猪“猪五妹”走红",
+      "url": "https://www.toutiao.com/trending/7568806760543371315/",
       "label": ""
     },
     {
       "rank": 36,
-      "title": "中方继续暂停24%对美关税税率",
-      "url": "https://www.toutiao.com/trending/7569084245268811274/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "“台湾地位未定论”毫无依据",
-      "url": "https://www.toutiao.com/trending/7568777658453131290/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "如何看待美政府停摆创最长纪录",
-      "url": "https://www.toutiao.com/trending/7569131766871494198/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 39,
-      "title": "水库放生的猫约400只 动机系祈福",
-      "url": "https://www.toutiao.com/trending/7568081961399566387/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
       "title": "大陆对台政策进入新阶段？国台办回应",
       "url": "https://www.toutiao.com/trending/7568741286308659236/",
       "label": "hot"
     },
     {
-      "rank": 41,
-      "title": "秦雯编剧电视剧被央视撤档",
-      "url": "https://www.toutiao.com/trending/7568193423359000622/",
+      "rank": 37,
+      "title": "七星山荒野求生挑战赛还剩18名选手",
+      "url": "https://www.toutiao.com/trending/7568931115013160969/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
+      "title": "山姆为啥又翻车了",
+      "url": "https://www.toutiao.com/trending/7568881146805620265/",
       "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "史上最长春节点燃旅游热情",
+      "url": "https://www.toutiao.com/trending/7568801446939688998/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "墨西哥总统当街遭男子猥亵",
+      "url": "https://www.toutiao.com/trending/7568684232021671982/",
+      "label": "onSite"
+    },
+    {
+      "rank": 41,
+      "title": "“台湾地位未定论”毫无依据",
+      "url": "https://www.toutiao.com/trending/7568777658453131290/",
+      "label": "new"
     },
     {
       "rank": 42,
@@ -262,15 +262,15 @@
     },
     {
       "rank": 43,
-      "title": "国台办回应高市早苗涉台错误言行",
-      "url": "https://www.toutiao.com/trending/7568673862460850182/",
-      "label": "hot"
+      "title": "如何看待美政府停摆创最长纪录",
+      "url": "https://www.toutiao.com/trending/7569131766871494198/",
+      "label": "interpretation"
     },
     {
       "rank": 44,
-      "title": "史上最长春节点燃旅游热情",
-      "url": "https://www.toutiao.com/trending/7568801446939688998/",
-      "label": "new"
+      "title": "秦雯编剧电视剧被央视撤档",
+      "url": "https://www.toutiao.com/trending/7568193423359000622/",
+      "label": ""
     },
     {
       "rank": 45,
@@ -280,8 +280,8 @@
     },
     {
       "rank": 46,
-      "title": "山姆为啥又翻车了",
-      "url": "https://www.toutiao.com/trending/7568881146805620265/",
+      "title": "中方继续暂停24%对美关税税率",
+      "url": "https://www.toutiao.com/trending/7569084245268811274/",
       "label": ""
     },
     {
@@ -292,20 +292,20 @@
     },
     {
       "rank": 48,
-      "title": "七星山荒野求生挑战赛42号选手退赛",
-      "url": "https://www.toutiao.com/trending/7568931115013160969/",
+      "title": "勇士118-107太阳 库里28分4板3助",
+      "url": "https://www.toutiao.com/trending/7569114090212167209/",
       "label": "new"
     },
     {
       "rank": 49,
-      "title": "饿了么改名 阿里在布局什么",
-      "url": "https://www.toutiao.com/trending/7569011914353675795/",
-      "label": "interpretation"
+      "title": "国台办回应高市早苗涉台错误言行",
+      "url": "https://www.toutiao.com/trending/7568673862460850182/",
+      "label": "hot"
     },
     {
       "rank": 50,
-      "title": "特朗普关税命运几何",
-      "url": "https://www.toutiao.com/trending/7569081707253468691/",
+      "title": "石家庄警方：男子因工作纠纷扎伤同事",
+      "url": "https://www.toutiao.com/trending/7569115044601695771/",
       "label": "new"
     }
   ]
