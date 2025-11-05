@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 05 Nov 2025 04:05:05 GMT",
+  "generated_at": "Wed, 05 Nov 2025 04:10:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "让开放的春风温暖世界",
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "title": "金饰突破1260元/克",
-      "url": "https://www.toutiao.com/trending/7569026656820547115/",
-      "label": ""
-    },
-    {
-      "rank": 6,
       "title": "高市早苗“亲密外交”到底行不行",
       "url": "https://www.toutiao.com/trending/7569069175298068019/",
       "label": "hot"
+    },
+    {
+      "rank": 6,
+      "title": "福建赖氏宗亲：姓赖的都是中国人",
+      "url": "https://www.toutiao.com/trending/7569041149256601098/",
+      "label": ""
     },
     {
       "rank": 7,
@@ -76,27 +76,27 @@
     },
     {
       "rank": 12,
-      "title": "福建赖氏宗亲：姓赖的都是中国人",
-      "url": "https://www.toutiao.com/trending/7569041149256601098/",
-      "label": ""
-    },
-    {
-      "rank": 13,
-      "title": "南海坠机后美航母新动向曝光",
-      "url": "https://www.toutiao.com/trending/7568333557970763826/",
-      "label": ""
-    },
-    {
-      "rank": 14,
       "title": "国台办回应高市早苗涉台错误言行",
       "url": "https://www.toutiao.com/trending/7568673862460850182/",
       "label": "hot"
     },
     {
-      "rank": 15,
+      "rank": 13,
+      "title": "石家庄外卖骑手持刀伤人 已被控制",
+      "url": "https://www.toutiao.com/trending/7568971470194655275/",
+      "label": "new"
+    },
+    {
+      "rank": 14,
       "title": "饿了么改名 阿里在布局什么",
       "url": "https://www.toutiao.com/trending/7569011914353675795/",
       "label": "interpretation"
+    },
+    {
+      "rank": 15,
+      "title": "南海坠机后美航母新动向曝光",
+      "url": "https://www.toutiao.com/trending/7568333557970763826/",
+      "label": ""
     },
     {
       "rank": 16,
@@ -106,15 +106,15 @@
     },
     {
       "rank": 17,
-      "title": "新公务员发涉密文件炫耀被处分",
-      "url": "https://www.toutiao.com/trending/7569004245853225023/",
+      "title": "山姆为啥又翻车了",
+      "url": "https://www.toutiao.com/trending/7568881146805620265/",
       "label": ""
     },
     {
       "rank": 18,
-      "title": "山姆为啥又翻车了",
-      "url": "https://www.toutiao.com/trending/7568881146805620265/",
-      "label": ""
+      "title": "国台办：完成国家统一福泽万代",
+      "url": "https://www.toutiao.com/trending/7569065003957878820/",
+      "label": "new"
     },
     {
       "rank": 19,
@@ -124,21 +124,21 @@
     },
     {
       "rank": 20,
-      "title": "《树影迷宫》好看吗",
-      "url": "https://www.toutiao.com/trending/7569055714627309099/",
+      "title": "新公务员发涉密文件炫耀被处分",
+      "url": "https://www.toutiao.com/trending/7569004245853225023/",
       "label": ""
     },
     {
       "rank": 21,
-      "title": "电商卖家推出巨型吊牌防退货",
-      "url": "https://www.toutiao.com/trending/7568124704620789766/",
+      "title": "金饰突破1260元/克",
+      "url": "https://www.toutiao.com/trending/7569026656820547115/",
       "label": ""
     },
     {
       "rank": 22,
-      "title": "石家庄外卖骑手持刀伤人 已被控制",
-      "url": "https://www.toutiao.com/trending/7568971470194655275/",
-      "label": "new"
+      "title": "《树影迷宫》好看吗",
+      "url": "https://www.toutiao.com/trending/7569055714627309099/",
+      "label": ""
     },
     {
       "rank": 23,
@@ -154,57 +154,57 @@
     },
     {
       "rank": 25,
+      "title": "国台办驳斥绿营政客涉台湾文化言论",
+      "url": "https://www.toutiao.com/trending/7568751726375796799/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "电商卖家推出巨型吊牌防退货",
+      "url": "https://www.toutiao.com/trending/7568124704620789766/",
+      "label": ""
+    },
+    {
+      "rank": 27,
       "title": "95后林晓晴连任成都路桥董事长",
       "url": "https://www.toutiao.com/trending/7568809287307100166/",
       "label": ""
     },
     {
-      "rank": 26,
-      "title": "中方回应委内瑞拉向中俄伊寻求导弹",
-      "url": "https://www.toutiao.com/trending/7568768743812402714/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "国安部解密吴石朱枫等烈士档案",
-      "url": "https://www.toutiao.com/trending/7568647636515143730/",
-      "label": ""
-    },
-    {
       "rank": 28,
+      "title": "“滴水之恩当涌泉相报”具象化了",
+      "url": "https://www.toutiao.com/trending/7568814222529855538/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
       "title": "司机在口袋里养鹦鹉半月染病",
       "url": "https://www.toutiao.com/trending/7568842174574919743/",
       "label": ""
     },
     {
-      "rank": 29,
-      "title": "媒体：驻日美军暴力行为打了高市的脸",
-      "url": "https://www.toutiao.com/trending/7568898102292660262/",
-      "label": ""
-    },
-    {
       "rank": 30,
-      "title": "中方就金永南逝世表示哀悼",
-      "url": "https://www.toutiao.com/trending/7568772322489044507/",
+      "title": "中方回应委内瑞拉向中俄伊寻求导弹",
+      "url": "https://www.toutiao.com/trending/7568768743812402714/",
       "label": ""
     },
     {
       "rank": 31,
-      "title": "国台办：完成国家统一福泽万代",
-      "url": "https://www.toutiao.com/trending/7569065003957878820/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "婚后男方父母出钱买房离婚女方能分吗",
-      "url": "https://www.toutiao.com/trending/7568333707778637851/",
+      "title": "国安部解密吴石朱枫等烈士档案",
+      "url": "https://www.toutiao.com/trending/7568647636515143730/",
       "label": ""
     },
     {
-      "rank": 33,
-      "title": "“滴水之恩当涌泉相报”具象化了",
-      "url": "https://www.toutiao.com/trending/7568814222529855538/",
+      "rank": 32,
+      "title": "本届进博会23家台企参展",
+      "url": "https://www.toutiao.com/trending/7569070976873725961/",
       "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "媒体：驻日美军暴力行为打了高市的脸",
+      "url": "https://www.toutiao.com/trending/7568898102292660262/",
+      "label": ""
     },
     {
       "rank": 34,
@@ -214,21 +214,21 @@
     },
     {
       "rank": 35,
-      "title": "歌手赵传回乡祭拜爷爷奶奶",
-      "url": "https://www.toutiao.com/trending/7567695421024813097/",
+      "title": "中方就金永南逝世表示哀悼",
+      "url": "https://www.toutiao.com/trending/7568772322489044507/",
       "label": ""
     },
     {
       "rank": 36,
-      "title": "本届进博会23家台企参展",
-      "url": "https://www.toutiao.com/trending/7569070976873725961/",
-      "label": "new"
+      "title": "婚后男方父母出钱买房离婚女方能分吗",
+      "url": "https://www.toutiao.com/trending/7568333707778637851/",
+      "label": ""
     },
     {
       "rank": 37,
-      "title": "美股散户黑色星期二：妖股与币圈齐跌",
-      "url": "https://www.toutiao.com/trending/7569039144299548214/",
-      "label": ""
+      "title": "中国顶尖科学家数量已超越美国",
+      "url": "https://www.toutiao.com/trending/7569047240304496154/",
+      "label": "new"
     },
     {
       "rank": 38,
@@ -238,20 +238,20 @@
     },
     {
       "rank": 39,
-      "title": "茅台遇冷与科技崛起背后",
-      "url": "https://www.toutiao.com/trending/7569039892903120426/",
-      "label": "new"
+      "title": "美股散户黑色星期二：妖股与币圈齐跌",
+      "url": "https://www.toutiao.com/trending/7569039144299548214/",
+      "label": ""
     },
     {
       "rank": 40,
-      "title": "财政部新设债务管理司透露什么信号",
-      "url": "https://www.toutiao.com/trending/7568394846307172394/",
+      "title": "歌手赵传回乡祭拜爷爷奶奶",
+      "url": "https://www.toutiao.com/trending/7567695421024813097/",
       "label": ""
     },
     {
       "rank": 41,
-      "title": "特朗普对委内瑞拉动武计划曝光",
-      "url": "https://www.toutiao.com/trending/7569039041312591423/",
+      "title": "国台办批民进党当局迫害岛内陆配群体",
+      "url": "https://www.toutiao.com/trending/7569069606834716715/",
       "label": ""
     },
     {
@@ -262,50 +262,50 @@
     },
     {
       "rank": 43,
-      "title": "国民党新竹市新主委：推动蓝白合作",
-      "url": "https://www.toutiao.com/trending/7568697632273580095/",
-      "label": "new"
+      "title": "特朗普对委内瑞拉动武计划曝光",
+      "url": "https://www.toutiao.com/trending/7569039041312591423/",
+      "label": ""
     },
     {
       "rank": 44,
-      "title": "别让安世事件成为欧洲市场经济的污点",
-      "url": "https://www.toutiao.com/trending/7569040738927791659/",
-      "label": "new"
+      "title": "国民党新竹市新主委：推动蓝白合作",
+      "url": "https://www.toutiao.com/trending/7568697632273580095/",
+      "label": ""
     },
     {
       "rank": 45,
-      "title": "王宗源夺得全运会男子1米板冠军",
-      "url": "https://www.toutiao.com/trending/7568801191237635611/",
+      "title": "财政部新设债务管理司透露什么信号",
+      "url": "https://www.toutiao.com/trending/7568394846307172394/",
       "label": ""
     },
     {
       "rank": 46,
-      "title": "看外媒专访郑丽文“翻车”现场",
-      "url": "https://www.toutiao.com/trending/7568338340397727787/",
-      "label": "hot"
+      "title": "茅台遇冷与科技崛起背后",
+      "url": "https://www.toutiao.com/trending/7569039892903120426/",
+      "label": "new"
     },
     {
       "rank": 47,
-      "title": "中国顶尖科学家数量已超越美国",
-      "url": "https://www.toutiao.com/trending/7569047240304496154/",
+      "title": "抗流感药需求激增 谁能抢占C位",
+      "url": "https://www.toutiao.com/trending/7568994090063446079/",
       "label": "new"
     },
     {
       "rank": 48,
-      "title": "白百何：还能这么操作",
-      "url": "https://www.toutiao.com/trending/7568505271849451539/",
-      "label": ""
+      "title": "李大霄：A股呈韧性是中流砥柱",
+      "url": "https://www.toutiao.com/trending/7569067228952432134/",
+      "label": "new"
     },
     {
       "rank": 49,
-      "title": "蓝营：赖清德当局对美关系零分",
-      "url": "https://www.toutiao.com/trending/7568508778216521764/",
-      "label": ""
+      "title": "国台办：“台独”是绝路",
+      "url": "https://www.toutiao.com/trending/7568278528559562798/",
+      "label": "new"
     },
     {
       "rank": 50,
-      "title": "宋清辉：无障碍环境是城市核心竞争力",
-      "url": "https://www.toutiao.com/trending/7567733934747090980/",
+      "title": "王宗源夺得全运会男子1米板冠军",
+      "url": "https://www.toutiao.com/trending/7568801191237635611/",
       "label": ""
     }
   ]
