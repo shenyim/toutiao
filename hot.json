@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 06 Nov 2025 05:10:04 GMT",
+  "generated_at": "Thu, 06 Nov 2025 05:15:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "构建网络空间命运共同体",
@@ -48,7 +48,7 @@
       "rank": 7,
       "title": "重庆调整部分行政区划",
       "url": "https://www.toutiao.com/trending/7569242111862734858/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 8,
@@ -82,15 +82,15 @@
     },
     {
       "rank": 13,
-      "title": "高校“唯一指定”外卖阻拦学生取餐",
-      "url": "https://www.toutiao.com/trending/7568395386449575945/",
-      "label": ""
+      "title": "重庆市两江新区迎来首任区委书记",
+      "url": "https://www.toutiao.com/trending/7569459311076707882/",
+      "label": "hot"
     },
     {
       "rank": 14,
-      "title": "重庆市两江新区迎来首任区委书记",
-      "url": "https://www.toutiao.com/trending/7569459311076707882/",
-      "label": "new"
+      "title": "高校“唯一指定”外卖阻拦学生取餐",
+      "url": "https://www.toutiao.com/trending/7568395386449575945/",
+      "label": ""
     },
     {
       "rank": 15,
@@ -124,135 +124,135 @@
     },
     {
       "rank": 20,
-      "title": "中国将迎来10年电力超级周期",
-      "url": "https://www.toutiao.com/trending/7568148332582109203/",
-      "label": "new"
-    },
-    {
-      "rank": 21,
-      "title": "空间微小碎片如何影响神二十",
-      "url": "https://www.toutiao.com/trending/7569122486567210523/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 22,
-      "title": "爸爸哄娃没拿稳手机险些把孩子摔了",
-      "url": "https://www.toutiao.com/trending/7568803337500606500/",
-      "label": "onSite"
-    },
-    {
-      "rank": 23,
-      "title": "环球小姐墨西哥选手被辱骂愤然离场",
-      "url": "https://www.toutiao.com/trending/7569090213255856134/",
-      "label": "onSite"
-    },
-    {
-      "rank": 24,
-      "title": "青岛西海岸发文祝福邵佳一",
-      "url": "https://www.toutiao.com/trending/7569163912421376043/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "胖东来重奖20名见义勇为员工",
-      "url": "https://www.toutiao.com/trending/7569401848260575241/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "高市早苗提议与金正恩会面有何目的",
-      "url": "https://www.toutiao.com/trending/7569414699809246783/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
-      "title": "中俄为何选择此时加快远东开发",
-      "url": "https://www.toutiao.com/trending/7569186091475930665/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 28,
-      "title": "评委桂纶镁回应王传君获影帝",
-      "url": "https://www.toutiao.com/trending/7569358984587591699/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "丈夫病亡两天后妻子也离世",
-      "url": "https://www.toutiao.com/trending/7569223214112473098/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "撞击神二十的空间碎片从哪来",
-      "url": "https://www.toutiao.com/trending/7569069836216942618/",
-      "label": "hot"
-    },
-    {
-      "rank": 31,
-      "title": "高铁车票座位标注该不该“开窗见山”",
-      "url": "https://www.toutiao.com/trending/7568787655295631366/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "俄乌为何死磕红军城",
-      "url": "https://www.toutiao.com/trending/7569428961462062646/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 33,
-      "title": "进博会现场体验飞行汽车",
-      "url": "https://www.toutiao.com/trending/7568397028838162468/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "学者：四川舰进入海试倒计时",
-      "url": "https://www.toutiao.com/trending/7569419215816379923/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "媒体评王传君获影帝遭质疑",
-      "url": "https://www.toutiao.com/trending/7569259642141818926/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "向太称绝不录用王家卫",
-      "url": "https://www.toutiao.com/trending/7567996911937093674/",
-      "label": "hot"
-    },
-    {
-      "rank": 37,
-      "title": "辽宁队战胜澳门队赛后两支球队合影",
-      "url": "https://www.toutiao.com/trending/7569062166583443507/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "30斤大鱼游过来向钓鱼大哥要吃的",
-      "url": "https://www.toutiao.com/trending/7568869403615215657/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "网红鹿哈官宣领证",
-      "url": "https://www.toutiao.com/trending/7568691237021139007/",
-      "label": ""
-    },
-    {
-      "rank": 40,
       "title": "日官方为何公布高市早苗APEC名场面",
       "url": "https://www.toutiao.com/trending/7569065009595026990/",
       "label": "interpretation"
     },
     {
-      "rank": 41,
-      "title": "美政府停摆36天创“不光彩纪录”",
-      "url": "https://www.toutiao.com/trending/7569398186003926554/",
+      "rank": 21,
+      "title": "中国将迎来10年电力超级周期",
+      "url": "https://www.toutiao.com/trending/7568148332582109203/",
       "label": "new"
+    },
+    {
+      "rank": 22,
+      "title": "丈夫病亡两天后妻子也离世",
+      "url": "https://www.toutiao.com/trending/7569223214112473098/",
+      "label": ""
+    },
+    {
+      "rank": 23,
+      "title": "空间微小碎片如何影响神二十",
+      "url": "https://www.toutiao.com/trending/7569122486567210523/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 24,
+      "title": "AI的风吹到了电网 电网ETF持续走强",
+      "url": "https://www.toutiao.com/trending/7569383676413313065/",
+      "label": "new"
+    },
+    {
+      "rank": 25,
+      "title": "环球小姐墨西哥选手被辱骂愤然离场",
+      "url": "https://www.toutiao.com/trending/7569090213255856134/",
+      "label": "onSite"
+    },
+    {
+      "rank": 26,
+      "title": "青岛西海岸发文祝福邵佳一",
+      "url": "https://www.toutiao.com/trending/7569163912421376043/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "向太称绝不录用王家卫",
+      "url": "https://www.toutiao.com/trending/7567996911937093674/",
+      "label": "hot"
+    },
+    {
+      "rank": 28,
+      "title": "高市早苗提议与金正恩会面有何目的",
+      "url": "https://www.toutiao.com/trending/7569414699809246783/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
+      "title": "30斤大鱼游过来向钓鱼大哥要吃的",
+      "url": "https://www.toutiao.com/trending/7568869403615215657/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "学者：四川舰进入海试倒计时",
+      "url": "https://www.toutiao.com/trending/7569419215816379923/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "撞击神二十的空间碎片从哪来",
+      "url": "https://www.toutiao.com/trending/7569069836216942618/",
+      "label": "hot"
+    },
+    {
+      "rank": 32,
+      "title": "中俄为何选择此时加快远东开发",
+      "url": "https://www.toutiao.com/trending/7569186091475930665/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 33,
+      "title": "胖东来重奖20名见义勇为员工",
+      "url": "https://www.toutiao.com/trending/7569401848260575241/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "评委桂纶镁回应王传君获影帝",
+      "url": "https://www.toutiao.com/trending/7569358984587591699/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "俄乌战场争夺激烈 北约演习意欲何为",
+      "url": "https://www.toutiao.com/trending/7568325752933302315/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "韩国新任驻华大使拜会察哈尔学会",
+      "url": "https://www.toutiao.com/trending/7568859640177524772/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "媒体评王传君获影帝遭质疑",
+      "url": "https://www.toutiao.com/trending/7569259642141818926/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "俄乌为何死磕红军城",
+      "url": "https://www.toutiao.com/trending/7569428961462062646/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 39,
+      "title": "男子冒充民政局局长拍照收集信息",
+      "url": "https://www.toutiao.com/trending/7569162455352393766/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "网红鹿哈官宣领证",
+      "url": "https://www.toutiao.com/trending/7568691237021139007/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "特朗普再提中美俄无核化意欲何为",
+      "url": "https://www.toutiao.com/trending/7569434603178429995/",
+      "label": "interpretation"
     },
     {
       "rank": 42,
@@ -262,51 +262,51 @@
     },
     {
       "rank": 43,
-      "title": "媒体：面对面扇耳光算哪门子比赛",
-      "url": "https://www.toutiao.com/trending/7569242857748303366/",
-      "label": ""
+      "title": "高铁车票座位标注该不该“开窗见山”",
+      "url": "https://www.toutiao.com/trending/7568787655295631366/",
+      "label": "new"
     },
     {
       "rank": 44,
+      "title": "海军某基地举行入伍新兵授枪仪式",
+      "url": "https://www.toutiao.com/trending/7568768629622390826/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
       "title": "机器人4S店开进商场",
       "url": "https://www.toutiao.com/trending/7568488114450907146/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "新疆阿克陶县发生4.2级地震",
-      "url": "https://www.toutiao.com/trending/7569414444984307263/",
+      "rank": 46,
+      "title": "台军两大“杀手锏”被批很扯",
+      "url": "https://www.toutiao.com/trending/7569410846971985983/",
       "label": "new"
     },
     {
-      "rank": 46,
-      "title": "NBA新秀榜：弗拉格回暖升至第三",
-      "url": "https://www.toutiao.com/trending/7568342948678565931/",
-      "label": ""
-    },
-    {
       "rank": 47,
-      "title": "中伊外长通话讨论了什么",
-      "url": "https://www.toutiao.com/trending/7569395468036214326/",
-      "label": "interpretation"
+      "title": "美政府停摆36天创“不光彩纪录”",
+      "url": "https://www.toutiao.com/trending/7569398186003926554/",
+      "label": "new"
     },
     {
       "rank": 48,
-      "title": "美政府停摆特朗普有能力发动战争吗",
-      "url": "https://www.toutiao.com/trending/7569411362367999526/",
-      "label": "interpretation"
+      "title": "进博会现场体验飞行汽车",
+      "url": "https://www.toutiao.com/trending/7568397028838162468/",
+      "label": "new"
     },
     {
       "rank": 49,
-      "title": "公证员回忆朱枫烈士骨灰“回家”",
-      "url": "https://www.toutiao.com/trending/7568533180148563978/",
+      "title": "辛芷蕾张颂文同框",
+      "url": "https://www.toutiao.com/trending/7568652826461618217/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "赵鸿刚被KO后现在看人还是“重影”",
-      "url": "https://www.toutiao.com/trending/7568728155180613682/",
-      "label": ""
+      "title": "美政府停摆特朗普有能力发动战争吗",
+      "url": "https://www.toutiao.com/trending/7569411362367999526/",
+      "label": "interpretation"
     }
   ]
 }
