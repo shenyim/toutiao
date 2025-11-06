@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 06 Nov 2025 14:45:05 GMT",
+  "generated_at": "Thu, 06 Nov 2025 14:55:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "高标准建设海南自由贸易港",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "中国军工发布福建舰海试高清视频",
-      "url": "https://www.toutiao.com/trending/7569592352537316873/",
-      "label": "hot"
-    },
-    {
-      "rank": 2,
       "title": "何小鹏剪机器人腿部哽咽辟谣藏真人",
       "url": "https://www.toutiao.com/trending/7569600745033747978/",
       "label": ""
+    },
+    {
+      "rank": 2,
+      "title": "中国军工发布福建舰海试高清视频",
+      "url": "https://www.toutiao.com/trending/7569592352537316873/",
+      "label": "hot"
     },
     {
       "rank": 3,
@@ -28,21 +28,21 @@
     },
     {
       "rank": 4,
-      "title": "专家：中国100米“迷你航母”试航",
-      "url": "https://www.toutiao.com/trending/7569559550987095588/",
-      "label": "hot"
-    },
-    {
-      "rank": 5,
       "title": "正确识别肾功能减退发出的信号",
       "url": "https://www.toutiao.com/trending/7569516428584386614/",
       "label": ""
     },
     {
+      "rank": 5,
+      "title": "专家：中国100米“迷你航母”试航",
+      "url": "https://www.toutiao.com/trending/7569559550987095588/",
+      "label": "hot"
+    },
+    {
       "rank": 6,
-      "title": "媒体：基因溯源不容“历史戏说”",
-      "url": "https://www.toutiao.com/trending/7568837482473803270/",
-      "label": "new"
+      "title": "陈芋汐掌敏洁夺金 全红婵组合第5",
+      "url": "https://www.toutiao.com/trending/7568779293183168042/",
+      "label": "hot"
     },
     {
       "rank": 7,
@@ -52,21 +52,21 @@
     },
     {
       "rank": 8,
-      "title": "这些症状可能是早期糖尿病信号",
-      "url": "https://www.toutiao.com/trending/7569543184198844459/",
-      "label": ""
+      "title": "新疆为什么会特大暴雪",
+      "url": "https://www.toutiao.com/trending/7569579968703761947/",
+      "label": "new"
     },
     {
       "rank": 9,
-      "title": "菲律宾进入灾难状态 当地华人发声",
-      "url": "https://www.toutiao.com/trending/7569026014123393070/",
-      "label": ""
+      "title": "小鹏汽车发力人形机器人意欲何为",
+      "url": "https://www.toutiao.com/trending/7569599100031602212/",
+      "label": "interpretation"
     },
     {
       "rank": 10,
-      "title": "专家：中国仅用10年走完美军航母之路",
-      "url": "https://www.toutiao.com/trending/7569560449868369450/",
-      "label": "hot"
+      "title": "菲律宾进入灾难状态 当地华人发声",
+      "url": "https://www.toutiao.com/trending/7569026014123393070/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -82,51 +82,51 @@
     },
     {
       "rank": 13,
-      "title": "新疆为什么会特大暴雪",
-      "url": "https://www.toutiao.com/trending/7569579968703761947/",
+      "title": "媒体：基因溯源不容“历史戏说”",
+      "url": "https://www.toutiao.com/trending/7568837482473803270/",
       "label": "new"
     },
     {
       "rank": 14,
-      "title": "陈芋汐掌敏洁夺金 全红婵组合第5",
-      "url": "https://www.toutiao.com/trending/7568779293183168042/",
+      "title": "别只会多穿衣服防寒 这几点很重要",
+      "url": "https://www.toutiao.com/trending/7569551928134172714/",
       "label": "hot"
     },
     {
       "rank": 15,
-      "title": "东方甄选两年失去“两大支柱”",
-      "url": "https://www.toutiao.com/trending/7569553563483901483/",
-      "label": ""
-    },
-    {
-      "rank": 16,
-      "title": "小鹏汽车发力人形机器人意欲何为",
-      "url": "https://www.toutiao.com/trending/7569599100031602212/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 17,
       "title": "全红婵赛后称没跳好但算正常",
       "url": "https://www.toutiao.com/trending/7568475250633080870/",
       "label": "hot"
     },
     {
+      "rank": 16,
+      "title": "东方甄选两年失去“两大支柱”",
+      "url": "https://www.toutiao.com/trending/7569553563483901483/",
+      "label": ""
+    },
+    {
+      "rank": 17,
+      "title": "这些症状可能是早期糖尿病信号",
+      "url": "https://www.toutiao.com/trending/7569543184198844459/",
+      "label": ""
+    },
+    {
       "rank": 18,
+      "title": "何小鹏再回应机器人“质疑”",
+      "url": "https://www.toutiao.com/trending/7569615557000154633/",
+      "label": "new"
+    },
+    {
+      "rank": 19,
       "title": "孙东旭还是离开了东方甄选",
       "url": "https://www.toutiao.com/trending/7569573265690070570/",
       "label": "new"
     },
     {
-      "rank": 19,
-      "title": "博主：“换种史学”是精神胜利法",
-      "url": "https://www.toutiao.com/trending/7569246186944036883/",
-      "label": "new"
-    },
-    {
       "rank": 20,
-      "title": "别只会多穿衣服防寒 这几点很重要",
-      "url": "https://www.toutiao.com/trending/7569551928134172714/",
-      "label": "hot"
+      "title": "荒野求生“打野王”刀疤哥终于吃素了",
+      "url": "https://www.toutiao.com/trending/7569540658768986150/",
+      "label": "new"
     },
     {
       "rank": 21,
@@ -136,8 +136,8 @@
     },
     {
       "rank": 22,
-      "title": "乌鲁木齐特大暴雪破纪录",
-      "url": "https://www.toutiao.com/trending/7569501591724625458/",
+      "title": "专家：中国仅用10年走完美军航母之路",
+      "url": "https://www.toutiao.com/trending/7569560449868369450/",
       "label": "hot"
     },
     {
@@ -148,45 +148,45 @@
     },
     {
       "rank": 24,
-      "title": "投顾：A股重返关键关口",
-      "url": "https://www.toutiao.com/trending/7569557114339724838/",
-      "label": "new"
+      "title": "白百何回应：不认同《春树》剧组做法",
+      "url": "https://www.toutiao.com/trending/7569229861710118918/",
+      "label": ""
     },
     {
       "rank": 25,
-      "title": "杭州5类重点群体给予25%社保补贴",
-      "url": "https://www.toutiao.com/trending/7569292030027825179/",
-      "label": "new"
+      "title": "乌鲁木齐特大暴雪破纪录",
+      "url": "https://www.toutiao.com/trending/7569501591724625458/",
+      "label": "hot"
     },
     {
       "rank": 26,
-      "title": "荒野求生“打野王”刀疤哥终于吃素了",
-      "url": "https://www.toutiao.com/trending/7569540658768986150/",
+      "title": "博主：“换种史学”是精神胜利法",
+      "url": "https://www.toutiao.com/trending/7569246186944036883/",
       "label": "new"
     },
     {
       "rank": 27,
+      "title": "卢秀燕今天两次90度鞠躬道歉",
+      "url": "https://www.toutiao.com/trending/7569491591350747142/",
+      "label": ""
+    },
+    {
+      "rank": 28,
       "title": "日本4名前首相国会酣睡",
       "url": "https://www.toutiao.com/trending/7569447602782273578/",
       "label": ""
     },
     {
-      "rank": 28,
-      "title": "女孩误服“敌草快” 父亲自责痛哭",
-      "url": "https://www.toutiao.com/trending/7569457309995515947/",
-      "label": ""
-    },
-    {
       "rank": 29,
-      "title": "羽绒服里面穿薄点还是厚点更暖和",
-      "url": "https://www.toutiao.com/trending/7568511453934796851/",
-      "label": ""
+      "title": "投顾：A股重返关键关口",
+      "url": "https://www.toutiao.com/trending/7569557114339724838/",
+      "label": "new"
     },
     {
       "rank": 30,
-      "title": "女子往黄河扔泥镯子掉进河中",
-      "url": "https://www.toutiao.com/trending/7569461169300439103/",
-      "label": ""
+      "title": "王传君回应东京电影节获奖后不笑",
+      "url": "https://www.toutiao.com/trending/7569186556049620998/",
+      "label": "new"
     },
     {
       "rank": 31,
@@ -202,21 +202,21 @@
     },
     {
       "rank": 33,
+      "title": "杭州5类重点群体给予25%社保补贴",
+      "url": "https://www.toutiao.com/trending/7569292030027825179/",
+      "label": ""
+    },
+    {
+      "rank": 34,
       "title": "小米手机不能打电话？王化火速辟谣",
       "url": "https://www.toutiao.com/trending/7569530182550162963/",
       "label": "new"
     },
     {
-      "rank": 34,
-      "title": "评论员：中俄给委内瑞拉送“定心丸”",
-      "url": "https://www.toutiao.com/trending/7569519247538425380/",
-      "label": "new"
-    },
-    {
       "rank": 35,
-      "title": "山西将迎大范围雨雪",
-      "url": "https://www.toutiao.com/trending/7569215136192643091/",
-      "label": "new"
+      "title": "中国发售的美元债为何遭哄抢",
+      "url": "https://www.toutiao.com/trending/7569529778995203625/",
+      "label": "interpretation"
     },
     {
       "rank": 36,
@@ -226,75 +226,75 @@
     },
     {
       "rank": 37,
-      "title": "台青：七个更好对应当下台湾七个更糟",
-      "url": "https://www.toutiao.com/trending/7569486875463781924/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 38,
-      "title": "民警巧用“纸袋呼吸法”救人",
-      "url": "https://www.toutiao.com/trending/7568425945435193371/",
+      "title": "全红婵脚上绑满肌贴",
+      "url": "https://www.toutiao.com/trending/7569226900737327147/",
       "label": ""
     },
     {
+      "rank": 38,
+      "title": "评论员：中俄给委内瑞拉送“定心丸”",
+      "url": "https://www.toutiao.com/trending/7569519247538425380/",
+      "label": "new"
+    },
+    {
       "rank": 39,
-      "title": "律师取现1万被盘问 银行做法合法吗",
-      "url": "https://www.toutiao.com/trending/7569525128103464491/",
+      "title": "女孩误服“敌草快” 父亲自责痛哭",
+      "url": "https://www.toutiao.com/trending/7569457309995515947/",
       "label": ""
     },
     {
       "rank": 40,
-      "title": "迪卡侬回应顾客误认透气孔弄丢手机",
-      "url": "https://www.toutiao.com/trending/7569480710748127268/",
+      "title": "女子往黄河扔泥镯子掉进河中",
+      "url": "https://www.toutiao.com/trending/7569461169300439103/",
       "label": ""
     },
     {
       "rank": 41,
-      "title": "“耳光比赛”赵鸿刚谈失利：没经验",
-      "url": "https://www.toutiao.com/trending/7569496194251247142/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "王传君回应东京电影节获奖后不笑",
-      "url": "https://www.toutiao.com/trending/7569186556049620998/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
-      "title": "卢秀燕今天两次90度鞠躬道歉",
-      "url": "https://www.toutiao.com/trending/7569491591350747142/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "东方甄选已注册多枚“东方小孙”商标",
-      "url": "https://www.toutiao.com/trending/7569158149635588159/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "白百何回应：不认同《春树》剧组做法",
-      "url": "https://www.toutiao.com/trending/7569229861710118918/",
-      "label": ""
-    },
-    {
-      "rank": 46,
       "title": "浙大食堂一只螃蟹8.8元",
       "url": "https://www.toutiao.com/trending/7569397277635333642/",
       "label": ""
     },
     {
+      "rank": 42,
+      "title": "民警巧用“纸袋呼吸法”救人",
+      "url": "https://www.toutiao.com/trending/7568425945435193371/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "台青：七个更好对应当下台湾七个更糟",
+      "url": "https://www.toutiao.com/trending/7569486875463781924/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 44,
+      "title": "律师取现1万被盘问 银行做法合法吗",
+      "url": "https://www.toutiao.com/trending/7569525128103464491/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "新款坦克400上市售24.98万起",
+      "url": "https://www.toutiao.com/trending/7568784987967012891/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "“耳光比赛”赵鸿刚谈失利：没经验",
+      "url": "https://www.toutiao.com/trending/7569496194251247142/",
+      "label": ""
+    },
+    {
       "rank": 47,
-      "title": "美军是否真的要对委内瑞拉开战",
-      "url": "https://www.toutiao.com/trending/7569476119020178954/",
+      "title": "台风“海鸥”的影响有多大",
+      "url": "https://www.toutiao.com/trending/7569518576416067113/",
       "label": "new"
     },
     {
       "rank": 48,
-      "title": "日产汽车4至9月净亏损2219.21亿日元",
-      "url": "https://www.toutiao.com/trending/7568807404658229294/",
-      "label": "new"
+      "title": "成都将举行荒野求生赛事？官方回应",
+      "url": "https://www.toutiao.com/trending/7569260230492799022/",
+      "label": ""
     },
     {
       "rank": 49,
@@ -304,8 +304,8 @@
     },
     {
       "rank": 50,
-      "title": "台风“海鸥”的影响有多大",
-      "url": "https://www.toutiao.com/trending/7569518576416067113/",
+      "title": "东方甄选已注册多枚“东方小孙”商标",
+      "url": "https://www.toutiao.com/trending/7569158149635588159/",
       "label": ""
     }
   ]
