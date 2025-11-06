@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 06 Nov 2025 04:40:03 GMT",
+  "generated_at": "Thu, 06 Nov 2025 04:45:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "构建网络空间命运共同体",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "菲律宾全国进入灾难状态",
-      "url": "https://www.toutiao.com/trending/7568406623333875766/",
-      "label": "new"
-    },
-    {
-      "rank": 2,
       "title": "全红婵陈芋汐张家齐上演神仙对决",
       "url": "https://www.toutiao.com/trending/7569435995662421542/",
       "label": "hot"
+    },
+    {
+      "rank": 2,
+      "title": "菲律宾全国进入灾难状态",
+      "url": "https://www.toutiao.com/trending/7568406623333875766/",
+      "label": ""
     },
     {
       "rank": 3,
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "山航空姐换上了开衫毛衣",
-      "url": "https://www.toutiao.com/trending/7568182762528866314/",
-      "label": ""
+      "title": "专家：中国海军三航母时代要来了",
+      "url": "https://www.toutiao.com/trending/7569428460645387818/",
+      "label": "new"
     },
     {
       "rank": 9,
@@ -76,20 +76,20 @@
     },
     {
       "rank": 12,
+      "title": "山航空姐换上了开衫毛衣",
+      "url": "https://www.toutiao.com/trending/7568182762528866314/",
+      "label": ""
+    },
+    {
+      "rank": 13,
       "title": "高校“唯一指定”外卖阻拦学生取餐",
       "url": "https://www.toutiao.com/trending/7568395386449575945/",
       "label": "new"
     },
     {
-      "rank": 13,
+      "rank": 14,
       "title": "王楚钦樊振东无缘会师男单决赛",
       "url": "https://www.toutiao.com/trending/7569196566943367214/",
-      "label": "new"
-    },
-    {
-      "rank": 14,
-      "title": "小鹏新一代机器人走猫步动作逼真",
-      "url": "https://www.toutiao.com/trending/7569221410699984939/",
       "label": "new"
     },
     {
@@ -100,8 +100,8 @@
     },
     {
       "rank": 16,
-      "title": "“房贷倒挂”下断供情况多吗",
-      "url": "https://www.toutiao.com/trending/7569215539236061235/",
+      "title": "小鹏新一代机器人走猫步动作逼真",
+      "url": "https://www.toutiao.com/trending/7569221410699984939/",
       "label": ""
     },
     {
@@ -112,9 +112,9 @@
     },
     {
       "rank": 18,
-      "title": "专家：中国海军三航母时代要来了",
-      "url": "https://www.toutiao.com/trending/7569428460645387818/",
-      "label": "new"
+      "title": "“房贷倒挂”下断供情况多吗",
+      "url": "https://www.toutiao.com/trending/7569215539236061235/",
+      "label": ""
     },
     {
       "rank": 19,
@@ -136,81 +136,81 @@
     },
     {
       "rank": 22,
-      "title": "青岛西海岸发文祝福邵佳一",
-      "url": "https://www.toutiao.com/trending/7569163912421376043/",
-      "label": ""
-    },
-    {
-      "rank": 23,
       "title": "胖东来重奖20名见义勇为员工",
       "url": "https://www.toutiao.com/trending/7569401848260575241/",
       "label": "new"
     },
     {
-      "rank": 24,
-      "title": "神20疑遭碎片撞击 太空救援如何展开",
-      "url": "https://www.toutiao.com/trending/7569164867190394374/",
-      "label": "hot"
-    },
-    {
-      "rank": 25,
-      "title": "冈村富夫当选捷克众议院主席",
-      "url": "https://www.toutiao.com/trending/7569372433673994303/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "中俄为何选择此时加快远东开发",
-      "url": "https://www.toutiao.com/trending/7569186091475930665/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 27,
+      "rank": 23,
       "title": "午评：沪指收复4000点大关",
       "url": "https://www.toutiao.com/trending/7569452116566085163/",
       "label": "new"
     },
     {
+      "rank": 24,
+      "title": "网红鹿哈官宣领证",
+      "url": "https://www.toutiao.com/trending/7568691237021139007/",
+      "label": ""
+    },
+    {
+      "rank": 25,
+      "title": "青岛西海岸发文祝福邵佳一",
+      "url": "https://www.toutiao.com/trending/7569163912421376043/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "重庆市两江新区迎来首任区委书记",
+      "url": "https://www.toutiao.com/trending/7569459311076707882/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
+      "title": "机器人4S店开进商场",
+      "url": "https://www.toutiao.com/trending/7568488114450907146/",
+      "label": "new"
+    },
+    {
       "rank": 28,
-      "title": "日官方为何公布高市早苗APEC名场面",
-      "url": "https://www.toutiao.com/trending/7569065009595026990/",
-      "label": "interpretation"
+      "title": "高铁车票座位标注该不该“开窗见山”",
+      "url": "https://www.toutiao.com/trending/7568787655295631366/",
+      "label": "new"
     },
     {
       "rank": 29,
-      "title": "撞击神二十的空间碎片从哪来",
-      "url": "https://www.toutiao.com/trending/7569069836216942618/",
-      "label": "hot"
-    },
-    {
-      "rank": 30,
-      "title": "普京为何此时高调突出海燕和波塞冬",
-      "url": "https://www.toutiao.com/trending/7569419715416690212/",
+      "title": "中俄为何选择此时加快远东开发",
+      "url": "https://www.toutiao.com/trending/7569186091475930665/",
       "label": "interpretation"
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "评委桂纶镁回应王传君获影帝",
       "url": "https://www.toutiao.com/trending/7569358984587591699/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "下一个“超”在哪里",
-      "url": "https://www.toutiao.com/trending/7569428175126548022/",
-      "label": "new"
+      "rank": 31,
+      "title": "撞击神二十的空间碎片从哪来",
+      "url": "https://www.toutiao.com/trending/7569069836216942618/",
+      "label": "hot"
     },
     {
-      "rank": 33,
-      "title": "解放军191步枪全面配备消音器说明啥",
+      "rank": 32,
+      "title": "专业解读解放军191步枪全面配消音器",
       "url": "https://www.toutiao.com/trending/7569419149537988134/",
       "label": "interpretation"
     },
     {
-      "rank": 34,
-      "title": "机器人4S店开进商场",
-      "url": "https://www.toutiao.com/trending/7568488114450907146/",
+      "rank": 33,
+      "title": "欧冠前8球队英超占4席",
+      "url": "https://www.toutiao.com/trending/7569364689491689514/",
       "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "俄乌为何死磕红军城",
+      "url": "https://www.toutiao.com/trending/7569428961462062646/",
+      "label": "interpretation"
     },
     {
       "rank": 35,
@@ -220,93 +220,93 @@
     },
     {
       "rank": 36,
-      "title": "向太称绝不录用王家卫",
-      "url": "https://www.toutiao.com/trending/7567996911937093674/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "俄乌为何死磕红军城",
-      "url": "https://www.toutiao.com/trending/7569428961462062646/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 38,
-      "title": "为什么公司越裁员估值反而越高",
-      "url": "https://www.toutiao.com/trending/7569388786434444819/",
+      "title": "公证员回忆朱枫烈士骨灰“回家”",
+      "url": "https://www.toutiao.com/trending/7568533180148563978/",
       "label": "new"
     },
     {
-      "rank": 39,
+      "rank": 37,
+      "title": "向太称绝不录用王家卫",
+      "url": "https://www.toutiao.com/trending/7567996911937093674/",
+      "label": "hot"
+    },
+    {
+      "rank": 38,
       "title": "媒体评王传君获影帝遭质疑",
       "url": "https://www.toutiao.com/trending/7569259642141818926/",
       "label": "new"
     },
     {
+      "rank": 39,
+      "title": "下一个“超”在哪里",
+      "url": "https://www.toutiao.com/trending/7569428175126548022/",
+      "label": "new"
+    },
+    {
       "rank": 40,
-      "title": "30斤大鱼游过来向钓鱼大哥要吃的",
-      "url": "https://www.toutiao.com/trending/7568869403615215657/",
+      "title": "冈村富夫当选捷克众议院主席",
+      "url": "https://www.toutiao.com/trending/7569372433673994303/",
       "label": ""
     },
     {
       "rank": 41,
-      "title": "美财政部维持长债发行不变",
-      "url": "https://www.toutiao.com/trending/7569395998959603243/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "文印店处理机密文件埋泄密隐患",
-      "url": "https://www.toutiao.com/trending/7568900978880135210/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
-      "title": "网红鹿哈官宣领证",
-      "url": "https://www.toutiao.com/trending/7568691237021139007/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "中美开始落实吉隆坡经贸磋商共识",
-      "url": "https://www.toutiao.com/trending/7569007839981600814/",
-      "label": "new"
-    },
-    {
-      "rank": 45,
-      "title": "华为路由X3 Pro开启预售",
-      "url": "https://www.toutiao.com/trending/7569405216265863222/",
-      "label": "new"
-    },
-    {
-      "rank": 46,
-      "title": "爸爸哄娃没拿稳手机险些把孩子摔了",
-      "url": "https://www.toutiao.com/trending/7568803337500606500/",
-      "label": "onSite"
-    },
-    {
-      "rank": 47,
       "title": "媒体：面对面扇耳光算哪门子比赛",
       "url": "https://www.toutiao.com/trending/7569242857748303366/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 42,
+      "title": "30斤大鱼游过来向钓鱼大哥要吃的",
+      "url": "https://www.toutiao.com/trending/7568869403615215657/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "华为路由X3 Pro开启预售",
+      "url": "https://www.toutiao.com/trending/7569405216265863222/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "赵鸿刚被KO后现在看人还是“重影”",
+      "url": "https://www.toutiao.com/trending/7568728155180613682/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "中美开始落实吉隆坡经贸磋商共识",
+      "url": "https://www.toutiao.com/trending/7569007839981600814/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "高市早苗提议与金正恩会面有何目的",
+      "url": "https://www.toutiao.com/trending/7569414699809246783/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
       "title": "“馆长”邀请王世坚来大陆看一看",
       "url": "https://www.toutiao.com/trending/7568806188441567251/",
       "label": ""
     },
     {
+      "rank": 48,
+      "title": "美财政部维持长债发行不变",
+      "url": "https://www.toutiao.com/trending/7569395998959603243/",
+      "label": "new"
+    },
+    {
       "rank": 49,
-      "title": "美政府停摆36天创“不光彩纪录”",
-      "url": "https://www.toutiao.com/trending/7569398186003926554/",
+      "title": "学者：四川舰进入海试倒计时",
+      "url": "https://www.toutiao.com/trending/7569419215816379923/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "赵鸿刚被KO后现在看人还是“重影”",
-      "url": "https://www.toutiao.com/trending/7568728155180613682/",
-      "label": ""
+      "title": "中俄财长对话达成多项共识",
+      "url": "https://www.toutiao.com/trending/7569048713398747172/",
+      "label": "new"
     }
   ]
 }
