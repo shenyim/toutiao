@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 06 Nov 2025 03:20:20 GMT",
+  "generated_at": "Thu, 06 Nov 2025 03:25:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "构建网络空间命运共同体",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "保洁大姨版车模意外走红",
       "url": "https://www.toutiao.com/trending/7569114555756167204/",
-      "label": ""
+      "label": "onSite"
     },
     {
       "rank": 2,
@@ -34,9 +34,9 @@
     },
     {
       "rank": 5,
-      "title": "超级月亮惊艳大图来了",
-      "url": "https://www.toutiao.com/trending/7569243326508174894/",
-      "label": ""
+      "title": "中俄为何选择此时加快远东开发",
+      "url": "https://www.toutiao.com/trending/7569186091475930665/",
+      "label": "interpretation"
     },
     {
       "rank": 6,
@@ -46,9 +46,9 @@
     },
     {
       "rank": 7,
-      "title": "中俄为何选择此时加快远东开发",
-      "url": "https://www.toutiao.com/trending/7569186091475930665/",
-      "label": "interpretation"
+      "title": "福建舰入列进入倒计时",
+      "url": "https://www.toutiao.com/trending/7569420824147398207/",
+      "label": "new"
     },
     {
       "rank": 8,
@@ -58,9 +58,9 @@
     },
     {
       "rank": 9,
-      "title": "福建舰入列进入倒计时",
-      "url": "https://www.toutiao.com/trending/7569420824147398207/",
-      "label": "new"
+      "title": "超级月亮惊艳大图来了",
+      "url": "https://www.toutiao.com/trending/7569243326508174894/",
+      "label": ""
     },
     {
       "rank": 10,
@@ -82,20 +82,20 @@
     },
     {
       "rank": 13,
+      "title": "欧盟向中方提交2000份稀土申请",
+      "url": "https://www.toutiao.com/trending/7569013174004105270/",
+      "label": "new"
+    },
+    {
+      "rank": 14,
       "title": "向太称绝不录用王家卫",
       "url": "https://www.toutiao.com/trending/7567996911937093674/",
       "label": ""
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "“馆长”邀请王世坚来大陆看一看",
       "url": "https://www.toutiao.com/trending/7568806188441567251/",
-      "label": ""
-    },
-    {
-      "rank": 15,
-      "title": "媒体：面对面扇耳光算哪门子比赛",
-      "url": "https://www.toutiao.com/trending/7569242857748303366/",
       "label": ""
     },
     {
@@ -112,9 +112,9 @@
     },
     {
       "rank": 18,
-      "title": "欧盟向中方提交2000份稀土申请",
-      "url": "https://www.toutiao.com/trending/7569013174004105270/",
-      "label": "new"
+      "title": "网红鹿哈官宣领证",
+      "url": "https://www.toutiao.com/trending/7568691237021139007/",
+      "label": ""
     },
     {
       "rank": 19,
@@ -124,8 +124,8 @@
     },
     {
       "rank": 20,
-      "title": "网红鹿哈官宣领证",
-      "url": "https://www.toutiao.com/trending/7568691237021139007/",
+      "title": "媒体：面对面扇耳光算哪门子比赛",
+      "url": "https://www.toutiao.com/trending/7569242857748303366/",
       "label": ""
     },
     {
@@ -136,9 +136,9 @@
     },
     {
       "rank": 22,
-      "title": "美国大豆出口协会CEO称重燃信心",
-      "url": "https://www.toutiao.com/trending/7568349080649351174/",
-      "label": ""
+      "title": "评委桂纶镁回应王传君获影帝",
+      "url": "https://www.toutiao.com/trending/7569358984587591699/",
+      "label": "new"
     },
     {
       "rank": 23,
@@ -160,15 +160,15 @@
     },
     {
       "rank": 26,
-      "title": "日官方为何公布高市早苗APEC名场面",
-      "url": "https://www.toutiao.com/trending/7569065009595026990/",
-      "label": "interpretation"
+      "title": "美国大豆出口协会CEO称重燃信心",
+      "url": "https://www.toutiao.com/trending/7568349080649351174/",
+      "label": ""
     },
     {
       "rank": 27,
-      "title": "评委桂纶镁回应王传君获影帝",
-      "url": "https://www.toutiao.com/trending/7569358984587591699/",
-      "label": "new"
+      "title": "日官方为何公布高市早苗APEC名场面",
+      "url": "https://www.toutiao.com/trending/7569065009595026990/",
+      "label": "interpretation"
     },
     {
       "rank": 28,
@@ -178,27 +178,27 @@
     },
     {
       "rank": 29,
-      "title": "男子开斗气车强行变道 撞车后嘴硬",
-      "url": "https://www.toutiao.com/trending/7568844503533846534/",
-      "label": "onSite"
-    },
-    {
-      "rank": 30,
       "title": "丈夫病亡两天后妻子也离世",
       "url": "https://www.toutiao.com/trending/7569223214112473098/",
       "label": ""
     },
     {
-      "rank": 31,
-      "title": "日本前官员评高市早苗“笑颜外交”",
-      "url": "https://www.toutiao.com/trending/7568155152458924051/",
-      "label": ""
-    },
-    {
-      "rank": 32,
+      "rank": 30,
       "title": "普京为何此时高调突出海燕和波塞冬",
       "url": "https://www.toutiao.com/trending/7569419715416690212/",
       "label": "interpretation"
+    },
+    {
+      "rank": 31,
+      "title": "男子开斗气车强行变道 撞车后嘴硬",
+      "url": "https://www.toutiao.com/trending/7568844503533846534/",
+      "label": "onSite"
+    },
+    {
+      "rank": 32,
+      "title": "日本前官员评高市早苗“笑颜外交”",
+      "url": "https://www.toutiao.com/trending/7568155152458924051/",
+      "label": ""
     },
     {
       "rank": 33,
@@ -208,26 +208,26 @@
     },
     {
       "rank": 34,
-      "title": "辛芷蕾张颂文同框",
-      "url": "https://www.toutiao.com/trending/7568652826461618217/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "30斤大鱼游过来向钓鱼大哥要吃的",
-      "url": "https://www.toutiao.com/trending/7568869403615215657/",
-      "label": ""
-    },
-    {
-      "rank": 36,
       "title": "特朗普称美股将再创新高",
       "url": "https://www.toutiao.com/trending/7569403413117537838/",
       "label": "new"
     },
     {
-      "rank": 37,
+      "rank": 35,
+      "title": "辛芷蕾张颂文同框",
+      "url": "https://www.toutiao.com/trending/7568652826461618217/",
+      "label": ""
+    },
+    {
+      "rank": 36,
       "title": "夫妻像双胞胎 网友建议查下DNA",
       "url": "https://www.toutiao.com/trending/7569015464379383814/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "30斤大鱼游过来向钓鱼大哥要吃的",
+      "url": "https://www.toutiao.com/trending/7568869403615215657/",
       "label": ""
     },
     {
@@ -238,9 +238,9 @@
     },
     {
       "rank": 39,
-      "title": "天山胜利隧道诠释了“要想富先修路”",
-      "url": "https://www.toutiao.com/trending/7569414992152235526/",
-      "label": "new"
+      "title": "浙大食堂一只螃蟹8.8元",
+      "url": "https://www.toutiao.com/trending/7569397277635333642/",
+      "label": ""
     },
     {
       "rank": 40,
@@ -250,15 +250,15 @@
     },
     {
       "rank": 41,
-      "title": "如何看待邵佳一出任国足主帅",
-      "url": "https://www.toutiao.com/trending/7569382838248689203/",
-      "label": ""
+      "title": "天山胜利隧道诠释了“要想富先修路”",
+      "url": "https://www.toutiao.com/trending/7569414992152235526/",
+      "label": "new"
     },
     {
       "rank": 42,
-      "title": "浙大食堂一只螃蟹8.8元",
-      "url": "https://www.toutiao.com/trending/7569397277635333642/",
-      "label": ""
+      "title": "如何看待邵佳一出任国足主帅",
+      "url": "https://www.toutiao.com/trending/7569382838248689203/",
+      "label": "hot"
     },
     {
       "rank": 43,
@@ -274,9 +274,9 @@
     },
     {
       "rank": 45,
-      "title": "泽连斯基喊话美方供乌远程武器",
-      "url": "https://www.toutiao.com/trending/7568630281029173267/",
-      "label": "new"
+      "title": "谁能为英伟达5万亿神话“续命”",
+      "url": "https://www.toutiao.com/trending/7569160743170346534/",
+      "label": "depth"
     },
     {
       "rank": 46,
@@ -286,27 +286,27 @@
     },
     {
       "rank": 47,
-      "title": "谁能为英伟达5万亿神话“续命”",
-      "url": "https://www.toutiao.com/trending/7569160743170346534/",
-      "label": "depth"
-    },
-    {
-      "rank": 48,
       "title": "男子网购铁锅打开快递后傻眼了",
       "url": "https://www.toutiao.com/trending/7568501235163070510/",
       "label": "onSite"
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "创纪录停摆严重冲击美国航空安全",
       "url": "https://www.toutiao.com/trending/7569196242769870894/",
       "label": ""
     },
     {
-      "rank": 50,
+      "rank": 49,
       "title": "全运会跳水女子个人全能赛屈芷欣摘铜",
       "url": "https://www.toutiao.com/trending/7568630447849390126/",
       "label": "new"
+    },
+    {
+      "rank": 50,
+      "title": "美或向沙特出售F35透露什么信号",
+      "url": "https://www.toutiao.com/trending/7569403496907148841/",
+      "label": "interpretation"
     }
   ]
 }
