@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Fri, 07 Nov 2025 12:10:07 GMT",
+  "generated_at": "Fri, 07 Nov 2025 12:15:08 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平视察福建舰",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "“沙僧”扮演者刘大刚去世",
       "url": "https://www.toutiao.com/trending/7569895849682485254/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 2,
@@ -34,9 +34,9 @@
     },
     {
       "rank": 5,
-      "title": "专家：福建舰携3大绝活震撼入列",
-      "url": "https://www.toutiao.com/trending/7569922076471987753/",
-      "label": "hot"
+      "title": "西安市委书记方红卫被查",
+      "url": "https://www.toutiao.com/trending/7569951423329763338/",
+      "label": "new"
     },
     {
       "rank": 6,
@@ -46,15 +46,15 @@
     },
     {
       "rank": 7,
-      "title": "世界首富还不够 马斯克又要了1万亿",
-      "url": "https://www.toutiao.com/trending/7569901105614687780/",
-      "label": ""
+      "title": "专家：福建舰携3大绝活震撼入列",
+      "url": "https://www.toutiao.com/trending/7569922076471987753/",
+      "label": "hot"
     },
     {
       "rank": 8,
-      "title": "央媒介绍福建舰入列通稿中有何细节",
-      "url": "https://www.toutiao.com/trending/7569916762179767851/",
-      "label": "hot"
+      "title": "世界首富还不够 马斯克又要了1万亿",
+      "url": "https://www.toutiao.com/trending/7569901105614687780/",
+      "label": ""
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "刘强东说未来员工或只需一周干一天",
-      "url": "https://www.toutiao.com/trending/7569841058201845814/",
-      "label": ""
+      "title": "央媒介绍福建舰入列通稿中有何细节",
+      "url": "https://www.toutiao.com/trending/7569916762179767851/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -76,15 +76,15 @@
     },
     {
       "rank": 12,
-      "title": "男子在非洲看到安徽的车",
-      "url": "https://www.toutiao.com/trending/7569827760073228330/",
-      "label": ""
-    },
-    {
-      "rank": 13,
       "title": "泰王为何要“破例”访华",
       "url": "https://www.toutiao.com/trending/7569855224353918505/",
       "label": "interpretation"
+    },
+    {
+      "rank": 13,
+      "title": "男子在非洲看到安徽的车",
+      "url": "https://www.toutiao.com/trending/7569827760073228330/",
+      "label": ""
     },
     {
       "rank": 14,
@@ -94,9 +94,9 @@
     },
     {
       "rank": 15,
-      "title": "刘强东：将建立全球首个全无人配送站",
-      "url": "https://www.toutiao.com/trending/7569447600027025444/",
-      "label": ""
+      "title": "中国为什么敢提2035人均GDP翻倍目标",
+      "url": "https://www.toutiao.com/trending/7569872719181778478/",
+      "label": "interpretation"
     },
     {
       "rank": 16,
@@ -106,51 +106,51 @@
     },
     {
       "rank": 17,
+      "title": "刘强东：将建立全球首个全无人配送站",
+      "url": "https://www.toutiao.com/trending/7569447600027025444/",
+      "label": ""
+    },
+    {
+      "rank": 18,
       "title": "为何常规动力航母可以使用电磁弹射",
       "url": "https://www.toutiao.com/trending/7569911123562991158/",
       "label": "hot"
     },
     {
-      "rank": 18,
-      "title": "中国为什么敢提2035人均GDP翻倍目标",
-      "url": "https://www.toutiao.com/trending/7569872719181778478/",
-      "label": "interpretation"
-    },
-    {
       "rank": 19,
-      "title": "柬埔寨将黄金存中国有何深意",
-      "url": "https://www.toutiao.com/trending/7569896566333378089/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 20,
-      "title": "离职医生不得用原职在网上科普",
-      "url": "https://www.toutiao.com/trending/7569880911357968393/",
-      "label": "new"
-    },
-    {
-      "rank": 21,
       "title": "中方回应日本扇贝已对华出口",
       "url": "https://www.toutiao.com/trending/7569799820060213302/",
       "label": ""
     },
     {
-      "rank": 22,
+      "rank": 20,
+      "title": "刘强东说未来员工或只需一周干一天",
+      "url": "https://www.toutiao.com/trending/7569841058201845814/",
+      "label": ""
+    },
+    {
+      "rank": 21,
       "title": "专家：中国远海防卫能力跨越式提升",
       "url": "https://www.toutiao.com/trending/7569921593204280875/",
       "label": "new"
     },
     {
+      "rank": 22,
+      "title": "柬埔寨将黄金存中国有何深意",
+      "url": "https://www.toutiao.com/trending/7569896566333378089/",
+      "label": "interpretation"
+    },
+    {
       "rank": 23,
-      "title": "C罗说贝克汉姆“除了脸都一般”",
-      "url": "https://www.toutiao.com/trending/7569852730211811364/",
+      "title": "关税裁决未定 特朗普会否另寻他法",
+      "url": "https://www.toutiao.com/trending/7569907874948714027/",
       "label": "new"
     },
     {
       "rank": 24,
-      "title": "年轻人捡漏倒闭车企“烂尾车”",
-      "url": "https://www.toutiao.com/trending/7569463327395495978/",
-      "label": ""
+      "title": "六小龄童曾评价刘大刚是个热心肠",
+      "url": "https://www.toutiao.com/trending/7569895849682616326/",
+      "label": "new"
     },
     {
       "rank": 25,
@@ -160,9 +160,9 @@
     },
     {
       "rank": 26,
-      "title": "北方降温4至12摄氏度",
-      "url": "https://www.toutiao.com/trending/7569599600131899398/",
-      "label": "hot"
+      "title": "C罗说贝克汉姆“除了脸都一般”",
+      "url": "https://www.toutiao.com/trending/7569852730211811364/",
+      "label": "new"
     },
     {
       "rank": 27,
@@ -172,15 +172,15 @@
     },
     {
       "rank": 28,
-      "title": "中国为何对朱拉尼投下弃权票",
-      "url": "https://www.toutiao.com/trending/7569898407435701766/",
-      "label": "new"
+      "title": "北方降温4至12摄氏度",
+      "url": "https://www.toutiao.com/trending/7569599600131899398/",
+      "label": "hot"
     },
     {
       "rank": 29,
-      "title": "荒野求生退赛后最克制的选手出现了",
-      "url": "https://www.toutiao.com/trending/7568723137328807979/",
-      "label": ""
+      "title": "如何看待佩洛西宣布退休",
+      "url": "https://www.toutiao.com/trending/7569913340680474175/",
+      "label": "new"
     },
     {
       "rank": 30,
@@ -190,57 +190,57 @@
     },
     {
       "rank": 31,
-      "title": "泽连斯基亲临红军城前线有几个目的",
-      "url": "https://www.toutiao.com/trending/7569913551725268499/",
-      "label": "interpretation"
+      "title": "荒野求生退赛后最克制的选手出现了",
+      "url": "https://www.toutiao.com/trending/7568723137328807979/",
+      "label": ""
     },
     {
       "rank": 32,
-      "title": "中方恢复3家美企大豆输华资质",
-      "url": "https://www.toutiao.com/trending/7569939668330876443/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
       "title": "中国军舰下饺子究竟有着怎样的意义",
       "url": "https://www.toutiao.com/trending/7569914653258550826/",
       "label": ""
     },
     {
-      "rank": 34,
-      "title": "如何看待佩洛西宣布退休",
-      "url": "https://www.toutiao.com/trending/7569913340680474175/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
+      "rank": 33,
       "title": "陈若琳现场观赛全红婵10米台比赛",
       "url": "https://www.toutiao.com/trending/7569224656952541210/",
       "label": "hot"
     },
     {
-      "rank": 36,
+      "rank": 34,
+      "title": "媒体：马斯克拉高企业家价值天花板",
+      "url": "https://www.toutiao.com/trending/7569865295695711750/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
       "title": "60秒回顾福建舰经典名场面",
       "url": "https://www.toutiao.com/trending/7569851186875256329/",
       "label": "hot"
     },
     {
-      "rank": 37,
-      "title": "六小龄童曾评价刘大刚是个热心肠",
-      "url": "https://www.toutiao.com/trending/7569895849682616326/",
+      "rank": 36,
+      "title": "特朗普政府会对白银和铜加征关税吗",
+      "url": "https://www.toutiao.com/trending/7569906402282442294/",
       "label": "new"
     },
     {
-      "rank": 38,
-      "title": "上海警方查获大量假冒“梵克雅宝”",
-      "url": "https://www.toutiao.com/trending/7569828801958559770/",
+      "rank": 37,
+      "title": "马斯克希望特斯拉股东“参与”SPACEX",
+      "url": "https://www.toutiao.com/trending/7569570913667203126/",
       "label": ""
     },
     {
+      "rank": 38,
+      "title": "安世风波的蝴蝶效应与芯片格局重塑",
+      "url": "https://www.toutiao.com/trending/7569817945153474084/",
+      "label": "interpretation"
+    },
+    {
       "rank": 39,
-      "title": "评论员：俄罗斯军工支柱断裂物价飞涨",
-      "url": "https://www.toutiao.com/trending/7569913240096869951/",
-      "label": "new"
+      "title": "吴子嘉：民进党已完全失去宣传优势",
+      "url": "https://www.toutiao.com/trending/7568856247908040745/",
+      "label": ""
     },
     {
       "rank": 40,
@@ -250,27 +250,27 @@
     },
     {
       "rank": 41,
-      "title": "安世风波的蝴蝶效应与芯片格局重塑",
-      "url": "https://www.toutiao.com/trending/7569817945153474084/",
+      "title": "泽连斯基亲临红军城前线有几个目的",
+      "url": "https://www.toutiao.com/trending/7569913551725268499/",
       "label": "interpretation"
     },
     {
       "rank": 42,
-      "title": "马斯克希望特斯拉股东“参与”SPACEX",
-      "url": "https://www.toutiao.com/trending/7569570913667203126/",
-      "label": ""
+      "title": "俄无人机击中目标前一瞬被凌空打爆",
+      "url": "https://www.toutiao.com/trending/7569156572300967962/",
+      "label": "new"
     },
     {
       "rank": 43,
-      "title": "俄接近占领顿巴斯重镇红军城有何影响",
-      "url": "https://www.toutiao.com/trending/7569197990656000019/",
+      "title": "全球央行购金热潮持续",
+      "url": "https://www.toutiao.com/trending/7569917710243466762/",
       "label": ""
     },
     {
       "rank": 44,
-      "title": "俄无人机击中目标前一瞬被凌空打爆",
-      "url": "https://www.toutiao.com/trending/7569156572300967962/",
-      "label": "new"
+      "title": "年轻人捡漏倒闭车企“烂尾车”",
+      "url": "https://www.toutiao.com/trending/7569463327395495978/",
+      "label": ""
     },
     {
       "rank": 45,
@@ -280,33 +280,33 @@
     },
     {
       "rank": 46,
+      "title": "俄接近占领顿巴斯重镇红军城有何影响",
+      "url": "https://www.toutiao.com/trending/7569197990656000019/",
+      "label": ""
+    },
+    {
+      "rank": 47,
       "title": "国防部：提醒菲方跳得越高摔得越狠",
       "url": "https://www.toutiao.com/trending/7569880510211096614/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "全球央行购金热潮持续",
-      "url": "https://www.toutiao.com/trending/7569917710243466762/",
-      "label": ""
-    },
-    {
       "rank": 48,
-      "title": "安理会投票解除对叙政权领导人制裁",
-      "url": "https://www.toutiao.com/trending/7569023694719336511/",
-      "label": ""
-    },
-    {
-      "rank": 49,
       "title": "美国拉中亚五国谈能源矿产",
       "url": "https://www.toutiao.com/trending/7569818608348433939/",
       "label": "new"
     },
     {
+      "rank": 49,
+      "title": "安理会投票解除对叙政权领导人制裁",
+      "url": "https://www.toutiao.com/trending/7569023694719336511/",
+      "label": ""
+    },
+    {
       "rank": 50,
       "title": "陈芋汐盼全红婵早日伤愈再搭档",
       "url": "https://www.toutiao.com/trending/7569172464251027510/",
-      "label": "hot"
+      "label": ""
     }
   ]
 }
