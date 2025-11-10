@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 10 Nov 2025 15:15:06 GMT",
+  "generated_at": "Mon, 10 Nov 2025 15:25:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记的一周（11月3日—11月9日）",
@@ -46,27 +46,27 @@
     },
     {
       "rank": 7,
-      "title": "小孩姐逛清华暴走2万步直呼不考了",
-      "url": "https://www.toutiao.com/trending/7570991079476281350/",
-      "label": ""
-    },
-    {
-      "rank": 8,
       "title": "全红婵快把陈艾森“摇碎了”",
       "url": "https://www.toutiao.com/trending/7570730230999040026/",
       "label": "new"
     },
     {
+      "rank": 8,
+      "title": "小孩姐逛清华暴走2万步直呼不考了",
+      "url": "https://www.toutiao.com/trending/7570991079476281350/",
+      "label": ""
+    },
+    {
       "rank": 9,
-      "title": "农民歌手李根去世 因魔性唱法走红",
-      "url": "https://www.toutiao.com/trending/7570492884844740658/",
+      "title": "邱毅谈郑丽文参加岛内统派团体活动",
+      "url": "https://www.toutiao.com/trending/7570295324645670931/",
       "label": ""
     },
     {
       "rank": 10,
-      "title": "这种很升糖的粗粮你可能天天在吃",
-      "url": "https://www.toutiao.com/trending/7570967049804578862/",
-      "label": ""
+      "title": "18岁张展硕力压潘展乐孙杨夺冠",
+      "url": "https://www.toutiao.com/trending/7570881729712406564/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -76,69 +76,69 @@
     },
     {
       "rank": 12,
-      "title": "18岁张展硕力压潘展乐孙杨夺冠",
-      "url": "https://www.toutiao.com/trending/7570881729712406564/",
-      "label": "hot"
-    },
-    {
-      "rank": 13,
-      "title": "邱毅谈郑丽文参加岛内统派团体活动",
-      "url": "https://www.toutiao.com/trending/7570295324645670931/",
-      "label": "hot"
-    },
-    {
-      "rank": 14,
       "title": "刘嘉玲喊话淘宝天猫：侵权欺骗消费者",
       "url": "https://www.toutiao.com/trending/7570986876988260388/",
       "label": ""
     },
     {
-      "rank": 15,
-      "title": "陈芋汐首获全运会女子10米跳台冠军",
-      "url": "https://www.toutiao.com/trending/7570506435990339593/",
-      "label": "hot"
-    },
-    {
-      "rank": 16,
-      "title": "越南13岁男孩因被嘲笑连刺同学数刀",
-      "url": "https://www.toutiao.com/trending/7571025363963281414/",
+      "rank": 13,
+      "title": "农民歌手李根去世 因魔性唱法走红",
+      "url": "https://www.toutiao.com/trending/7570492884844740658/",
       "label": ""
     },
     {
-      "rank": 17,
-      "title": "普京授勋时因衣服太厚笑称是盔甲",
-      "url": "https://www.toutiao.com/trending/7570869392809050138/",
-      "label": ""
-    },
-    {
-      "rank": 18,
-      "title": "中央气象台继续发布台风黄色预警",
-      "url": "https://www.toutiao.com/trending/7570853177805996074/",
-      "label": ""
-    },
-    {
-      "rank": 19,
-      "title": "谷神星一号与中国航天的长期主义",
-      "url": "https://www.toutiao.com/trending/7571049066516188726/",
-      "label": "hot"
-    },
-    {
-      "rank": 20,
+      "rank": 14,
       "title": "一辆4.99万的车藏着京东怎样的棋局",
       "url": "https://www.toutiao.com/trending/7571001834857303593/",
       "label": ""
     },
     {
+      "rank": 15,
+      "title": "这种很升糖的粗粮你可能天天在吃",
+      "url": "https://www.toutiao.com/trending/7570967049804578862/",
+      "label": ""
+    },
+    {
+      "rank": 16,
+      "title": "专家：俄军迷呼吁让中国帮俄修航母",
+      "url": "https://www.toutiao.com/trending/7571038168091201043/",
+      "label": ""
+    },
+    {
+      "rank": 17,
+      "title": "陈芋汐首获全运会女子10米跳台冠军",
+      "url": "https://www.toutiao.com/trending/7570506435990339593/",
+      "label": "hot"
+    },
+    {
+      "rank": 18,
+      "title": "普京授勋时因衣服太厚笑称是盔甲",
+      "url": "https://www.toutiao.com/trending/7570869392809050138/",
+      "label": ""
+    },
+    {
+      "rank": 19,
+      "title": "越南13岁男孩因被嘲笑连刺同学数刀",
+      "url": "https://www.toutiao.com/trending/7571025363963281414/",
+      "label": ""
+    },
+    {
+      "rank": 20,
+      "title": "谷神星一号与中国航天的长期主义",
+      "url": "https://www.toutiao.com/trending/7571049066516188726/",
+      "label": "hot"
+    },
+    {
       "rank": 21,
-      "title": "好想来超市称3岁幼童偷盗千元商品",
-      "url": "https://www.toutiao.com/trending/7570990399011966505/",
+      "title": "中央气象台继续发布台风黄色预警",
+      "url": "https://www.toutiao.com/trending/7570853177805996074/",
       "label": ""
     },
     {
       "rank": 22,
-      "title": "王楚钦取得开门红晋级男单16强",
-      "url": "https://www.toutiao.com/trending/7571078969408327194/",
-      "label": ""
+      "title": "刘诗雯：再次参加全运会非常开心",
+      "url": "https://www.toutiao.com/trending/7570318373076451371/",
+      "label": "new"
     },
     {
       "rank": 23,
@@ -154,39 +154,39 @@
     },
     {
       "rank": 25,
-      "title": "刘诗雯：再次参加全运会非常开心",
-      "url": "https://www.toutiao.com/trending/7570318373076451371/",
-      "label": "new"
+      "title": "王楚钦取得开门红晋级男单16强",
+      "url": "https://www.toutiao.com/trending/7571078969408327194/",
+      "label": ""
     },
     {
       "rank": 26,
+      "title": "河南一学校买来16只羊请师生喝羊汤",
+      "url": "https://www.toutiao.com/trending/7570884506563903514/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "如何看待物业费断缴现象严重",
+      "url": "https://www.toutiao.com/trending/7571084404785679913/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
+      "title": "全红婵为陈芋汐夺冠欢呼",
+      "url": "https://www.toutiao.com/trending/7571106850880359974/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
       "title": "日本内阁大臣“祸从口出”",
       "url": "https://www.toutiao.com/trending/7570653561512804390/",
       "label": ""
     },
     {
-      "rank": 27,
-      "title": "香港发出台风“凤凰”一号戒备信号",
-      "url": "https://www.toutiao.com/trending/7570614331545976851/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "朱婷：河南队三连胜是惊喜",
-      "url": "https://www.toutiao.com/trending/7570698185124479039/",
-      "label": "new"
-    },
-    {
-      "rank": 29,
+      "rank": 30,
       "title": "刘强东搅动车市风云",
       "url": "https://www.toutiao.com/trending/7571046059628039722/",
       "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "全运之光照见中国力量",
-      "url": "https://www.toutiao.com/trending/7570140962312470570/",
-      "label": "new"
     },
     {
       "rank": 31,
@@ -196,117 +196,117 @@
     },
     {
       "rank": 32,
-      "title": "江西一风力发电机叶片断裂坠落",
-      "url": "https://www.toutiao.com/trending/7570902526325866502/",
-      "label": "onSite"
-    },
-    {
-      "rank": 33,
-      "title": "评论员：全运会来了 大湾区牛了",
-      "url": "https://www.toutiao.com/trending/7571057754186452523/",
-      "label": "hot"
-    },
-    {
-      "rank": 34,
-      "title": "媒体评银行App迎来关停潮",
-      "url": "https://www.toutiao.com/trending/7571041114786893366/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "中美连续释放经贸缓和信号",
-      "url": "https://www.toutiao.com/trending/7570686689023574066/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "台名嘴：全运会科技含量拉满",
-      "url": "https://www.toutiao.com/trending/7570518958495891483/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "特朗普的“贸易战”收到了什么结果",
-      "url": "https://www.toutiao.com/trending/7571084710177148454/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "继云南BIGBANG走红后女团土NE1来了",
-      "url": "https://www.toutiao.com/trending/7571068955796930611/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "全红婵为陈芋汐夺冠欢呼",
-      "url": "https://www.toutiao.com/trending/7571106850880359974/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "浙江队卫冕男子4×100米自由泳接力",
-      "url": "https://www.toutiao.com/trending/7570945708438765611/",
-      "label": "hot"
-    },
-    {
-      "rank": 41,
-      "title": "美AI资本狂欢是战略布局还是泡沫赌局",
-      "url": "https://www.toutiao.com/trending/7571076360215465491/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 42,
       "title": "浙江首次参加全运会跳水项目",
       "url": "https://www.toutiao.com/trending/7570237683261145097/",
       "label": "new"
     },
     {
-      "rank": 43,
-      "title": "如何看待物业费断缴现象严重",
-      "url": "https://www.toutiao.com/trending/7571084404785679913/",
+      "rank": 33,
+      "title": "江西一风力发电机叶片断裂坠落",
+      "url": "https://www.toutiao.com/trending/7570902526325866502/",
+      "label": "onSite"
+    },
+    {
+      "rank": 34,
+      "title": "特朗普的“贸易战”收到了什么结果",
+      "url": "https://www.toutiao.com/trending/7571084710177148454/",
       "label": "new"
     },
     {
-      "rank": 44,
-      "title": "鸭子大军下地成“开荒冠军”",
-      "url": "https://www.toutiao.com/trending/7571012394277945380/",
+      "rank": 35,
+      "title": "评论员：全运会来了 大湾区牛了",
+      "url": "https://www.toutiao.com/trending/7571057754186452523/",
+      "label": "hot"
+    },
+    {
+      "rank": 36,
+      "title": "继云南BIGBANG走红后女团土NE1来了",
+      "url": "https://www.toutiao.com/trending/7571068955796930611/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "浙江队卫冕男子4×100米自由泳接力",
+      "url": "https://www.toutiao.com/trending/7570945708438765611/",
+      "label": "hot"
+    },
+    {
+      "rank": 38,
+      "title": "台名嘴：全运会科技含量拉满",
+      "url": "https://www.toutiao.com/trending/7570518958495891483/",
       "label": ""
     },
     {
-      "rank": 45,
+      "rank": 39,
       "title": "U20湖北全运1-0山东全运U20",
       "url": "https://www.toutiao.com/trending/7571070696454127657/",
       "label": "new"
     },
     {
-      "rank": 46,
-      "title": "周雨复盘“直通樊振东”：打得太艰苦",
-      "url": "https://www.toutiao.com/trending/7570589763196534825/",
-      "label": ""
+      "rank": 40,
+      "title": "全运之光照见中国力量",
+      "url": "https://www.toutiao.com/trending/7570140962312470570/",
+      "label": "new"
     },
     {
-      "rank": 47,
-      "title": "中国采购美国大豆点燃期货市场",
-      "url": "https://www.toutiao.com/trending/7571042754159971903/",
-      "label": ""
+      "rank": 41,
+      "title": "朱婷：河南队三连胜是惊喜",
+      "url": "https://www.toutiao.com/trending/7570698185124479039/",
+      "label": "new"
     },
     {
-      "rank": 48,
-      "title": "俄方称希望尽快结束乌克兰冲突",
-      "url": "https://www.toutiao.com/trending/7571029005848526858/",
-      "label": ""
-    },
-    {
-      "rank": 49,
+      "rank": 42,
       "title": "大摩：美股2026年仍有上涨空间",
       "url": "https://www.toutiao.com/trending/7571059641732320794/",
       "label": "new"
     },
     {
+      "rank": 43,
+      "title": "中美连续释放经贸缓和信号",
+      "url": "https://www.toutiao.com/trending/7570686689023574066/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "周雨复盘“直通樊振东”：打得太艰苦",
+      "url": "https://www.toutiao.com/trending/7570589763196534825/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "鸭子大军下地成“开荒冠军”",
+      "url": "https://www.toutiao.com/trending/7571012394277945380/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "民营火箭万亿赛道的闯关与破局",
+      "url": "https://www.toutiao.com/trending/7571043351869263423/",
+      "label": "hot"
+    },
+    {
+      "rank": 47,
+      "title": "俄方称希望尽快结束乌克兰冲突",
+      "url": "https://www.toutiao.com/trending/7571029005848526858/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "“换血”真能抗衰、排毒吗",
+      "url": "https://www.toutiao.com/trending/7570647056405282822/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "实探污染严重的长江支流孝子河",
+      "url": "https://www.toutiao.com/trending/7570741999608152091/",
+      "label": ""
+    },
+    {
       "rank": 50,
-      "title": "邱震海：中美贸易战未来一年决胜负",
-      "url": "https://www.toutiao.com/trending/7571051306438102569/",
-      "label": "interpretation"
+      "title": "一周两场台风 菲律宾遭重创",
+      "url": "https://www.toutiao.com/trending/7570354038932275251/",
+      "label": ""
     }
   ]
 }
