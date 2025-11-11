@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 11 Nov 2025 05:55:04 GMT",
+  "generated_at": "Tue, 11 Nov 2025 06:00:08 GMT",
   "top": {
     "rank": "置顶",
     "title": "改革潮涌处 开放海天阔",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "捐款造航母小伙获赠福建舰手表",
-      "url": "https://www.toutiao.com/trending/7570990399012032041/",
-      "label": ""
+      "title": "日官员称争议四岛为外国被批 俄回应",
+      "url": "https://www.toutiao.com/trending/7570391621582307334/",
+      "label": "hot"
     },
     {
       "rank": 2,
-      "title": "俄回应日本大臣称争议四岛为外国被批",
-      "url": "https://www.toutiao.com/trending/7570391621582307334/",
-      "label": "hot"
+      "title": "捐款造航母小伙获赠福建舰手表",
+      "url": "https://www.toutiao.com/trending/7570990399012032041/",
+      "label": ""
     },
     {
       "rank": 3,
@@ -64,8 +64,8 @@
     },
     {
       "rank": 10,
-      "title": "中学书记查看教学楼屋顶漏水时坠亡",
-      "url": "https://www.toutiao.com/trending/7571291298213137958/",
+      "title": "“人间国宝”耿宝昌逝世",
+      "url": "https://www.toutiao.com/trending/7571276818477613075/",
       "label": ""
     },
     {
@@ -88,32 +88,32 @@
     },
     {
       "rank": 14,
-      "title": "德司令：部署80万军队随时与俄开战",
-      "url": "https://www.toutiao.com/trending/7571035904794509366/",
-      "label": ""
-    },
-    {
-      "rank": 15,
       "title": "农民歌手李根去世 因魔性唱法走红",
       "url": "https://www.toutiao.com/trending/7570492884844740658/",
       "label": ""
     },
     {
+      "rank": 15,
+      "title": "“台海有事”就出兵？日首相不知深浅",
+      "url": "https://www.toutiao.com/trending/7570142680680939558/",
+      "label": "depth"
+    },
+    {
       "rank": 16,
+      "title": "中学书记查看教学楼屋顶漏水时坠亡",
+      "url": "https://www.toutiao.com/trending/7571291298213137958/",
+      "label": ""
+    },
+    {
+      "rank": 17,
       "title": "如何看待贝森特称再也不怕中国卡脖子",
       "url": "https://www.toutiao.com/trending/7571285680773402155/",
       "label": ""
     },
     {
-      "rank": 17,
-      "title": "沈伯洋被大陆立案侦查暴露极度恐慌",
-      "url": "https://www.toutiao.com/trending/7571101824884621338/",
-      "label": ""
-    },
-    {
       "rank": 18,
-      "title": "专家：中国进入隐身无人机作战阶段",
-      "url": "https://www.toutiao.com/trending/7571296009892924978/",
+      "title": "德司令：部署80万军队随时与俄开战",
+      "url": "https://www.toutiao.com/trending/7571035904794509366/",
       "label": ""
     },
     {
@@ -124,62 +124,62 @@
     },
     {
       "rank": 20,
+      "title": "沈伯洋被大陆立案侦查暴露极度恐慌",
+      "url": "https://www.toutiao.com/trending/7571101824884621338/",
+      "label": ""
+    },
+    {
+      "rank": 21,
       "title": "浦东区委原书记朱芝松被公诉",
       "url": "https://www.toutiao.com/trending/7571281782801924115/",
       "label": ""
     },
     {
-      "rank": 21,
-      "title": "男子聚餐后胸闷背痛查出急性心梗",
-      "url": "https://www.toutiao.com/trending/7571059573869314054/",
-      "label": ""
-    },
-    {
       "rank": 22,
-      "title": "中使馆回应高市涉台错误言论",
-      "url": "https://www.toutiao.com/trending/7571257849175838254/",
-      "label": "hot"
-    },
-    {
-      "rank": 23,
-      "title": "获400亿美元援助后米莱大跳特朗普舞",
-      "url": "https://www.toutiao.com/trending/7570573863009124361/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "“凤凰”对菲律宾造成的破坏有多大",
-      "url": "https://www.toutiao.com/trending/7571280053321862675/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "“台海有事”就出兵？日首相不知深浅",
-      "url": "https://www.toutiao.com/trending/7570142680680939558/",
-      "label": "depth"
-    },
-    {
-      "rank": 26,
-      "title": "“人间国宝”耿宝昌逝世",
-      "url": "https://www.toutiao.com/trending/7571276818477613075/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
       "title": "95岁的巴菲特走下牌桌",
       "url": "https://www.toutiao.com/trending/7571302476796661311/",
       "label": "new"
     },
     {
+      "rank": 23,
+      "title": "专家：中国进入隐身无人机作战阶段",
+      "url": "https://www.toutiao.com/trending/7571296009892924978/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "获400亿美元援助后米莱大跳特朗普舞",
+      "url": "https://www.toutiao.com/trending/7570573863009124361/",
+      "label": ""
+    },
+    {
+      "rank": 25,
+      "title": "“凤凰”对菲律宾造成的破坏有多大",
+      "url": "https://www.toutiao.com/trending/7571280053321862675/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "男子聚餐后胸闷背痛查出急性心梗",
+      "url": "https://www.toutiao.com/trending/7571059573869314054/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "中使馆回应高市涉台错误言论",
+      "url": "https://www.toutiao.com/trending/7571257849175838254/",
+      "label": "hot"
+    },
+    {
       "rank": 28,
-      "title": "黄仁勋闭门谈话泄密是在上演苦肉计吗",
-      "url": "https://www.toutiao.com/trending/7570326842561904659/",
+      "title": "员工第一天上班失手摔了18筐鸡蛋",
+      "url": "https://www.toutiao.com/trending/7571030830953578538/",
       "label": ""
     },
     {
       "rank": 29,
-      "title": "员工第一天上班失手摔了18筐鸡蛋",
-      "url": "https://www.toutiao.com/trending/7571030830953578538/",
+      "title": "韩媒：杨瀚森已逐渐迷失",
+      "url": "https://www.toutiao.com/trending/7570189715131875347/",
       "label": ""
     },
     {
@@ -196,15 +196,15 @@
     },
     {
       "rank": 32,
-      "title": "俄控制红军城市区95%区域",
-      "url": "https://www.toutiao.com/trending/7571301707087351322/",
+      "title": "黄仁勋闭门谈话泄密是在上演苦肉计吗",
+      "url": "https://www.toutiao.com/trending/7570326842561904659/",
       "label": ""
     },
     {
       "rank": 33,
-      "title": "韩媒：杨瀚森已逐渐迷失",
-      "url": "https://www.toutiao.com/trending/7570189715131875347/",
-      "label": "new"
+      "title": "俄控制红军城市区95%区域",
+      "url": "https://www.toutiao.com/trending/7571301707087351322/",
+      "label": ""
     },
     {
       "rank": 34,
@@ -220,50 +220,50 @@
     },
     {
       "rank": 36,
-      "title": "中国航母会形成“2核4常”的配置吗",
-      "url": "https://www.toutiao.com/trending/7571269292402937395/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 37,
       "title": "银行五年期存款产品首见“下架”",
       "url": "https://www.toutiao.com/trending/7571260098182385179/",
       "label": "new"
     },
     {
+      "rank": 37,
+      "title": "中国航母会形成“2核4常”的配置吗",
+      "url": "https://www.toutiao.com/trending/7571269292402937395/",
+      "label": "interpretation"
+    },
+    {
       "rank": 38,
+      "title": "张涛任河北张家口代市长",
+      "url": "https://www.toutiao.com/trending/7571301825391889939/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
       "title": "女子悬赏深圳一套房找亲生父母",
       "url": "https://www.toutiao.com/trending/7571283376305475122/",
       "label": ""
     },
     {
-      "rank": 39,
-      "title": "这些战机你能猜出几个",
-      "url": "https://www.toutiao.com/trending/7571274338713550884/",
-      "label": "new"
-    },
-    {
       "rank": 40,
-      "title": "台胞始终与祖国同呼吸共命运",
-      "url": "https://www.toutiao.com/trending/7571230628839014451/",
-      "label": ""
-    },
-    {
-      "rank": 41,
       "title": "华为新机Mate70 Air开售",
       "url": "https://www.toutiao.com/trending/7570740293402656774/",
       "label": ""
     },
     {
+      "rank": 41,
+      "title": "台胞始终与祖国同呼吸共命运",
+      "url": "https://www.toutiao.com/trending/7571230628839014451/",
+      "label": ""
+    },
+    {
       "rank": 42,
-      "title": "孙秀君任中华人民共和国一级大检察官",
-      "url": "https://www.toutiao.com/trending/7571258063752986643/",
+      "title": "这些战机你能猜出几个",
+      "url": "https://www.toutiao.com/trending/7571274338713550884/",
       "label": ""
     },
     {
       "rank": 43,
-      "title": "巨星传奇把6000台机器狗卖给了谁",
-      "url": "https://www.toutiao.com/trending/7571084173381733938/",
+      "title": "孙秀君任中华人民共和国一级大检察官",
+      "url": "https://www.toutiao.com/trending/7571258063752986643/",
       "label": ""
     },
     {
@@ -274,14 +274,14 @@
     },
     {
       "rank": 45,
-      "title": "王楚钦樊振东或半决赛对决",
-      "url": "https://www.toutiao.com/trending/7570244764789227583/",
+      "title": "反诈不能层层加码走火入魔",
+      "url": "https://www.toutiao.com/trending/7571241003735060031/",
       "label": ""
     },
     {
       "rank": 46,
-      "title": "反诈不能层层加码走火入魔",
-      "url": "https://www.toutiao.com/trending/7571241003735060031/",
+      "title": "王楚钦樊振东或半决赛对决",
+      "url": "https://www.toutiao.com/trending/7570244764789227583/",
       "label": ""
     },
     {
@@ -292,20 +292,20 @@
     },
     {
       "rank": 48,
-      "title": "台军拟囤积4万架无人机被批痴人说梦",
-      "url": "https://www.toutiao.com/trending/7570641770845945882/",
-      "label": ""
+      "title": "旅客突发不适 列车临停1分钟救援",
+      "url": "https://www.toutiao.com/trending/7571265959219347510/",
+      "label": "new"
     },
     {
       "rank": 49,
-      "title": "航空公司回应“孕妇拒下飞机致延误”",
+      "title": "怀孕超35周孕妇登机后被劝下飞机",
       "url": "https://www.toutiao.com/trending/7571099417172770858/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "张家齐谈获第10名：很对得起自己",
-      "url": "https://www.toutiao.com/trending/7570879438146207807/",
+      "title": "巨星传奇把6000台机器狗卖给了谁",
+      "url": "https://www.toutiao.com/trending/7571084173381733938/",
       "label": ""
     }
   ]
