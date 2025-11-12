@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 12 Nov 2025 18:55:03 GMT",
+  "generated_at": "Wed, 12 Nov 2025 19:00:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平会见西班牙国王费利佩六世",
@@ -172,15 +172,15 @@
     },
     {
       "rank": 28,
-      "title": "土耳其C-130空中解体是被导弹击中吗",
-      "url": "https://www.toutiao.com/trending/7571823475371806249/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 29,
       "title": "iPhone可检测针孔摄像头？客服回应",
       "url": "https://www.toutiao.com/trending/7571748571801272329/",
       "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "土耳其C-130空中解体是被导弹击中吗",
+      "url": "https://www.toutiao.com/trending/7571823475371806249/",
+      "label": "interpretation"
     },
     {
       "rank": 30,
@@ -256,27 +256,27 @@
     },
     {
       "rank": 42,
-      "title": "王楚钦险胜黄镇廷晋级8强",
-      "url": "https://www.toutiao.com/trending/7571838504066666011/",
-      "label": ""
-    },
-    {
-      "rank": 43,
       "title": "曝美在委内瑞拉海岸动用无人机和F-35",
       "url": "https://www.toutiao.com/trending/7571829184462454794/",
       "label": ""
     },
     {
-      "rank": 44,
-      "title": "四大行中为何农行PB率先站上1倍",
-      "url": "https://www.toutiao.com/trending/7571834170268192292/",
+      "rank": 43,
+      "title": "王楚钦险胜黄镇廷晋级8强",
+      "url": "https://www.toutiao.com/trending/7571838504066666011/",
       "label": ""
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "黄金与股市的相关性已转为正向",
       "url": "https://www.toutiao.com/trending/7571825408581045779/",
       "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "四大行中为何农行PB率先站上1倍",
+      "url": "https://www.toutiao.com/trending/7571834170268192292/",
+      "label": ""
     },
     {
       "rank": 46,
@@ -292,21 +292,21 @@
     },
     {
       "rank": 48,
-      "title": "特朗普为何拒为高市涉台谬论撑腰",
-      "url": "https://www.toutiao.com/trending/7571742416873459251/",
-      "label": "interpretation"
+      "title": "全运会开幕式上的“显眼包”出圈",
+      "url": "https://www.toutiao.com/trending/7571045672862941238/",
+      "label": ""
     },
     {
       "rank": 49,
-      "title": "莫迪就印度汽车爆炸事件发出严厉警告",
-      "url": "https://www.toutiao.com/trending/7571422348454068267/",
+      "title": "出生28天宝宝听懂“敬礼”指令",
+      "url": "https://www.toutiao.com/trending/7571117591121494026/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "出生28天宝宝听懂“敬礼”指令",
-      "url": "https://www.toutiao.com/trending/7571117591121494026/",
-      "label": ""
+      "title": "特朗普为何拒为高市涉台谬论撑腰",
+      "url": "https://www.toutiao.com/trending/7571742416873459251/",
+      "label": "interpretation"
     }
   ]
 }
