@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 12 Nov 2025 14:25:04 GMT",
+  "generated_at": "Wed, 12 Nov 2025 14:30:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平会见西班牙国王费利佩六世",
@@ -88,15 +88,15 @@
     },
     {
       "rank": 14,
-      "title": "俄乌冲突会演变成俄与北约直接对抗吗",
-      "url": "https://www.toutiao.com/trending/7571610233622020115/",
-      "label": "forum"
-    },
-    {
-      "rank": 15,
       "title": "男子野坑钓起71斤大花鲢",
       "url": "https://www.toutiao.com/trending/7571500957171810358/",
       "label": ""
+    },
+    {
+      "rank": 15,
+      "title": "俄乌冲突会演变成俄与北约直接对抗吗",
+      "url": "https://www.toutiao.com/trending/7571610233622020115/",
+      "label": "forum"
     },
     {
       "rank": 16,
@@ -118,111 +118,111 @@
     },
     {
       "rank": 19,
-      "title": "小车绿灯不走被扣6分罚200",
-      "url": "https://www.toutiao.com/trending/7571728635376287785/",
-      "label": ""
-    },
-    {
-      "rank": 20,
-      "title": "出生28天宝宝听懂“敬礼”指令",
-      "url": "https://www.toutiao.com/trending/7571117591121494026/",
-      "label": ""
-    },
-    {
-      "rank": 21,
       "title": "重估中美AI不同路线",
       "url": "https://www.toutiao.com/trending/7571825253601513003/",
       "label": "new"
     },
     {
+      "rank": 20,
+      "title": "小车绿灯不走被扣6分罚200",
+      "url": "https://www.toutiao.com/trending/7571728635376287785/",
+      "label": ""
+    },
+    {
+      "rank": 21,
+      "title": "出生28天宝宝听懂“敬礼”指令",
+      "url": "https://www.toutiao.com/trending/7571117591121494026/",
+      "label": ""
+    },
+    {
       "rank": 22,
-      "title": "大哥路边卖苹果摆得整整齐齐",
-      "url": "https://www.toutiao.com/trending/7571416741918752810/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "影视飓风Tim在相亲角被吐槽学历低",
-      "url": "https://www.toutiao.com/trending/7571741288081850411/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "特朗普为何拒为高市涉台谬论撑腰",
-      "url": "https://www.toutiao.com/trending/7571742416873459251/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 25,
-      "title": "美航母穿“缉毒”马甲 大家照样认识",
-      "url": "https://www.toutiao.com/trending/7570990047411830838/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
-      "title": "身体出现5个信号可能衰老已来临",
-      "url": "https://www.toutiao.com/trending/7571449143093264403/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "朱婷谈河南女排5连胜",
-      "url": "https://www.toutiao.com/trending/7571245995321835530/",
-      "label": ""
-    },
-    {
-      "rank": 28,
       "title": "5年定期存款正在退出江湖",
       "url": "https://www.toutiao.com/trending/7571797145078992410/",
       "label": "new"
     },
     {
-      "rank": 29,
+      "rank": 23,
+      "title": "大哥路边卖苹果摆得整整齐齐",
+      "url": "https://www.toutiao.com/trending/7571416741918752810/",
+      "label": ""
+    },
+    {
+      "rank": 24,
       "title": "海昏侯墓发现秦汉时期全本诗经",
       "url": "https://www.toutiao.com/trending/7570936057412796454/",
       "label": "new"
     },
     {
-      "rank": 30,
-      "title": "医生坦白局：是的我们降薪了",
-      "url": "https://www.toutiao.com/trending/7571696479857806867/",
+      "rank": 25,
+      "title": "影视飓风Tim在相亲角被吐槽学历低",
+      "url": "https://www.toutiao.com/trending/7571741288081850411/",
       "label": ""
     },
     {
-      "rank": 31,
+      "rank": 26,
+      "title": "特朗普为何拒为高市涉台谬论撑腰",
+      "url": "https://www.toutiao.com/trending/7571742416873459251/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 27,
+      "title": "美航母穿“缉毒”马甲 大家照样认识",
+      "url": "https://www.toutiao.com/trending/7570990047411830838/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
+      "title": "朱婷谈河南女排5连胜",
+      "url": "https://www.toutiao.com/trending/7571245995321835530/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "身体出现5个信号可能衰老已来临",
+      "url": "https://www.toutiao.com/trending/7571449143093264403/",
+      "label": ""
+    },
+    {
+      "rank": 30,
       "title": "人形机器人让小鹏走上了神坛",
       "url": "https://www.toutiao.com/trending/7571798294121156102/",
       "label": "new"
     },
     {
+      "rank": 31,
+      "title": "医生坦白局：是的我们降薪了",
+      "url": "https://www.toutiao.com/trending/7571696479857806867/",
+      "label": ""
+    },
+    {
       "rank": 32,
+      "title": "杜锋赛后回顾“辽粤大战”",
+      "url": "https://www.toutiao.com/trending/7571307404332220459/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
       "title": "AI巨头是否也会变成“大而不能倒”",
       "url": "https://www.toutiao.com/trending/7571618340918005274/",
       "label": "interpretation"
     },
     {
-      "rank": 33,
+      "rank": 34,
       "title": "全运会一场能看到国乒6位世界冠军",
       "url": "https://www.toutiao.com/trending/7570915533152043071/",
       "label": "hot"
     },
     {
-      "rank": 34,
-      "title": "刘和平：日本是阻碍两岸统一最大障碍",
-      "url": "https://www.toutiao.com/trending/7571014700526075923/",
-      "label": ""
-    },
-    {
       "rank": 35,
-      "title": "越野车挑战天门山天梯溜车撞坏护栏",
-      "url": "https://www.toutiao.com/trending/7571735812707123263/",
-      "label": ""
-    },
-    {
-      "rank": 36,
       "title": "像软面条一样的简牍残片怎样复原",
       "url": "https://www.toutiao.com/trending/7571637443179560986/",
       "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "越野车挑战天门山天梯溜车撞坏护栏",
+      "url": "https://www.toutiao.com/trending/7571735812707123263/",
+      "label": ""
     },
     {
       "rank": 37,
@@ -232,81 +232,81 @@
     },
     {
       "rank": 38,
+      "title": "刘和平：日本是阻碍两岸统一最大障碍",
+      "url": "https://www.toutiao.com/trending/7571014700526075923/",
+      "label": ""
+    },
+    {
+      "rank": 39,
       "title": "存储“涨声”四起背后原因是什么",
       "url": "https://www.toutiao.com/trending/7571769657347018246/",
       "label": "new"
     },
     {
-      "rank": 39,
-      "title": "手机PC或将全线涨价",
-      "url": "https://www.toutiao.com/trending/7571687982319537690/",
-      "label": ""
-    },
-    {
       "rank": 40,
-      "title": "杜锋赛后回顾“辽粤大战”",
-      "url": "https://www.toutiao.com/trending/7571307404332220459/",
+      "title": "柬方称泰军开枪击伤柬平民已致1死",
+      "url": "https://www.toutiao.com/trending/7571805352833155078/",
       "label": "new"
     },
     {
       "rank": 41,
-      "title": "上海U20男足摘得全运会铜牌",
-      "url": "https://www.toutiao.com/trending/7571667090630377526/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "“荒野狂欢”能持续多久",
-      "url": "https://www.toutiao.com/trending/7571344191821873195/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 43,
-      "title": "前DeepSeek研究员罗福莉已加入小米",
-      "url": "https://www.toutiao.com/trending/7571465266493702187/",
-      "label": ""
-    },
-    {
-      "rank": 44,
       "title": "徐嘉余100米仰泳夺冠 汪顺第四",
       "url": "https://www.toutiao.com/trending/7571084024819584566/",
       "label": "new"
     },
     {
-      "rank": 45,
+      "rank": 42,
+      "title": "手机PC或将全线涨价",
+      "url": "https://www.toutiao.com/trending/7571687982319537690/",
+      "label": ""
+    },
+    {
+      "rank": 43,
       "title": "委官员：若与美开战可能撑不过2小时",
       "url": "https://www.toutiao.com/trending/7571084024798826038/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "男子鱼刺卡喉后身亡工伤诉求遭驳回",
-      "url": "https://www.toutiao.com/trending/7571742569882615814/",
+      "rank": 44,
+      "title": "上海U20男足摘得全运会铜牌",
+      "url": "https://www.toutiao.com/trending/7571667090630377526/",
       "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "前DeepSeek研究员罗福莉已加入小米",
+      "url": "https://www.toutiao.com/trending/7571465266493702187/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "“荒野狂欢”能持续多久",
+      "url": "https://www.toutiao.com/trending/7571344191821873195/",
+      "label": "interpretation"
     },
     {
       "rank": 47,
-      "title": "曹兴：谁在对李在明发出死亡威胁",
-      "url": "https://www.toutiao.com/trending/7571788612543450660/",
-      "label": ""
+      "title": "白岩松说全运会最重要的是看新人",
+      "url": "https://www.toutiao.com/trending/7571746934831857707/",
+      "label": "new"
     },
     {
       "rank": 48,
-      "title": "男子护送与男友吵架女子欲行不轨获刑",
-      "url": "https://www.toutiao.com/trending/7570799951027060763/",
-      "label": ""
+      "title": "贵州罗甸原副县长赵俊获刑5年",
+      "url": "https://www.toutiao.com/trending/7571772231946666047/",
+      "label": "new"
     },
     {
       "rank": 49,
-      "title": "媒体：取现难办卡烦反诈不应误伤便利",
-      "url": "https://www.toutiao.com/trending/7571409700245225508/",
-      "label": ""
+      "title": "段永平为什么说买股票就是买公司",
+      "url": "https://www.toutiao.com/trending/7571826144601706038/",
+      "label": "depth"
     },
     {
       "rank": 50,
-      "title": "中泰关系近期会发生什么变化",
-      "url": "https://www.toutiao.com/trending/7571819907025735231/",
-      "label": "new"
+      "title": "iPhone可检测针孔摄像头？客服回应",
+      "url": "https://www.toutiao.com/trending/7571748571801272329/",
+      "label": ""
     }
   ]
 }
