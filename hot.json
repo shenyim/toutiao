@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 12 Nov 2025 06:35:03 GMT",
+  "generated_at": "Wed, 12 Nov 2025 06:40:03 GMT",
   "top": {
     "rank": "置顶",
     "title": "70秒看习近平的海南广东行",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "巴基斯坦防长：国家处于战争状态",
       "url": "https://www.toutiao.com/trending/7570581306276790299/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 2,
@@ -112,75 +112,75 @@
     },
     {
       "rank": 18,
-      "title": "邵永灵谈英国乌克兰诱惑俄飞行员叛逃",
-      "url": "https://www.toutiao.com/trending/7571683298242465343/",
-      "label": "new"
-    },
-    {
-      "rank": 19,
-      "title": "国台办回应赖清德言论",
-      "url": "https://www.toutiao.com/trending/7571684304888283178/",
-      "label": "new"
-    },
-    {
-      "rank": 20,
       "title": "国台办回应高市涉台恶劣言论",
       "url": "https://www.toutiao.com/trending/7571013057690877961/",
       "label": "hot"
     },
     {
-      "rank": 21,
-      "title": "向太回应李连杰状态回春",
-      "url": "https://www.toutiao.com/trending/7570745817087606822/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "岳云鹏演唱会造型撞脸欧豪",
-      "url": "https://www.toutiao.com/trending/7570658682573406217/",
+      "rank": 19,
+      "title": "小伙每天口干查出多系统危重症",
+      "url": "https://www.toutiao.com/trending/7571640832860848164/",
       "label": "new"
     },
     {
-      "rank": 23,
+      "rank": 20,
+      "title": "喜剧电影《我最特别的朋友》定档",
+      "url": "https://www.toutiao.com/trending/7571330463462146067/",
+      "label": "new"
+    },
+    {
+      "rank": 21,
       "title": "刘和平：日本是阻碍两岸统一最大障碍",
       "url": "https://www.toutiao.com/trending/7571014700526075923/",
       "label": "hot"
     },
     {
-      "rank": 24,
-      "title": "陈幸同队友倒地庆祝后发现比赛没结束",
-      "url": "https://www.toutiao.com/trending/7571350224334176299/",
+      "rank": 22,
+      "title": "向太回应李连杰状态回春",
+      "url": "https://www.toutiao.com/trending/7570745817087606822/",
       "label": ""
     },
     {
-      "rank": 25,
-      "title": "赖岳谦：赖清德想挖个坑给韩国瑜跳",
-      "url": "https://www.toutiao.com/trending/7571649498003718198/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "日本真的敢武力干涉中国的统一吗",
-      "url": "https://www.toutiao.com/trending/7571674482645929482/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 27,
-      "title": "国台办回应台年轻人拒当“台独”炮灰",
-      "url": "https://www.toutiao.com/trending/7570702724900339753/",
-      "label": ""
-    },
-    {
-      "rank": 28,
+      "rank": 23,
       "title": "评论员：明年中期选举特朗普或遇挫",
       "url": "https://www.toutiao.com/trending/7570679186156077097/",
       "label": "new"
     },
     {
-      "rank": 29,
+      "rank": 24,
+      "title": "日本真的敢武力干涉中国的统一吗",
+      "url": "https://www.toutiao.com/trending/7571674482645929482/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 25,
+      "title": "陈幸同队友倒地庆祝后发现比赛没结束",
+      "url": "https://www.toutiao.com/trending/7571350224334176299/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "岳云鹏演唱会造型撞脸欧豪",
+      "url": "https://www.toutiao.com/trending/7570658682573406217/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
       "title": "广州市建筑集团原董事长梁湖清被查",
       "url": "https://www.toutiao.com/trending/7571653369845235718/",
       "label": "new"
+    },
+    {
+      "rank": 28,
+      "title": "国台办回应赖清德言论",
+      "url": "https://www.toutiao.com/trending/7571684304888283178/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
+      "title": "西班牙国王访华有何诉求",
+      "url": "https://www.toutiao.com/trending/7571659278084214291/",
+      "label": "interpretation"
     },
     {
       "rank": 30,
@@ -190,21 +190,21 @@
     },
     {
       "rank": 31,
-      "title": "西班牙国王访华有何诉求",
-      "url": "https://www.toutiao.com/trending/7571659278084214291/",
-      "label": "interpretation"
+      "title": "国台办回应台年轻人拒当“台独”炮灰",
+      "url": "https://www.toutiao.com/trending/7570702724900339753/",
+      "label": ""
     },
     {
       "rank": 32,
-      "title": "喜剧电影《我最特别的朋友》定档",
-      "url": "https://www.toutiao.com/trending/7571330463462146067/",
-      "label": "new"
+      "title": "赖岳谦：赖清德想挖个坑给韩国瑜跳",
+      "url": "https://www.toutiao.com/trending/7571649498003718198/",
+      "label": ""
     },
     {
       "rank": 33,
-      "title": "评论员：日本搞军演针对的就是中国",
-      "url": "https://www.toutiao.com/trending/7570537251999612964/",
-      "label": "hot"
+      "title": "陈梦三度局末逆转晋级女单八强",
+      "url": "https://www.toutiao.com/trending/7570972605709975615/",
+      "label": "new"
     },
     {
       "rank": 34,
@@ -214,57 +214,57 @@
     },
     {
       "rank": 35,
-      "title": "福建舰常驻地为什么是三亚军港",
-      "url": "https://www.toutiao.com/trending/7571662145352371755/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 36,
       "title": "466具琉球人遗骨被日本殖民者偷挖",
       "url": "https://www.toutiao.com/trending/7571474143649136678/",
       "label": ""
     },
     {
-      "rank": 37,
+      "rank": 36,
       "title": "曝“北溪”爆炸幕后黑手是扎卢日内",
       "url": "https://www.toutiao.com/trending/7570602224964681791/",
       "label": ""
     },
     {
+      "rank": 37,
+      "title": "评论员：日本搞军演针对的就是中国",
+      "url": "https://www.toutiao.com/trending/7570537251999612964/",
+      "label": "hot"
+    },
+    {
       "rank": 38,
-      "title": "库里17年职业生涯首次被吹恶意犯规",
-      "url": "https://www.toutiao.com/trending/7570700411398062118/",
-      "label": ""
+      "title": "福建舰常驻地为什么是三亚军港",
+      "url": "https://www.toutiao.com/trending/7571662145352371755/",
+      "label": "interpretation"
     },
     {
       "rank": 39,
-      "title": "蓝民代谈郑丽文“老干新枝”人事布局",
-      "url": "https://www.toutiao.com/trending/7570936955744354367/",
+      "title": "西班牙国王向人民英雄纪念碑敬献花圈",
+      "url": "https://www.toutiao.com/trending/7571304989973757971/",
       "label": "new"
     },
     {
       "rank": 40,
-      "title": "我国科学家首次发现植物自产稀土元素",
-      "url": "https://www.toutiao.com/trending/7570364771728637994/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "雷军回应小米双11战绩",
-      "url": "https://www.toutiao.com/trending/7571634042731298835/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
       "title": "莫迪就印度汽车爆炸事件发出严厉警告",
       "url": "https://www.toutiao.com/trending/7571422348454068267/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "美航母紧逼 委方发出全面冲突警告",
-      "url": "https://www.toutiao.com/trending/7570903630778351657/",
+      "rank": 41,
+      "title": "我国科学家首次发现植物自产稀土元素",
+      "url": "https://www.toutiao.com/trending/7570364771728637994/",
       "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "库里17年职业生涯首次被吹恶意犯规",
+      "url": "https://www.toutiao.com/trending/7570700411398062118/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "雷军回应小米双11战绩",
+      "url": "https://www.toutiao.com/trending/7571634042731298835/",
+      "label": "new"
     },
     {
       "rank": 44,
@@ -274,9 +274,9 @@
     },
     {
       "rank": 45,
-      "title": "周锡玮：日本不要想着可以靠美国",
-      "url": "https://www.toutiao.com/trending/7571186506866606121/",
-      "label": "hot"
+      "title": "美航母紧逼 委方发出全面冲突警告",
+      "url": "https://www.toutiao.com/trending/7570903630778351657/",
+      "label": ""
     },
     {
       "rank": 46,
@@ -286,27 +286,27 @@
     },
     {
       "rank": 47,
-      "title": "唐驳虎：中国把控进口大豆市场节奏",
-      "url": "https://www.toutiao.com/trending/7571671099256081966/",
-      "label": "interpretation"
+      "title": "周锡玮：日本不要想着可以靠美国",
+      "url": "https://www.toutiao.com/trending/7571186506866606121/",
+      "label": "hot"
     },
     {
       "rank": 48,
+      "title": "AI进化成人的速度比你想象的还慢",
+      "url": "https://www.toutiao.com/trending/7571663449873190463/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 49,
       "title": "西班牙国王王后抵京 王毅迎接",
       "url": "https://www.toutiao.com/trending/7571274354290688043/",
       "label": "onSite"
     },
     {
-      "rank": 49,
-      "title": "专家：攻击-11已经具备实战能力",
-      "url": "https://www.toutiao.com/trending/7571659172706520582/",
-      "label": "new"
-    },
-    {
       "rank": 50,
-      "title": "中国制定稀土出口管制新规有何影响",
-      "url": "https://www.toutiao.com/trending/7571673836978998820/",
-      "label": "interpretation"
+      "title": "博主：尹锡悦案越查越惊心",
+      "url": "https://www.toutiao.com/trending/7571630866196074022/",
+      "label": ""
     }
   ]
 }
