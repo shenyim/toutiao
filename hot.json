@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 12 Nov 2025 05:45:04 GMT",
+  "generated_at": "Wed, 12 Nov 2025 05:55:03 GMT",
   "top": {
     "rank": "置顶",
     "title": "70秒看习近平的海南广东行",
@@ -48,7 +48,7 @@
       "rank": 7,
       "title": "郑钦文退出全运会",
       "url": "https://www.toutiao.com/trending/7570707037446307859/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 8,
@@ -64,21 +64,21 @@
     },
     {
       "rank": 10,
-      "title": "曝“北溪”爆炸幕后黑手是扎卢日内",
-      "url": "https://www.toutiao.com/trending/7570602224964681791/",
+      "title": "越早实现祖国统一越有利于台湾同胞",
+      "url": "https://www.toutiao.com/trending/7570873716009844742/",
       "label": ""
     },
     {
       "rank": 11,
-      "title": "宝宝百日宴后腿上出现很大牙印",
-      "url": "https://www.toutiao.com/trending/7571280740760403977/",
-      "label": ""
-    },
-    {
-      "rank": 12,
       "title": "“比特币富婆”钱志敏被捕画面曝光",
       "url": "https://www.toutiao.com/trending/7570823653735235647/",
       "label": "onSite"
+    },
+    {
+      "rank": 12,
+      "title": "宝宝百日宴后腿上出现很大牙印",
+      "url": "https://www.toutiao.com/trending/7571280740760403977/",
+      "label": ""
     },
     {
       "rank": 13,
@@ -94,15 +94,15 @@
     },
     {
       "rank": 15,
-      "title": "越早实现祖国统一越有利于台湾同胞",
-      "url": "https://www.toutiao.com/trending/7570873716009844742/",
+      "title": "赖岳谦：赖清德想挖个坑给韩国瑜跳",
+      "url": "https://www.toutiao.com/trending/7571649498003718198/",
       "label": ""
     },
     {
       "rank": 16,
-      "title": "张又侠：全面肃清流毒积弊",
-      "url": "https://www.toutiao.com/trending/7571617019024379401/",
-      "label": ""
+      "title": "巴基斯坦防长：国家处于战争状态",
+      "url": "https://www.toutiao.com/trending/7570581306276790299/",
+      "label": "new"
     },
     {
       "rank": 17,
@@ -112,27 +112,27 @@
     },
     {
       "rank": 18,
-      "title": "赖岳谦：赖清德想挖个坑给韩国瑜跳",
-      "url": "https://www.toutiao.com/trending/7571649498003718198/",
+      "title": "张又侠：全面肃清流毒积弊",
+      "url": "https://www.toutiao.com/trending/7571617019024379401/",
       "label": ""
     },
     {
       "rank": 19,
-      "title": "福建舰常驻地为什么是三亚军港",
-      "url": "https://www.toutiao.com/trending/7571662145352371755/",
-      "label": "interpretation"
+      "title": "男子在地铁站当众如厕",
+      "url": "https://www.toutiao.com/trending/7570924522979999786/",
+      "label": "new"
     },
     {
       "rank": 20,
-      "title": "保险女销售请假参加荒野求生瘦29斤",
-      "url": "https://www.toutiao.com/trending/7571086874458983999/",
+      "title": "我国科学家首次发现植物自产稀土元素",
+      "url": "https://www.toutiao.com/trending/7570364771728637994/",
       "label": ""
     },
     {
       "rank": 21,
-      "title": "刘和平：日本是阻碍两岸统一最大障碍",
-      "url": "https://www.toutiao.com/trending/7571014700526075923/",
-      "label": "hot"
+      "title": "日本真的敢武力干涉中国的统一吗",
+      "url": "https://www.toutiao.com/trending/7571674482645929482/",
+      "label": "interpretation"
     },
     {
       "rank": 22,
@@ -142,170 +142,170 @@
     },
     {
       "rank": 23,
-      "title": "台湾网红“馆长”盛赞福建舰入列",
-      "url": "https://www.toutiao.com/trending/7571086874459049535/",
-      "label": "new"
+      "title": "曝“北溪”爆炸幕后黑手是扎卢日内",
+      "url": "https://www.toutiao.com/trending/7570602224964681791/",
+      "label": ""
     },
     {
       "rank": 24,
-      "title": "日本真的敢武力干涉中国的统一吗",
-      "url": "https://www.toutiao.com/trending/7571674482645929482/",
-      "label": "interpretation"
+      "title": "刘和平：日本是阻碍两岸统一最大障碍",
+      "url": "https://www.toutiao.com/trending/7571014700526075923/",
+      "label": "hot"
     },
     {
       "rank": 25,
+      "title": "中国制定稀土出口管制新规有何影响",
+      "url": "https://www.toutiao.com/trending/7571673836978998820/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 26,
       "title": "俄军借浓雾掩护进入红军城画面曝光",
       "url": "https://www.toutiao.com/trending/7571366550645591590/",
       "label": "onSite"
     },
     {
-      "rank": 26,
-      "title": "唐驳虎：中国把控进口大豆市场节奏",
-      "url": "https://www.toutiao.com/trending/7571671099256081966/",
-      "label": "interpretation"
-    },
-    {
       "rank": 27,
-      "title": "美航母紧逼 委方发出全面冲突警告",
-      "url": "https://www.toutiao.com/trending/7570903630778351657/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
-      "title": "荒野求生5名选手血钾超标",
-      "url": "https://www.toutiao.com/trending/7570593320200847396/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "周锡玮：日本不要想着可以靠美国",
-      "url": "https://www.toutiao.com/trending/7571186506866606121/",
-      "label": "hot"
-    },
-    {
-      "rank": 30,
-      "title": "中国下一艘航母该怎么造",
-      "url": "https://www.toutiao.com/trending/7571662656768052772/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 31,
-      "title": "国台办回应岛内呼吁坚持“九二共识”",
-      "url": "https://www.toutiao.com/trending/7571287371195498502/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "评论员：日本搞军演针对的就是中国",
-      "url": "https://www.toutiao.com/trending/7570537251999612964/",
-      "label": "hot"
-    },
-    {
-      "rank": 33,
-      "title": "巴基斯坦防长：国家处于战争状态",
-      "url": "https://www.toutiao.com/trending/7570581306276790299/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "陈芋汐发文总结全运会",
-      "url": "https://www.toutiao.com/trending/7570732257200406591/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "博主：尹锡悦案越查越惊心",
-      "url": "https://www.toutiao.com/trending/7571630866196074022/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "莫迪就印度汽车爆炸事件发出严厉警告",
-      "url": "https://www.toutiao.com/trending/7571422348454068267/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "西班牙国王访华有何诉求",
-      "url": "https://www.toutiao.com/trending/7571659278084214291/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 38,
-      "title": "库里17年职业生涯首次被吹恶意犯规",
-      "url": "https://www.toutiao.com/trending/7570700411398062118/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "金价仍有上涨空间该如何交易",
-      "url": "https://www.toutiao.com/trending/7571661778086530602/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 40,
-      "title": "佟丽娅小酒窝金鸡宣传片演母女",
-      "url": "https://www.toutiao.com/trending/7571387983652929555/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "歌手郭聪明被特发性震颤折磨数年",
-      "url": "https://www.toutiao.com/trending/7571473434111623204/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "男子在地铁站当众如厕",
-      "url": "https://www.toutiao.com/trending/7570924522979999786/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
-      "title": "未放台风假 亲绿网民批蒋万安遭打脸",
-      "url": "https://www.toutiao.com/trending/7570660288981385259/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "罗诗芳带伤蝉联全运会举重冠军",
-      "url": "https://www.toutiao.com/trending/7571423972282859562/",
-      "label": "new"
-    },
-    {
-      "rank": 45,
-      "title": "专家：攻击-11已经具备实战能力",
-      "url": "https://www.toutiao.com/trending/7571659172706520582/",
-      "label": "new"
-    },
-    {
-      "rank": 46,
-      "title": "美国市场铝现货升水暴涨近300%",
-      "url": "https://www.toutiao.com/trending/7571642955597876778/",
-      "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "466具琉球人遗骨被日本殖民者偷挖",
-      "url": "https://www.toutiao.com/trending/7571474143649136678/",
-      "label": ""
-    },
-    {
-      "rank": 48,
-      "title": "赵心童6-5绝杀威尔逊",
-      "url": "https://www.toutiao.com/trending/7571201460839596073/",
-      "label": ""
-    },
-    {
-      "rank": 49,
       "title": "国台办回应台年轻人拒当“台独”炮灰",
       "url": "https://www.toutiao.com/trending/7570702724900339753/",
       "label": "new"
     },
     {
+      "rank": 28,
+      "title": "雷军回应小米双11战绩",
+      "url": "https://www.toutiao.com/trending/7571634042731298835/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
+      "title": "评论员：日本搞军演针对的就是中国",
+      "url": "https://www.toutiao.com/trending/7570537251999612964/",
+      "label": "hot"
+    },
+    {
+      "rank": 30,
+      "title": "中方：“倚外谋独”是枉费心机的迷梦",
+      "url": "https://www.toutiao.com/trending/7571090275037184042/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "唐驳虎：中国把控进口大豆市场节奏",
+      "url": "https://www.toutiao.com/trending/7571671099256081966/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 32,
+      "title": "周锡玮：日本不要想着可以靠美国",
+      "url": "https://www.toutiao.com/trending/7571186506866606121/",
+      "label": "hot"
+    },
+    {
+      "rank": 33,
+      "title": "国台办批台当局阻挠大陆电商在台落地",
+      "url": "https://www.toutiao.com/trending/7570929146499481636/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "台湾网红“馆长”盛赞福建舰入列",
+      "url": "https://www.toutiao.com/trending/7571086874459049535/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "专家：攻击-11已经具备实战能力",
+      "url": "https://www.toutiao.com/trending/7571659172706520582/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "国台办：11月两岸各领域交流持续热络",
+      "url": "https://www.toutiao.com/trending/7571661184487964715/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "中国下一艘航母该怎么造",
+      "url": "https://www.toutiao.com/trending/7571662656768052772/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 38,
+      "title": "女子50万投资“健康启迪”血本无归",
+      "url": "https://www.toutiao.com/trending/7571447663829336110/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "国台办回应岛内呼吁坚持“九二共识”",
+      "url": "https://www.toutiao.com/trending/7571287371195498502/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "西班牙国王王后抵京 王毅迎接",
+      "url": "https://www.toutiao.com/trending/7571274354290688043/",
+      "label": "onSite"
+    },
+    {
+      "rank": 41,
+      "title": "莫迪就印度汽车爆炸事件发出严厉警告",
+      "url": "https://www.toutiao.com/trending/7571422348454068267/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "美国市场铝现货升水暴涨近300%",
+      "url": "https://www.toutiao.com/trending/7571642955597876778/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "陈芋汐发文总结全运会",
+      "url": "https://www.toutiao.com/trending/7570732257200406591/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "五大维度透视黄金价格",
+      "url": "https://www.toutiao.com/trending/7571668391866404361/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "466具琉球人遗骨被日本殖民者偷挖",
+      "url": "https://www.toutiao.com/trending/7571474143649136678/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "美国AI被电卡了脖子吗",
+      "url": "https://www.toutiao.com/trending/7571647776669306409/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "金价仍有上涨空间该如何交易",
+      "url": "https://www.toutiao.com/trending/7571661778086530602/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 48,
+      "title": "库里17年职业生涯首次被吹恶意犯规",
+      "url": "https://www.toutiao.com/trending/7570700411398062118/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "赵心童6-5绝杀威尔逊",
+      "url": "https://www.toutiao.com/trending/7571201460839596073/",
+      "label": ""
+    },
+    {
       "rank": 50,
-      "title": "段永平：投资特斯拉有点难",
-      "url": "https://www.toutiao.com/trending/7571097947732459563/",
+      "title": "俄军闪电战咋打成3年消耗战",
+      "url": "https://www.toutiao.com/trending/7571652432204156425/",
       "label": ""
     }
   ]
