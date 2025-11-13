@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 13 Nov 2025 12:25:06 GMT",
+  "generated_at": "Thu, 13 Nov 2025 12:30:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平同科摩罗总统阿扎利互致贺电",
@@ -18,7 +18,7 @@
       "rank": 2,
       "title": "前十个月人民币存款增加23.32万亿",
       "url": "https://www.toutiao.com/trending/7572133383401259050/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 3,
@@ -34,8 +34,8 @@
     },
     {
       "rank": 5,
-      "title": "拉夫罗夫：俄罗斯绝不可能对抗中国",
-      "url": "https://www.toutiao.com/trending/7572133186630238271/",
+      "title": "凌晨3点开会引众怒 高市早苗决定反省",
+      "url": "https://www.toutiao.com/trending/7571568690496569382/",
       "label": "new"
     },
     {
@@ -46,15 +46,15 @@
     },
     {
       "rank": 7,
-      "title": "凌晨3点开会引众怒 高市早苗决定反省",
-      "url": "https://www.toutiao.com/trending/7571568690496569382/",
+      "title": "拉夫罗夫：俄罗斯绝不可能对抗中国",
+      "url": "https://www.toutiao.com/trending/7572133186630238271/",
       "label": "new"
     },
     {
       "rank": 8,
-      "title": "段永平：我就三只股票",
-      "url": "https://www.toutiao.com/trending/7571607211873468442/",
-      "label": ""
+      "title": "孙颖莎晋级女单半决赛",
+      "url": "https://www.toutiao.com/trending/7572159595943087666/",
+      "label": "hot"
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "孙颖莎晋级女单半决赛",
-      "url": "https://www.toutiao.com/trending/7572159595943087666/",
-      "label": "hot"
+      "title": "3D打印发动机应用前景如何",
+      "url": "https://www.toutiao.com/trending/7572090551504404489/",
+      "label": "forum"
     },
     {
       "rank": 11,
@@ -76,9 +76,9 @@
     },
     {
       "rank": 12,
-      "title": "3D打印发动机应用前景如何",
-      "url": "https://www.toutiao.com/trending/7572090551504404489/",
-      "label": "forum"
+      "title": "段永平：我就三只股票",
+      "url": "https://www.toutiao.com/trending/7571607211873468442/",
+      "label": ""
     },
     {
       "rank": 13,
@@ -112,21 +112,21 @@
     },
     {
       "rank": 18,
+      "title": "全红婵从水花消失到质疑消失",
+      "url": "https://www.toutiao.com/trending/7572079568870182451/",
+      "label": "new"
+    },
+    {
+      "rank": 19,
       "title": "俄乌在红军城战事血腥且残酷",
       "url": "https://www.toutiao.com/trending/7571085810838306859/",
       "label": "new"
     },
     {
-      "rank": 19,
+      "rank": 20,
       "title": "哪些原因促成了今天A股的爆发",
       "url": "https://www.toutiao.com/trending/7572112952220732954/",
       "label": ""
-    },
-    {
-      "rank": 20,
-      "title": "北约深度介入俄乌有何影响",
-      "url": "https://www.toutiao.com/trending/7572128041522957830/",
-      "label": "new"
     },
     {
       "rank": 21,
@@ -148,20 +148,20 @@
     },
     {
       "rank": 24,
-      "title": "泰国国王访华将参观故宫特别展览",
-      "url": "https://www.toutiao.com/trending/7571840831188172843/",
-      "label": "hot"
-    },
-    {
-      "rank": 25,
       "title": "孩子被车辆撞倒拖行 众人抬车救援",
       "url": "https://www.toutiao.com/trending/7571009550443495434/",
       "label": ""
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "苏起认同两岸谈判方向",
       "url": "https://www.toutiao.com/trending/7571720258861170694/",
+      "label": "hot"
+    },
+    {
+      "rank": 26,
+      "title": "泰国国王访华将参观故宫特别展览",
+      "url": "https://www.toutiao.com/trending/7571840831188172843/",
       "label": "hot"
     },
     {
@@ -178,21 +178,21 @@
     },
     {
       "rank": 29,
-      "title": "全红婵从水花消失到质疑消失",
-      "url": "https://www.toutiao.com/trending/7572079568870182451/",
+      "title": "北约深度介入俄乌有何影响",
+      "url": "https://www.toutiao.com/trending/7572128041522957830/",
       "label": "new"
     },
     {
       "rank": 30,
-      "title": "俄动物园十余只负鼠遭惊吓后齐装死",
-      "url": "https://www.toutiao.com/trending/7572117568111296566/",
-      "label": ""
-    },
-    {
-      "rank": 31,
       "title": "乌方暂停与俄和平谈判意味什么",
       "url": "https://www.toutiao.com/trending/7572156730465848878/",
       "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "福建舰和福特号有何区别",
+      "url": "https://www.toutiao.com/trending/7572151149891489343/",
+      "label": "interpretation"
     },
     {
       "rank": 32,
@@ -202,21 +202,21 @@
     },
     {
       "rank": 33,
-      "title": "成都通报和平小屋经营问题调查情况",
-      "url": "https://www.toutiao.com/trending/7571899059041255434/",
-      "label": ""
-    },
-    {
-      "rank": 34,
       "title": "乌克兰年底前不再与俄和谈",
       "url": "https://www.toutiao.com/trending/7572055166141091378/",
       "label": ""
     },
     {
+      "rank": 34,
+      "title": "成都通报和平小屋经营问题调查情况",
+      "url": "https://www.toutiao.com/trending/7571899059041255434/",
+      "label": ""
+    },
+    {
       "rank": 35,
-      "title": "分析人士称“取款自由”并非绝对权利",
-      "url": "https://www.toutiao.com/trending/7572014086108610606/",
-      "label": "new"
+      "title": "俄动物园十余只负鼠遭惊吓后齐装死",
+      "url": "https://www.toutiao.com/trending/7572117568111296566/",
+      "label": ""
     },
     {
       "rank": 36,
@@ -226,9 +226,9 @@
     },
     {
       "rank": 37,
-      "title": "福建舰和福特号有何区别",
-      "url": "https://www.toutiao.com/trending/7572151149891489343/",
-      "label": "interpretation"
+      "title": "刘诗雯：宝刀未老只因坚守与热爱",
+      "url": "https://www.toutiao.com/trending/7571337508009721894/",
+      "label": "new"
     },
     {
       "rank": 38,
@@ -238,27 +238,27 @@
     },
     {
       "rank": 39,
-      "title": "安全永远是汽车的首要准则",
-      "url": "https://www.toutiao.com/trending/7571960675212378150/",
-      "label": "new"
+      "title": "邵永灵：004航母很可能是核动力",
+      "url": "https://www.toutiao.com/trending/7572145590830632484/",
+      "label": ""
     },
     {
       "rank": 40,
-      "title": "刘诗雯：宝刀未老只因坚守与热爱",
-      "url": "https://www.toutiao.com/trending/7571337508009721894/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
       "title": "媒体：高市早苗狂言给日本带来惊吓",
       "url": "https://www.toutiao.com/trending/7572063664765668918/",
       "label": "depth"
     },
     {
+      "rank": 41,
+      "title": "女子借900万给小20岁男模男友",
+      "url": "https://www.toutiao.com/trending/7571880384431095862/",
+      "label": "new"
+    },
+    {
       "rank": 42,
-      "title": "A股刷新十年新高 短期或加速冲顶吗",
-      "url": "https://www.toutiao.com/trending/7572120992533712420/",
-      "label": "hot"
+      "title": "未拴绳狗吓翻电动车主 狗主人担全责",
+      "url": "https://www.toutiao.com/trending/7571972025644908590/",
+      "label": "new"
     },
     {
       "rank": 43,
@@ -268,9 +268,9 @@
     },
     {
       "rank": 44,
-      "title": "章泽天和朱珠同框",
-      "url": "https://www.toutiao.com/trending/7571445407218384906/",
-      "label": ""
+      "title": "男孩过马路被撞倒 家属情绪激动晕倒",
+      "url": "https://www.toutiao.com/trending/7571033824113754162/",
+      "label": "new"
     },
     {
       "rank": 45,
@@ -280,14 +280,14 @@
     },
     {
       "rank": 46,
-      "title": "未拴绳狗吓翻电动车主 狗主人担全责",
-      "url": "https://www.toutiao.com/trending/7571972025644908590/",
+      "title": "多地气温将断崖式下跌",
+      "url": "https://www.toutiao.com/trending/7572113054675091519/",
       "label": "new"
     },
     {
       "rank": 47,
-      "title": "多地气温将断崖式下跌",
-      "url": "https://www.toutiao.com/trending/7572113054675091519/",
+      "title": "分析人士称“取款自由”并非绝对权利",
+      "url": "https://www.toutiao.com/trending/7572014086108610606/",
       "label": "new"
     },
     {
@@ -298,14 +298,14 @@
     },
     {
       "rank": 49,
-      "title": "境外间谍机构对我开展非法测绘活动",
-      "url": "https://www.toutiao.com/trending/7572099174490357769/",
+      "title": "安全永远是汽车的首要准则",
+      "url": "https://www.toutiao.com/trending/7571960675212378150/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "谁给车企奇葩营销开了方便之门",
-      "url": "https://www.toutiao.com/trending/7572003371285184555/",
+      "title": "章泽天和朱珠同框",
+      "url": "https://www.toutiao.com/trending/7571445407218384906/",
       "label": ""
     }
   ]
