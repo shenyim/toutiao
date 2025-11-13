@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 13 Nov 2025 12:10:05 GMT",
+  "generated_at": "Thu, 13 Nov 2025 12:15:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平同科摩罗总统阿扎利互致贺电",
@@ -52,8 +52,8 @@
     },
     {
       "rank": 8,
-      "title": "武契奇为何称欧洲正准备与俄开战",
-      "url": "https://www.toutiao.com/trending/7572148280969137714/",
+      "title": "拉夫罗夫：俄罗斯绝不可能对抗中国",
+      "url": "https://www.toutiao.com/trending/7572133186630238271/",
       "label": "new"
     },
     {
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "孙颖莎晋级女单半决赛",
-      "url": "https://www.toutiao.com/trending/7572159595943087666/",
-      "label": "hot"
+      "title": "3D打印发动机应用前景如何",
+      "url": "https://www.toutiao.com/trending/7572090551504404489/",
+      "label": "forum"
     },
     {
       "rank": 11,
@@ -76,15 +76,15 @@
     },
     {
       "rank": 12,
-      "title": "如何评价腾讯音乐2025年Q3财报",
-      "url": "https://www.toutiao.com/trending/7571777804418252836/",
-      "label": "forum"
+      "title": "孙颖莎晋级女单半决赛",
+      "url": "https://www.toutiao.com/trending/7572159595943087666/",
+      "label": "hot"
     },
     {
       "rank": 13,
-      "title": "马克龙想邀中方参加G7峰会有何意图",
-      "url": "https://www.toutiao.com/trending/7572139064456187442/",
-      "label": ""
+      "title": "武契奇为何称欧洲正准备与俄开战",
+      "url": "https://www.toutiao.com/trending/7572148280969137714/",
+      "label": "new"
     },
     {
       "rank": 14,
@@ -94,9 +94,9 @@
     },
     {
       "rank": 15,
-      "title": "拉夫罗夫：俄罗斯绝不可能对抗中国",
-      "url": "https://www.toutiao.com/trending/7572133186630238271/",
-      "label": "new"
+      "title": "马克龙想邀中方参加G7峰会有何意图",
+      "url": "https://www.toutiao.com/trending/7572139064456187442/",
+      "label": ""
     },
     {
       "rank": 16,
@@ -106,26 +106,26 @@
     },
     {
       "rank": 17,
-      "title": "3D打印发动机应用前景如何",
-      "url": "https://www.toutiao.com/trending/7572090551504404489/",
+      "title": "如何评价腾讯音乐2025年Q3财报",
+      "url": "https://www.toutiao.com/trending/7571777804418252836/",
       "label": "forum"
     },
     {
       "rank": 18,
-      "title": "孩子被车辆撞倒拖行 众人抬车救援",
-      "url": "https://www.toutiao.com/trending/7571009550443495434/",
-      "label": ""
+      "title": "4岁小女孩14秒还原魔方",
+      "url": "https://www.toutiao.com/trending/7572067859485016102/",
+      "label": "new"
     },
     {
       "rank": 19,
-      "title": "俄动物园十余只负鼠遭惊吓后齐装死",
-      "url": "https://www.toutiao.com/trending/7572117568111296566/",
-      "label": ""
+      "title": "凌晨3点开会引众怒 高市早苗决定反省",
+      "url": "https://www.toutiao.com/trending/7571568690496569382/",
+      "label": "new"
     },
     {
       "rank": 20,
-      "title": "哪些原因促成了今天A股的爆发",
-      "url": "https://www.toutiao.com/trending/7572112952220732954/",
+      "title": "孩子被车辆撞倒拖行 众人抬车救援",
+      "url": "https://www.toutiao.com/trending/7571009550443495434/",
       "label": ""
     },
     {
@@ -136,9 +136,9 @@
     },
     {
       "rank": 22,
-      "title": "泰国国王访华将参观故宫特别展览",
-      "url": "https://www.toutiao.com/trending/7571840831188172843/",
-      "label": "hot"
+      "title": "俄乌在红军城战事血腥且残酷",
+      "url": "https://www.toutiao.com/trending/7571085810838306859/",
+      "label": "new"
     },
     {
       "rank": 23,
@@ -148,27 +148,27 @@
     },
     {
       "rank": 24,
-      "title": "4岁小女孩14秒还原魔方",
-      "url": "https://www.toutiao.com/trending/7572067859485016102/",
-      "label": "new"
+      "title": "泰国国王访华将参观故宫特别展览",
+      "url": "https://www.toutiao.com/trending/7571840831188172843/",
+      "label": "hot"
     },
     {
       "rank": 25,
+      "title": "哪些原因促成了今天A股的爆发",
+      "url": "https://www.toutiao.com/trending/7572112952220732954/",
+      "label": ""
+    },
+    {
+      "rank": 26,
       "title": "苏起认同两岸谈判方向",
       "url": "https://www.toutiao.com/trending/7571720258861170694/",
       "label": "hot"
     },
     {
-      "rank": 26,
-      "title": "凌晨3点开会引众怒 高市早苗决定反省",
-      "url": "https://www.toutiao.com/trending/7571568690496569382/",
-      "label": "new"
-    },
-    {
       "rank": 27,
-      "title": "俄乌在红军城战事血腥且残酷",
-      "url": "https://www.toutiao.com/trending/7571085810838306859/",
-      "label": "new"
+      "title": "章泽天和朱珠同框",
+      "url": "https://www.toutiao.com/trending/7571445407218384906/",
+      "label": ""
     },
     {
       "rank": 28,
@@ -178,27 +178,27 @@
     },
     {
       "rank": 29,
-      "title": "安全永远是汽车的首要准则",
-      "url": "https://www.toutiao.com/trending/7571960675212378150/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
-      "title": "普京为托卡耶夫举行欢迎仪式",
-      "url": "https://www.toutiao.com/trending/7571636731494350889/",
+      "title": "实探荒野求生选手“苗王”的庇护所",
+      "url": "https://www.toutiao.com/trending/7571295380848361522/",
       "label": ""
     },
     {
+      "rank": 30,
+      "title": "美政府正式结束停摆 谁赢了谁输了",
+      "url": "https://www.toutiao.com/trending/7572161098376285723/",
+      "label": "new"
+    },
+    {
       "rank": 31,
-      "title": "特朗普问叙政权领导人有几个妻子",
-      "url": "https://www.toutiao.com/trending/7570946745501614090/",
+      "title": "俄动物园十余只负鼠遭惊吓后齐装死",
+      "url": "https://www.toutiao.com/trending/7572117568111296566/",
       "label": ""
     },
     {
       "rank": 32,
-      "title": "实探荒野求生选手“苗王”的庇护所",
-      "url": "https://www.toutiao.com/trending/7571295380848361522/",
-      "label": ""
+      "title": "乌方暂停与俄和平谈判意味什么",
+      "url": "https://www.toutiao.com/trending/7572156730465848878/",
+      "label": "new"
     },
     {
       "rank": 33,
@@ -208,15 +208,15 @@
     },
     {
       "rank": 34,
-      "title": "章泽天和朱珠同框",
-      "url": "https://www.toutiao.com/trending/7571445407218384906/",
+      "title": "普京为托卡耶夫举行欢迎仪式",
+      "url": "https://www.toutiao.com/trending/7571636731494350889/",
       "label": ""
     },
     {
       "rank": 35,
-      "title": "专家：中国南北船厂齐开工藏着大心思",
-      "url": "https://www.toutiao.com/trending/7572082818814053938/",
-      "label": ""
+      "title": "媒体：高市早苗狂言给日本带来惊吓",
+      "url": "https://www.toutiao.com/trending/7572063664765668918/",
+      "label": "depth"
     },
     {
       "rank": 36,
@@ -226,8 +226,8 @@
     },
     {
       "rank": 37,
-      "title": "郭德纲回忆到北京闯江湖的开端",
-      "url": "https://www.toutiao.com/trending/7572090943109873715/",
+      "title": "乌克兰年底前不再与俄和谈",
+      "url": "https://www.toutiao.com/trending/7572055166141091378/",
       "label": ""
     },
     {
@@ -238,51 +238,51 @@
     },
     {
       "rank": 39,
-      "title": "国内品牌金店金价再创新高",
-      "url": "https://www.toutiao.com/trending/7572141197532089875/",
+      "title": "安全永远是汽车的首要准则",
+      "url": "https://www.toutiao.com/trending/7571960675212378150/",
       "label": "new"
     },
     {
       "rank": 40,
-      "title": "美政府正式结束停摆 谁赢了谁输了",
-      "url": "https://www.toutiao.com/trending/7572161098376285723/",
+      "title": "全红婵从水花消失到质疑消失",
+      "url": "https://www.toutiao.com/trending/7572079568870182451/",
       "label": "new"
     },
     {
       "rank": 41,
-      "title": "巴基斯坦为何进行大规模战争动员",
-      "url": "https://www.toutiao.com/trending/7572119722192277046/",
-      "label": ""
+      "title": "未拴绳狗吓翻电动车主 狗主人担全责",
+      "url": "https://www.toutiao.com/trending/7571972025644908590/",
+      "label": "new"
     },
     {
       "rank": 42,
-      "title": "乌克兰年底前不再与俄和谈",
-      "url": "https://www.toutiao.com/trending/7572055166141091378/",
+      "title": "郭德纲回忆到北京闯江湖的开端",
+      "url": "https://www.toutiao.com/trending/7572090943109873715/",
       "label": ""
     },
     {
       "rank": 43,
-      "title": "媒体：高市早苗狂言给日本带来惊吓",
-      "url": "https://www.toutiao.com/trending/7572063664765668918/",
-      "label": "depth"
+      "title": "成都通报和平小屋经营问题调查情况",
+      "url": "https://www.toutiao.com/trending/7571899059041255434/",
+      "label": ""
     },
     {
       "rank": 44,
-      "title": "今日大盘缘何能再度创下新高",
-      "url": "https://www.toutiao.com/trending/7572124339953208842/",
+      "title": "普京邀托卡耶夫先吃顿便饭再回家喝茶",
+      "url": "https://www.toutiao.com/trending/7571791681373601802/",
       "label": "new"
     },
     {
       "rank": 45,
-      "title": "福建舰和福特号有何区别",
-      "url": "https://www.toutiao.com/trending/7572151149891489343/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 46,
       "title": "境外间谍机构对我开展非法测绘活动",
       "url": "https://www.toutiao.com/trending/7572099174490357769/",
       "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "A股刷新十年新高 短期或加速冲顶吗",
+      "url": "https://www.toutiao.com/trending/7572120992533712420/",
+      "label": "hot"
     },
     {
       "rank": 47,
@@ -292,21 +292,21 @@
     },
     {
       "rank": 48,
-      "title": "成都通报和平小屋经营问题调查情况",
-      "url": "https://www.toutiao.com/trending/7571899059041255434/",
-      "label": "new"
+      "title": "14岁男孩误诊矮小症打激素后患糖尿病",
+      "url": "https://www.toutiao.com/trending/7571996975403679794/",
+      "label": ""
     },
     {
       "rank": 49,
-      "title": "普京邀托卡耶夫先吃顿便饭再回家喝茶",
-      "url": "https://www.toutiao.com/trending/7571791681373601802/",
+      "title": "多地气温将断崖式下跌",
+      "url": "https://www.toutiao.com/trending/7572113054675091519/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "14岁男孩误诊矮小症打激素后患糖尿病",
-      "url": "https://www.toutiao.com/trending/7571996975403679794/",
-      "label": ""
+      "title": "中方回应印度网球选手称被拒签",
+      "url": "https://www.toutiao.com/trending/7571690263937269802/",
+      "label": "new"
     }
   ]
 }
