@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 13 Nov 2025 04:00:05 GMT",
+  "generated_at": "Thu, 13 Nov 2025 04:05:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平会见西班牙国王费利佩六世",
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "美政府史上最长停摆结束",
-      "url": "https://www.toutiao.com/trending/7572040332485987867/",
-      "label": "hot"
+      "title": "专家：中国对日本外交换打法",
+      "url": "https://www.toutiao.com/trending/7572023432695516735/",
+      "label": "depth"
     },
     {
       "rank": 3,
@@ -28,14 +28,14 @@
     },
     {
       "rank": 4,
-      "title": "奇瑞就天门山测试意外致歉",
-      "url": "https://www.toutiao.com/trending/7571812934377013254/",
-      "label": ""
+      "title": "路虎司机撞翻持刀男子",
+      "url": "https://www.toutiao.com/trending/7570958842608795684/",
+      "label": "new"
     },
     {
       "rank": 5,
-      "title": "起底“台独”帮凶温子渝陈柏源",
-      "url": "https://www.toutiao.com/trending/7571084024819633718/",
+      "title": "美政府史上最长停摆结束",
+      "url": "https://www.toutiao.com/trending/7572040332485987867/",
       "label": "hot"
     },
     {
@@ -46,27 +46,27 @@
     },
     {
       "rank": 7,
-      "title": "全红婵直播收入全部捐给乡村儿童",
-      "url": "https://www.toutiao.com/trending/7572034366382083593/",
-      "label": "new"
+      "title": "奇瑞就天门山测试意外致歉",
+      "url": "https://www.toutiao.com/trending/7571812934377013254/",
+      "label": "recentProgress"
     },
     {
       "rank": 8,
+      "title": "全红婵直播收入全部捐给乡村儿童",
+      "url": "https://www.toutiao.com/trending/7572034366382083593/",
+      "label": "hot"
+    },
+    {
+      "rank": 9,
       "title": "日本资深议员称高市早苗极为危险",
       "url": "https://www.toutiao.com/trending/7570957825065730091/",
       "label": "hot"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "title": "官方：不允许城镇居民到农村买农房",
       "url": "https://www.toutiao.com/trending/7571243623166312502/",
       "label": ""
-    },
-    {
-      "rank": 10,
-      "title": "俄乌冲突会演变成俄与北约直接对抗吗",
-      "url": "https://www.toutiao.com/trending/7571610233622020115/",
-      "label": "forum"
     },
     {
       "rank": 11,
@@ -76,21 +76,21 @@
     },
     {
       "rank": 12,
-      "title": "专家：中国对日本外交换打法",
-      "url": "https://www.toutiao.com/trending/7572023432695516735/",
-      "label": "depth"
+      "title": "俄乌冲突会演变成俄与北约直接对抗吗",
+      "url": "https://www.toutiao.com/trending/7571610233622020115/",
+      "label": "forum"
     },
     {
       "rank": 13,
-      "title": "路虎司机撞翻持刀男子",
-      "url": "https://www.toutiao.com/trending/7570958842608795684/",
-      "label": "new"
-    },
-    {
-      "rank": 14,
       "title": "《唐诡3》为何让观众看爽了",
       "url": "https://www.toutiao.com/trending/7571799819488857641/",
       "label": ""
+    },
+    {
+      "rank": 14,
+      "title": "起底“台独”帮凶温子渝陈柏源",
+      "url": "https://www.toutiao.com/trending/7571084024819633718/",
+      "label": "hot"
     },
     {
       "rank": 15,
@@ -106,27 +106,27 @@
     },
     {
       "rank": 17,
-      "title": "牛弹琴：日本大佬也看不下去了",
-      "url": "https://www.toutiao.com/trending/7571985606952157211/",
-      "label": "depth"
+      "title": "新人称婚宴后茅台“集体”失踪",
+      "url": "https://www.toutiao.com/trending/7571774076260466729/",
+      "label": "new"
     },
     {
       "rank": 18,
+      "title": "公安部将要求汽车百公里加速不少于5秒",
+      "url": "https://www.toutiao.com/trending/7571318160410968118/",
+      "label": ""
+    },
+    {
+      "rank": 19,
       "title": "馆长怒批高市早苗涉台言论",
       "url": "https://www.toutiao.com/trending/7571749573472436243/",
       "label": "hot"
     },
     {
-      "rank": 19,
-      "title": "杜锋：很高兴把冠军留在广东",
-      "url": "https://www.toutiao.com/trending/7570738602716528649/",
-      "label": "hot"
-    },
-    {
       "rank": 20,
-      "title": "新人称婚宴后茅台“集体”失踪",
-      "url": "https://www.toutiao.com/trending/7571774076260466729/",
-      "label": "new"
+      "title": "牛弹琴：日本大佬也看不下去了",
+      "url": "https://www.toutiao.com/trending/7571985606952157211/",
+      "label": "depth"
     },
     {
       "rank": 21,
@@ -136,57 +136,57 @@
     },
     {
       "rank": 22,
-      "title": "20岁在俄失联中国女留学生已离世",
-      "url": "https://www.toutiao.com/trending/7570933717368651817/",
-      "label": ""
+      "title": "杜锋：很高兴把冠军留在广东",
+      "url": "https://www.toutiao.com/trending/7570738602716528649/",
+      "label": "hot"
     },
     {
       "rank": 23,
+      "title": "U22国足输球 主帅：确有不足",
+      "url": "https://www.toutiao.com/trending/7571668876812124214/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "小米高调招揽“AI天才少女”背后",
+      "url": "https://www.toutiao.com/trending/7572033504515460649/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 25,
       "title": "赵睿告别广东全运男篮",
       "url": "https://www.toutiao.com/trending/7571737889311424550/",
       "label": ""
     },
     {
-      "rank": 24,
-      "title": "何穗官宣生子后首晒照",
-      "url": "https://www.toutiao.com/trending/7571391115891392548/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
+      "rank": 26,
       "title": "欧洲车企忧安世荷兰不给中国工厂晶圆",
       "url": "https://www.toutiao.com/trending/7572023442392747539/",
       "label": "new"
     },
     {
-      "rank": 26,
-      "title": "数字告诉你全运会乒乓为何是地表最难",
-      "url": "https://www.toutiao.com/trending/7572026380938907142/",
-      "label": "depth"
-    },
-    {
       "rank": 27,
-      "title": "特朗普何时按下对委打击“启动键”",
-      "url": "https://www.toutiao.com/trending/7572019689530854921/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 28,
-      "title": "媒体评取款需“自证清白”",
-      "url": "https://www.toutiao.com/trending/7571833220208004662/",
-      "label": ""
-    },
-    {
-      "rank": 29,
       "title": "特朗普送叙政权领导人自产香水",
       "url": "https://www.toutiao.com/trending/7572030694445272627/",
       "label": "onSite"
     },
     {
-      "rank": 30,
-      "title": "公安部将要求汽车百公里加速不少于5秒",
-      "url": "https://www.toutiao.com/trending/7571318160410968118/",
+      "rank": 28,
+      "title": "数字告诉你全运会乒乓为何是地表最难",
+      "url": "https://www.toutiao.com/trending/7572026380938907142/",
+      "label": "depth"
+    },
+    {
+      "rank": 29,
+      "title": "媒体评取款需“自证清白”",
+      "url": "https://www.toutiao.com/trending/7571833220208004662/",
       "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "俄外长谈俄罗斯与中国关系",
+      "url": "https://www.toutiao.com/trending/7570969929651617838/",
+      "label": "new"
     },
     {
       "rank": 31,
@@ -196,117 +196,117 @@
     },
     {
       "rank": 32,
-      "title": "儿童安全手表成“社交硬通货”",
-      "url": "https://www.toutiao.com/trending/7571669587423772723/",
-      "label": ""
+      "title": "专家：印巴边境再次剑拔弩张",
+      "url": "https://www.toutiao.com/trending/7572019852504763950/",
+      "label": "new"
     },
     {
       "rank": 33,
+      "title": "医生坦白局：是的我们降薪了",
+      "url": "https://www.toutiao.com/trending/7571696479857806867/",
+      "label": ""
+    },
+    {
+      "rank": 34,
       "title": "水果店便宜得像批发价走红",
       "url": "https://www.toutiao.com/trending/7571691780933435402/",
       "label": ""
     },
     {
-      "rank": 34,
-      "title": "小米高调招揽“AI天才少女”背后",
-      "url": "https://www.toutiao.com/trending/7572033504515460649/",
-      "label": "interpretation"
-    },
-    {
       "rank": 35,
-      "title": "委开展大规模动员应对美航母逼近",
-      "url": "https://www.toutiao.com/trending/7572004611481931270/",
-      "label": ""
+      "title": "陈梦回应全运会难打",
+      "url": "https://www.toutiao.com/trending/7570887263194890303/",
+      "label": "hot"
     },
     {
       "rank": 36,
-      "title": "U22国足输球 主帅：确有不足",
-      "url": "https://www.toutiao.com/trending/7571668876812124214/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "“搞事”早苗还会走多远",
-      "url": "https://www.toutiao.com/trending/7571096860153200703/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 38,
-      "title": "美国会允许阿拉伯国家拥有五代机吗",
-      "url": "https://www.toutiao.com/trending/7572014386005413382/",
-      "label": "depth"
-    },
-    {
-      "rank": 39,
-      "title": "俄外长谈俄罗斯与中国关系",
-      "url": "https://www.toutiao.com/trending/7570969929651617838/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
       "title": "民政部门证实离婚证背面有“囍”字",
       "url": "https://www.toutiao.com/trending/7571657135214510099/",
       "label": ""
     },
     {
-      "rank": 41,
+      "rank": 37,
       "title": "以方证实特朗普要求赦免内塔尼亚胡",
       "url": "https://www.toutiao.com/trending/7571754555408203782/",
       "label": ""
     },
     {
-      "rank": 42,
+      "rank": 38,
+      "title": "张子宇率山东U18女篮冲金",
+      "url": "https://www.toutiao.com/trending/7571382517320990756/",
+      "label": ""
+    },
+    {
+      "rank": 39,
       "title": "传家锅老板成立新公司",
       "url": "https://www.toutiao.com/trending/7571415464904884274/",
       "label": ""
     },
     {
-      "rank": 43,
+      "rank": 40,
+      "title": "20岁在俄失联中国女留学生已离世",
+      "url": "https://www.toutiao.com/trending/7570933717368651817/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "樊振东晋级男单四强",
+      "url": "https://www.toutiao.com/trending/7572047294778838547/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
       "title": "美国AI最终会国有化吗",
       "url": "https://www.toutiao.com/trending/7572010257019309610/",
       "label": "depth"
     },
     {
+      "rank": 43,
+      "title": "日防卫政策新动向引国际社会高度警惕",
+      "url": "https://www.toutiao.com/trending/7572025827433693227/",
+      "label": "new"
+    },
+    {
       "rank": 44,
+      "title": "委开展大规模动员应对美航母逼近",
+      "url": "https://www.toutiao.com/trending/7572004611481931270/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "汪顺200米个人混合泳预赛小组第一",
+      "url": "https://www.toutiao.com/trending/7572023886851620918/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "评论员：BBC遭遇史上最大危机",
+      "url": "https://www.toutiao.com/trending/7571745195276897834/",
+      "label": "depth"
+    },
+    {
+      "rank": 47,
+      "title": "从攻击-11无人机看中国空军技术进步",
+      "url": "https://www.toutiao.com/trending/7571753564658208310/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "外交部：中国在应对气变上是行动派",
+      "url": "https://www.toutiao.com/trending/7571740875819106323/",
+      "label": ""
+    },
+    {
+      "rank": 49,
       "title": "一起追更“地表最难乒乓球赛”",
       "url": "https://www.toutiao.com/trending/7571713889378320435/",
       "label": ""
     },
     {
-      "rank": 45,
-      "title": "走红的荒野求生赛：在野外更在风口",
-      "url": "https://www.toutiao.com/trending/7571674419479711238/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "自动驾驶行业的成本效率有何新进展",
-      "url": "https://www.toutiao.com/trending/7572008531897880106/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
-      "title": "美航母压境 委游击战应对能撑多久",
-      "url": "https://www.toutiao.com/trending/7572003179668999726/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
-      "title": "日本会放弃“无核三原则”吗",
-      "url": "https://www.toutiao.com/trending/7571985523745492534/",
-      "label": "depth"
-    },
-    {
-      "rank": 49,
+      "rank": 50,
       "title": "孙正义为何抛弃英伟达转投OpenAI",
       "url": "https://www.toutiao.com/trending/7571994755731574314/",
       "label": ""
-    },
-    {
-      "rank": 50,
-      "title": "评论员：BBC遭遇史上最大危机",
-      "url": "https://www.toutiao.com/trending/7571745195276897834/",
-      "label": "depth"
     }
   ]
 }
