@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 13 Nov 2025 02:45:06 GMT",
+  "generated_at": "Thu, 13 Nov 2025 02:50:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平会见西班牙国王费利佩六世",
@@ -52,15 +52,15 @@
     },
     {
       "rank": 8,
-      "title": "杜锋：很高兴把冠军留在广东",
-      "url": "https://www.toutiao.com/trending/7570738602716528649/",
-      "label": "hot"
-    },
-    {
-      "rank": 9,
       "title": "牛弹琴：日本大佬也看不下去了",
       "url": "https://www.toutiao.com/trending/7571985606952157211/",
       "label": "depth"
+    },
+    {
+      "rank": 9,
+      "title": "杜锋：很高兴把冠军留在广东",
+      "url": "https://www.toutiao.com/trending/7570738602716528649/",
+      "label": "hot"
     },
     {
       "rank": 10,
@@ -112,9 +112,9 @@
     },
     {
       "rank": 18,
-      "title": "一起追更“地表最难乒乓球赛”",
-      "url": "https://www.toutiao.com/trending/7571713889378320435/",
-      "label": ""
+      "title": "海象不小心踩伤饲养员又闯祸",
+      "url": "https://www.toutiao.com/trending/7571314663116505130/",
+      "label": "onSite"
     },
     {
       "rank": 19,
@@ -124,8 +124,8 @@
     },
     {
       "rank": 20,
-      "title": "14岁陕西少年十五运会勇夺铜牌",
-      "url": "https://www.toutiao.com/trending/7571073099492278308/",
+      "title": "一起追更“地表最难乒乓球赛”",
+      "url": "https://www.toutiao.com/trending/7571713889378320435/",
       "label": ""
     },
     {
@@ -148,86 +148,86 @@
     },
     {
       "rank": 24,
-      "title": "游客回应被凯里动物园猴子抓伤获赔",
-      "url": "https://www.toutiao.com/trending/7571296379139833910/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "美媒叹攻击-11让美军“一夜落伍”",
-      "url": "https://www.toutiao.com/trending/7571839377978953235/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 26,
-      "title": "全运会男篮决赛现场秒变“整活”时刻",
-      "url": "https://www.toutiao.com/trending/7571110071955144767/",
-      "label": "onSite"
-    },
-    {
-      "rank": 27,
-      "title": "医生坦白局：是的我们降薪了",
-      "url": "https://www.toutiao.com/trending/7571696479857806867/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "传家锅老板成立新公司",
-      "url": "https://www.toutiao.com/trending/7571415464904884274/",
-      "label": "new"
-    },
-    {
-      "rank": 29,
-      "title": "陈梦回应全运会难打",
-      "url": "https://www.toutiao.com/trending/7570887263194890303/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "儿童安全手表成“社交硬通货”",
-      "url": "https://www.toutiao.com/trending/7571669587423772723/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "民政部门证实离婚证背面有“囍”字",
-      "url": "https://www.toutiao.com/trending/7571657135214510099/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "以方证实特朗普要求赦免内塔尼亚胡",
-      "url": "https://www.toutiao.com/trending/7571754555408203782/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "美众议院通过临时拨款法案",
-      "url": "https://www.toutiao.com/trending/7572014499423587903/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "湖北队夺得全运会U20男足冠军",
-      "url": "https://www.toutiao.com/trending/7571616894948868139/",
-      "label": ""
-    },
-    {
-      "rank": 35,
       "title": "不准城里人买宅基地有何考量",
       "url": "https://www.toutiao.com/trending/7572015829542243846/",
       "label": "interpretation"
     },
     {
-      "rank": 36,
-      "title": "走红的荒野求生赛：在野外更在风口",
-      "url": "https://www.toutiao.com/trending/7571674419479711238/",
+      "rank": 25,
+      "title": "14岁陕西少年十五运会勇夺铜牌",
+      "url": "https://www.toutiao.com/trending/7571073099492278308/",
       "label": ""
     },
     {
+      "rank": 26,
+      "title": "游客回应被凯里动物园猴子抓伤获赔",
+      "url": "https://www.toutiao.com/trending/7571296379139833910/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
+      "title": "传家锅老板成立新公司",
+      "url": "https://www.toutiao.com/trending/7571415464904884274/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
+      "title": "美媒叹攻击-11让美军“一夜落伍”",
+      "url": "https://www.toutiao.com/trending/7571839377978953235/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 29,
+      "title": "医生坦白局：是的我们降薪了",
+      "url": "https://www.toutiao.com/trending/7571696479857806867/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "民政部门证实离婚证背面有“囍”字",
+      "url": "https://www.toutiao.com/trending/7571657135214510099/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "陈梦回应全运会难打",
+      "url": "https://www.toutiao.com/trending/7570887263194890303/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "评论员谈德国大幅增加国防预算",
+      "url": "https://www.toutiao.com/trending/7571826904068525609/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "以方证实特朗普要求赦免内塔尼亚胡",
+      "url": "https://www.toutiao.com/trending/7571754555408203782/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "全运会男篮决赛现场秒变“整活”时刻",
+      "url": "https://www.toutiao.com/trending/7571110071955144767/",
+      "label": "onSite"
+    },
+    {
+      "rank": 35,
+      "title": "孙正义为何抛弃英伟达转投OpenAI",
+      "url": "https://www.toutiao.com/trending/7571994755731574314/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "急需重建的叙利亚与特朗普交换筹码",
+      "url": "https://www.toutiao.com/trending/7571330372462821386/",
+      "label": "new"
+    },
+    {
       "rank": 37,
-      "title": "周鹏说参加五届全运会够回忆一辈子",
-      "url": "https://www.toutiao.com/trending/7570780691294896154/",
+      "title": "湖北队夺得全运会U20男足冠军",
+      "url": "https://www.toutiao.com/trending/7571616894948868139/",
       "label": ""
     },
     {
@@ -238,75 +238,75 @@
     },
     {
       "rank": 39,
-      "title": "女装越做越小但吊牌比脸都大",
-      "url": "https://www.toutiao.com/trending/7571722513281977892/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "评论员谈德国大幅增加国防预算",
-      "url": "https://www.toutiao.com/trending/7571826904068525609/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "特朗普将签署法案结束政府停摆",
-      "url": "https://www.toutiao.com/trending/7571748425356722226/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "互联网被AI“污染”成什么样了",
-      "url": "https://www.toutiao.com/trending/7571810846737714730/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "王曼昱：全运会每一场赛都是强强对抗",
-      "url": "https://www.toutiao.com/trending/7570809648018898985/",
-      "label": "onSite"
-    },
-    {
-      "rank": 44,
       "title": "委开展大规模动员应对美航母逼近",
       "url": "https://www.toutiao.com/trending/7572004611481931270/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "媒体：独行侠送走浓眉同样刻不容缓",
-      "url": "https://www.toutiao.com/trending/7571220971617550386/",
+      "rank": 40,
+      "title": "儿童安全手表成“社交硬通货”",
+      "url": "https://www.toutiao.com/trending/7571669587423772723/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "孙正义为何抛弃英伟达转投OpenAI",
-      "url": "https://www.toutiao.com/trending/7571994755731574314/",
+      "rank": 41,
+      "title": "周鹏说参加五届全运会够回忆一辈子",
+      "url": "https://www.toutiao.com/trending/7570780691294896154/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "女装越做越小但吊牌比脸都大",
+      "url": "https://www.toutiao.com/trending/7571722513281977892/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "走红的荒野求生赛：在野外更在风口",
+      "url": "https://www.toutiao.com/trending/7571674419479711238/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "互联网被AI“污染”成什么样了",
+      "url": "https://www.toutiao.com/trending/7571810846737714730/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "赵睿告别广东全运男篮",
+      "url": "https://www.toutiao.com/trending/7571737889311424550/",
       "label": "new"
     },
     {
-      "rank": 47,
+      "rank": 46,
       "title": "20岁在俄失联中国女留学生已离世",
       "url": "https://www.toutiao.com/trending/7570933717368651817/",
       "label": ""
     },
     {
-      "rank": 48,
-      "title": "潘展乐高情商回应如何赢后浪",
-      "url": "https://www.toutiao.com/trending/7571974531691236914/",
+      "rank": 47,
+      "title": "王曼昱：全运会每一场赛都是强强对抗",
+      "url": "https://www.toutiao.com/trending/7570809648018898985/",
       "label": "onSite"
     },
     {
+      "rank": 48,
+      "title": "日本会放弃“无核三原则”吗",
+      "url": "https://www.toutiao.com/trending/7571985523745492534/",
+      "label": "depth"
+    },
+    {
       "rank": 49,
-      "title": "京东双11手机排名出炉",
-      "url": "https://www.toutiao.com/trending/7571762981915069958/",
+      "title": "媒体：独行侠送走浓眉同样刻不容缓",
+      "url": "https://www.toutiao.com/trending/7571220971617550386/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "台湾网红“馆长”回忆大陆行",
-      "url": "https://www.toutiao.com/trending/7570707818534420506/",
-      "label": ""
+      "title": "潘展乐高情商回应如何赢后浪",
+      "url": "https://www.toutiao.com/trending/7571974531691236914/",
+      "label": "onSite"
     }
   ]
 }
