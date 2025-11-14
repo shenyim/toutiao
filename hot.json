@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Fri, 14 Nov 2025 02:10:05 GMT",
+  "generated_at": "Fri, 14 Nov 2025 02:15:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "“全民全运”闪耀大湾区",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "人民日报：绝不容忍高市早苗越线挑衅",
-      "url": "https://www.toutiao.com/trending/7571296815822290954/",
-      "label": "hot"
-    },
-    {
-      "rank": 2,
       "title": "神二十航天员今日回家",
       "url": "https://www.toutiao.com/trending/7571614791237861412/",
       "label": "recentProgress"
+    },
+    {
+      "rank": 2,
+      "title": "人民日报：绝不容忍高市早苗越线挑衅",
+      "url": "https://www.toutiao.com/trending/7571296815822290954/",
+      "label": "hot"
     },
     {
       "rank": 3,
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "外交部副部长召见日本大使提严正交涉",
-      "url": "https://www.toutiao.com/trending/7572347074818084390/",
-      "label": "hot"
-    },
-    {
-      "rank": 5,
       "title": "泰国国王王后抵京王毅迎接",
       "url": "https://www.toutiao.com/trending/7571458783877041683/",
       "label": "onSite"
+    },
+    {
+      "rank": 5,
+      "title": "外交部副部长召见日本大使提严正交涉",
+      "url": "https://www.toutiao.com/trending/7572347074818084390/",
+      "label": "hot"
     },
     {
       "rank": 6,
@@ -46,9 +46,9 @@
     },
     {
       "rank": 7,
-      "title": "石破茂反对高市早苗涉台言论",
-      "url": "https://www.toutiao.com/trending/7571815318490828294/",
-      "label": "hot"
+      "title": "女子捡手机刷机拒还",
+      "url": "https://www.toutiao.com/trending/7572121666332131347/",
+      "label": ""
     },
     {
       "rank": 8,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "女子捡手机刷机拒还",
-      "url": "https://www.toutiao.com/trending/7572121666332131347/",
-      "label": ""
+      "title": "石破茂反对高市早苗涉台言论",
+      "url": "https://www.toutiao.com/trending/7571815318490828294/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -142,86 +142,86 @@
     },
     {
       "rank": 23,
-      "title": "凌晨3点开会引众怒 高市早苗决定反省",
-      "url": "https://www.toutiao.com/trending/7571568690496569382/",
-      "label": "hot"
+      "title": "“国产GPU第一股”将开启申购",
+      "url": "https://www.toutiao.com/trending/7571695355546517545/",
+      "label": ""
     },
     {
       "rank": 24,
+      "title": "法国“臭虫恐慌”也怪俄罗斯吗",
+      "url": "https://www.toutiao.com/trending/7572007485402677291/",
+      "label": "new"
+    },
+    {
+      "rank": 25,
       "title": "郭晶晶拍汪顺比赛嘴角上扬",
       "url": "https://www.toutiao.com/trending/7571815318490861062/",
       "label": ""
     },
     {
-      "rank": 25,
-      "title": "西班牙国王访华有何收获",
-      "url": "https://www.toutiao.com/trending/7572354738675519027/",
-      "label": ""
-    },
-    {
       "rank": 26,
-      "title": "郭德纲回忆到北京闯江湖的开端",
-      "url": "https://www.toutiao.com/trending/7572090943109873715/",
-      "label": ""
+      "title": "凌晨3点开会引众怒 高市早苗决定反省",
+      "url": "https://www.toutiao.com/trending/7571568690496569382/",
+      "label": "hot"
     },
     {
       "rank": 27,
-      "title": "王曼昱谈半决赛对阵陈梦",
-      "url": "https://www.toutiao.com/trending/7571388478810751014/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "C罗国家队生涯首次染红",
-      "url": "https://www.toutiao.com/trending/7571467053207748618/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "王自如不相信超薄手机安卓比苹果好",
-      "url": "https://www.toutiao.com/trending/7572111992778145855/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "印度军演：坦克加棚 机器狗送医疗包",
-      "url": "https://www.toutiao.com/trending/7572026040181194771/",
-      "label": "onSite"
-    },
-    {
-      "rank": 31,
-      "title": "馆长致敬冰雕连：三度我都冷到头痛",
-      "url": "https://www.toutiao.com/trending/7571315429986320426/",
-      "label": ""
-    },
-    {
-      "rank": 32,
       "title": "李在明开会时3名官员轮流自拍",
       "url": "https://www.toutiao.com/trending/7571333188520329252/",
       "label": "onSite"
     },
     {
+      "rank": 28,
+      "title": "奶皮子糖葫芦从5元涨到98元",
+      "url": "https://www.toutiao.com/trending/7571424884569292836/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
+      "title": "馆长致敬冰雕连：三度我都冷到头痛",
+      "url": "https://www.toutiao.com/trending/7571315429986320426/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "王自如不相信超薄手机安卓比苹果好",
+      "url": "https://www.toutiao.com/trending/7572111992778145855/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "王曼昱谈半决赛对阵陈梦",
+      "url": "https://www.toutiao.com/trending/7571388478810751014/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "郭德纲回忆到北京闯江湖的开端",
+      "url": "https://www.toutiao.com/trending/7572090943109873715/",
+      "label": ""
+    },
+    {
       "rank": 33,
-      "title": "摇滚歌手阿珍因电动座椅架挤压身亡",
-      "url": "https://www.toutiao.com/trending/7572026669704396819/",
+      "title": "女子借900万给小20岁男模男友",
+      "url": "https://www.toutiao.com/trending/7571880384431095862/",
       "label": ""
     },
     {
       "rank": 34,
-      "title": "安切洛蒂：C罗必将实现1000球壮举",
-      "url": "https://www.toutiao.com/trending/7571903503401041962/",
-      "label": "new"
+      "title": "印度军演：坦克加棚 机器狗送医疗包",
+      "url": "https://www.toutiao.com/trending/7572026040181194771/",
+      "label": "onSite"
     },
     {
       "rank": 35,
-      "title": "新房渠道费为什么这么贵",
-      "url": "https://www.toutiao.com/trending/7572137506758463018/",
-      "label": "interpretation"
+      "title": "C罗国家队生涯首次染红",
+      "url": "https://www.toutiao.com/trending/7571467053207748618/",
+      "label": ""
     },
     {
       "rank": 36,
-      "title": "“国产GPU第一股”将开启申购",
-      "url": "https://www.toutiao.com/trending/7571695355546517545/",
+      "title": "摇滚歌手阿珍因电动座椅架挤压身亡",
+      "url": "https://www.toutiao.com/trending/7572026669704396819/",
       "label": ""
     },
     {
@@ -238,75 +238,75 @@
     },
     {
       "rank": 39,
-      "title": "蒋欣童瑶二搭《四喜》顶峰相见",
-      "url": "https://www.toutiao.com/trending/7571327341591576595/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "地方国资扎堆出售房产",
-      "url": "https://www.toutiao.com/trending/7572158181821120555/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "刘诗雯/林高远挺进全运会混双决赛",
-      "url": "https://www.toutiao.com/trending/7571423221820817462/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "起底“台独”帮凶温子渝陈柏源",
-      "url": "https://www.toutiao.com/trending/7571084024819633718/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "台名嘴谈福建舰入列：国家越来越强大",
-      "url": "https://www.toutiao.com/trending/7571713155211034634/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "女子借900万给小20岁男模男友",
-      "url": "https://www.toutiao.com/trending/7571880384431095862/",
-      "label": ""
-    },
-    {
-      "rank": 45,
       "title": "辛芷蕾回老家鹤岗撸串了",
       "url": "https://www.toutiao.com/trending/7571393773129793578/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "专家：三航母编队将扩大海上防御纵深",
-      "url": "https://www.toutiao.com/trending/7571387444680769587/",
+      "rank": 40,
+      "title": "蒋欣童瑶二搭《四喜》顶峰相见",
+      "url": "https://www.toutiao.com/trending/7571327341591576595/",
       "label": ""
     },
     {
-      "rank": 47,
+      "rank": 41,
+      "title": "西班牙国王访华有何收获",
+      "url": "https://www.toutiao.com/trending/7572354738675519027/",
+      "label": ""
+    },
+    {
+      "rank": 42,
       "title": "乌克兰年底前不再与俄和谈",
       "url": "https://www.toutiao.com/trending/7572055166141091378/",
       "label": ""
     },
     {
+      "rank": 43,
+      "title": "新房渠道费为什么这么贵",
+      "url": "https://www.toutiao.com/trending/7572137506758463018/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 44,
+      "title": "专家：三航母编队将扩大海上防御纵深",
+      "url": "https://www.toutiao.com/trending/7571387444680769587/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "地方国资扎堆出售房产",
+      "url": "https://www.toutiao.com/trending/7572158181821120555/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "委多架战机为何飞抵委内瑞拉外海",
+      "url": "https://www.toutiao.com/trending/7572126959217197119/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "起底“台独”帮凶温子渝陈柏源",
+      "url": "https://www.toutiao.com/trending/7571084024819633718/",
+      "label": ""
+    },
+    {
       "rank": 48,
-      "title": "前女排运动员赵蕊蕊亮相活动",
-      "url": "https://www.toutiao.com/trending/7572114447842951209/",
+      "title": "台名嘴谈福建舰入列：国家越来越强大",
+      "url": "https://www.toutiao.com/trending/7571713155211034634/",
       "label": ""
     },
     {
       "rank": 49,
-      "title": "媒体谈郑钦文退赛：以“退”为进",
-      "url": "https://www.toutiao.com/trending/7572038476741234222/",
+      "title": "美股为何大跌",
+      "url": "https://www.toutiao.com/trending/7572362509869387270/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "《四喜》的家长里短怎样照进2025年",
-      "url": "https://www.toutiao.com/trending/7571317742268088356/",
-      "label": ""
+      "title": "媒体谈郑钦文退赛：以“退”为进",
+      "url": "https://www.toutiao.com/trending/7572038476741234222/",
+      "label": "new"
     }
   ]
 }
