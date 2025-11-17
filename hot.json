@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 17 Nov 2025 06:00:09 GMT",
+  "generated_at": "Mon, 17 Nov 2025 06:26:16 GMT",
   "top": {
     "rank": "置顶",
     "title": "思想之光照亮法治航程",
@@ -18,7 +18,7 @@
       "rank": 2,
       "title": "男子躺33.5小时获躺平大赛冠军",
       "url": "https://www.toutiao.com/trending/7573286621555179562/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 3,
@@ -36,7 +36,7 @@
       "rank": 5,
       "title": "张继科：樊振东还是比别人要高一点",
       "url": "https://www.toutiao.com/trending/7573160795749040166/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 6,
@@ -58,15 +58,15 @@
     },
     {
       "rank": 9,
-      "title": "杨瀚森G联赛得分创新高",
-      "url": "https://www.toutiao.com/trending/7573531738266144292/",
-      "label": "hot"
+      "title": "孙颖莎回应比赛中途换球衣",
+      "url": "https://www.toutiao.com/trending/7573071039660392490/",
+      "label": "new"
     },
     {
       "rank": 10,
-      "title": "巨额比特币被盗 美国专搞“黑吃黑”",
+      "title": "美被曝伪造证据黑吃黑窃取巨额比特币",
       "url": "https://www.toutiao.com/trending/7572930273534345226/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 11,
@@ -100,9 +100,9 @@
     },
     {
       "rank": 16,
-      "title": "家门口何以成“小广告”重灾区",
-      "url": "https://www.toutiao.com/trending/7573327540597817380/",
-      "label": ""
+      "title": "杨瀚森G联赛得分创新高",
+      "url": "https://www.toutiao.com/trending/7573531738266144292/",
+      "label": "hot"
     },
     {
       "rank": 17,
@@ -118,27 +118,27 @@
     },
     {
       "rank": 19,
-      "title": "孙颖莎：王曼昱是当今女乒最优秀的",
-      "url": "https://www.toutiao.com/trending/7573206508960432182/",
-      "label": "hot"
-    },
-    {
-      "rank": 20,
-      "title": "曝华为Mate 80系列新机拥抱磁吸生态",
-      "url": "https://www.toutiao.com/trending/7572828365003718692/",
-      "label": ""
-    },
-    {
-      "rank": 21,
       "title": "男子家暴妻子多年 年老后道歉求原谅",
       "url": "https://www.toutiao.com/trending/7572411961615695926/",
       "label": ""
     },
     {
-      "rank": 22,
-      "title": "孙颖莎回应比赛中途换球衣",
-      "url": "https://www.toutiao.com/trending/7573071039660392490/",
+      "rank": 20,
+      "title": "日本40岁女子被陌生男子砍成重伤",
+      "url": "https://www.toutiao.com/trending/7573308133863604262/",
       "label": "new"
+    },
+    {
+      "rank": 21,
+      "title": "王宗源回应给全红婵戴全运会金牌",
+      "url": "https://www.toutiao.com/trending/7573302699857805353/",
+      "label": "new"
+    },
+    {
+      "rank": 22,
+      "title": "沈政男：2026台北市长是蒋万安囊中物",
+      "url": "https://www.toutiao.com/trending/7572608356649648170/",
+      "label": ""
     },
     {
       "rank": 23,
@@ -148,63 +148,63 @@
     },
     {
       "rank": 24,
-      "title": "沈政男：2026台北市长是蒋万安囊中物",
-      "url": "https://www.toutiao.com/trending/7572608356649648170/",
-      "label": ""
+      "title": "孙颖莎：王曼昱是当今女乒最优秀的",
+      "url": "https://www.toutiao.com/trending/7573206508960432182/",
+      "label": "hot"
     },
     {
       "rank": 25,
-      "title": "宁波海关副关长陈孟裕被查",
-      "url": "https://www.toutiao.com/trending/7573523658606624831/",
-      "label": "new"
+      "title": "俄乌战争若打12年结局会是什么",
+      "url": "https://www.toutiao.com/trending/7573518187849846315/",
+      "label": ""
     },
     {
       "rank": 26,
+      "title": "独行侠逆转开拓者终结3连败",
+      "url": "https://www.toutiao.com/trending/7573101710341079103/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
+      "title": "曝华为Mate 80系列新机拥抱磁吸生态",
+      "url": "https://www.toutiao.com/trending/7572828365003718692/",
+      "label": "hot"
+    },
+    {
+      "rank": 28,
+      "title": "72岁赵雅芝跳扫腿舞",
+      "url": "https://www.toutiao.com/trending/7572171371154030635/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "舍甫琴科：我不能和张伟丽放开打",
+      "url": "https://www.toutiao.com/trending/7572785213227630646/",
+      "label": "new"
+    },
+    {
+      "rank": 30,
       "title": "外媒：泰国国王访华意义非凡",
       "url": "https://www.toutiao.com/trending/7573139030410264585/",
       "label": ""
     },
     {
-      "rank": 27,
-      "title": "大陆通缉“台独”网红释放清晰信号",
-      "url": "https://www.toutiao.com/trending/7573126208637255689/",
-      "label": ""
-    },
-    {
-      "rank": 28,
+      "rank": 31,
       "title": "退伍特种兵荒野求生30天掉秤14公斤",
       "url": "https://www.toutiao.com/trending/7573381937289773075/",
       "label": ""
     },
     {
-      "rank": 29,
+      "rank": 32,
       "title": "日学者：高市早苗应向中国道歉并辞职",
       "url": "https://www.toutiao.com/trending/7573470652917616171/",
       "label": ""
     },
     {
-      "rank": 30,
-      "title": "浙江队无缘男子4x100混合泳决赛",
-      "url": "https://www.toutiao.com/trending/7572522905167314995/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
-      "title": "河南驻马店下雪了",
-      "url": "https://www.toutiao.com/trending/7573261971874578474/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "特朗普不到两个月内完成超175笔投资",
-      "url": "https://www.toutiao.com/trending/7573491698903289386/",
-      "label": ""
-    },
-    {
       "rank": 33,
-      "title": "火箭加时逆转魔术",
-      "url": "https://www.toutiao.com/trending/7573520299690967091/",
-      "label": ""
+      "title": "德企负责人：与中国脱钩不可能",
+      "url": "https://www.toutiao.com/trending/7572904875756912659/",
+      "label": "new"
     },
     {
       "rank": 34,
@@ -214,98 +214,98 @@
     },
     {
       "rank": 35,
-      "title": "王宗源回应给全红婵戴全运会金牌",
-      "url": "https://www.toutiao.com/trending/7573302699857805353/",
-      "label": "new"
+      "title": "河南驻马店下雪了",
+      "url": "https://www.toutiao.com/trending/7573261971874578474/",
+      "label": ""
     },
     {
       "rank": 36,
-      "title": "俄乌战争若打12年结局会是什么",
-      "url": "https://www.toutiao.com/trending/7573518187849846315/",
-      "label": "new"
+      "title": "宁波海关副关长陈孟裕被查",
+      "url": "https://www.toutiao.com/trending/7573523658606624831/",
+      "label": ""
     },
     {
       "rank": 37,
+      "title": "大陆通缉“台独”网红释放清晰信号",
+      "url": "https://www.toutiao.com/trending/7573126208637255689/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "家门口何以成“小广告”重灾区",
+      "url": "https://www.toutiao.com/trending/7573327540597817380/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "张艺谋主导下的金鸡奖争议",
+      "url": "https://www.toutiao.com/trending/7573475599155465778/",
+      "label": "depth"
+    },
+    {
+      "rank": 40,
+      "title": "特朗普不到两个月内完成超175笔投资",
+      "url": "https://www.toutiao.com/trending/7573491698903289386/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "浙江队无缘男子4x100混合泳决赛",
+      "url": "https://www.toutiao.com/trending/7572522905167314995/",
+      "label": ""
+    },
+    {
+      "rank": 42,
       "title": "美称希望感恩节前完成中美稀土交易",
       "url": "https://www.toutiao.com/trending/7573111811982000178/",
       "label": ""
     },
     {
-      "rank": 38,
-      "title": "王曼昱：我和莎莎都比四年前更好了",
-      "url": "https://www.toutiao.com/trending/7573316360601485339/",
-      "label": ""
-    },
-    {
-      "rank": 39,
+      "rank": 43,
       "title": "钟楚曦再陷“抢C位”风波",
       "url": "https://www.toutiao.com/trending/7573018086230294564/",
       "label": ""
     },
     {
-      "rank": 40,
-      "title": "以色列为何顽固阻止巴勒斯坦建国",
-      "url": "https://www.toutiao.com/trending/7573504252908146226/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "女子在石头上跳跃摔成粉碎性骨折",
-      "url": "https://www.toutiao.com/trending/7572957247384010806/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "72岁赵雅芝跳扫腿舞",
-      "url": "https://www.toutiao.com/trending/7572171371154030635/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "萨尔布吕肯祝贺樊振东夺冠",
-      "url": "https://www.toutiao.com/trending/7572449028257316906/",
-      "label": ""
-    },
-    {
       "rank": 44,
-      "title": "A股4000点拉锯战资金流向哪里",
-      "url": "https://www.toutiao.com/trending/7573507630610517550/",
-      "label": ""
-    },
-    {
-      "rank": 45,
       "title": "柯文哲妻子劝台湾人早日断开民进党",
       "url": "https://www.toutiao.com/trending/7573016459358535726/",
       "label": ""
     },
     {
+      "rank": 45,
+      "title": "比特币大崩盘来了吗",
+      "url": "https://www.toutiao.com/trending/7573527137404063238/",
+      "label": "interpretation"
+    },
+    {
       "rank": 46,
-      "title": "俄军打击乌方三套导弹发射装置",
-      "url": "https://www.toutiao.com/trending/7572618026569023529/",
-      "label": "new"
+      "title": "火箭加时逆转魔术",
+      "url": "https://www.toutiao.com/trending/7573520299690967091/",
+      "label": ""
     },
     {
       "rank": 47,
-      "title": "张伟丽赛后给妈妈打电话落泪",
-      "url": "https://www.toutiao.com/trending/7572970934932504603/",
+      "title": "反击高市“搞事” 中方为何如此强硬",
+      "url": "https://www.toutiao.com/trending/7572923833755844627/",
       "label": ""
     },
     {
       "rank": 48,
-      "title": "日政界人士称首相在反省涉台发言问题",
-      "url": "https://www.toutiao.com/trending/7573457667482537499/",
+      "title": "A股4000点拉锯战资金流向哪里",
+      "url": "https://www.toutiao.com/trending/7573507630610517550/",
       "label": ""
     },
     {
       "rank": 49,
-      "title": "樊振东：469天后王者归来",
-      "url": "https://www.toutiao.com/trending/7573489532562050566/",
+      "title": "陈梦说赛场的快乐无关输赢",
+      "url": "https://www.toutiao.com/trending/7573105986836201523/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "德财长访华强调“要对话”",
-      "url": "https://www.toutiao.com/trending/7573508650489089574/",
+      "title": "美政府停摆造成1.5万亿美元损失",
+      "url": "https://www.toutiao.com/trending/7573538573773914122/",
       "label": "new"
     }
   ]
