@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 17 Nov 2025 02:05:04 GMT",
+  "generated_at": "Mon, 17 Nov 2025 02:10:03 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记引领法治中国建设阔步前行",
@@ -42,7 +42,7 @@
       "rank": 6,
       "title": "净网|任性宣泄不可取 两人被行拘",
       "url": "https://www.toutiao.com/trending/7573492411197017651/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 7,
@@ -142,15 +142,15 @@
     },
     {
       "rank": 23,
-      "title": "台湾舆论痛批高市涉台谬论“害台”",
-      "url": "https://www.toutiao.com/trending/7573463592658275859/",
+      "title": "日政界人士称首相在反省涉台发言问题",
+      "url": "https://www.toutiao.com/trending/7573457667482537499/",
       "label": ""
     },
     {
       "rank": 24,
-      "title": "美军花4.7万购买造价15美元旋钮",
-      "url": "https://www.toutiao.com/trending/7573172977219797033/",
-      "label": ""
+      "title": "樊振东：469天后王者归来",
+      "url": "https://www.toutiao.com/trending/7573489532562050566/",
+      "label": "new"
     },
     {
       "rank": 25,
@@ -160,153 +160,153 @@
     },
     {
       "rank": 26,
-      "title": "樊振东：469天后王者归来",
-      "url": "https://www.toutiao.com/trending/7573489532562050566/",
-      "label": "new"
+      "title": "台湾舆论痛批高市涉台谬论“害台”",
+      "url": "https://www.toutiao.com/trending/7573463592658275859/",
+      "label": ""
     },
     {
       "rank": 27,
+      "title": "美军花4.7万购买造价15美元旋钮",
+      "url": "https://www.toutiao.com/trending/7573172977219797033/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "越南三季度GDP增长8.23%背后",
+      "url": "https://www.toutiao.com/trending/7573469365626998291/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
       "title": "人民日报：借台湾生事就是给日本找事",
       "url": "https://www.toutiao.com/trending/7572761056200887814/",
       "label": "new"
     },
     {
-      "rank": 28,
-      "title": "孙颖莎给自己全运会表现打90分",
-      "url": "https://www.toutiao.com/trending/7573466072435658290/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "张伟丽无缘蝇量级冠军",
-      "url": "https://www.toutiao.com/trending/7572435296802668587/",
-      "label": ""
-    },
-    {
       "rank": 30,
-      "title": "日政界人士称首相在反省涉台发言问题",
-      "url": "https://www.toutiao.com/trending/7573457667482537499/",
-      "label": ""
+      "title": "巴勒斯坦各派别批评美提案",
+      "url": "https://www.toutiao.com/trending/7572829673861251078/",
+      "label": "new"
     },
     {
       "rank": 31,
-      "title": "王曼昱复盘全运会女单决赛",
-      "url": "https://www.toutiao.com/trending/7572968199109574702/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "大货车停右转路口被后车撞上",
-      "url": "https://www.toutiao.com/trending/7572726311215480875/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "非洲发生大屠杀上千名平民遇害",
-      "url": "https://www.toutiao.com/trending/7572930334854938650/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "女子在石头上跳跃摔成粉碎性骨折",
-      "url": "https://www.toutiao.com/trending/7572957247384010806/",
-      "label": ""
-    },
-    {
-      "rank": 35,
       "title": "哈登19秒9分 压哨出手绝平失败",
       "url": "https://www.toutiao.com/trending/7572762633242247204/",
       "label": "new"
     },
     {
+      "rank": 32,
+      "title": "张伟丽无缘蝇量级冠军",
+      "url": "https://www.toutiao.com/trending/7572435296802668587/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "孙颖莎给自己全运会表现打90分",
+      "url": "https://www.toutiao.com/trending/7573466072435658290/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "大货车停右转路口被后车撞上",
+      "url": "https://www.toutiao.com/trending/7572726311215480875/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "非洲发生大屠杀上千名平民遇害",
+      "url": "https://www.toutiao.com/trending/7572930334854938650/",
+      "label": ""
+    },
+    {
       "rank": 36,
+      "title": "王曼昱复盘全运会女单决赛",
+      "url": "https://www.toutiao.com/trending/7572968199109574702/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "女子在石头上跳跃摔成粉碎性骨折",
+      "url": "https://www.toutiao.com/trending/7572957247384010806/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "以称哈马斯武装预计将由国际部队解除",
+      "url": "https://www.toutiao.com/trending/7572526736622141466/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
       "title": "钟楚曦再陷“抢C位”风波",
       "url": "https://www.toutiao.com/trending/7573018086230294564/",
       "label": "new"
     },
     {
-      "rank": 37,
+      "rank": 40,
       "title": "周锡玮：高市没那个实力还要讲大话",
       "url": "https://www.toutiao.com/trending/7573277928704757290/",
       "label": ""
     },
     {
-      "rank": 38,
-      "title": "媒体：基建安全容不得“短命工程”",
-      "url": "https://www.toutiao.com/trending/7572598933236482089/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "南京二桥公园成“私园”背后",
-      "url": "https://www.toutiao.com/trending/7573132885201289258/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "江西名将邓娅兰十五运跳马封后",
-      "url": "https://www.toutiao.com/trending/7573161935832629299/",
-      "label": ""
-    },
-    {
       "rank": 41,
-      "title": "日本发生持刀伤人事件 一人被刺伤",
-      "url": "https://www.toutiao.com/trending/7573154703345811475/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "韩国政府宣布：中国排日本前面",
-      "url": "https://www.toutiao.com/trending/7573082019576660011/",
-      "label": ""
-    },
-    {
-      "rank": 43,
       "title": "河南驻马店下雪了",
       "url": "https://www.toutiao.com/trending/7573261971874578474/",
       "label": "new"
     },
     {
+      "rank": 42,
+      "title": "媒体：基建安全容不得“短命工程”",
+      "url": "https://www.toutiao.com/trending/7572598933236482089/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "南京二桥公园成“私园”背后",
+      "url": "https://www.toutiao.com/trending/7573132885201289258/",
+      "label": ""
+    },
+    {
       "rank": 44,
-      "title": "四川舰未来将在海军中扮演什么角色",
-      "url": "https://www.toutiao.com/trending/7573464537962122815/",
-      "label": "interpretation"
+      "title": "日本发生持刀伤人事件 一人被刺伤",
+      "url": "https://www.toutiao.com/trending/7573154703345811475/",
+      "label": ""
     },
     {
       "rank": 45,
+      "title": "媒体人：日本经济隐藏着巨大脆弱性",
+      "url": "https://www.toutiao.com/trending/7573488990465035827/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "韩国政府宣布：中国排日本前面",
+      "url": "https://www.toutiao.com/trending/7573082019576660011/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "江西名将邓娅兰十五运跳马封后",
+      "url": "https://www.toutiao.com/trending/7573161935832629299/",
+      "label": ""
+    },
+    {
+      "rank": 48,
       "title": "研究员：不要低估大陆惩“独”手段",
       "url": "https://www.toutiao.com/trending/7572429384788738084/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "美政府考虑向沙特出售F-35",
-      "url": "https://www.toutiao.com/trending/7572461309879402550/",
-      "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "传小米公关总监王化将换岗",
-      "url": "https://www.toutiao.com/trending/7573166569577299987/",
-      "label": ""
-    },
-    {
-      "rank": 48,
-      "title": "全运会800米最后加速狂超太精彩了",
-      "url": "https://www.toutiao.com/trending/7572761056200838662/",
-      "label": ""
-    },
-    {
       "rank": 49,
-      "title": "曝华为Mate 80系列新机拥抱磁吸生态",
-      "url": "https://www.toutiao.com/trending/7572828365003718692/",
-      "label": "new"
+      "title": "四川舰未来将在海军中扮演什么角色",
+      "url": "https://www.toutiao.com/trending/7573464537962122815/",
+      "label": "interpretation"
     },
     {
       "rank": 50,
-      "title": "中日外交场合首现“迎头痛击”意味啥",
-      "url": "https://www.toutiao.com/trending/7573290114828369958/",
-      "label": "interpretation"
+      "title": "传小米公关总监王化将换岗",
+      "url": "https://www.toutiao.com/trending/7573166569577299987/",
+      "label": ""
     }
   ]
 }
