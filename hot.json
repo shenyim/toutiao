@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 17 Nov 2025 03:05:11 GMT",
+  "generated_at": "Mon, 17 Nov 2025 03:10:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "思想之光照亮法治航程",
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "孙颖莎：王曼昱是当今女乒最优秀的",
-      "url": "https://www.toutiao.com/trending/7573206508960432182/",
-      "label": "hot"
+      "title": "日本旅游股重挫",
+      "url": "https://www.toutiao.com/trending/7572901993166077994/",
+      "label": "new"
     },
     {
       "rank": 5,
-      "title": "日媒：中国的反应超出预期",
-      "url": "https://www.toutiao.com/trending/7572761056200920582/",
-      "label": ""
+      "title": "孙颖莎：王曼昱是当今女乒最优秀的",
+      "url": "https://www.toutiao.com/trending/7573206508960432182/",
+      "label": "hot"
     },
     {
       "rank": 6,
@@ -46,27 +46,27 @@
     },
     {
       "rank": 7,
+      "title": "日媒：中国的反应超出预期",
+      "url": "https://www.toutiao.com/trending/7572761056200920582/",
+      "label": ""
+    },
+    {
+      "rank": 8,
       "title": "特斯拉“去中国化”背后隐藏什么",
       "url": "https://www.toutiao.com/trending/7573105255983038502/",
       "label": "interpretation"
     },
     {
-      "rank": 8,
-      "title": "日本旅游股重挫",
-      "url": "https://www.toutiao.com/trending/7572901993166077994/",
-      "label": "new"
-    },
-    {
       "rank": 9,
-      "title": "高市大放厥词后美为何急忙撇清关系",
-      "url": "https://www.toutiao.com/trending/7572833487037366282/",
-      "label": "hot"
-    },
-    {
-      "rank": 10,
       "title": "曝华为Mate 80系列新机拥抱磁吸生态",
       "url": "https://www.toutiao.com/trending/7572828365003718692/",
       "label": ""
+    },
+    {
+      "rank": 10,
+      "title": "高市大放厥词后美为何急忙撇清关系",
+      "url": "https://www.toutiao.com/trending/7572833487037366282/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -94,21 +94,21 @@
     },
     {
       "rank": 15,
+      "title": "外媒：泰国国王访华意义非凡",
+      "url": "https://www.toutiao.com/trending/7573139030410264585/",
+      "label": "new"
+    },
+    {
+      "rank": 16,
       "title": "曝特朗普与昔日得力干将决裂",
       "url": "https://www.toutiao.com/trending/7573470510160399923/",
       "label": ""
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "突然中大奖你会瞒着家人吗",
       "url": "https://www.toutiao.com/trending/7573136832234749958/",
       "label": "forum"
-    },
-    {
-      "rank": 17,
-      "title": "外媒：泰国国王访华意义非凡",
-      "url": "https://www.toutiao.com/trending/7573139030410264585/",
-      "label": "new"
     },
     {
       "rank": 18,
@@ -118,9 +118,9 @@
     },
     {
       "rank": 19,
-      "title": "特朗普不到两个月内完成超175笔投资",
-      "url": "https://www.toutiao.com/trending/7573491698903289386/",
-      "label": "new"
+      "title": "高市早苗言论惹祸后日政客连忙甩锅",
+      "url": "https://www.toutiao.com/trending/7573470731556621830/",
+      "label": "hot"
     },
     {
       "rank": 20,
@@ -130,27 +130,27 @@
     },
     {
       "rank": 21,
-      "title": "人民日报：借台湾生事就是给日本找事",
-      "url": "https://www.toutiao.com/trending/7572761056200887814/",
-      "label": ""
-    },
-    {
-      "rank": 22,
       "title": "钟楚曦再陷“抢C位”风波",
       "url": "https://www.toutiao.com/trending/7573018086230294564/",
       "label": ""
     },
     {
-      "rank": 23,
-      "title": "美军花4.7万购买造价15美元旋钮",
-      "url": "https://www.toutiao.com/trending/7573172977219797033/",
+      "rank": 22,
+      "title": "人民日报：借台湾生事就是给日本找事",
+      "url": "https://www.toutiao.com/trending/7572761056200887814/",
       "label": ""
     },
     {
+      "rank": 23,
+      "title": "特朗普不到两个月内完成超175笔投资",
+      "url": "https://www.toutiao.com/trending/7573491698903289386/",
+      "label": "new"
+    },
+    {
       "rank": 24,
-      "title": "高市早苗言论惹祸后日政客连忙甩锅",
-      "url": "https://www.toutiao.com/trending/7573470731556621830/",
-      "label": "hot"
+      "title": "美军花4.7万购买造价15美元旋钮",
+      "url": "https://www.toutiao.com/trending/7573172977219797033/",
+      "label": ""
     },
     {
       "rank": 25,
@@ -166,63 +166,63 @@
     },
     {
       "rank": 27,
-      "title": "日政界人士称首相在反省涉台发言问题",
-      "url": "https://www.toutiao.com/trending/7573457667482537499/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "女子在石头上跳跃摔成粉碎性骨折",
-      "url": "https://www.toutiao.com/trending/7572957247384010806/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "河南驻马店下雪了",
-      "url": "https://www.toutiao.com/trending/7573261971874578474/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "萨尔布吕肯祝贺樊振东夺冠",
-      "url": "https://www.toutiao.com/trending/7572449028257316906/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
-      "title": "哈登19秒9分 压哨出手绝平失败",
-      "url": "https://www.toutiao.com/trending/7572762633242247204/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "日媒：日本政府担心遭经济反制",
-      "url": "https://www.toutiao.com/trending/7573494103159672347/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
       "title": "挪威时隔28年重返世界杯",
       "url": "https://www.toutiao.com/trending/7573160747111841811/",
       "label": "new"
     },
     {
-      "rank": 34,
+      "rank": 28,
       "title": "陈梦说赛场的快乐无关输赢",
       "url": "https://www.toutiao.com/trending/7573105986836201523/",
       "label": "new"
     },
     {
-      "rank": 35,
+      "rank": 29,
+      "title": "女子在石头上跳跃摔成粉碎性骨折",
+      "url": "https://www.toutiao.com/trending/7572957247384010806/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "日政界人士称首相在反省涉台发言问题",
+      "url": "https://www.toutiao.com/trending/7573457667482537499/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "萨尔布吕肯祝贺樊振东夺冠",
+      "url": "https://www.toutiao.com/trending/7572449028257316906/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
+      "title": "台军：48小时内大陆64机舰“围台”",
+      "url": "https://www.toutiao.com/trending/7572904474914766889/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "哈登19秒9分 压哨出手绝平失败",
+      "url": "https://www.toutiao.com/trending/7572762633242247204/",
+      "label": ""
+    },
+    {
+      "rank": 34,
       "title": "男子因狗养不熟将其放生户外",
       "url": "https://www.toutiao.com/trending/7572437807990554678/",
       "label": ""
     },
     {
-      "rank": 36,
+      "rank": 35,
       "title": "已有旅行社决定冻结寒假赴日旅行团",
       "url": "https://www.toutiao.com/trending/7572869608110030902/",
       "label": "hot"
+    },
+    {
+      "rank": 36,
+      "title": "中国海警赴钓鱼岛领海巡航有何深意",
+      "url": "https://www.toutiao.com/trending/7573464495192821294/",
+      "label": "interpretation"
     },
     {
       "rank": 37,
@@ -238,9 +238,9 @@
     },
     {
       "rank": 39,
-      "title": "中国海警赴钓鱼岛领海巡航有何深意",
-      "url": "https://www.toutiao.com/trending/7573464495192821294/",
-      "label": "interpretation"
+      "title": "河南驻马店下雪了",
+      "url": "https://www.toutiao.com/trending/7573261971874578474/",
+      "label": ""
     },
     {
       "rank": 40,
@@ -250,8 +250,8 @@
     },
     {
       "rank": 41,
-      "title": "台军：48小时内大陆64机舰“围台”",
-      "url": "https://www.toutiao.com/trending/7572904474914766889/",
+      "title": "王曼昱：我和莎莎都比四年前更好了",
+      "url": "https://www.toutiao.com/trending/7573316360601485339/",
       "label": "new"
     },
     {
@@ -274,39 +274,39 @@
     },
     {
       "rank": 45,
-      "title": "47岁外卖员救出昏迷司机后整车起火",
-      "url": "https://www.toutiao.com/trending/7573292340703330346/",
-      "label": "new"
-    },
-    {
-      "rank": 46,
-      "title": "大货车停右转路口被后车撞上",
-      "url": "https://www.toutiao.com/trending/7572726311215480875/",
-      "label": ""
-    },
-    {
-      "rank": 47,
       "title": "中美博弈最终是争夺制造业产业链吗",
       "url": "https://www.toutiao.com/trending/7573484421412556331/",
       "label": "interpretation"
     },
     {
-      "rank": 48,
-      "title": "王曼昱：我和莎莎都比四年前更好了",
-      "url": "https://www.toutiao.com/trending/7573316360601485339/",
+      "rank": 46,
+      "title": "湘超岳阳队球员疑似“臀球”破门",
+      "url": "https://www.toutiao.com/trending/7573265660336504874/",
       "label": "new"
     },
     {
-      "rank": 49,
+      "rank": 47,
       "title": "72岁赵雅芝跳扫腿舞",
       "url": "https://www.toutiao.com/trending/7572171371154030635/",
       "label": ""
     },
     {
-      "rank": 50,
-      "title": "湘超岳阳队球员疑似“臀球”破门",
-      "url": "https://www.toutiao.com/trending/7573265660336504874/",
+      "rank": 48,
+      "title": "大货车停右转路口被后车撞上",
+      "url": "https://www.toutiao.com/trending/7572726311215480875/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "沈伯洋被曝怕去新加坡",
+      "url": "https://www.toutiao.com/trending/7572779934159552555/",
       "label": "new"
+    },
+    {
+      "rank": 50,
+      "title": "越南三季度GDP增长8.23%背后",
+      "url": "https://www.toutiao.com/trending/7573469365626998291/",
+      "label": ""
     }
   ]
 }
