@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 17 Nov 2025 15:15:04 GMT",
+  "generated_at": "Mon, 17 Nov 2025 15:20:03 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记关心的世界文化遗产",
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "特斯拉“去中国化”背后隐藏什么",
-      "url": "https://www.toutiao.com/trending/7573105255983038502/",
-      "label": "interpretation"
+      "title": "多家平台回应预订日本酒店能否取消",
+      "url": "https://www.toutiao.com/trending/7573611302124814382/",
+      "label": "new"
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "宗钰全运夺金获国家队征召你怎么看",
-      "url": "https://www.toutiao.com/trending/7573253302936322067/",
-      "label": "forum"
+      "title": "特斯拉“去中国化”背后隐藏什么",
+      "url": "https://www.toutiao.com/trending/7573105255983038502/",
+      "label": "interpretation"
     },
     {
       "rank": 11,
@@ -106,9 +106,9 @@
     },
     {
       "rank": 17,
-      "title": "多家平台回应预订日本酒店能否取消",
-      "url": "https://www.toutiao.com/trending/7573611302124814382/",
-      "label": "new"
+      "title": "宗钰全运夺金获国家队征召你怎么看",
+      "url": "https://www.toutiao.com/trending/7573253302936322067/",
+      "label": "forum"
     },
     {
       "rank": 18,
@@ -172,68 +172,68 @@
     },
     {
       "rank": 28,
-      "title": "台湾34个团体抗议日本首相涉台妄言",
-      "url": "https://www.toutiao.com/trending/7572950858238132287/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "樊振东撞脸大湾鸡",
-      "url": "https://www.toutiao.com/trending/7572828048706469929/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "堤丰中导发射装置撤离驻日美军基地",
-      "url": "https://www.toutiao.com/trending/7573112744997404714/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "巴西劫匪拦路抢劫反遇狠人",
-      "url": "https://www.toutiao.com/trending/7572789689988726793/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "重庆一野猪在桥上跳桥死亡",
-      "url": "https://www.toutiao.com/trending/7572787479707992110/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "李在明为何此时对华示好",
-      "url": "https://www.toutiao.com/trending/7573641071557611062/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "专家：076要让传统海战模式彻底过时",
-      "url": "https://www.toutiao.com/trending/7573664475870400054/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "日本为何着急派高官来华解释",
-      "url": "https://www.toutiao.com/trending/7573609688168664595/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 36,
       "title": "全运会男子1500米自由泳决赛赛况",
       "url": "https://www.toutiao.com/trending/7572926846606622758/",
       "label": "new"
     },
     {
-      "rank": 37,
+      "rank": 29,
+      "title": "堤丰中导发射装置撤离驻日美军基地",
+      "url": "https://www.toutiao.com/trending/7573112744997404714/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "专家：076要让传统海战模式彻底过时",
+      "url": "https://www.toutiao.com/trending/7573664475870400054/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "樊振东撞脸大湾鸡",
+      "url": "https://www.toutiao.com/trending/7572828048706469929/",
+      "label": ""
+    },
+    {
+      "rank": 32,
       "title": "咏梅回应金鸡奖陪跑",
       "url": "https://www.toutiao.com/trending/7573277131968167978/",
       "label": "new"
     },
     {
+      "rank": 33,
+      "title": "台湾34个团体抗议日本首相涉台妄言",
+      "url": "https://www.toutiao.com/trending/7572950858238132287/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "重庆一野猪在桥上跳桥死亡",
+      "url": "https://www.toutiao.com/trending/7572787479707992110/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "李在明为何此时对华示好",
+      "url": "https://www.toutiao.com/trending/7573641071557611062/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "日本为何着急派高官来华解释",
+      "url": "https://www.toutiao.com/trending/7573609688168664595/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 37,
+      "title": "李泽洋成全运会首位00后男子百米冠军",
+      "url": "https://www.toutiao.com/trending/7573238725929680906/",
+      "label": "new"
+    },
+    {
       "rank": 38,
-      "title": "女儿说许绍雄社媒账号不会注销",
-      "url": "https://www.toutiao.com/trending/7573634944447299603/",
+      "title": "巴西劫匪拦路抢劫反遇狠人",
+      "url": "https://www.toutiao.com/trending/7572789689988726793/",
       "label": ""
     },
     {
@@ -244,69 +244,69 @@
     },
     {
       "rank": 40,
-      "title": "今天A股有哪些看点",
-      "url": "https://www.toutiao.com/trending/7573111187203260479/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "樊振东的全运会冠军意味着什么",
-      "url": "https://www.toutiao.com/trending/7573639329365364278/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 42,
-      "title": "小米汽车湿滑路面超车时突然侧滑",
-      "url": "https://www.toutiao.com/trending/7572860166506151978/",
+      "title": "女儿说许绍雄社媒账号不会注销",
+      "url": "https://www.toutiao.com/trending/7573634944447299603/",
       "label": ""
     },
     {
-      "rank": 43,
+      "rank": 41,
+      "title": "“雅思”组合晋级全运会四强",
+      "url": "https://www.toutiao.com/trending/7573241102245937215/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
       "title": "马斯克核心团队为何“集体叛逃”",
       "url": "https://www.toutiao.com/trending/7573679537695755822/",
       "label": "new"
     },
     {
+      "rank": 43,
+      "title": "今天A股有哪些看点",
+      "url": "https://www.toutiao.com/trending/7573111187203260479/",
+      "label": "new"
+    },
+    {
       "rank": 44,
-      "title": "俄乌互炸背后的残酷真相是什么",
-      "url": "https://www.toutiao.com/trending/7573634797134679595/",
+      "title": "小米汽车湿滑路面超车时突然侧滑",
+      "url": "https://www.toutiao.com/trending/7572860166506151978/",
       "label": ""
     },
     {
       "rank": 45,
-      "title": "李泽洋成全运会首位00后男子百米冠军",
-      "url": "https://www.toutiao.com/trending/7573238725929680906/",
+      "title": "依附日本军国主义必将加速赖清德灭亡",
+      "url": "https://www.toutiao.com/trending/7573619984481239067/",
       "label": "new"
     },
     {
       "rank": 46,
-      "title": "俞敏洪南极发内部信庆祝新东方32周年",
-      "url": "https://www.toutiao.com/trending/7572851608174755878/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
-      "title": "日本外务省官员访华要协商什么",
-      "url": "https://www.toutiao.com/trending/7573626490646957609/",
-      "label": "hot"
-    },
-    {
-      "rank": 48,
       "title": "外交部就核潜艇一事喊话美韩",
       "url": "https://www.toutiao.com/trending/7573157539366961206/",
       "label": ""
     },
     {
+      "rank": 47,
+      "title": "樊振东的全运会冠军意味着什么",
+      "url": "https://www.toutiao.com/trending/7573639329365364278/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 48,
+      "title": "俄乌互炸背后的残酷真相是什么",
+      "url": "https://www.toutiao.com/trending/7573634797134679595/",
+      "label": ""
+    },
+    {
       "rank": 49,
-      "title": "乌前总理称美已在物色泽连斯基继任者",
-      "url": "https://www.toutiao.com/trending/7573443891479838758/",
+      "title": "董璇回应张维伊喊小酒窝“窝子”",
+      "url": "https://www.toutiao.com/trending/7573568046892122155/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "依附日本军国主义必将加速赖清德灭亡",
-      "url": "https://www.toutiao.com/trending/7573619984481239067/",
-      "label": "new"
+      "title": "日本外务省官员访华要协商什么",
+      "url": "https://www.toutiao.com/trending/7573626490646957609/",
+      "label": "hot"
     }
   ]
 }
