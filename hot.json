@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 18 Nov 2025 14:00:07 GMT",
+  "generated_at": "Tue, 18 Nov 2025 14:05:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "合力开创法治中国建设新局面",
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "外交部回应日本官员来华磋商",
-      "url": "https://www.toutiao.com/trending/7572985873111072806/",
-      "label": "hot"
+      "title": "枪杀安倍晋三男子的母亲自称是凶手",
+      "url": "https://www.toutiao.com/trending/7574013560189321254/",
+      "label": "new"
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "枪杀安倍晋三男子的母亲自称是凶手",
-      "url": "https://www.toutiao.com/trending/7574013560189321254/",
-      "label": "new"
+      "title": "外交部回应日本官员来华磋商",
+      "url": "https://www.toutiao.com/trending/7572985873111072806/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -208,15 +208,15 @@
     },
     {
       "rank": 34,
-      "title": "055大驱后续建造计划会面临调整吗",
-      "url": "https://www.toutiao.com/trending/7574017259140550150/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 35,
       "title": "欧阳震华现身为许绍雄扶灵",
       "url": "https://www.toutiao.com/trending/7573690547119210502/",
       "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "055大驱后续建造计划会面临调整吗",
+      "url": "https://www.toutiao.com/trending/7574017259140550150/",
+      "label": "interpretation"
     },
     {
       "rank": 36,
@@ -226,32 +226,32 @@
     },
     {
       "rank": 37,
-      "title": "日本遭遇股汇“双杀”",
-      "url": "https://www.toutiao.com/trending/7573970592592825862/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "汪峰女友森林北自曝体检结果",
-      "url": "https://www.toutiao.com/trending/7573139707656159251/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "解放军第四艘航母不是核动力吗",
-      "url": "https://www.toutiao.com/trending/7573985534557556230/",
-      "label": ""
-    },
-    {
-      "rank": 40,
       "title": "致敬“六边形战士”马龙",
       "url": "https://www.toutiao.com/trending/7573575887728656425/",
       "label": "new"
     },
     {
-      "rank": 41,
+      "rank": 38,
+      "title": "日本遭遇股汇“双杀”",
+      "url": "https://www.toutiao.com/trending/7573970592592825862/",
+      "label": ""
+    },
+    {
+      "rank": 39,
       "title": "女子30年前手术染艾滋起诉医院索赔",
       "url": "https://www.toutiao.com/trending/7573282110913298441/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "汪峰女友森林北自曝体检结果",
+      "url": "https://www.toutiao.com/trending/7573139707656159251/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "解放军第四艘航母不是核动力吗",
+      "url": "https://www.toutiao.com/trending/7573985534557556230/",
       "label": ""
     },
     {
@@ -286,9 +286,9 @@
     },
     {
       "rank": 47,
-      "title": "G7要拉中国入伙 背后有哪些看点",
-      "url": "https://www.toutiao.com/trending/7574016542786981426/",
-      "label": "interpretation"
+      "title": "记者：中美博弈暗战才刚刚开始",
+      "url": "https://www.toutiao.com/trending/7573990379200974379/",
+      "label": "new"
     },
     {
       "rank": 48,
@@ -298,15 +298,15 @@
     },
     {
       "rank": 49,
-      "title": "记者：中美博弈暗战才刚刚开始",
-      "url": "https://www.toutiao.com/trending/7573990379200974379/",
-      "label": ""
+      "title": "蔡英凤履新江苏省科技厅副厅长",
+      "url": "https://www.toutiao.com/trending/7573288491543904283/",
+      "label": "new"
     },
     {
       "rank": 50,
-      "title": "雷江清获举重男子81公斤级金牌",
-      "url": "https://www.toutiao.com/trending/7573629705648291846/",
-      "label": "new"
+      "title": "G7要拉中国入伙 背后有哪些看点",
+      "url": "https://www.toutiao.com/trending/7574016542786981426/",
+      "label": "interpretation"
     }
   ]
 }
