@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 18 Nov 2025 11:30:05 GMT",
+  "generated_at": "Tue, 18 Nov 2025 11:35:08 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平对全面依法治国工作作出重要指示",
@@ -46,15 +46,15 @@
     },
     {
       "rank": 7,
-      "title": "《新闻联播》正在直播",
-      "url": "https://webcast-open.douyin.com/open/media_live/330698468897",
-      "label": "new"
-    },
-    {
-      "rank": 8,
       "title": "美国从日本撤走“堤丰”是巧合吗",
       "url": "https://www.toutiao.com/trending/7573973072005303871/",
       "label": "interpretation"
+    },
+    {
+      "rank": 8,
+      "title": "媒体：中方对日打出组合拳",
+      "url": "https://www.toutiao.com/trending/7573060329878388763/",
+      "label": "hot"
     },
     {
       "rank": 9,
@@ -64,8 +64,8 @@
     },
     {
       "rank": 10,
-      "title": "七星山荒野求生14位选手全部进决赛",
-      "url": "https://www.toutiao.com/trending/7573089072923803699/",
+      "title": "高市早苗罕见同时惹恼中俄朝韩",
+      "url": "https://www.toutiao.com/trending/7573963527166103066/",
       "label": "hot"
     },
     {
@@ -76,45 +76,45 @@
     },
     {
       "rank": 12,
-      "title": "日本官员离华 未回答媒体提问",
-      "url": "https://www.toutiao.com/trending/7573950064708554286/",
-      "label": "hot"
-    },
-    {
-      "rank": 13,
       "title": "法国援乌军备对局势有何影响",
       "url": "https://www.toutiao.com/trending/7573961830700204068/",
       "label": "forum"
     },
     {
+      "rank": 13,
+      "title": "日本官员离华 未回答媒体提问",
+      "url": "https://www.toutiao.com/trending/7573950064708554286/",
+      "label": "hot"
+    },
+    {
       "rank": 14,
+      "title": "七星山荒野求生14位选手全部进决赛",
+      "url": "https://www.toutiao.com/trending/7573089072923803699/",
+      "label": "hot"
+    },
+    {
+      "rank": 15,
       "title": "欧阳震华现身为许绍雄扶灵",
       "url": "https://www.toutiao.com/trending/7573690547119210502/",
       "label": "hot"
     },
     {
-      "rank": 15,
-      "title": "高市早苗罕见同时惹恼中俄朝韩",
-      "url": "https://www.toutiao.com/trending/7573963527166103066/",
-      "label": "hot"
+      "rank": 16,
+      "title": "日本官员低头听中方讲话",
+      "url": "https://www.toutiao.com/trending/7573106674996117540/",
+      "label": "onSite"
     },
     {
-      "rank": 16,
+      "rank": 17,
       "title": "高管离职潮是因为马斯克不务正业吗",
       "url": "https://www.toutiao.com/trending/7573718606148616218/",
       "label": "depth"
     },
     {
-      "rank": 17,
-      "title": "你经历过最长的火车停站有多久",
-      "url": "https://www.toutiao.com/trending/7573669500093054995/",
-      "label": "forum"
-    },
-    {
       "rank": 18,
-      "title": "日本官员低头听中方讲话",
-      "url": "https://www.toutiao.com/trending/7573106674996117540/",
-      "label": "onSite"
+      "title": "社保卡丢失后怎么处理",
+      "url": "https://www.toutiao.com/trending/7573629533673357348/",
+      "label": "forum"
     },
     {
       "rank": 19,
@@ -124,15 +124,15 @@
     },
     {
       "rank": 20,
-      "title": "媒体：中方对日打出组合拳",
-      "url": "https://www.toutiao.com/trending/7573060329878388763/",
+      "title": "外交部批美驻日大使涉中日关系言论",
+      "url": "https://www.toutiao.com/trending/7573348586302767123/",
       "label": "hot"
     },
     {
       "rank": 21,
-      "title": "外交部批美驻日大使涉中日关系言论",
-      "url": "https://www.toutiao.com/trending/7573348586302767123/",
-      "label": "hot"
+      "title": "2025楼市价格能稳住吗",
+      "url": "https://www.toutiao.com/trending/7573946054052154899/",
+      "label": "new"
     },
     {
       "rank": 22,
@@ -142,26 +142,26 @@
     },
     {
       "rank": 23,
-      "title": "2025楼市价格能稳住吗",
-      "url": "https://www.toutiao.com/trending/7573946054052154899/",
-      "label": "new"
-    },
-    {
-      "rank": 24,
       "title": "福建舰入列后首次海上实兵训练",
       "url": "https://www.toutiao.com/trending/7573989339865108019/",
       "label": "onSite"
     },
     {
+      "rank": 24,
+      "title": "多家航司取消赴日航班",
+      "url": "https://www.toutiao.com/trending/7573212306911526953/",
+      "label": "new"
+    },
+    {
       "rank": 25,
-      "title": "联合国立场是台湾是中国一个省",
-      "url": "https://www.toutiao.com/trending/7573535219771211812/",
+      "title": "汪峰女友森林北自曝体检结果",
+      "url": "https://www.toutiao.com/trending/7573139707656159251/",
       "label": ""
     },
     {
       "rank": 26,
-      "title": "汪峰女友森林北自曝体检结果",
-      "url": "https://www.toutiao.com/trending/7573139707656159251/",
+      "title": "联合国立场是台湾是中国一个省",
+      "url": "https://www.toutiao.com/trending/7573535219771211812/",
       "label": ""
     },
     {
@@ -172,68 +172,68 @@
     },
     {
       "rank": 28,
-      "title": "日媒称中方对日施压强度又提高档次",
-      "url": "https://www.toutiao.com/trending/7572854252113035314/",
-      "label": ""
+      "title": "稀土“钇”今年涨了1500%",
+      "url": "https://www.toutiao.com/trending/7573968523752394276/",
+      "label": "new"
     },
     {
       "rank": 29,
-      "title": "东部战区发布重磅微视频《归程》",
-      "url": "https://www.toutiao.com/trending/7573963353912524819/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "柬埔寨一法院外发生持枪劫囚事件",
-      "url": "https://www.toutiao.com/trending/7573905849291177993/",
-      "label": ""
-    },
-    {
-      "rank": 31,
       "title": "原定广岛中日友好纪念活动被叫停",
       "url": "https://www.toutiao.com/trending/7573629615273738294/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "俞敏洪连发10条南极视频",
-      "url": "https://www.toutiao.com/trending/7573965847375872010/",
-      "label": ""
-    },
-    {
-      "rank": 33,
+      "rank": 30,
       "title": "评论员：今天A股走势弱于多头预期",
       "url": "https://www.toutiao.com/trending/7573982660544958003/",
       "label": ""
     },
     {
+      "rank": 31,
+      "title": "俞敏洪连发10条南极视频",
+      "url": "https://www.toutiao.com/trending/7573965847375872010/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "日媒称中方对日施压强度又提高档次",
+      "url": "https://www.toutiao.com/trending/7572854252113035314/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "女车主狠踹划伤邻车被哨兵模式拍下",
+      "url": "https://www.toutiao.com/trending/7572869042873106478/",
+      "label": "new"
+    },
+    {
       "rank": 34,
-      "title": "马斯克万亿薪酬引爆离职潮",
-      "url": "https://www.toutiao.com/trending/7573936729493605931/",
+      "title": "柬埔寨一法院外发生持枪劫囚事件",
+      "url": "https://www.toutiao.com/trending/7573905849291177993/",
       "label": ""
     },
     {
       "rank": 35,
-      "title": "媒体：高市早苗别想蒙混过关",
-      "url": "https://www.toutiao.com/trending/7572880726392078346/",
-      "label": ""
-    },
-    {
-      "rank": 36,
       "title": "五人吃“霸王餐”临走还把锅顺走",
       "url": "https://www.toutiao.com/trending/7573662536408498203/",
       "label": ""
     },
     {
+      "rank": 36,
+      "title": "特朗普谈及“美国湾”现迷惑发言",
+      "url": "https://www.toutiao.com/trending/7573835563041144875/",
+      "label": "new"
+    },
+    {
       "rank": 37,
-      "title": "云南原副省长李石松贪1亿被判15年",
-      "url": "https://www.toutiao.com/trending/7573987741155754027/",
-      "label": ""
+      "title": "沪指三连阴之后如何做投资决策",
+      "url": "https://www.toutiao.com/trending/7573978185444888106/",
+      "label": "new"
     },
     {
       "rank": 38,
-      "title": "日本遭遇股汇“双杀”",
-      "url": "https://www.toutiao.com/trending/7573970592592825862/",
+      "title": "俞敏洪南极发全员信为啥大家听不进去",
+      "url": "https://www.toutiao.com/trending/7573894559130717737/",
       "label": ""
     },
     {
@@ -250,62 +250,62 @@
     },
     {
       "rank": 41,
+      "title": "日本遭遇股汇“双杀”",
+      "url": "https://www.toutiao.com/trending/7573970592592825862/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "云南原副省长李石松贪1亿被判15年",
+      "url": "https://www.toutiao.com/trending/7573987741155754027/",
+      "label": ""
+    },
+    {
+      "rank": 43,
       "title": "日本一男团在华见面会取消",
       "url": "https://www.toutiao.com/trending/7573982091076108329/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "俞敏洪南极发全员信为啥大家听不进去",
-      "url": "https://www.toutiao.com/trending/7573894559130717737/",
+      "rank": 44,
+      "title": "邱毅：高市早苗外交毫无经验",
+      "url": "https://www.toutiao.com/trending/7573939545817746953/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "俄2.8万吨巨舰开动核反应堆有何意味",
-      "url": "https://www.toutiao.com/trending/7573979350819671579/",
-      "label": "interpretation"
+      "rank": 45,
+      "title": "媒体：高市早苗别想蒙混过关",
+      "url": "https://www.toutiao.com/trending/7572880726392078346/",
+      "label": ""
     },
     {
-      "rank": 44,
+      "rank": 46,
       "title": "曝华为Mate 80系列将首发麒麟9030",
       "url": "https://www.toutiao.com/trending/7573653858665742378/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "央视：是时候谈谈“琉球问题”了",
-      "url": "https://www.toutiao.com/trending/7572923541016821801/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "日媒给高市早苗指了一条明路",
-      "url": "https://www.toutiao.com/trending/7573558668249202734/",
-      "label": ""
-    },
-    {
       "rank": 47,
-      "title": "哈尔滨冰雪大世界开始造雪了",
-      "url": "https://www.toutiao.com/trending/7573548992701923371/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
-      "title": "特朗普谈及“美国湾”现迷惑发言",
-      "url": "https://www.toutiao.com/trending/7573835563041144875/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
       "title": "教育部部长解读中考改革方向",
       "url": "https://www.toutiao.com/trending/7573910972802170934/",
       "label": "new"
     },
     {
+      "rank": 48,
+      "title": "日本首相高市早苗的极右面目",
+      "url": "https://www.toutiao.com/trending/7573275935505023018/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
+      "title": "哈尔滨冰雪大世界开始造雪了",
+      "url": "https://www.toutiao.com/trending/7573548992701923371/",
+      "label": "new"
+    },
+    {
       "rank": 50,
-      "title": "和俞敏洪同游南极的奚老师是谁",
-      "url": "https://www.toutiao.com/trending/7573948848383279123/",
+      "title": "A股短期调整或接近尾声",
+      "url": "https://www.toutiao.com/trending/7573961843606031899/",
       "label": ""
     }
   ]
