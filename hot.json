@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 18 Nov 2025 13:00:21 GMT",
+  "generated_at": "Tue, 18 Nov 2025 13:05:07 GMT",
   "top": {
     "rank": "置顶",
     "title": "合力开创法治中国建设新局面",
@@ -42,13 +42,13 @@
       "rank": 6,
       "title": "北京上海乒乓男团争冠",
       "url": "https://www.toutiao.com/trending/7574030129999973934/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 7,
-      "title": "美国从日本撤走“堤丰”是巧合吗",
-      "url": "https://www.toutiao.com/trending/7573973072005303871/",
-      "label": "interpretation"
+      "title": "广东冻到“结冰”了",
+      "url": "https://www.toutiao.com/trending/7573539122456182820/",
+      "label": "new"
     },
     {
       "rank": 8,
@@ -58,15 +58,15 @@
     },
     {
       "rank": 9,
-      "title": "蒋晓峰：高市早苗泄露日本机密",
-      "url": "https://www.toutiao.com/trending/7574017194938338866/",
-      "label": "new"
+      "title": "美国从日本撤走“堤丰”是巧合吗",
+      "url": "https://www.toutiao.com/trending/7573973072005303871/",
+      "label": "interpretation"
     },
     {
       "rank": 10,
-      "title": "高市早苗罕见同时惹恼中俄朝韩",
-      "url": "https://www.toutiao.com/trending/7573963527166103066/",
-      "label": "hot"
+      "title": "冷美人退赛后发视频报平安",
+      "url": "https://www.toutiao.com/trending/7573365559551885350/",
+      "label": "participant"
     },
     {
       "rank": 11,
@@ -76,15 +76,15 @@
     },
     {
       "rank": 12,
-      "title": "大妈拦婚车要烟新娘直接步行去酒店",
-      "url": "https://www.toutiao.com/trending/7573163097616334875/",
-      "label": "new"
+      "title": "高市早苗罕见同时惹恼中俄朝韩",
+      "url": "https://www.toutiao.com/trending/7573963527166103066/",
+      "label": "hot"
     },
     {
       "rank": 13,
       "title": "石智勇退役吻别杠铃 脊柱满是针眼",
       "url": "https://www.toutiao.com/trending/7573642846395580435/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 14,
@@ -94,21 +94,21 @@
     },
     {
       "rank": 15,
-      "title": "广东冻到“结冰”了",
-      "url": "https://www.toutiao.com/trending/7573539122456182820/",
+      "title": "大妈拦婚车要烟新娘直接步行去酒店",
+      "url": "https://www.toutiao.com/trending/7573163097616334875/",
       "label": "new"
     },
     {
       "rank": 16,
-      "title": "日本官员离华 未回答媒体提问",
-      "url": "https://www.toutiao.com/trending/7573950064708554286/",
-      "label": "hot"
+      "title": "主办方回应15号模特广东冠军引争议",
+      "url": "https://www.toutiao.com/trending/7572928898212806682/",
+      "label": "new"
     },
     {
       "rank": 17,
-      "title": "冷美人退赛后发视频报平安",
-      "url": "https://www.toutiao.com/trending/7573365559551885350/",
-      "label": "participant"
+      "title": "日本官员离华 未回答媒体提问",
+      "url": "https://www.toutiao.com/trending/7573950064708554286/",
+      "label": "hot"
     },
     {
       "rank": 18,
@@ -118,26 +118,26 @@
     },
     {
       "rank": 19,
+      "title": "储殷：俞敏洪被冲上热搜有点冤",
+      "url": "https://www.toutiao.com/trending/7574011334786813491/",
+      "label": "new"
+    },
+    {
+      "rank": 20,
       "title": "“奉示召见”是中国给日本最后警告",
       "url": "https://www.toutiao.com/trending/7572877776664100874/",
       "label": "hot"
     },
     {
-      "rank": 20,
-      "title": "媒体：中方对日打出组合拳",
-      "url": "https://www.toutiao.com/trending/7573060329878388763/",
-      "label": "hot"
-    },
-    {
       "rank": 21,
-      "title": "主办方回应15号模特广东冠军引争议",
-      "url": "https://www.toutiao.com/trending/7572928898212806682/",
+      "title": "蒋晓峰：高市早苗泄露日本机密",
+      "url": "https://www.toutiao.com/trending/7574017194938338866/",
       "label": "new"
     },
     {
       "rank": 22,
-      "title": "七星山荒野求生14位选手全部进决赛",
-      "url": "https://www.toutiao.com/trending/7573089072923803699/",
+      "title": "媒体：中方对日打出组合拳",
+      "url": "https://www.toutiao.com/trending/7573060329878388763/",
       "label": "hot"
     },
     {
@@ -148,9 +148,9 @@
     },
     {
       "rank": 24,
-      "title": "郑丽文“倡导统一”四字吓坏了谁",
-      "url": "https://www.toutiao.com/trending/7573214258272632875/",
-      "label": "new"
+      "title": "七星山荒野求生14位选手全部进决赛",
+      "url": "https://www.toutiao.com/trending/7573089072923803699/",
+      "label": "hot"
     },
     {
       "rank": 25,
@@ -160,27 +160,27 @@
     },
     {
       "rank": 26,
-      "title": "储殷：俞敏洪被冲上热搜有点冤",
-      "url": "https://www.toutiao.com/trending/7574011334786813491/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
       "title": "日本遭遇股汇“双杀”",
       "url": "https://www.toutiao.com/trending/7573970592592825862/",
       "label": ""
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "小孩姐陈妤颉破女子百米亚洲青年纪录",
       "url": "https://www.toutiao.com/trending/7573532599311597606/",
       "label": "new"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "title": "欧阳震华现身为许绍雄扶灵",
       "url": "https://www.toutiao.com/trending/7573690547119210502/",
-      "label": "hot"
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "解放军第四艘航母不是核动力吗",
+      "url": "https://www.toutiao.com/trending/7573985534557556230/",
+      "label": ""
     },
     {
       "rank": 30,
@@ -190,123 +190,123 @@
     },
     {
       "rank": 31,
-      "title": "解放军第四艘航母不是核动力吗",
-      "url": "https://www.toutiao.com/trending/7573985534557556230/",
-      "label": ""
+      "title": "郑丽文“倡导统一”四字吓坏了谁",
+      "url": "https://www.toutiao.com/trending/7573214258272632875/",
+      "label": "new"
     },
     {
       "rank": 32,
-      "title": "2025楼市价格能稳住吗",
-      "url": "https://www.toutiao.com/trending/7573946054052154899/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "联合国立场是台湾是中国一个省",
-      "url": "https://www.toutiao.com/trending/7573535219771211812/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "外交部批美驻日大使涉中日关系言论",
-      "url": "https://www.toutiao.com/trending/7573348586302767123/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "稀土“钇”今年涨了1500%",
-      "url": "https://www.toutiao.com/trending/7573968523752394276/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "日人士：中日关系恶化是日本民众受苦",
-      "url": "https://www.toutiao.com/trending/7572930448427499547/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "福建舰入列后首次海上实兵训练",
-      "url": "https://www.toutiao.com/trending/7573989339865108019/",
-      "label": "onSite"
-    },
-    {
-      "rank": 38,
-      "title": "多家航司取消赴日航班",
-      "url": "https://www.toutiao.com/trending/7573212306911526953/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "日本首相高市早苗的极右面目",
-      "url": "https://www.toutiao.com/trending/7573275935505023018/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "深圳一凶宅30人争抢699.8万拍出",
-      "url": "https://www.toutiao.com/trending/7573333282974924863/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "演员矢野浩二发文永远支持一个中国",
-      "url": "https://www.toutiao.com/trending/7574002812867625003/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "云南原副省长李石松贪1亿被判15年",
-      "url": "https://www.toutiao.com/trending/7573987741155754027/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "曝华为Mate 80系列将首发麒麟9030",
-      "url": "https://www.toutiao.com/trending/7573653858665742378/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "外交部：中方依法保护外国公民",
-      "url": "https://www.toutiao.com/trending/7573451196195864617/",
-      "label": "new"
-    },
-    {
-      "rank": 45,
       "title": "荒野求生选手“苗王”做足御寒准备",
       "url": "https://www.toutiao.com/trending/7573287764268171270/",
       "label": "new"
     },
     {
-      "rank": 46,
-      "title": "C919亮相迪拜释放何信号",
-      "url": "https://www.toutiao.com/trending/7573553005615185947/",
-      "label": "interpretation"
+      "rank": 33,
+      "title": "演员矢野浩二发文永远支持一个中国",
+      "url": "https://www.toutiao.com/trending/7574002812867625003/",
+      "label": "new"
     },
     {
-      "rank": 47,
-      "title": "媒体：高市早苗别想蒙混过关",
-      "url": "https://www.toutiao.com/trending/7572880726392078346/",
+      "rank": 34,
+      "title": "2025楼市价格能稳住吗",
+      "url": "https://www.toutiao.com/trending/7573946054052154899/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 35,
+      "title": "外交部批美驻日大使涉中日关系言论",
+      "url": "https://www.toutiao.com/trending/7573348586302767123/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "联合国立场是台湾是中国一个省",
+      "url": "https://www.toutiao.com/trending/7573535219771211812/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "稀土“钇”今年涨了1500%",
+      "url": "https://www.toutiao.com/trending/7573968523752394276/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "福建舰入列后首次海上实兵训练",
+      "url": "https://www.toutiao.com/trending/7573989339865108019/",
+      "label": "onSite"
+    },
+    {
+      "rank": 39,
+      "title": "日人士：中日关系恶化是日本民众受苦",
+      "url": "https://www.toutiao.com/trending/7572930448427499547/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "多家航司取消赴日航班",
+      "url": "https://www.toutiao.com/trending/7573212306911526953/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "日本首相高市早苗的极右面目",
+      "url": "https://www.toutiao.com/trending/7573275935505023018/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "深圳一凶宅30人争抢699.8万拍出",
+      "url": "https://www.toutiao.com/trending/7573333282974924863/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "云南原副省长李石松贪1亿被判15年",
+      "url": "https://www.toutiao.com/trending/7573987741155754027/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "曝华为Mate 80系列将首发麒麟9030",
+      "url": "https://www.toutiao.com/trending/7573653858665742378/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "女车主狠踹划伤邻车被哨兵模式拍下",
+      "url": "https://www.toutiao.com/trending/7572869042873106478/",
+      "label": ""
+    },
+    {
+      "rank": 46,
       "title": "福建舰战时会部署在哪里",
       "url": "https://www.toutiao.com/trending/7574029346751385097/",
       "label": "interpretation"
     },
     {
+      "rank": 47,
+      "title": "外交部：中方依法保护外国公民",
+      "url": "https://www.toutiao.com/trending/7573451196195864617/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "C919亮相迪拜释放何信号",
+      "url": "https://www.toutiao.com/trending/7573553005615185947/",
+      "label": "interpretation"
+    },
+    {
       "rank": 49,
-      "title": "柬埔寨一法院外发生持枪劫囚事件",
-      "url": "https://www.toutiao.com/trending/7573905849291177993/",
-      "label": ""
+      "title": "055大驱后续建造计划会面临调整吗",
+      "url": "https://www.toutiao.com/trending/7574017259140550150/",
+      "label": "interpretation"
     },
     {
       "rank": 50,
-      "title": "印巴首都接连爆炸会引爆南亚火药桶吗",
-      "url": "https://www.toutiao.com/trending/7573951665712139795/",
-      "label": "depth"
+      "title": "媒体：高市早苗别想蒙混过关",
+      "url": "https://www.toutiao.com/trending/7572880726392078346/",
+      "label": ""
     }
   ]
 }
