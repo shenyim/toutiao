@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 18 Nov 2025 05:10:05 GMT",
+  "generated_at": "Tue, 18 Nov 2025 05:15:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "为子孙万代计 为长远发展谋",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "日媒称中方对日施压强度又提高档次",
       "url": "https://www.toutiao.com/trending/7572854252113035314/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 2,
@@ -76,14 +76,14 @@
     },
     {
       "rank": 12,
-      "title": "《鬼灭之刃》票房大跌",
-      "url": "https://www.toutiao.com/trending/7572800203745935403/",
-      "label": ""
+      "title": "房产税这只靴子终于要落地了吗",
+      "url": "https://www.toutiao.com/trending/7573884013694160426/",
+      "label": "new"
     },
     {
       "rank": 13,
-      "title": "《哪吒2》金鸡奖无人领奖尴尬了谁",
-      "url": "https://www.toutiao.com/trending/7573146596956471302/",
+      "title": "《鬼灭之刃》票房大跌",
+      "url": "https://www.toutiao.com/trending/7572800203745935403/",
       "label": ""
     },
     {
@@ -94,9 +94,9 @@
     },
     {
       "rank": 15,
-      "title": "房产税这只靴子终于要落地了吗",
-      "url": "https://www.toutiao.com/trending/7573884013694160426/",
-      "label": "new"
+      "title": "《哪吒2》金鸡奖无人领奖尴尬了谁",
+      "url": "https://www.toutiao.com/trending/7573146596956471302/",
+      "label": ""
     },
     {
       "rank": 16,
@@ -114,7 +114,7 @@
       "rank": 18,
       "title": "恩师称樊振东在德甲学到新技术",
       "url": "https://www.toutiao.com/trending/7572871987451412531/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 19,
@@ -142,170 +142,170 @@
     },
     {
       "rank": 23,
-      "title": "南京民间抗馆馆长喊话高市早苗道歉",
-      "url": "https://www.toutiao.com/trending/7572924173187497993/",
-      "label": "new"
-    },
-    {
-      "rank": 24,
       "title": "专家：要警惕房价新一轮下跌",
       "url": "https://www.toutiao.com/trending/7573586062207880767/",
       "label": ""
     },
     {
-      "rank": 25,
-      "title": "美国涉加沙决议中俄投弃权票",
-      "url": "https://www.toutiao.com/trending/7573877066912268294/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "哈登生涯总得分突破28000分",
-      "url": "https://www.toutiao.com/trending/7573564506601816091/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "女子手机落新疆乱石堆3年后被送还",
-      "url": "https://www.toutiao.com/trending/7573703052348194835/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "4名女生为王曼昱全程加油获回应",
-      "url": "https://www.toutiao.com/trending/7573213311563939883/",
+      "rank": 24,
+      "title": "南京民间抗馆馆长喊话高市早苗道歉",
+      "url": "https://www.toutiao.com/trending/7572924173187497993/",
       "label": "new"
     },
     {
-      "rank": 29,
+      "rank": 25,
       "title": "马克西39分 76人110-108快船",
       "url": "https://www.toutiao.com/trending/7573867002389889050/",
       "label": "new"
     },
     {
-      "rank": 30,
-      "title": "老牌工业机器人厂家库卡过得怎么样",
-      "url": "https://www.toutiao.com/trending/7573852409970036278/",
-      "label": "interpretation"
+      "rank": 26,
+      "title": "美国涉加沙决议中俄投弃权票",
+      "url": "https://www.toutiao.com/trending/7573877066912268294/",
+      "label": ""
     },
     {
-      "rank": 31,
+      "rank": 27,
+      "title": "4名女生为王曼昱全程加油获回应",
+      "url": "https://www.toutiao.com/trending/7573213311563939883/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
+      "title": "女子手机落新疆乱石堆3年后被送还",
+      "url": "https://www.toutiao.com/trending/7573703052348194835/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "哈登生涯总得分突破28000分",
+      "url": "https://www.toutiao.com/trending/7573564506601816091/",
+      "label": ""
+    },
+    {
+      "rank": 30,
       "title": "40余家倒卖军用物资二手店铺被查处",
       "url": "https://www.toutiao.com/trending/7573817051807023147/",
       "label": "new"
     },
     {
-      "rank": 32,
-      "title": "韩国向日本强烈抗议 中方回应",
-      "url": "https://www.toutiao.com/trending/7573188316419211270/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "惠英红称拿到金像奖后就跟老板谈条件",
-      "url": "https://www.toutiao.com/trending/7573679824989012014/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "京东点评“永不商业化”是噱头吗",
-      "url": "https://www.toutiao.com/trending/7573842393846271507/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "中国9天解决其他国家9个月的问题",
-      "url": "https://www.toutiao.com/trending/7573714963043368996/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "周润发官宣出席MAMA颁奖典礼",
-      "url": "https://www.toutiao.com/trending/7573867509909880868/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "赵孝已任陕西商洛市代市长",
-      "url": "https://www.toutiao.com/trending/7573870489571954230/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
-      "title": "博主：四川舰海试意义不输航母",
-      "url": "https://www.toutiao.com/trending/7573896722816994858/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "四川甜妹刘峡君回应恋情",
-      "url": "https://www.toutiao.com/trending/7573211298567045183/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "蛇年首“虎”周喜安被公诉",
-      "url": "https://www.toutiao.com/trending/7573277928704986666/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
+      "rank": 31,
       "title": "联合国立场是台湾是中国一个省",
       "url": "https://www.toutiao.com/trending/7573535219771211812/",
       "label": "new"
     },
     {
-      "rank": 42,
+      "rank": 32,
       "title": "舞蹈老师上课时“声情并茂”",
       "url": "https://www.toutiao.com/trending/7573236867676520458/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "国际刑事法院杜特尔特案曝程序漏洞",
-      "url": "https://www.toutiao.com/trending/7573880472061611547/",
+      "rank": 33,
+      "title": "周润发官宣出席MAMA颁奖典礼",
+      "url": "https://www.toutiao.com/trending/7573867509909880868/",
       "label": "new"
     },
     {
-      "rank": 44,
-      "title": "包头“躺平大赛”54人已躺超24小时",
-      "url": "https://www.toutiao.com/trending/7573568080300261439/",
+      "rank": 34,
+      "title": "惠英红称拿到金像奖后就跟老板谈条件",
+      "url": "https://www.toutiao.com/trending/7573679824989012014/",
       "label": ""
     },
     {
-      "rank": 45,
-      "title": "全运会今日看点",
-      "url": "https://www.toutiao.com/trending/7573566074059472947/",
-      "label": "new"
+      "rank": 35,
+      "title": "韩国向日本强烈抗议 中方回应",
+      "url": "https://www.toutiao.com/trending/7573188316419211270/",
+      "label": ""
     },
     {
-      "rank": 46,
+      "rank": 36,
       "title": "如何看待“荒野求生”爆火",
       "url": "https://www.toutiao.com/trending/7573857307142917682/",
       "label": "new"
     },
     {
-      "rank": 47,
-      "title": "媒体评男子奔丧闯禁摩区被放行",
-      "url": "https://www.toutiao.com/trending/7573692217823477802/",
+      "rank": 37,
+      "title": "中国9天解决其他国家9个月的问题",
+      "url": "https://www.toutiao.com/trending/7573714963043368996/",
       "label": ""
     },
     {
-      "rank": 48,
-      "title": "高市早苗修订“无核三原则”遭反对",
-      "url": "https://www.toutiao.com/trending/7573458825882337307/",
+      "rank": 38,
+      "title": "国际刑事法院杜特尔特案曝程序漏洞",
+      "url": "https://www.toutiao.com/trending/7573880472061611547/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
+      "title": "老牌工业机器人厂家库卡过得怎么样",
+      "url": "https://www.toutiao.com/trending/7573852409970036278/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 40,
+      "title": "赵孝已任陕西商洛市代市长",
+      "url": "https://www.toutiao.com/trending/7573870489571954230/",
+      "label": "new"
+    },
+    {
+      "rank": 41,
+      "title": "四川甜妹刘峡君回应恋情",
+      "url": "https://www.toutiao.com/trending/7573211298567045183/",
       "label": ""
     },
     {
-      "rank": 49,
+      "rank": 42,
+      "title": "京东点评“永不商业化”是噱头吗",
+      "url": "https://www.toutiao.com/trending/7573842393846271507/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "蛇年首“虎”周喜安被公诉",
+      "url": "https://www.toutiao.com/trending/7573277928704986666/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "全运会今日看点",
+      "url": "https://www.toutiao.com/trending/7573566074059472947/",
+      "label": ""
+    },
+    {
+      "rank": 45,
       "title": "易烊千玺摘得金鸡奖背后",
       "url": "https://www.toutiao.com/trending/7572986658825420863/",
       "label": "depth"
     },
     {
-      "rank": 50,
+      "rank": 46,
+      "title": "高市早苗修订“无核三原则”遭反对",
+      "url": "https://www.toutiao.com/trending/7573458825882337307/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "博主：四川舰海试意义不输航母",
+      "url": "https://www.toutiao.com/trending/7573896722816994858/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "美国市场遭遇“全面抛售”",
+      "url": "https://www.toutiao.com/trending/7573860499507383862/",
+      "label": ""
+    },
+    {
+      "rank": 49,
       "title": "刘强东现场带货“七鲜咖啡”",
       "url": "https://www.toutiao.com/trending/7572760029657301028/",
+      "label": ""
+    },
+    {
+      "rank": 50,
+      "title": "如何看待10月份“存款搬家”再上演",
+      "url": "https://www.toutiao.com/trending/7573478825909567494/",
       "label": ""
     }
   ]
