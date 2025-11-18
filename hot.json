@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 18 Nov 2025 13:45:05 GMT",
+  "generated_at": "Tue, 18 Nov 2025 13:50:10 GMT",
   "top": {
     "rank": "置顶",
     "title": "合力开创法治中国建设新局面",
@@ -10,9 +10,9 @@
   "items": [
     {
       "rank": 1,
-      "title": "演员矢野浩二发文永远支持一个中国",
-      "url": "https://www.toutiao.com/trending/7574002812867625003/",
-      "label": "new"
+      "title": "中方官员佩戴国徽同日本官员见面",
+      "url": "https://www.toutiao.com/trending/7574007336818278442/",
+      "label": "hot"
     },
     {
       "rank": 2,
@@ -28,9 +28,9 @@
     },
     {
       "rank": 4,
-      "title": "中方官员佩戴国徽同日本官员见面",
-      "url": "https://www.toutiao.com/trending/7574007336818278442/",
-      "label": "hot"
+      "title": "演员矢野浩二发文永远支持一个中国",
+      "url": "https://www.toutiao.com/trending/7574002812867625003/",
+      "label": "new"
     },
     {
       "rank": 5,
@@ -40,21 +40,21 @@
     },
     {
       "rank": 6,
+      "title": "外交部回应德副总理涉台海言论",
+      "url": "https://www.toutiao.com/trending/7573970838785900554/",
+      "label": "new"
+    },
+    {
+      "rank": 7,
       "title": "中方：绝不允许日本军国主义复活",
       "url": "https://www.toutiao.com/trending/7572917283480453126/",
       "label": "hot"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "外交部回应日本官员来华磋商",
       "url": "https://www.toutiao.com/trending/7572985873111072806/",
       "label": "hot"
-    },
-    {
-      "rank": 8,
-      "title": "在河南的大熊猫已经玩上雪了",
-      "url": "https://www.toutiao.com/trending/7573314503065108516/",
-      "label": "new"
     },
     {
       "rank": 9,
@@ -64,8 +64,8 @@
     },
     {
       "rank": 10,
-      "title": "外交部回应德副总理涉台海言论",
-      "url": "https://www.toutiao.com/trending/7573970838785900554/",
+      "title": "枪杀安倍晋三男子的母亲自称是凶手",
+      "url": "https://www.toutiao.com/trending/7574013560189321254/",
       "label": "new"
     },
     {
@@ -78,25 +78,25 @@
       "rank": 12,
       "title": "蒋晓峰：高市早苗泄露日本机密",
       "url": "https://www.toutiao.com/trending/7574017194938338866/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 13,
-      "title": "法国援乌军备对局势有何影响",
-      "url": "https://www.toutiao.com/trending/7573961830700204068/",
-      "label": "forum"
-    },
-    {
-      "rank": 14,
       "title": "郑丽文“倡导统一”四字吓坏了谁",
       "url": "https://www.toutiao.com/trending/7573214258272632875/",
       "label": "hot"
     },
     {
+      "rank": 14,
+      "title": "法国援乌军备对局势有何影响",
+      "url": "https://www.toutiao.com/trending/7573961830700204068/",
+      "label": "forum"
+    },
+    {
       "rank": 15,
-      "title": "枪杀安倍晋三男子的母亲自称是凶手",
-      "url": "https://www.toutiao.com/trending/7574013560189321254/",
-      "label": "new"
+      "title": "主办方回应15号模特广东冠军引争议",
+      "url": "https://www.toutiao.com/trending/7572928898212806682/",
+      "label": ""
     },
     {
       "rank": 16,
@@ -106,207 +106,207 @@
     },
     {
       "rank": 17,
-      "title": "高管离职潮是因为马斯克不务正业吗",
-      "url": "https://www.toutiao.com/trending/7573718606148616218/",
-      "label": "depth"
+      "title": "存储涨价 为何放过了苹果与联想",
+      "url": "https://www.toutiao.com/trending/7573972245656387610/",
+      "label": "interpretation"
     },
     {
       "rank": 18,
-      "title": "社保卡丢失后怎么处理",
-      "url": "https://www.toutiao.com/trending/7573629533673357348/",
+      "title": "你经历过最长的火车停站有多久",
+      "url": "https://www.toutiao.com/trending/7573669500093054995/",
       "label": "forum"
     },
     {
       "rank": 19,
-      "title": "主办方回应15号模特广东冠军引争议",
-      "url": "https://www.toutiao.com/trending/7572928898212806682/",
-      "label": ""
-    },
-    {
-      "rank": 20,
       "title": "广东冻到“结冰”了",
       "url": "https://www.toutiao.com/trending/7573539122456182820/",
       "label": ""
     },
     {
-      "rank": 21,
-      "title": "日媒：高市早苗或将参拜靖国神社",
-      "url": "https://www.toutiao.com/trending/7573905925635870262/",
-      "label": ""
+      "rank": 20,
+      "title": "日人士：中日关系恶化是日本民众受苦",
+      "url": "https://www.toutiao.com/trending/7572930448427499547/",
+      "label": "hot"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "title": "“奉示召见”是中国给日本最后警告",
       "url": "https://www.toutiao.com/trending/7572877776664100874/",
       "label": "hot"
     },
     {
+      "rank": 22,
+      "title": "高管离职潮是因为马斯克不务正业吗",
+      "url": "https://www.toutiao.com/trending/7573718606148616218/",
+      "label": "depth"
+    },
+    {
       "rank": 23,
-      "title": "储殷：俞敏洪被冲上热搜有点冤",
-      "url": "https://www.toutiao.com/trending/7574011334786813491/",
+      "title": "日媒：高市早苗或将参拜靖国神社",
+      "url": "https://www.toutiao.com/trending/7573905925635870262/",
       "label": ""
     },
     {
       "rank": 24,
-      "title": "高市早苗罕见同时惹恼中俄朝韩",
-      "url": "https://www.toutiao.com/trending/7573963527166103066/",
-      "label": "hot"
-    },
-    {
-      "rank": 25,
-      "title": "荒野求生选手“苗王”做足御寒准备",
-      "url": "https://www.toutiao.com/trending/7573287764268171270/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
-      "title": "北京上海乒乓男团争冠",
-      "url": "https://www.toutiao.com/trending/7574030129999973934/",
-      "label": "hot"
-    },
-    {
-      "rank": 27,
-      "title": "日媒称中方对日施压强度又提高档次",
-      "url": "https://www.toutiao.com/trending/7572854252113035314/",
-      "label": "hot"
-    },
-    {
-      "rank": 28,
-      "title": "媒体：中方对日打出组合拳",
-      "url": "https://www.toutiao.com/trending/7573060329878388763/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "16岁陈妤颉破女子百米亚洲青年纪录",
-      "url": "https://www.toutiao.com/trending/7573532599311597606/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "日本官员低头听中方讲话",
-      "url": "https://www.toutiao.com/trending/7573106674996117540/",
-      "label": "onSite"
-    },
-    {
-      "rank": 31,
-      "title": "汪峰女友森林北自曝体检结果",
-      "url": "https://www.toutiao.com/trending/7573139707656159251/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "荒野求生14位选手全部进决赛",
-      "url": "https://www.toutiao.com/trending/7573089072923803699/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "日人士：中日关系恶化是日本民众受苦",
-      "url": "https://www.toutiao.com/trending/7572930448427499547/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "深圳一凶宅30人争抢699.8万拍出",
-      "url": "https://www.toutiao.com/trending/7573333282974924863/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "福建舰战时会部署在哪里",
-      "url": "https://www.toutiao.com/trending/7574029346751385097/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 36,
-      "title": "日本官员离华 未回答媒体提问",
-      "url": "https://www.toutiao.com/trending/7573950064708554286/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "欧阳震华现身为许绍雄扶灵",
-      "url": "https://www.toutiao.com/trending/7573690547119210502/",
-      "label": ""
-    },
-    {
-      "rank": 38,
       "title": "解放军第四艘航母不是核动力吗",
       "url": "https://www.toutiao.com/trending/7573985534557556230/",
       "label": ""
     },
     {
-      "rank": 39,
-      "title": "女子被2岁孩子撞出脑震荡",
-      "url": "https://www.toutiao.com/trending/7573893240127897606/",
-      "label": "new"
+      "rank": 25,
+      "title": "媒体：中方对日打出组合拳",
+      "url": "https://www.toutiao.com/trending/7573060329878388763/",
+      "label": "hot"
     },
     {
-      "rank": 40,
-      "title": "五人吃“霸王餐”临走还把锅顺走",
-      "url": "https://www.toutiao.com/trending/7573662536408498203/",
+      "rank": 26,
+      "title": "高市早苗罕见同时惹恼中俄朝韩",
+      "url": "https://www.toutiao.com/trending/7573963527166103066/",
+      "label": "hot"
+    },
+    {
+      "rank": 27,
+      "title": "北京上海乒乓男团争冠",
+      "url": "https://www.toutiao.com/trending/7574030129999973934/",
       "label": ""
     },
     {
-      "rank": 41,
-      "title": "赵丽颖方恳请别拍未成年人",
-      "url": "https://www.toutiao.com/trending/7573168794022117386/",
+      "rank": 28,
+      "title": "中方官员回应中日磋商：不满意",
+      "url": "https://www.toutiao.com/trending/7573277928713227819/",
       "label": "new"
     },
     {
-      "rank": 42,
+      "rank": 29,
+      "title": "日本官员离华 未回答媒体提问",
+      "url": "https://www.toutiao.com/trending/7573950064708554286/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "储殷：俞敏洪被冲上热搜有点冤",
+      "url": "https://www.toutiao.com/trending/7574011334786813491/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "深蓝L06动态体验",
+      "url": "https://www.toutiao.com/trending/7573559509969292843/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
+      "title": "日本官员低头听中方讲话",
+      "url": "https://www.toutiao.com/trending/7573106674996117540/",
+      "label": "onSite"
+    },
+    {
+      "rank": 33,
+      "title": "16岁陈妤颉破女子百米亚洲青年纪录",
+      "url": "https://www.toutiao.com/trending/7573532599311597606/",
+      "label": ""
+    },
+    {
+      "rank": 34,
       "title": "日本遭遇股汇“双杀”",
       "url": "https://www.toutiao.com/trending/7573970592592825862/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "福建舰入列后首次海上实兵训练",
-      "url": "https://www.toutiao.com/trending/7573989339865108019/",
-      "label": "onSite"
-    },
-    {
-      "rank": 44,
-      "title": "联合国立场是台湾是中国一个省",
-      "url": "https://www.toutiao.com/trending/7573535219771211812/",
+      "rank": 35,
+      "title": "日媒称中方对日施压强度又提高档次",
+      "url": "https://www.toutiao.com/trending/7572854252113035314/",
       "label": ""
     },
     {
-      "rank": 45,
+      "rank": 36,
+      "title": "荒野求生14位选手全部进决赛",
+      "url": "https://www.toutiao.com/trending/7573089072923803699/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "深圳一凶宅30人争抢699.8万拍出",
+      "url": "https://www.toutiao.com/trending/7573333282974924863/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "欧阳震华现身为许绍雄扶灵",
+      "url": "https://www.toutiao.com/trending/7573690547119210502/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "赵丽颖方恳请别拍未成年人",
+      "url": "https://www.toutiao.com/trending/7573168794022117386/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
       "title": "黄金价格下跌 国内投资者怎么办",
       "url": "https://www.toutiao.com/trending/7574003822264061446/",
       "label": "new"
     },
     {
-      "rank": 46,
-      "title": "评论员：今天A股走势弱于多头预期",
-      "url": "https://www.toutiao.com/trending/7573982660544958003/",
+      "rank": 41,
+      "title": "联合国立场是台湾是中国一个省",
+      "url": "https://www.toutiao.com/trending/7573535219771211812/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "“雅思”组合晋级全运会混双决赛",
-      "url": "https://www.toutiao.com/trending/7573538984383987758/",
+      "rank": 42,
+      "title": "致敬“六边形战士”马龙",
+      "url": "https://www.toutiao.com/trending/7573575887728656425/",
       "label": "new"
     },
     {
-      "rank": 48,
+      "rank": 43,
       "title": "珠免集团55亿清仓格力房产",
       "url": "https://www.toutiao.com/trending/7573997221910154779/",
       "label": "new"
     },
     {
+      "rank": 44,
+      "title": "055大驱后续建造计划会面临调整吗",
+      "url": "https://www.toutiao.com/trending/7574017259140550150/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 45,
+      "title": "五人吃“霸王餐”临走还把锅顺走",
+      "url": "https://www.toutiao.com/trending/7573662536408498203/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "稀土“钇”今年涨了1500%",
+      "url": "https://www.toutiao.com/trending/7573968523752394276/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "马浚伟出席大湾区女企业家颁奖礼",
+      "url": "https://www.toutiao.com/trending/7573855074410725412/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "福建舰战时会部署在哪里",
+      "url": "https://www.toutiao.com/trending/7574029346751385097/",
+      "label": "interpretation"
+    },
+    {
       "rank": 49,
-      "title": "日本首相高市早苗的极右面目",
-      "url": "https://www.toutiao.com/trending/7573275935505023018/",
+      "title": "日本歌手美依礼芽永远支持一个中国",
+      "url": "https://www.toutiao.com/trending/7573912643086385162/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "致敬“六边形战士”马龙",
-      "url": "https://www.toutiao.com/trending/7573575887728656425/",
-      "label": "new"
+      "title": "外交部批美驻日大使涉中日关系言论",
+      "url": "https://www.toutiao.com/trending/7573348586302767123/",
+      "label": ""
     }
   ]
 }
