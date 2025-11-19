@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 19 Nov 2025 08:30:05 GMT",
+  "generated_at": "Wed, 19 Nov 2025 08:35:14 GMT",
   "top": {
     "rank": "置顶",
     "title": "推进全面依法治国 总书记最新部署",
@@ -42,7 +42,7 @@
       "rank": 6,
       "title": "高校回应高中学历当博导：已解聘",
       "url": "https://www.toutiao.com/trending/7574265204268289562/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 7,
@@ -82,21 +82,21 @@
     },
     {
       "rank": 13,
+      "title": "沙特砸1万亿给美国是要选边站吗",
+      "url": "https://www.toutiao.com/trending/7574310349558517254/",
+      "label": "new"
+    },
+    {
+      "rank": 14,
       "title": "泰国总理下令全面深化与中国合作",
       "url": "https://www.toutiao.com/trending/7573577662002806793/",
       "label": "new"
     },
     {
-      "rank": 14,
-      "title": "名嘴：高市作为将加速琉球问题解决",
-      "url": "https://www.toutiao.com/trending/7573688007137181759/",
-      "label": "interpretation"
-    },
-    {
       "rank": 15,
       "title": "今年鸭绒为什么这么贵",
       "url": "https://www.toutiao.com/trending/7574247701190115379/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 16,
@@ -106,26 +106,26 @@
     },
     {
       "rank": 17,
+      "title": "名嘴：高市作为将加速琉球问题解决",
+      "url": "https://www.toutiao.com/trending/7573688007137181759/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 18,
       "title": "为何要警惕日本“存亡危机事态”叙述",
       "url": "https://www.toutiao.com/trending/7574318133700202020/",
       "label": "interpretation"
     },
     {
-      "rank": 18,
-      "title": "中日多个交流活动已叫停",
-      "url": "https://www.toutiao.com/trending/7573979965281402926/",
+      "rank": 19,
+      "title": "日本首相顾问：明年三月前不会加息",
+      "url": "https://www.toutiao.com/trending/7574325126146035254/",
       "label": "new"
     },
     {
-      "rank": 19,
-      "title": "詹姆斯赛季首秀11分12助攻",
-      "url": "https://www.toutiao.com/trending/7573559509969473067/",
-      "label": ""
-    },
-    {
       "rank": 20,
-      "title": "女子称想嫁给荒野求生选手“刀疤哥”",
-      "url": "https://www.toutiao.com/trending/7573964843963990043/",
+      "title": "中日多个交流活动已叫停",
+      "url": "https://www.toutiao.com/trending/7573979965281402926/",
       "label": "new"
     },
     {
@@ -142,9 +142,9 @@
     },
     {
       "rank": 23,
-      "title": "男子开奥迪被婚车队当头车",
-      "url": "https://www.toutiao.com/trending/7574239391813091391/",
-      "label": ""
+      "title": "詹姆斯赛季首秀11分12助攻",
+      "url": "https://www.toutiao.com/trending/7573559509969473067/",
+      "label": "hot"
     },
     {
       "rank": 24,
@@ -154,14 +154,14 @@
     },
     {
       "rank": 25,
-      "title": "沙特砸1万亿给美国是要选边站吗",
-      "url": "https://www.toutiao.com/trending/7574310349558517254/",
+      "title": "韩国呼吁日方关闭领土和主权展示馆",
+      "url": "https://www.toutiao.com/trending/7573897451954765875/",
       "label": "new"
     },
     {
       "rank": 26,
-      "title": "韩国呼吁日方关闭领土和主权展示馆",
-      "url": "https://www.toutiao.com/trending/7573897451954765875/",
+      "title": "女子称想嫁给荒野求生选手“刀疤哥”",
+      "url": "https://www.toutiao.com/trending/7573964843963990043/",
       "label": "new"
     },
     {
@@ -172,62 +172,62 @@
     },
     {
       "rank": 28,
-      "title": "全运会为何不设奖牌榜",
-      "url": "https://www.toutiao.com/trending/7573894315785699391/",
+      "title": "男子开奥迪被婚车队当头车",
+      "url": "https://www.toutiao.com/trending/7574239391813091391/",
       "label": ""
     },
     {
       "rank": 29,
-      "title": "存储涨价 为何放过了苹果与联想",
-      "url": "https://www.toutiao.com/trending/7573972245656387610/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 30,
-      "title": "中国军网在海外发布备战视频",
-      "url": "https://www.toutiao.com/trending/7573254780828057619/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "日本首相顾问：明年三月前不会加息",
-      "url": "https://www.toutiao.com/trending/7574325126146035254/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "陈熠赛后哭了",
-      "url": "https://www.toutiao.com/trending/7573924130169356307/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "高市早苗妄想拉美国下水",
-      "url": "https://www.toutiao.com/trending/7573599626864394267/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "歼-35A出口中东还有希望吗",
-      "url": "https://www.toutiao.com/trending/7574323537452731945/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 35,
       "title": "起底江苏科大原教授学术履历造假案",
       "url": "https://www.toutiao.com/trending/7574306900557172278/",
       "label": ""
     },
     {
-      "rank": 36,
+      "rank": 30,
       "title": "高市早苗涉台谬论无异于越线玩火",
       "url": "https://www.toutiao.com/trending/7574309946196495915/",
       "label": "new"
     },
     {
-      "rank": 37,
+      "rank": 31,
+      "title": "全运会为何不设奖牌榜",
+      "url": "https://www.toutiao.com/trending/7573894315785699391/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "存储涨价 为何放过了苹果与联想",
+      "url": "https://www.toutiao.com/trending/7573972245656387610/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 33,
+      "title": "中方：日本根本没有资格要求入常",
+      "url": "https://www.toutiao.com/trending/7574206111533219882/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "陈熠赛后哭了",
+      "url": "https://www.toutiao.com/trending/7573924130169356307/",
+      "label": ""
+    },
+    {
+      "rank": 35,
       "title": "解放军双航母互降已经展开了吗",
       "url": "https://www.toutiao.com/trending/7574329731307277834/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "高市早苗妄想拉美国下水",
+      "url": "https://www.toutiao.com/trending/7573599626864394267/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "医生提醒：胃喜凉不喜热",
+      "url": "https://www.toutiao.com/trending/7573856006346735670/",
       "label": "new"
     },
     {
@@ -238,26 +238,26 @@
     },
     {
       "rank": 39,
-      "title": "中方：日本根本没有资格要求入常",
-      "url": "https://www.toutiao.com/trending/7574206111533219882/",
+      "title": "中国军网在海外发布备战视频",
+      "url": "https://www.toutiao.com/trending/7573254780828057619/",
       "label": ""
     },
     {
       "rank": 40,
+      "title": "歼-35A出口中东还有希望吗",
+      "url": "https://www.toutiao.com/trending/7574323537452731945/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 41,
       "title": "媒体评模特比赛争议：要经得起审视",
       "url": "https://www.toutiao.com/trending/7574281274324438538/",
       "label": ""
     },
     {
-      "rank": 41,
-      "title": "俄乌和平28点路线图曝光",
-      "url": "https://www.toutiao.com/trending/7573177460712914971/",
-      "label": "new"
-    },
-    {
       "rank": 42,
-      "title": "想你的风还是吹到了荒野求生",
-      "url": "https://www.toutiao.com/trending/7574277767806586406/",
+      "title": "中国对日本经济有多重要",
+      "url": "https://www.toutiao.com/trending/7574316028759379465/",
       "label": "new"
     },
     {
@@ -268,32 +268,32 @@
     },
     {
       "rank": 44,
+      "title": "想你的风还是吹到了荒野求生",
+      "url": "https://www.toutiao.com/trending/7574277767806586406/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "俄乌和平28点路线图曝光",
+      "url": "https://www.toutiao.com/trending/7573177460712914971/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "罗瑞卿大将之女罗点点逝世",
+      "url": "https://www.toutiao.com/trending/7574200779918458943/",
+      "label": ""
+    },
+    {
+      "rank": 47,
       "title": "波兰援乌铁路被炸是谁干的",
       "url": "https://www.toutiao.com/trending/7574270509076975145/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "杭州官宣取消灵隐寺门票",
-      "url": "https://www.toutiao.com/trending/7574256070383091718/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "医生提醒：胃喜凉不喜热",
-      "url": "https://www.toutiao.com/trending/7573856006346735670/",
-      "label": ""
-    },
-    {
-      "rank": 47,
+      "rank": 48,
       "title": "时隔5年 中央再召开这一重要会议",
       "url": "https://www.toutiao.com/trending/7574051978444898367/",
-      "label": ""
-    },
-    {
-      "rank": 48,
-      "title": "罗瑞卿大将之女罗点点逝世",
-      "url": "https://www.toutiao.com/trending/7574200779918458943/",
       "label": ""
     },
     {
@@ -304,9 +304,9 @@
     },
     {
       "rank": 50,
-      "title": "中国空间站如何成高效率太空实验室",
-      "url": "https://www.toutiao.com/trending/7574302269328330294/",
-      "label": "new"
+      "title": "杭州官宣取消灵隐寺门票",
+      "url": "https://www.toutiao.com/trending/7574256070383091718/",
+      "label": ""
     }
   ]
 }
