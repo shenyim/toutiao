@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 19 Nov 2025 02:55:14 GMT",
+  "generated_at": "Wed, 19 Nov 2025 03:00:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "合力开创法治中国建设新局面",
@@ -58,15 +58,15 @@
     },
     {
       "rank": 9,
-      "title": "文玩葫芦突然摇摆 主人怀疑生虫",
+      "title": "文玩葫芦摇摆 主人带去医院拍X光",
       "url": "https://www.toutiao.com/trending/7573867492020551699/",
       "label": "new"
     },
     {
       "rank": 10,
-      "title": "高管离职潮是因为马斯克不务正业吗",
-      "url": "https://www.toutiao.com/trending/7573718606148616218/",
-      "label": "depth"
+      "title": "沙特确认对美国投资增至1万亿美元",
+      "url": "https://www.toutiao.com/trending/7574223983499808282/",
+      "label": "new"
     },
     {
       "rank": 11,
@@ -94,15 +94,15 @@
     },
     {
       "rank": 15,
-      "title": "社保卡丢失后怎么处理",
-      "url": "https://www.toutiao.com/trending/7573629533673357348/",
-      "label": "forum"
+      "title": "高管离职潮是因为马斯克不务正业吗",
+      "url": "https://www.toutiao.com/trending/7573718606148616218/",
+      "label": "depth"
     },
     {
       "rank": 16,
-      "title": "沙特确认对美国投资增至1万亿美元",
-      "url": "https://www.toutiao.com/trending/7574223983499808282/",
-      "label": "new"
+      "title": "社保卡丢失后怎么处理",
+      "url": "https://www.toutiao.com/trending/7573629533673357348/",
+      "label": "forum"
     },
     {
       "rank": 17,
@@ -112,15 +112,15 @@
     },
     {
       "rank": 18,
-      "title": "中国游客减少或致日损失2.2万亿日元",
-      "url": "https://www.toutiao.com/trending/7573516179946242089/",
-      "label": "new"
+      "title": "时隔5年 中央再召开这一重要会议",
+      "url": "https://www.toutiao.com/trending/7574051978444898367/",
+      "label": ""
     },
     {
       "rank": 19,
-      "title": "日议员称高市早苗“自己跳入战争”",
-      "url": "https://www.toutiao.com/trending/7574210937033330203/",
-      "label": ""
+      "title": "中国游客减少或致日损失2.2万亿日元",
+      "url": "https://www.toutiao.com/trending/7573516179946242089/",
+      "label": "new"
     },
     {
       "rank": 20,
@@ -136,27 +136,27 @@
     },
     {
       "rank": 22,
-      "title": "时隔5年 中央再召开这一重要会议",
-      "url": "https://www.toutiao.com/trending/7574051978444898367/",
+      "title": "日议员称高市早苗“自己跳入战争”",
+      "url": "https://www.toutiao.com/trending/7574210937033330203/",
       "label": ""
     },
     {
       "rank": 23,
-      "title": "巴基斯坦女童用棒棒糖阻止一场抢劫",
-      "url": "https://www.toutiao.com/trending/7573926477852180531/",
-      "label": ""
-    },
-    {
-      "rank": 24,
       "title": "赛事方带3万多奖金看望“冷美人”",
       "url": "https://www.toutiao.com/trending/7573559509969407531/",
       "label": "new"
     },
     {
-      "rank": 25,
-      "title": "张博恒失误时鼓掌的裁判被终止执裁",
-      "url": "https://www.toutiao.com/trending/7573654940653371428/",
+      "rank": 24,
+      "title": "巴基斯坦女童用棒棒糖阻止一场抢劫",
+      "url": "https://www.toutiao.com/trending/7573926477852180531/",
       "label": ""
+    },
+    {
+      "rank": 25,
+      "title": "日媒称中方对日施压强度又提高档次",
+      "url": "https://www.toutiao.com/trending/7572854252113035314/",
+      "label": "hot"
     },
     {
       "rank": 26,
@@ -166,27 +166,27 @@
     },
     {
       "rank": 27,
+      "title": "两岸统一进程不会被欺骗与仇恨阻挡",
+      "url": "https://www.toutiao.com/trending/7574240037227757610/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
       "title": "日媒：高市早苗或将参拜靖国神社",
       "url": "https://www.toutiao.com/trending/7573905925635870262/",
       "label": ""
     },
     {
-      "rank": 28,
-      "title": "中美贸易“休战”背后的国家实力重构",
-      "url": "https://www.toutiao.com/trending/7573465468292857875/",
-      "label": ""
-    },
-    {
       "rank": 29,
-      "title": "存储涨价 为何放过了苹果与联想",
-      "url": "https://www.toutiao.com/trending/7573972245656387610/",
-      "label": "interpretation"
+      "title": "印度光辉战机参展时漏油真的正常吗",
+      "url": "https://www.toutiao.com/trending/7574215809484983862/",
+      "label": "new"
     },
     {
       "rank": 30,
-      "title": "日媒称中方对日施压强度又提高档次",
-      "url": "https://www.toutiao.com/trending/7572854252113035314/",
-      "label": "hot"
+      "title": "中美贸易“休战”背后的国家实力重构",
+      "url": "https://www.toutiao.com/trending/7573465468292857875/",
+      "label": ""
     },
     {
       "rank": 31,
@@ -196,15 +196,15 @@
     },
     {
       "rank": 32,
-      "title": "陈梦：单人和团体赛意义不同",
-      "url": "https://www.toutiao.com/trending/7573015116377145387/",
-      "label": "new"
+      "title": "存储涨价 为何放过了苹果与联想",
+      "url": "https://www.toutiao.com/trending/7573972245656387610/",
+      "label": "interpretation"
     },
     {
       "rank": 33,
-      "title": "美撤离“堤丰”意在同高市切割吗",
-      "url": "https://www.toutiao.com/trending/7573853820300673087/",
-      "label": ""
+      "title": "陈梦：单人和团体赛意义不同",
+      "url": "https://www.toutiao.com/trending/7573015116377145387/",
+      "label": "new"
     },
     {
       "rank": 34,
@@ -214,33 +214,33 @@
     },
     {
       "rank": 35,
-      "title": "两岸统一进程不会被欺骗与仇恨阻挡",
-      "url": "https://www.toutiao.com/trending/7574240037227757610/",
-      "label": "new"
+      "title": "美撤离“堤丰”意在同高市切割吗",
+      "url": "https://www.toutiao.com/trending/7573853820300673087/",
+      "label": ""
     },
     {
       "rank": 36,
-      "title": "中国游客退订约50万张赴日机票",
-      "url": "https://www.toutiao.com/trending/7573165564530606106/",
-      "label": "hot"
+      "title": "张博恒失误时鼓掌的裁判被终止执裁",
+      "url": "https://www.toutiao.com/trending/7573654940653371428/",
+      "label": ""
     },
     {
       "rank": 37,
-      "title": "印度光辉战机参展时漏油真的正常吗",
-      "url": "https://www.toutiao.com/trending/7574215809484983862/",
-      "label": "new"
-    },
-    {
-      "rank": 38,
       "title": "小米净利增八成背后",
       "url": "https://www.toutiao.com/trending/7574214371480440358/",
       "label": "new"
     },
     {
-      "rank": 39,
+      "rank": 38,
       "title": "今年日元兑美元回报率主要货币中最差",
       "url": "https://www.toutiao.com/trending/7574228685889211940/",
       "label": "new"
+    },
+    {
+      "rank": 39,
+      "title": "中国游客退订约50万张赴日机票",
+      "url": "https://www.toutiao.com/trending/7573165564530606106/",
+      "label": "hot"
     },
     {
       "rank": 40,
@@ -250,63 +250,63 @@
     },
     {
       "rank": 41,
-      "title": "小猫将去世猫妈妈拖进绿化带盖上树叶",
-      "url": "https://www.toutiao.com/trending/7573725678450016297/",
-      "label": ""
-    },
-    {
-      "rank": 42,
       "title": "荒野求生“冷美人”哽咽回应质疑",
       "url": "https://www.toutiao.com/trending/7573895318484467754/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "俞敏洪的全员信怎么写会更好",
-      "url": "https://www.toutiao.com/trending/7574055616939822630/",
-      "label": ""
-    },
-    {
-      "rank": 44,
+      "rank": 42,
       "title": "樊振东：决赛不挑对手",
       "url": "https://www.toutiao.com/trending/7573827858619990052/",
       "label": ""
     },
     {
-      "rank": 45,
-      "title": "我国航母经典机位如愿上新了",
-      "url": "https://www.toutiao.com/trending/7574093238999629834/",
-      "label": ""
-    },
-    {
-      "rank": 46,
+      "rank": 43,
       "title": "媒体：俞敏洪躺在“一个人的南极”",
       "url": "https://www.toutiao.com/trending/7574236920461397547/",
       "label": "interpretation"
     },
     {
-      "rank": 47,
-      "title": "郑丽文“倡导统一”四字吓坏了谁",
-      "url": "https://www.toutiao.com/trending/7573214258272632875/",
-      "label": "hot"
-    },
-    {
-      "rank": 48,
+      "rank": 44,
       "title": "阿里巴巴正式宣布“千问”项目",
       "url": "https://www.toutiao.com/trending/7573965805335875078/",
       "label": "new"
     },
     {
-      "rank": 49,
-      "title": "中方官员佩戴国徽同日本官员见面",
-      "url": "https://www.toutiao.com/trending/7574007336818278442/",
+      "rank": 45,
+      "title": "为何说中国还需要更多航母",
+      "url": "https://www.toutiao.com/trending/7574234788584754731/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "俞敏洪的全员信怎么写会更好",
+      "url": "https://www.toutiao.com/trending/7574055616939822630/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "我国航母经典机位如愿上新了",
+      "url": "https://www.toutiao.com/trending/7574093238999629834/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "郑丽文“倡导统一”四字吓坏了谁",
+      "url": "https://www.toutiao.com/trending/7573214258272632875/",
       "label": "hot"
     },
     {
-      "rank": 50,
-      "title": "外交部回应德副总理涉台海言论",
-      "url": "https://www.toutiao.com/trending/7573970838785900554/",
+      "rank": 49,
+      "title": "小猫将去世猫妈妈拖进绿化带盖上树叶",
+      "url": "https://www.toutiao.com/trending/7573725678450016297/",
       "label": ""
+    },
+    {
+      "rank": 50,
+      "title": "中方官员佩戴国徽同日本官员见面",
+      "url": "https://www.toutiao.com/trending/7574007336818278442/",
+      "label": "hot"
     }
   ]
 }
