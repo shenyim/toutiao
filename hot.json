@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 19 Nov 2025 08:45:06 GMT",
+  "generated_at": "Wed, 19 Nov 2025 08:50:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "推进全面依法治国 总书记最新部署",
@@ -28,9 +28,9 @@
     },
     {
       "rank": 4,
-      "title": "日本首相顾问：明年三月前不会加息",
-      "url": "https://www.toutiao.com/trending/7574325126146035254/",
-      "label": "new"
+      "title": "韩国超大物流中心大火烧了60小时",
+      "url": "https://www.toutiao.com/trending/7574214126352760873/",
+      "label": "hot"
     },
     {
       "rank": 5,
@@ -46,9 +46,9 @@
     },
     {
       "rank": 7,
-      "title": "韩国超大物流中心大火烧了60小时",
-      "url": "https://www.toutiao.com/trending/7574214126352760873/",
-      "label": "hot"
+      "title": "日本首相顾问：明年三月前不会加息",
+      "url": "https://www.toutiao.com/trending/7574325126146035254/",
+      "label": "new"
     },
     {
       "rank": 8,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "你看好普高与中职学生互转政策吗",
-      "url": "https://www.toutiao.com/trending/7574226126256685062/",
-      "label": "forum"
+      "title": "中日多个交流活动已叫停",
+      "url": "https://www.toutiao.com/trending/7573979965281402926/",
+      "label": "new"
     },
     {
       "rank": 11,
@@ -76,9 +76,9 @@
     },
     {
       "rank": 12,
-      "title": "杨瀚森9+5+3生涯新高",
-      "url": "https://www.toutiao.com/trending/7573652361693003839/",
-      "label": "hot"
+      "title": "你看好普高与中职学生互转政策吗",
+      "url": "https://www.toutiao.com/trending/7574226126256685062/",
+      "label": "forum"
     },
     {
       "rank": 13,
@@ -88,9 +88,9 @@
     },
     {
       "rank": 14,
-      "title": "中日多个交流活动已叫停",
-      "url": "https://www.toutiao.com/trending/7573979965281402926/",
-      "label": "new"
+      "title": "杨瀚森9+5+3生涯新高",
+      "url": "https://www.toutiao.com/trending/7573652361693003839/",
+      "label": "hot"
     },
     {
       "rank": 15,
@@ -106,26 +106,26 @@
     },
     {
       "rank": 17,
-      "title": "泰国总理下令全面深化与中国合作",
-      "url": "https://www.toutiao.com/trending/7573577662002806793/",
+      "title": "医生提醒：胃喜凉不喜热",
+      "url": "https://www.toutiao.com/trending/7573856006346735670/",
       "label": "new"
     },
     {
       "rank": 18,
-      "title": "为何要警惕日本“存亡危机事态”叙述",
-      "url": "https://www.toutiao.com/trending/7574318133700202020/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 19,
       "title": "沙特砸1万亿给美国是要选边站吗",
       "url": "https://www.toutiao.com/trending/7574310349558517254/",
       "label": "new"
     },
     {
+      "rank": 19,
+      "title": "为何要警惕日本“存亡危机事态”叙述",
+      "url": "https://www.toutiao.com/trending/7574318133700202020/",
+      "label": "interpretation"
+    },
+    {
       "rank": 20,
-      "title": "女子称想嫁给荒野求生选手“刀疤哥”",
-      "url": "https://www.toutiao.com/trending/7573964843963990043/",
+      "title": "泰国总理下令全面深化与中国合作",
+      "url": "https://www.toutiao.com/trending/7573577662002806793/",
       "label": "new"
     },
     {
@@ -142,27 +142,27 @@
     },
     {
       "rank": 23,
-      "title": "詹姆斯赛季首秀11分12助攻",
-      "url": "https://www.toutiao.com/trending/7573559509969473067/",
-      "label": ""
-    },
-    {
-      "rank": 24,
       "title": "名嘴：高市作为将加速琉球问题解决",
       "url": "https://www.toutiao.com/trending/7573688007137181759/",
       "label": "interpretation"
     },
     {
-      "rank": 25,
-      "title": "国台办回应国民党副主席提出和陆兴台",
-      "url": "https://www.toutiao.com/trending/7573578903328096292/",
-      "label": ""
+      "rank": 24,
+      "title": "中方：日本战争殖民罪行不容翻案",
+      "url": "https://www.toutiao.com/trending/7573764930160246793/",
+      "label": "new"
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "学术不端“首席科学家”为何一路畅通",
       "url": "https://www.toutiao.com/trending/7574207726025539611/",
       "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "詹姆斯赛季首秀11分12助攻",
+      "url": "https://www.toutiao.com/trending/7573559509969473067/",
+      "label": ""
     },
     {
       "rank": 27,
@@ -172,20 +172,20 @@
     },
     {
       "rank": 28,
-      "title": "医生提醒：胃喜凉不喜热",
-      "url": "https://www.toutiao.com/trending/7573856006346735670/",
-      "label": "new"
+      "title": "国台办回应国民党副主席提出和陆兴台",
+      "url": "https://www.toutiao.com/trending/7573578903328096292/",
+      "label": ""
     },
     {
       "rank": 29,
-      "title": "罗瑞卿大将之女罗点点逝世",
-      "url": "https://www.toutiao.com/trending/7574200779918458943/",
+      "title": "女子称想嫁给荒野求生选手“刀疤哥”",
+      "url": "https://www.toutiao.com/trending/7573964843963990043/",
       "label": ""
     },
     {
       "rank": 30,
-      "title": "起底江苏科大原教授学术履历造假案",
-      "url": "https://www.toutiao.com/trending/7574306900557172278/",
+      "title": "罗瑞卿大将之女罗点点逝世",
+      "url": "https://www.toutiao.com/trending/7574200779918458943/",
       "label": ""
     },
     {
@@ -202,15 +202,15 @@
     },
     {
       "rank": 33,
-      "title": "民进党为选举再打“抗中牌”挨批",
-      "url": "https://www.toutiao.com/trending/7574321335854858246/",
-      "label": "new"
+      "title": "起底江苏科大原教授学术履历造假案",
+      "url": "https://www.toutiao.com/trending/7574306900557172278/",
+      "label": ""
     },
     {
       "rank": 34,
-      "title": "男子开奥迪被婚车队当头车",
-      "url": "https://www.toutiao.com/trending/7574239391813091391/",
-      "label": ""
+      "title": "民进党为选举再打“抗中牌”挨批",
+      "url": "https://www.toutiao.com/trending/7574321335854858246/",
+      "label": "new"
     },
     {
       "rank": 35,
@@ -220,8 +220,8 @@
     },
     {
       "rank": 36,
-      "title": "全运会为何不设奖牌榜",
-      "url": "https://www.toutiao.com/trending/7573894315785699391/",
+      "title": "男子开奥迪被婚车队当头车",
+      "url": "https://www.toutiao.com/trending/7574239391813091391/",
       "label": ""
     },
     {
@@ -232,81 +232,81 @@
     },
     {
       "rank": 38,
-      "title": "高市早苗涉台谬论无异于越线玩火",
-      "url": "https://www.toutiao.com/trending/7574309946196495915/",
+      "title": "全运会为何不设奖牌榜",
+      "url": "https://www.toutiao.com/trending/7573894315785699391/",
       "label": ""
     },
     {
       "rank": 39,
-      "title": "陈熠赛后哭了",
-      "url": "https://www.toutiao.com/trending/7573924130169356307/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "五菱荣光EV首次亮相",
-      "url": "https://www.toutiao.com/trending/7573504642655453225/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "中方：日本根本没有资格要求入常",
-      "url": "https://www.toutiao.com/trending/7574206111533219882/",
-      "label": ""
-    },
-    {
-      "rank": 42,
       "title": "解放军双航母互降已经展开了吗",
       "url": "https://www.toutiao.com/trending/7574329731307277834/",
       "label": "new"
     },
     {
-      "rank": 43,
+      "rank": 40,
+      "title": "中方：日本根本没有资格要求入常",
+      "url": "https://www.toutiao.com/trending/7574206111533219882/",
+      "label": ""
+    },
+    {
+      "rank": 41,
       "title": "媒体评模特比赛争议：要经得起审视",
       "url": "https://www.toutiao.com/trending/7574281274324438538/",
       "label": ""
     },
     {
-      "rank": 44,
-      "title": "中国军网在海外发布备战视频",
-      "url": "https://www.toutiao.com/trending/7573254780828057619/",
+      "rank": 42,
+      "title": "陈熠赛后哭了",
+      "url": "https://www.toutiao.com/trending/7573924130169356307/",
       "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "高市早苗涉台谬论无异于越线玩火",
+      "url": "https://www.toutiao.com/trending/7574309946196495915/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "五菱荣光EV首次亮相",
+      "url": "https://www.toutiao.com/trending/7573504642655453225/",
+      "label": "new"
     },
     {
       "rank": 45,
-      "title": "歼-35A出口中东还有希望吗",
-      "url": "https://www.toutiao.com/trending/7574323537452731945/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 46,
-      "title": "中方：日本战争殖民罪行不容翻案",
-      "url": "https://www.toutiao.com/trending/7573764930160246793/",
-      "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "高市早苗妄想拉美国下水",
-      "url": "https://www.toutiao.com/trending/7573599626864394267/",
-      "label": ""
-    },
-    {
-      "rank": 48,
       "title": "沙特王储尴尬语塞回应特朗普问题",
       "url": "https://www.toutiao.com/trending/7574266887845019686/",
       "label": "new"
     },
     {
+      "rank": 46,
+      "title": "中国军网在海外发布备战视频",
+      "url": "https://www.toutiao.com/trending/7573254780828057619/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "高市早苗挑起外交争议折射何种思维",
+      "url": "https://www.toutiao.com/trending/7574314902160936486/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 48,
+      "title": "歼-35A出口中东还有希望吗",
+      "url": "https://www.toutiao.com/trending/7574323537452731945/",
+      "label": "interpretation"
+    },
+    {
       "rank": 49,
-      "title": "时隔5年 中央再召开这一重要会议",
-      "url": "https://www.toutiao.com/trending/7574051978444898367/",
+      "title": "高市早苗妄想拉美国下水",
+      "url": "https://www.toutiao.com/trending/7573599626864394267/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "想你的风还是吹到了荒野求生",
-      "url": "https://www.toutiao.com/trending/7574277767806586406/",
-      "label": ""
+      "title": "马凡丁谈在《唐诡》中被全世界寻找",
+      "url": "https://www.toutiao.com/trending/7573771462587482155/",
+      "label": "new"
     }
   ]
 }
