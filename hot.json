@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 19 Nov 2025 08:00:16 GMT",
+  "generated_at": "Wed, 19 Nov 2025 08:05:07 GMT",
   "top": {
     "rank": "置顶",
     "title": "筑牢法治之基 汇聚法治力量",
@@ -16,8 +16,8 @@
     },
     {
       "rank": 2,
-      "title": "韩国超大物流中心大火烧了60小时",
-      "url": "https://www.toutiao.com/trending/7574214126352760873/",
+      "title": "记者：日本没美允许不敢干涉台海局势",
+      "url": "https://www.toutiao.com/trending/7574298009588993590/",
       "label": "hot"
     },
     {
@@ -28,8 +28,8 @@
     },
     {
       "rank": 4,
-      "title": "记者：日本没美允许不敢干涉台海局势",
-      "url": "https://www.toutiao.com/trending/7574298009588993590/",
+      "title": "韩国超大物流中心大火烧了60小时",
+      "url": "https://www.toutiao.com/trending/7574214126352760873/",
       "label": "hot"
     },
     {
@@ -84,7 +84,7 @@
       "rank": 13,
       "title": "国台办回应“美国在台协会”涉台言论",
       "url": "https://www.toutiao.com/trending/7573705894303875091/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 14,
@@ -100,33 +100,33 @@
     },
     {
       "rank": 16,
-      "title": "如何防范家中电话被诈骗分子利用",
-      "url": "https://www.toutiao.com/trending/7574033824246431771/",
+      "title": "你看好普高与中职学生互转政策吗",
+      "url": "https://www.toutiao.com/trending/7574226126256685062/",
       "label": "forum"
     },
     {
       "rank": 17,
-      "title": "高市早苗妄想拉美国下水",
-      "url": "https://www.toutiao.com/trending/7573599626864394267/",
-      "label": "hot"
-    },
-    {
-      "rank": 18,
       "title": "名嘴：高市作为将加速琉球问题解决",
       "url": "https://www.toutiao.com/trending/7573688007137181759/",
       "label": "interpretation"
     },
     {
+      "rank": 18,
+      "title": "为何要警惕日本“存亡危机事态”叙述",
+      "url": "https://www.toutiao.com/trending/7574318133700202020/",
+      "label": "interpretation"
+    },
+    {
       "rank": 19,
-      "title": "媒体评模特比赛争议：要经得起审视",
-      "url": "https://www.toutiao.com/trending/7574281274324438538/",
-      "label": ""
+      "title": "高市早苗妄想拉美国下水",
+      "url": "https://www.toutiao.com/trending/7573599626864394267/",
+      "label": "hot"
     },
     {
       "rank": 20,
-      "title": "中方：日本根本没有资格要求入常",
-      "url": "https://www.toutiao.com/trending/7574206111533219882/",
-      "label": "hot"
+      "title": "媒体评模特比赛争议：要经得起审视",
+      "url": "https://www.toutiao.com/trending/7574281274324438538/",
+      "label": ""
     },
     {
       "rank": 21,
@@ -142,8 +142,8 @@
     },
     {
       "rank": 23,
-      "title": "国台办回应国民党副主席提出和陆兴台",
-      "url": "https://www.toutiao.com/trending/7573578903328096292/",
+      "title": "中方：日本根本没有资格要求入常",
+      "url": "https://www.toutiao.com/trending/7574206111533219882/",
       "label": ""
     },
     {
@@ -154,39 +154,39 @@
     },
     {
       "rank": 25,
-      "title": "杭州官宣取消灵隐寺门票",
-      "url": "https://www.toutiao.com/trending/7574256070383091718/",
+      "title": "国台办回应国民党副主席提出和陆兴台",
+      "url": "https://www.toutiao.com/trending/7573578903328096292/",
       "label": ""
     },
     {
       "rank": 26,
-      "title": "国安部：挑衅的“玩火者”绝没好下场",
-      "url": "https://www.toutiao.com/trending/7573181304070537266/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "全运会为何不设奖牌榜",
-      "url": "https://www.toutiao.com/trending/7573894315785699391/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
-      "title": "福建舰山东舰联袂出海准备剑指何方",
-      "url": "https://www.toutiao.com/trending/7574290766227312191/",
-      "label": ""
-    },
-    {
-      "rank": 29,
       "title": "高市早苗涉台言论“越线”意欲何为",
       "url": "https://www.toutiao.com/trending/7574316707582316073/",
       "label": "new"
     },
     {
-      "rank": 30,
+      "rank": 27,
       "title": "歼-35A出口中东还有希望吗",
       "url": "https://www.toutiao.com/trending/7574323537452731945/",
       "label": "interpretation"
+    },
+    {
+      "rank": 28,
+      "title": "杭州官宣取消灵隐寺门票",
+      "url": "https://www.toutiao.com/trending/7574256070383091718/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "国安部：挑衅的“玩火者”绝没好下场",
+      "url": "https://www.toutiao.com/trending/7573181304070537266/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "陈熠赛后哭了",
+      "url": "https://www.toutiao.com/trending/7573924130169356307/",
+      "label": ""
     },
     {
       "rank": 31,
@@ -196,27 +196,27 @@
     },
     {
       "rank": 32,
-      "title": "陈熠赛后哭了",
-      "url": "https://www.toutiao.com/trending/7573924130169356307/",
-      "label": "new"
+      "title": "福建舰山东舰联袂出海准备剑指何方",
+      "url": "https://www.toutiao.com/trending/7574290766227312191/",
+      "label": ""
     },
     {
       "rank": 33,
-      "title": "高市早苗涉台谬论无异于越线玩火",
-      "url": "https://www.toutiao.com/trending/7574309946196495915/",
+      "title": "全运会为何不设奖牌榜",
+      "url": "https://www.toutiao.com/trending/7573894315785699391/",
       "label": "new"
     },
     {
       "rank": 34,
-      "title": "想你的风还是吹到了荒野求生",
-      "url": "https://www.toutiao.com/trending/7574277767806586406/",
+      "title": "韩国呼吁日方关闭领土和主权展示馆",
+      "url": "https://www.toutiao.com/trending/7573897451954765875/",
       "label": "new"
     },
     {
       "rank": 35,
-      "title": "为何要警惕日本“存亡危机事态”叙述",
-      "url": "https://www.toutiao.com/trending/7574318133700202020/",
-      "label": "interpretation"
+      "title": "想你的风还是吹到了荒野求生",
+      "url": "https://www.toutiao.com/trending/7574277767806586406/",
+      "label": "new"
     },
     {
       "rank": 36,
@@ -226,87 +226,87 @@
     },
     {
       "rank": 37,
-      "title": "罗瑞卿大将之女罗点点逝世",
-      "url": "https://www.toutiao.com/trending/7574200779918458943/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "如何看待2艘国产航母罕见共同出港",
-      "url": "https://www.toutiao.com/trending/7574223399740771849/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "时隔5年 中央再召开这一重要会议",
-      "url": "https://www.toutiao.com/trending/7574051978444898367/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "女子称想嫁给荒野求生选手“刀疤哥”",
-      "url": "https://www.toutiao.com/trending/7573964843963990043/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "民进党禁限措施挡不住两岸同胞走近",
-      "url": "https://www.toutiao.com/trending/7574043610245791798/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "特朗普为何支持公开爱泼斯坦案文件",
-      "url": "https://www.toutiao.com/trending/7574298445284904498/",
-      "label": ""
-    },
-    {
-      "rank": 43,
       "title": "泰国总理下令全面深化与中国合作",
       "url": "https://www.toutiao.com/trending/7573577662002806793/",
       "label": "new"
     },
     {
-      "rank": 44,
-      "title": "众星转发绝不允许日本军国主义复活",
-      "url": "https://www.toutiao.com/trending/7574053593381191723/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "赖清德真要捧沈伯洋选台北市长吗",
-      "url": "https://www.toutiao.com/trending/7574017349775294470/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "俄媒：俄罗斯来华游客数量稳步增长",
-      "url": "https://www.toutiao.com/trending/7574022370705326116/",
-      "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "韩国呼吁日方关闭领土和主权展示馆",
-      "url": "https://www.toutiao.com/trending/7573897451954765875/",
+      "rank": 38,
+      "title": "高市早苗涉台谬论无异于越线玩火",
+      "url": "https://www.toutiao.com/trending/7574309946196495915/",
       "label": "new"
     },
     {
-      "rank": 48,
-      "title": "俄方回应乌克兰拟购买100架阵风战机",
-      "url": "https://www.toutiao.com/trending/7573568653649035300/",
+      "rank": 39,
+      "title": "女子称想嫁给荒野求生选手“刀疤哥”",
+      "url": "https://www.toutiao.com/trending/7573964843963990043/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "罗瑞卿大将之女罗点点逝世",
+      "url": "https://www.toutiao.com/trending/7574200779918458943/",
       "label": ""
     },
     {
-      "rank": 49,
+      "rank": 41,
+      "title": "如何看待2艘国产航母罕见共同出港",
+      "url": "https://www.toutiao.com/trending/7574223399740771849/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "时隔5年 中央再召开这一重要会议",
+      "url": "https://www.toutiao.com/trending/7574051978444898367/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "民进党禁限措施挡不住两岸同胞走近",
+      "url": "https://www.toutiao.com/trending/7574043610245791798/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
       "title": "沙特砸1万亿给美国是要选边站吗",
       "url": "https://www.toutiao.com/trending/7574310349558517254/",
       "label": "new"
     },
     {
-      "rank": 50,
+      "rank": 45,
+      "title": "特朗普为何支持公开爱泼斯坦案文件",
+      "url": "https://www.toutiao.com/trending/7574298445284904498/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "赖清德真要捧沈伯洋选台北市长吗",
+      "url": "https://www.toutiao.com/trending/7574017349775294470/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "高市早苗挑起外交争议折射何种思维",
+      "url": "https://www.toutiao.com/trending/7574314902160936486/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 48,
+      "title": "民进党为选举再打“抗中牌”挨批",
+      "url": "https://www.toutiao.com/trending/7574321335854858246/",
+      "label": ""
+    },
+    {
+      "rank": 49,
       "title": "湖记：詹姆斯在训练中把声音都喊哑了",
       "url": "https://www.toutiao.com/trending/7573625417493053459/",
       "label": "new"
+    },
+    {
+      "rank": 50,
+      "title": "众星转发绝不允许日本军国主义复活",
+      "url": "https://www.toutiao.com/trending/7574053593381191723/",
+      "label": ""
     }
   ]
 }
