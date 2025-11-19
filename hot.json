@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 19 Nov 2025 03:30:21 GMT",
+  "generated_at": "Wed, 19 Nov 2025 03:35:08 GMT",
   "top": {
     "rank": "置顶",
     "title": "合力开创法治中国建设新局面",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "库里遭遇里程悲",
-      "url": "https://www.toutiao.com/trending/7573962568402976787/",
-      "label": "new"
-    },
-    {
-      "rank": 2,
       "title": "高市早苗妄想拉美国下水",
       "url": "https://www.toutiao.com/trending/7573599626864394267/",
       "label": "hot"
+    },
+    {
+      "rank": 2,
+      "title": "杭州官宣取消灵隐寺门票",
+      "url": "https://www.toutiao.com/trending/7574256070383091718/",
+      "label": "new"
     },
     {
       "rank": 3,
@@ -46,15 +46,15 @@
     },
     {
       "rank": 7,
-      "title": "杭州官宣取消灵隐寺门票",
-      "url": "https://www.toutiao.com/trending/7574256070383091718/",
+      "title": "库里遭遇里程悲",
+      "url": "https://www.toutiao.com/trending/7573962568402976787/",
       "label": "new"
     },
     {
       "rank": 8,
       "title": "中方：日本根本没有资格要求入常",
       "url": "https://www.toutiao.com/trending/7574206111533219882/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 9,
@@ -142,8 +142,8 @@
     },
     {
       "rank": 23,
-      "title": "赛事方带3万多奖金看望“冷美人”",
-      "url": "https://www.toutiao.com/trending/7573559509969407531/",
+      "title": "如何看待2艘国产航母罕见共同出港",
+      "url": "https://www.toutiao.com/trending/7574223399740771849/",
       "label": "new"
     },
     {
@@ -154,39 +154,39 @@
     },
     {
       "rank": 25,
-      "title": "印度光辉战机参展时漏油真的正常吗",
-      "url": "https://www.toutiao.com/trending/7574215809484983862/",
+      "title": "赛事方带3万多奖金看望“冷美人”",
+      "url": "https://www.toutiao.com/trending/7573559509969407531/",
       "label": "new"
     },
     {
       "rank": 26,
-      "title": "存储涨价 为何放过了苹果与联想",
-      "url": "https://www.toutiao.com/trending/7573972245656387610/",
+      "title": "媒体：俞敏洪躺在“一个人的南极”",
+      "url": "https://www.toutiao.com/trending/7574236920461397547/",
       "label": "interpretation"
     },
     {
       "rank": 27,
+      "title": "郭德纲：吃亏趁早方为真福",
+      "url": "https://www.toutiao.com/trending/7573895133312729142/",
+      "label": ""
+    },
+    {
+      "rank": 28,
       "title": "深圳一模特比赛冠军引争议",
       "url": "https://www.toutiao.com/trending/7573046403929391146/",
       "label": "hot"
     },
     {
-      "rank": 28,
-      "title": "中方官员回应中日磋商：不满意",
-      "url": "https://www.toutiao.com/trending/7573277928713227819/",
-      "label": "hot"
-    },
-    {
       "rank": 29,
-      "title": "如何看待2艘国产航母罕见共同出港",
-      "url": "https://www.toutiao.com/trending/7574223399740771849/",
-      "label": "new"
+      "title": "印度光辉战机参展时漏油真的正常吗",
+      "url": "https://www.toutiao.com/trending/7574215809484983862/",
+      "label": ""
     },
     {
       "rank": 30,
-      "title": "时隔5年 中央再召开这一重要会议",
-      "url": "https://www.toutiao.com/trending/7574051978444898367/",
-      "label": ""
+      "title": "中方官员回应中日磋商：不满意",
+      "url": "https://www.toutiao.com/trending/7573277928713227819/",
+      "label": "hot"
     },
     {
       "rank": 31,
@@ -196,9 +196,9 @@
     },
     {
       "rank": 32,
-      "title": "中国U22男足获得“熊猫杯”亚军",
-      "url": "https://www.toutiao.com/trending/7574073050531119147/",
-      "label": "new"
+      "title": "存储涨价 为何放过了苹果与联想",
+      "url": "https://www.toutiao.com/trending/7573972245656387610/",
+      "label": "interpretation"
     },
     {
       "rank": 33,
@@ -214,69 +214,69 @@
     },
     {
       "rank": 35,
-      "title": "一桩“狗咬人”引发的血案背后",
-      "url": "https://www.toutiao.com/trending/7574212094417964563/",
-      "label": ""
-    },
-    {
-      "rank": 36,
       "title": "偏绿的民调现国民党支持度上升结果",
       "url": "https://www.toutiao.com/trending/7573907295617171475/",
       "label": "new"
     },
     {
+      "rank": 36,
+      "title": "中国U22男足获得“熊猫杯”亚军",
+      "url": "https://www.toutiao.com/trending/7574073050531119147/",
+      "label": "new"
+    },
+    {
       "rank": 37,
+      "title": "时隔5年 中央再召开这一重要会议",
+      "url": "https://www.toutiao.com/trending/7574051978444898367/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "一桩“狗咬人”引发的血案背后",
+      "url": "https://www.toutiao.com/trending/7574212094417964563/",
+      "label": ""
+    },
+    {
+      "rank": 39,
       "title": "外交部回应德副总理涉台海言论",
       "url": "https://www.toutiao.com/trending/7573970838785900554/",
       "label": ""
     },
     {
-      "rank": 38,
-      "title": "媒体：俞敏洪躺在“一个人的南极”",
-      "url": "https://www.toutiao.com/trending/7574236920461397547/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 39,
+      "rank": 40,
       "title": "今年日元兑美元回报率主要货币中最差",
       "url": "https://www.toutiao.com/trending/7574228685889211940/",
       "label": "new"
     },
     {
-      "rank": 40,
+      "rank": 41,
       "title": "日议员称高市早苗“自己跳入战争”",
       "url": "https://www.toutiao.com/trending/7574210937033330203/",
       "label": ""
     },
     {
-      "rank": 41,
+      "rank": 42,
+      "title": "选美大赛背后有何门道",
+      "url": "https://www.toutiao.com/trending/7573729059243589642/",
+      "label": "new"
+    },
+    {
+      "rank": 43,
       "title": "华为官宣首款鸿蒙二合一平板电脑",
       "url": "https://www.toutiao.com/trending/7573241554572492838/",
       "label": "new"
     },
     {
-      "rank": 42,
+      "rank": 44,
       "title": "中美贸易“休战”背后的国家实力重构",
       "url": "https://www.toutiao.com/trending/7573465468292857875/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "王冰汝：沙特王储访美受最高礼遇",
-      "url": "https://www.toutiao.com/trending/7574246438901648902/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
-      "title": "韩名宿：2036申奥粤港澳大湾区是劲敌",
-      "url": "https://www.toutiao.com/trending/7573903567045591094/",
       "label": ""
     },
     {
       "rank": 45,
       "title": "小米净利增八成背后",
       "url": "https://www.toutiao.com/trending/7574214371480440358/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 46,
@@ -286,14 +286,14 @@
     },
     {
       "rank": 47,
-      "title": "选美大赛背后有何门道",
-      "url": "https://www.toutiao.com/trending/7573729059243589642/",
-      "label": "new"
+      "title": "樊振东：决赛不挑对手",
+      "url": "https://www.toutiao.com/trending/7573827858619990052/",
+      "label": ""
     },
     {
       "rank": 48,
-      "title": "樊振东：决赛不挑对手",
-      "url": "https://www.toutiao.com/trending/7573827858619990052/",
+      "title": "荒野求生“冷美人”哽咽回应质疑",
+      "url": "https://www.toutiao.com/trending/7573895318484467754/",
       "label": ""
     },
     {
@@ -304,9 +304,9 @@
     },
     {
       "rank": 50,
-      "title": "荒野求生“冷美人”哽咽回应质疑",
-      "url": "https://www.toutiao.com/trending/7573895318484467754/",
-      "label": ""
+      "title": "郑丽文“倡导统一”四字吓坏了谁",
+      "url": "https://www.toutiao.com/trending/7573214258272632875/",
+      "label": "hot"
     }
   ]
 }
