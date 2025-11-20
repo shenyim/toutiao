@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 20 Nov 2025 02:25:05 GMT",
+  "generated_at": "Thu, 20 Nov 2025 02:30:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记为推进全面依法治国指明方向",
@@ -112,9 +112,9 @@
     },
     {
       "rank": 18,
-      "title": "俞敏洪首次回应“全员信争议”",
-      "url": "https://www.toutiao.com/trending/7573921452949540394/",
-      "label": "hot"
+      "title": "特朗普批准公布爱泼斯坦案档案",
+      "url": "https://www.toutiao.com/trending/7574614385700851210/",
+      "label": "recentProgress"
     },
     {
       "rank": 19,
@@ -124,9 +124,9 @@
     },
     {
       "rank": 20,
-      "title": "特朗普批准公布爱泼斯坦案档案",
-      "url": "https://www.toutiao.com/trending/7574614385700851210/",
-      "label": "recentProgress"
+      "title": "俞敏洪首次回应“全员信争议”",
+      "url": "https://www.toutiao.com/trending/7573921452949540394/",
+      "label": "hot"
     },
     {
       "rank": 21,
@@ -160,26 +160,26 @@
     },
     {
       "rank": 26,
-      "title": "闻泰科技：对安世的控制权仍受限",
-      "url": "https://www.toutiao.com/trending/7574052258440249386/",
-      "label": ""
-    },
-    {
-      "rank": 27,
       "title": "蓝白合作成形 赖清德进入防守期",
       "url": "https://www.toutiao.com/trending/7574599235274804779/",
       "label": "new"
     },
     {
-      "rank": 28,
-      "title": "普京最新涉华表态",
-      "url": "https://www.toutiao.com/trending/7574225566812307475/",
+      "rank": 27,
+      "title": "闻泰科技：对安世的控制权仍受限",
+      "url": "https://www.toutiao.com/trending/7574052258440249386/",
       "label": ""
     },
     {
+      "rank": 28,
+      "title": "妈妈哭着说刘景扬连教练都没有",
+      "url": "https://www.toutiao.com/trending/7574038650388909622/",
+      "label": "new"
+    },
+    {
       "rank": 29,
-      "title": "邓亚萍祝贺山东队乒乓球女团夺冠",
-      "url": "https://www.toutiao.com/trending/7574576622817250866/",
+      "title": "媒体批日本试图摆脱“战败国”",
+      "url": "https://www.toutiao.com/trending/7573584255013027876/",
       "label": "new"
     },
     {
@@ -190,123 +190,123 @@
     },
     {
       "rank": 31,
-      "title": "俞敏洪南极看企鹅员工为何笑不出来",
-      "url": "https://www.toutiao.com/trending/7574366796740824618/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "妈妈哭着说刘景扬连教练都没有",
-      "url": "https://www.toutiao.com/trending/7574038650388909622/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "媒体批日本试图摆脱“战败国”",
-      "url": "https://www.toutiao.com/trending/7573584255013027876/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "北京清晨现绝美早霞 天安门朝霞万丈",
-      "url": "https://www.toutiao.com/trending/7573722855864107051/",
-      "label": "onSite"
-    },
-    {
-      "rank": 35,
-      "title": "全运会乒乓球女团山东队夺冠",
-      "url": "https://www.toutiao.com/trending/7573574136241438763/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "日方若不纠正错误必将承受更重代价",
-      "url": "https://www.toutiao.com/trending/7573897978974142483/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "大爷遛弯时盗窃7000元现金被刑拘",
-      "url": "https://www.toutiao.com/trending/7574252991806980137/",
-      "label": ""
-    },
-    {
-      "rank": 38,
       "title": "吴艳妮赛后给自己打0分",
       "url": "https://www.toutiao.com/trending/7574278125257818153/",
       "label": "new"
     },
     {
-      "rank": 39,
+      "rank": 32,
+      "title": "普京最新涉华表态",
+      "url": "https://www.toutiao.com/trending/7574225566812307475/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "日方若不纠正错误必将承受更重代价",
+      "url": "https://www.toutiao.com/trending/7573897978974142483/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "俞敏洪南极看企鹅员工为何笑不出来",
+      "url": "https://www.toutiao.com/trending/7574366796740824618/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "冯彬获得十五运会女子铁饼金牌",
+      "url": "https://www.toutiao.com/trending/7573614654090903588/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "北京清晨现绝美早霞 天安门朝霞万丈",
+      "url": "https://www.toutiao.com/trending/7573722855864107051/",
+      "label": "onSite"
+    },
+    {
+      "rank": 37,
       "title": "今年鸭绒为什么这么贵",
       "url": "https://www.toutiao.com/trending/7574247701190115379/",
       "label": ""
     },
     {
+      "rank": 38,
+      "title": "全运会乒乓球女团山东队夺冠",
+      "url": "https://www.toutiao.com/trending/7573574136241438763/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "大爷遛弯时盗窃7000元现金被刑拘",
+      "url": "https://www.toutiao.com/trending/7574252991806980137/",
+      "label": ""
+    },
+    {
       "rank": 40,
+      "title": "黄仁勋：英伟达AI芯片订单排到2026年",
+      "url": "https://www.toutiao.com/trending/7573895134245453878/",
+      "label": "new"
+    },
+    {
+      "rank": 41,
+      "title": "邓亚萍祝贺山东队乒乓球女团夺冠",
+      "url": "https://www.toutiao.com/trending/7574576622817250866/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
       "title": "安世争夺战荷兰为何突踩刹车",
       "url": "https://www.toutiao.com/trending/7574415620968582698/",
       "label": "interpretation"
     },
     {
-      "rank": 41,
+      "rank": 43,
       "title": "霍震霆谈北京奥运会为郭晶晶颁奖",
       "url": "https://www.toutiao.com/trending/7573579906186133546/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "李盈莹宣布留洋计划",
-      "url": "https://www.toutiao.com/trending/7573417050429997110/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "C罗在白宫自拍 与马斯克同框",
-      "url": "https://www.toutiao.com/trending/7573313879741038598/",
-      "label": ""
-    },
-    {
       "rank": 44,
-      "title": "俄方回应“与美敲定俄乌和平方案”",
-      "url": "https://www.toutiao.com/trending/7573921452949491242/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "长崎核爆受害者强烈抗议高市错误言论",
-      "url": "https://www.toutiao.com/trending/7573980608767524900/",
+      "title": "吴艳妮三届全运会无缘金牌",
+      "url": "https://www.toutiao.com/trending/7574597471377051190/",
       "label": "new"
     },
     {
-      "rank": 46,
+      "rank": 45,
       "title": "“三海联动”风险上升 中国主动亮剑",
       "url": "https://www.toutiao.com/trending/7574585223132839977/",
       "label": "new"
     },
     {
+      "rank": 46,
+      "title": "C罗在白宫自拍 与马斯克同框",
+      "url": "https://www.toutiao.com/trending/7573313879741038598/",
+      "label": ""
+    },
+    {
       "rank": 47,
-      "title": "阿联酋女子集体甩发迎接李在明",
-      "url": "https://www.toutiao.com/trending/7573660280169775154/",
+      "title": "李盈莹宣布留洋计划",
+      "url": "https://www.toutiao.com/trending/7573417050429997110/",
       "label": ""
     },
     {
       "rank": 48,
-      "title": "泰国称中国追加50万吨大米采购订单",
-      "url": "https://www.toutiao.com/trending/7573404961976025124/",
-      "label": "new"
+      "title": "俄方回应“与美敲定俄乌和平方案”",
+      "url": "https://www.toutiao.com/trending/7573921452949491242/",
+      "label": ""
     },
     {
       "rank": 49,
-      "title": "吴艳妮三届全运会无缘金牌",
-      "url": "https://www.toutiao.com/trending/7574597471377051190/",
-      "label": ""
+      "title": "朝鲜队员用拳头向日本队员打招呼",
+      "url": "https://www.toutiao.com/trending/7574404078021918746/",
+      "label": "new"
     },
     {
       "rank": 50,
-      "title": "中方要求日方给出“明确交代”",
-      "url": "https://www.toutiao.com/trending/7574261421676957220/",
-      "label": ""
+      "title": "长崎核爆受害者强烈抗议高市错误言论",
+      "url": "https://www.toutiao.com/trending/7573980608767524900/",
+      "label": "new"
     }
   ]
 }
