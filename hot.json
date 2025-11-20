@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 20 Nov 2025 03:30:05 GMT",
+  "generated_at": "Thu, 20 Nov 2025 03:35:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "扎实推动粤港澳大湾区向一流湾区迈进",
@@ -22,9 +22,9 @@
     },
     {
       "rank": 3,
-      "title": "工业经济高质量发展扎实推进",
-      "url": "https://www.toutiao.com/article/7573496517768544820",
-      "label": ""
+      "title": "10月份我国消费市场保持平稳增长",
+      "url": "https://www.toutiao.com/article/7574343693566607918",
+      "label": "new"
     },
     {
       "rank": 4,
@@ -46,9 +46,9 @@
     },
     {
       "rank": 7,
-      "title": "特朗普批准公布爱泼斯坦案档案",
-      "url": "https://www.toutiao.com/trending/7574614385700851210/",
-      "label": "recentProgress"
+      "title": "琉球问题再度发酵",
+      "url": "https://www.toutiao.com/trending/7574591105501498930/",
+      "label": "new"
     },
     {
       "rank": 8,
@@ -58,15 +58,15 @@
     },
     {
       "rank": 9,
-      "title": "琉球问题再度发酵",
-      "url": "https://www.toutiao.com/trending/7574591105501498930/",
-      "label": "new"
-    },
-    {
-      "rank": 10,
       "title": "南海舰队发布视频：如果战斗今夜打响",
       "url": "https://www.toutiao.com/trending/7574363157884387347/",
       "label": ""
+    },
+    {
+      "rank": 10,
+      "title": "特朗普批准公布爱泼斯坦案档案",
+      "url": "https://www.toutiao.com/trending/7574614385700851210/",
+      "label": "recentProgress"
     },
     {
       "rank": 11,
@@ -118,15 +118,15 @@
     },
     {
       "rank": 19,
-      "title": "中国稀土还能立功多久",
-      "url": "https://www.toutiao.com/trending/7574577853505736219/",
-      "label": "interpretation"
+      "title": "林雨薇说为刘景扬夺冠开心",
+      "url": "https://www.toutiao.com/trending/7574433626025148467/",
+      "label": "new"
     },
     {
       "rank": 20,
-      "title": "组委会回应模特冠军颜值争议：颁错了",
-      "url": "https://www.toutiao.com/trending/7574131587726442523/",
-      "label": ""
+      "title": "歌曲《找不着北》火到台湾",
+      "url": "https://www.toutiao.com/trending/7574610724308533294/",
+      "label": "new"
     },
     {
       "rank": 21,
@@ -142,14 +142,14 @@
     },
     {
       "rank": 23,
-      "title": "泰国称中国追加50万吨大米采购订单",
-      "url": "https://www.toutiao.com/trending/7573404961976025124/",
-      "label": ""
+      "title": "中国稀土还能立功多久",
+      "url": "https://www.toutiao.com/trending/7574577853505736219/",
+      "label": "interpretation"
     },
     {
       "rank": 24,
-      "title": "蓝白合作成形 赖清德进入防守期",
-      "url": "https://www.toutiao.com/trending/7574599235274804779/",
+      "title": "组委会回应模特冠军颜值争议：颁错了",
+      "url": "https://www.toutiao.com/trending/7574131587726442523/",
       "label": ""
     },
     {
@@ -172,45 +172,45 @@
     },
     {
       "rank": 28,
-      "title": "大批中国游客取消赴日旅行计划",
-      "url": "https://www.toutiao.com/trending/7573784863128469523/",
-      "label": "hot"
-    },
-    {
-      "rank": 29,
-      "title": "林雨薇说为刘景扬夺冠开心",
-      "url": "https://www.toutiao.com/trending/7574433626025148467/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
-      "title": "C罗随特朗普参观白宫开怀大笑",
-      "url": "https://www.toutiao.com/trending/7573905925644340755/",
-      "label": "onSite"
-    },
-    {
-      "rank": 31,
-      "title": "高市早苗“可能成为日本存亡危机”",
-      "url": "https://www.toutiao.com/trending/7572965840547627017/",
-      "label": ""
-    },
-    {
-      "rank": 32,
       "title": "“三海联动”风险上升 中国主动亮剑",
       "url": "https://www.toutiao.com/trending/7574585223132839977/",
       "label": ""
     },
     {
-      "rank": 33,
+      "rank": 29,
+      "title": "蓝白合作成形 赖清德进入防守期",
+      "url": "https://www.toutiao.com/trending/7574599235274804779/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "高市早苗“可能成为日本存亡危机”",
+      "url": "https://www.toutiao.com/trending/7572965840547627017/",
+      "label": "hot"
+    },
+    {
+      "rank": 31,
+      "title": "C罗随特朗普参观白宫开怀大笑",
+      "url": "https://www.toutiao.com/trending/7573905925644340755/",
+      "label": "onSite"
+    },
+    {
+      "rank": 32,
       "title": "霍震霆回应和孙子在内地旅游被偶遇",
       "url": "https://www.toutiao.com/trending/7574574444828691978/",
       "label": ""
     },
     {
+      "rank": 33,
+      "title": "大批中国游客取消赴日旅行计划",
+      "url": "https://www.toutiao.com/trending/7573784863128469523/",
+      "label": ""
+    },
+    {
       "rank": 34,
-      "title": "歌曲《找不着北》火到台湾",
-      "url": "https://www.toutiao.com/trending/7574610724308533294/",
-      "label": "new"
+      "title": "泰国称中国追加50万吨大米采购订单",
+      "url": "https://www.toutiao.com/trending/7573404961976025124/",
+      "label": ""
     },
     {
       "rank": 35,
@@ -250,26 +250,26 @@
     },
     {
       "rank": 41,
-      "title": "全运会乒乓球女团山东队夺冠",
-      "url": "https://www.toutiao.com/trending/7573574136241438763/",
+      "title": "邓亚萍祝贺山东队乒乓球女团夺冠",
+      "url": "https://www.toutiao.com/trending/7574576622817250866/",
       "label": ""
     },
     {
       "rank": 42,
-      "title": "公布爱泼斯坦文件如何影响特朗普",
-      "url": "https://www.toutiao.com/trending/7574590153553874473/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 43,
-      "title": "大爷遛弯时盗窃7000元现金被刑拘",
-      "url": "https://www.toutiao.com/trending/7574252991806980137/",
+      "title": "日方若不纠正错误必将承受更重代价",
+      "url": "https://www.toutiao.com/trending/7573897978974142483/",
       "label": ""
     },
     {
+      "rank": 43,
+      "title": "柯文哲低调复出",
+      "url": "https://www.toutiao.com/trending/7573474008880955433/",
+      "label": "new"
+    },
+    {
       "rank": 44,
-      "title": "刘景扬前两届全运会连决赛都没进",
-      "url": "https://www.toutiao.com/trending/7574432754625511443/",
+      "title": "全运会乒乓球女团山东队夺冠",
+      "url": "https://www.toutiao.com/trending/7573574136241438763/",
       "label": ""
     },
     {
@@ -280,32 +280,32 @@
     },
     {
       "rank": 46,
-      "title": "柯文哲低调复出",
-      "url": "https://www.toutiao.com/trending/7573474008880955433/",
+      "title": "爱泼斯坦文档真的会公布于天下吗",
+      "url": "https://www.toutiao.com/trending/7574618065212542490/",
       "label": "new"
     },
     {
       "rank": 47,
-      "title": "谈梦怡获得十五运会女子跳远金牌",
-      "url": "https://www.toutiao.com/trending/7574431419801010217/",
+      "title": "刘景扬前两届全运会连决赛都没进",
+      "url": "https://www.toutiao.com/trending/7574432754625511443/",
       "label": ""
     },
     {
       "rank": 48,
-      "title": "华为Mate80系列操刀金鸡奖开幕式短片",
-      "url": "https://www.toutiao.com/trending/7573573499407892543/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
-      "title": "日方若不纠正错误必将承受更重代价",
-      "url": "https://www.toutiao.com/trending/7573897978974142483/",
+      "title": "大爷遛弯时盗窃7000元现金被刑拘",
+      "url": "https://www.toutiao.com/trending/7574252991806980137/",
       "label": ""
     },
     {
+      "rank": 49,
+      "title": "公布爱泼斯坦文件如何影响特朗普",
+      "url": "https://www.toutiao.com/trending/7574590153553874473/",
+      "label": "interpretation"
+    },
+    {
       "rank": 50,
-      "title": "邓亚萍祝贺山东队乒乓球女团夺冠",
-      "url": "https://www.toutiao.com/trending/7574576622817250866/",
+      "title": "孙颖莎祝贺山东队夺冠",
+      "url": "https://www.toutiao.com/trending/7573450690035646470/",
       "label": ""
     }
   ]
