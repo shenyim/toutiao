@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 20 Nov 2025 02:40:05 GMT",
+  "generated_at": "Thu, 20 Nov 2025 02:45:07 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记为推进全面依法治国指明方向",
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "朝鲜代表联大发言炮轰日本",
-      "url": "https://www.toutiao.com/trending/7573568511500075027/",
+      "title": "日本马上要没有大熊猫了",
+      "url": "https://www.toutiao.com/trending/7573660628330659890/",
       "label": ""
     },
     {
       "rank": 5,
-      "title": "日本马上要没有大熊猫了",
-      "url": "https://www.toutiao.com/trending/7573660628330659890/",
-      "label": ""
+      "title": "日本人士：日本不能再次滑向战争深渊",
+      "url": "https://www.toutiao.com/trending/7574584917107936818/",
+      "label": "hot"
     },
     {
       "rank": 6,
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "日本人士：日本不能再次滑向战争深渊",
-      "url": "https://www.toutiao.com/trending/7574584917107936818/",
-      "label": "hot"
+      "title": "朝鲜代表联大发言炮轰日本",
+      "url": "https://www.toutiao.com/trending/7573568511500075027/",
+      "label": ""
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "组委会回应模特冠军颜值争议：颁错了",
-      "url": "https://www.toutiao.com/trending/7574131587726442523/",
-      "label": ""
+      "title": "朝鲜队员用拳头向日本队员打招呼",
+      "url": "https://www.toutiao.com/trending/7574404078021918746/",
+      "label": "new"
     },
     {
       "rank": 11,
@@ -100,27 +100,27 @@
     },
     {
       "rank": 16,
-      "title": "刘景扬：从没想到能夺冠",
-      "url": "https://www.toutiao.com/trending/7573656234319265846/",
-      "label": "hot"
+      "title": "妈妈哭着说刘景扬连教练都没有",
+      "url": "https://www.toutiao.com/trending/7574038650388909622/",
+      "label": "new"
     },
     {
       "rank": 17,
-      "title": "俞敏洪首次回应“全员信争议”",
-      "url": "https://www.toutiao.com/trending/7573921452949540394/",
-      "label": "hot"
-    },
-    {
-      "rank": 18,
       "title": "特朗普批准公布爱泼斯坦案档案",
       "url": "https://www.toutiao.com/trending/7574614385700851210/",
       "label": "recentProgress"
     },
     {
+      "rank": 18,
+      "title": "俞敏洪首次回应“全员信争议”",
+      "url": "https://www.toutiao.com/trending/7573921452949540394/",
+      "label": "hot"
+    },
+    {
       "rank": 19,
-      "title": "妈妈哭着说刘景扬连教练都没有",
-      "url": "https://www.toutiao.com/trending/7574038650388909622/",
-      "label": "new"
+      "title": "刘景扬：从没想到能夺冠",
+      "url": "https://www.toutiao.com/trending/7573656234319265846/",
+      "label": "hot"
     },
     {
       "rank": 20,
@@ -136,21 +136,21 @@
     },
     {
       "rank": 22,
+      "title": "组委会回应模特冠军颜值争议：颁错了",
+      "url": "https://www.toutiao.com/trending/7574131587726442523/",
+      "label": ""
+    },
+    {
+      "rank": 23,
       "title": "蓝白合作成形 赖清德进入防守期",
       "url": "https://www.toutiao.com/trending/7574599235274804779/",
       "label": "new"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "吴艳妮三届全运会无缘金牌",
       "url": "https://www.toutiao.com/trending/7574597471377051190/",
       "label": "new"
-    },
-    {
-      "rank": 24,
-      "title": "高市早苗“可能成为日本存亡危机”",
-      "url": "https://www.toutiao.com/trending/7572965840547627017/",
-      "label": "hot"
     },
     {
       "rank": 25,
@@ -160,135 +160,135 @@
     },
     {
       "rank": 26,
+      "title": "高市早苗“可能成为日本存亡危机”",
+      "url": "https://www.toutiao.com/trending/7572965840547627017/",
+      "label": "hot"
+    },
+    {
+      "rank": 27,
       "title": "刘景扬前两届全运会连决赛都没进",
       "url": "https://www.toutiao.com/trending/7574432754625511443/",
       "label": ""
     },
     {
-      "rank": 27,
-      "title": "闻泰科技：对安世的控制权仍受限",
-      "url": "https://www.toutiao.com/trending/7574052258440249386/",
-      "label": ""
-    },
-    {
       "rank": 28,
-      "title": "高校回应高中学历当博导：已解聘",
-      "url": "https://www.toutiao.com/trending/7574265204268289562/",
-      "label": ""
-    },
-    {
-      "rank": 29,
-      "title": "孙颖莎祝贺山东队夺冠",
-      "url": "https://www.toutiao.com/trending/7573450690035646470/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "媒体批日本试图摆脱“战败国”",
-      "url": "https://www.toutiao.com/trending/7573584255013027876/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
-      "title": "“三海联动”风险上升 中国主动亮剑",
-      "url": "https://www.toutiao.com/trending/7574585223132839977/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "拼尽全力的孙颖莎自认更成熟了",
-      "url": "https://www.toutiao.com/trending/7573802037876555817/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "俞敏洪南极看企鹅员工为何笑不出来",
-      "url": "https://www.toutiao.com/trending/7574366796740824618/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "日方若不纠正错误必将承受更重代价",
-      "url": "https://www.toutiao.com/trending/7573897978974142483/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "吴艳妮赛后给自己打0分",
-      "url": "https://www.toutiao.com/trending/7574278125257818153/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "大爷遛弯时盗窃7000元现金被刑拘",
-      "url": "https://www.toutiao.com/trending/7574252991806980137/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "荒野“第一深情”林北解释女友不露脸",
-      "url": "https://www.toutiao.com/trending/7574420249748701230/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "邓亚萍祝贺山东队乒乓球女团夺冠",
-      "url": "https://www.toutiao.com/trending/7574576622817250866/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "今年鸭绒为什么这么贵",
-      "url": "https://www.toutiao.com/trending/7574247701190115379/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "媒体：荷兰改变态度希望能触动欧洲",
-      "url": "https://www.toutiao.com/trending/7573950561440792617/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "全运会乒乓球女团山东队夺冠",
-      "url": "https://www.toutiao.com/trending/7573574136241438763/",
-      "label": ""
-    },
-    {
-      "rank": 42,
       "title": "泰国称中国追加50万吨大米采购订单",
       "url": "https://www.toutiao.com/trending/7573404961976025124/",
       "label": "new"
     },
     {
-      "rank": 43,
-      "title": "安世争夺战荷兰为何突踩刹车",
-      "url": "https://www.toutiao.com/trending/7574415620968582698/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 44,
-      "title": "冯彬获得十五运会女子铁饼金牌",
-      "url": "https://www.toutiao.com/trending/7573614654090903588/",
+      "rank": 29,
+      "title": "“三海联动”风险上升 中国主动亮剑",
+      "url": "https://www.toutiao.com/trending/7574585223132839977/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "朝鲜队员用拳头向日本队员打招呼",
-      "url": "https://www.toutiao.com/trending/7574404078021918746/",
+      "rank": 30,
+      "title": "吴艳妮赛后给自己打0分",
+      "url": "https://www.toutiao.com/trending/7574278125257818153/",
       "label": "new"
     },
     {
-      "rank": 46,
+      "rank": 31,
+      "title": "高校回应高中学历当博导：已解聘",
+      "url": "https://www.toutiao.com/trending/7574265204268289562/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "日方若不纠正错误必将承受更重代价",
+      "url": "https://www.toutiao.com/trending/7573897978974142483/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "孙颖莎祝贺山东队夺冠",
+      "url": "https://www.toutiao.com/trending/7573450690035646470/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "大爷遛弯时盗窃7000元现金被刑拘",
+      "url": "https://www.toutiao.com/trending/7574252991806980137/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "闻泰科技：对安世的控制权仍受限",
+      "url": "https://www.toutiao.com/trending/7574052258440249386/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "拼尽全力的孙颖莎自认更成熟了",
+      "url": "https://www.toutiao.com/trending/7573802037876555817/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "俞敏洪南极看企鹅员工为何笑不出来",
+      "url": "https://www.toutiao.com/trending/7574366796740824618/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
       "title": "中国稀土还能立功多久",
       "url": "https://www.toutiao.com/trending/7574577853505736219/",
       "label": "interpretation"
     },
     {
-      "rank": 47,
-      "title": "黄仁勋：英伟达AI芯片订单排到2026年",
-      "url": "https://www.toutiao.com/trending/7573895134245453878/",
+      "rank": 39,
+      "title": "全运会乒乓球女团山东队夺冠",
+      "url": "https://www.toutiao.com/trending/7573574136241438763/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "今年鸭绒为什么这么贵",
+      "url": "https://www.toutiao.com/trending/7574247701190115379/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "日本民众在东京集会反对政府扩张军备",
+      "url": "https://www.toutiao.com/trending/7574580864374849542/",
       "label": "new"
+    },
+    {
+      "rank": 42,
+      "title": "邓亚萍祝贺山东队乒乓球女团夺冠",
+      "url": "https://www.toutiao.com/trending/7574576622817250866/",
+      "label": "new"
+    },
+    {
+      "rank": 43,
+      "title": "普京最新涉华表态",
+      "url": "https://www.toutiao.com/trending/7574225566812307475/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "安世争夺战荷兰为何突踩刹车",
+      "url": "https://www.toutiao.com/trending/7574415620968582698/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 45,
+      "title": "谈梦怡获得十五运会女子跳远金牌",
+      "url": "https://www.toutiao.com/trending/7574431419801010217/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "媒体批日本试图摆脱“战败国”",
+      "url": "https://www.toutiao.com/trending/7573584255013027876/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "北京清晨现绝美早霞 天安门朝霞万丈",
+      "url": "https://www.toutiao.com/trending/7573722855864107051/",
+      "label": "onSite"
     },
     {
       "rank": 48,
@@ -298,15 +298,15 @@
     },
     {
       "rank": 49,
-      "title": "俄称击退乌军对红军城的解围行动",
-      "url": "https://www.toutiao.com/trending/7573439060325285894/",
+      "title": "俄美元首会晤准备工作尚未完成",
+      "url": "https://www.toutiao.com/trending/7574498688295256073/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "北京清晨现绝美早霞 天安门朝霞万丈",
-      "url": "https://www.toutiao.com/trending/7573722855864107051/",
-      "label": "onSite"
+      "title": "俄称击退乌军对红军城的解围行动",
+      "url": "https://www.toutiao.com/trending/7573439060325285894/",
+      "label": "new"
     }
   ]
 }
