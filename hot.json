@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 20 Nov 2025 04:30:05 GMT",
+  "generated_at": "Thu, 20 Nov 2025 04:53:16 GMT",
   "top": {
     "rank": "置顶",
     "title": "扎实推动粤港澳大湾区向一流湾区迈进",
@@ -24,7 +24,7 @@
       "rank": 3,
       "title": "10月份我国消费市场保持平稳增长",
       "url": "https://www.toutiao.com/article/7574343693566607918",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 4,
@@ -46,20 +46,20 @@
     },
     {
       "rank": 7,
+      "title": "柬埔寨劫囚女子因高颜值受关注",
+      "url": "https://www.toutiao.com/trending/7574653045150289418/",
+      "label": "hot"
+    },
+    {
+      "rank": 8,
       "title": "琉球问题再度发酵",
       "url": "https://www.toutiao.com/trending/7574591105501498930/",
       "label": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "南海舰队发布视频：如果战斗今夜打响",
       "url": "https://www.toutiao.com/trending/7574363157884387347/",
-      "label": ""
-    },
-    {
-      "rank": 9,
-      "title": "歌曲《找不着北》火到台湾",
-      "url": "https://www.toutiao.com/trending/7574610724308533294/",
       "label": ""
     },
     {
@@ -76,189 +76,189 @@
     },
     {
       "rank": 12,
-      "title": "日本多次就所谓“台湾有事”兵棋推演",
-      "url": "https://www.toutiao.com/trending/7573537256595030070/",
-      "label": ""
+      "title": "记者骚扰柬埔寨劫狱女子被撤销记者证",
+      "url": "https://www.toutiao.com/trending/7574299819033133119/",
+      "label": "hot"
     },
     {
       "rank": 13,
-      "title": "小伙钓上白色鲟鱼吓得放生后致电公安",
-      "url": "https://www.toutiao.com/trending/7573727043930964010/",
+      "title": "歌曲《找不着北》火到台湾",
+      "url": "https://www.toutiao.com/trending/7574610724308533294/",
       "label": ""
     },
     {
       "rank": 14,
-      "title": "美军基地搬迁为何遭日本民众抗议",
-      "url": "https://www.toutiao.com/trending/7574621242477547071/",
-      "label": "new"
-    },
-    {
-      "rank": 15,
-      "title": "记者骚扰柬埔寨劫狱女子被撤销记者证",
-      "url": "https://www.toutiao.com/trending/7574299819033133119/",
-      "label": "new"
-    },
-    {
-      "rank": 16,
-      "title": "官方回应多名女子在餐厅后厨热舞",
-      "url": "https://www.toutiao.com/trending/7574404467366576171/",
-      "label": "forum"
-    },
-    {
-      "rank": 17,
-      "title": "朝鲜代表联大发言炮轰日本",
-      "url": "https://www.toutiao.com/trending/7573568511500075027/",
-      "label": ""
-    },
-    {
-      "rank": 18,
-      "title": "特朗普批准公布爱泼斯坦案档案",
-      "url": "https://www.toutiao.com/trending/7574614385700851210/",
-      "label": "recentProgress"
-    },
-    {
-      "rank": 19,
       "title": "新兵投弹遇险情 安全员处置画面曝光",
       "url": "https://www.toutiao.com/trending/7574425449621831689/",
       "label": "new"
     },
     {
-      "rank": 20,
-      "title": "吴艳妮赛后给自己打0分",
-      "url": "https://www.toutiao.com/trending/7574278125257818153/",
-      "label": "hot"
-    },
-    {
-      "rank": 21,
-      "title": "胡彦斌易梦玲恋情曝光",
-      "url": "https://www.toutiao.com/trending/7574524739985702955/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "中方敦促日方以实际行动认错纠偏",
-      "url": "https://www.toutiao.com/trending/7574221051354251318/",
-      "label": "new"
-    },
-    {
-      "rank": 23,
-      "title": "吴艳妮领银牌后仰面哭泣",
-      "url": "https://www.toutiao.com/trending/7574038650388811318/",
-      "label": "hot"
-    },
-    {
-      "rank": 24,
-      "title": "组委会回应模特冠军颜值争议：颁错了",
-      "url": "https://www.toutiao.com/trending/7574131587726442523/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "俞敏洪首次回应“全员信争议”",
-      "url": "https://www.toutiao.com/trending/7573921452949540394/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "陈梦：乒乓球从来不是我的负担",
-      "url": "https://www.toutiao.com/trending/7574603812241935922/",
-      "label": ""
-    },
-    {
-      "rank": 27,
+      "rank": 15,
       "title": "44岁博主查出胆囊癌扩散后去世",
       "url": "https://www.toutiao.com/trending/7574256532415152182/",
       "label": "new"
     },
     {
-      "rank": 28,
+      "rank": 16,
+      "title": "官方回应多名女子后厨热舞影响卫生",
+      "url": "https://www.toutiao.com/trending/7574404467366576171/",
+      "label": "forum"
+    },
+    {
+      "rank": 17,
+      "title": "特朗普批准公布爱泼斯坦案档案",
+      "url": "https://www.toutiao.com/trending/7574614385700851210/",
+      "label": "recentProgress"
+    },
+    {
+      "rank": 18,
+      "title": "美军基地搬迁为何遭日本民众抗议",
+      "url": "https://www.toutiao.com/trending/7574621242477547071/",
+      "label": ""
+    },
+    {
+      "rank": 19,
+      "title": "中方敦促日方以实际行动认错纠偏",
+      "url": "https://www.toutiao.com/trending/7574221051354251318/",
+      "label": "new"
+    },
+    {
+      "rank": 20,
+      "title": "小伙钓上白色鲟鱼吓得放生后致电公安",
+      "url": "https://www.toutiao.com/trending/7573727043930964010/",
+      "label": ""
+    },
+    {
+      "rank": 21,
+      "title": "胡彦斌易梦玲恋情曝光",
+      "url": "https://www.toutiao.com/trending/7574524739985702955/",
+      "label": "hot"
+    },
+    {
+      "rank": 22,
+      "title": "日本多次就所谓“台湾有事”兵棋推演",
+      "url": "https://www.toutiao.com/trending/7573537256595030070/",
+      "label": ""
+    },
+    {
+      "rank": 23,
+      "title": "吴艳妮赛后给自己打0分",
+      "url": "https://www.toutiao.com/trending/7574278125257818153/",
+      "label": "hot"
+    },
+    {
+      "rank": 24,
       "title": "《他为什么依然单身》热播",
       "url": "https://www.toutiao.com/trending/7574623656602566665/",
       "label": "new"
     },
     {
-      "rank": 29,
-      "title": "林雨薇说为刘景扬夺冠开心",
-      "url": "https://www.toutiao.com/trending/7574433626025148467/",
-      "label": "hot"
-    },
-    {
-      "rank": 30,
-      "title": "中国稀土还能立功多久",
-      "url": "https://www.toutiao.com/trending/7574577853505736219/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 31,
-      "title": "C罗随特朗普参观白宫开怀大笑",
-      "url": "https://www.toutiao.com/trending/7573905925644340755/",
-      "label": "onSite"
-    },
-    {
-      "rank": 32,
-      "title": "普京最新涉华表态",
-      "url": "https://www.toutiao.com/trending/7574225566812307475/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "李大霄：A股反攻或徐徐展开",
-      "url": "https://www.toutiao.com/trending/7574630151225380402/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "柬埔寨劫囚女子因高颜值受关注",
-      "url": "https://www.toutiao.com/trending/7574653045150289418/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "霍震霆回应和孙子在内地旅游被偶遇",
-      "url": "https://www.toutiao.com/trending/7574574444828691978/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "陪看全运会乒乓男团比赛",
-      "url": "https://webcast-open.douyin.com/open/media_live/33313855050",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "“三海联动”风险上升 中国主动亮剑",
-      "url": "https://www.toutiao.com/trending/7574585223132839977/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "蓝白合作成形 赖清德进入防守期",
-      "url": "https://www.toutiao.com/trending/7574599235274804779/",
-      "label": "hot"
-    },
-    {
-      "rank": 39,
-      "title": "高市早苗“可能成为日本存亡危机”",
-      "url": "https://www.toutiao.com/trending/7572965840547627017/",
-      "label": "hot"
-    },
-    {
-      "rank": 40,
-      "title": "全运会乒乓球女团山东队夺冠",
-      "url": "https://www.toutiao.com/trending/7573574136241438763/",
-      "label": "hot"
-    },
-    {
-      "rank": 41,
+      "rank": 25,
       "title": "台当局要求民众绝不向大陆投降",
       "url": "https://www.toutiao.com/trending/7574228527487795246/",
       "label": "new"
     },
     {
-      "rank": 42,
+      "rank": 26,
+      "title": "俞敏洪首次回应“全员信争议”",
+      "url": "https://www.toutiao.com/trending/7573921452949540394/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "朝鲜代表联大发言炮轰日本",
+      "url": "https://www.toutiao.com/trending/7573568511500075027/",
+      "label": "hot"
+    },
+    {
+      "rank": 28,
+      "title": "林雨薇说为刘景扬夺冠开心",
+      "url": "https://www.toutiao.com/trending/7574433626025148467/",
+      "label": "hot"
+    },
+    {
+      "rank": 29,
+      "title": "C罗随特朗普参观白宫开怀大笑",
+      "url": "https://www.toutiao.com/trending/7573905925644340755/",
+      "label": "onSite"
+    },
+    {
+      "rank": 30,
+      "title": "组委会回应模特冠军颜值争议：颁错了",
+      "url": "https://www.toutiao.com/trending/7574131587726442523/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "吴艳妮领银牌后仰面哭泣",
+      "url": "https://www.toutiao.com/trending/7574038650388811318/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "中国稀土还能立功多久",
+      "url": "https://www.toutiao.com/trending/7574577853505736219/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 33,
+      "title": "理想i系列这么快就“进ICU”了吗",
+      "url": "https://www.toutiao.com/trending/7574596760429923876/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "陈梦：乒乓球从来不是我的负担",
+      "url": "https://www.toutiao.com/trending/7574603812241935922/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "蓝白合作成形 赖清德进入防守期",
+      "url": "https://www.toutiao.com/trending/7574599235274804779/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "高市早苗“可能成为日本存亡危机”",
+      "url": "https://www.toutiao.com/trending/7572965840547627017/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "陪看全运会乒乓男团比赛",
+      "url": "https://webcast-open.douyin.com/open/media_live/33313855050",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "“三海联动”风险上升 中国主动亮剑",
+      "url": "https://www.toutiao.com/trending/7574585223132839977/",
+      "label": ""
+    },
+    {
+      "rank": 39,
       "title": "日本人士：日本不能再次滑向战争深渊",
       "url": "https://www.toutiao.com/trending/7574584917107936818/",
       "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "今年鸭绒为什么这么贵",
+      "url": "https://www.toutiao.com/trending/7574247701190115379/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "霍震霆回应和孙子在内地旅游被偶遇",
+      "url": "https://www.toutiao.com/trending/7574574444828691978/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "韩国专家批高市早苗涉台错误言论",
+      "url": "https://www.toutiao.com/trending/7574633138572234246/",
+      "label": "new"
     },
     {
       "rank": 43,
@@ -268,27 +268,27 @@
     },
     {
       "rank": 44,
-      "title": "今年鸭绒为什么这么贵",
-      "url": "https://www.toutiao.com/trending/7574247701190115379/",
+      "title": "泰国称中国追加50万吨大米采购订单",
+      "url": "https://www.toutiao.com/trending/7573404961976025124/",
       "label": ""
     },
     {
       "rank": 45,
-      "title": "媒体批日本试图摆脱“战败国”",
-      "url": "https://www.toutiao.com/trending/7573584255013027876/",
-      "label": ""
+      "title": "菲民众对政府的不满情绪从何而来",
+      "url": "https://www.toutiao.com/trending/7574330252827037234/",
+      "label": "interpretation"
     },
     {
       "rank": 46,
-      "title": "火箭力克骑士收获五连胜",
-      "url": "https://www.toutiao.com/trending/7574187202277408810/",
-      "label": "new"
+      "title": "全运会乒乓球女团山东队夺冠",
+      "url": "https://www.toutiao.com/trending/7573574136241438763/",
+      "label": ""
     },
     {
       "rank": 47,
-      "title": "理想i系列这么快就“进ICU”了吗",
-      "url": "https://www.toutiao.com/trending/7574596760429923876/",
-      "label": ""
+      "title": "新问界M7累计交付突破3万台",
+      "url": "https://www.toutiao.com/trending/7573559031844356123/",
+      "label": "new"
     },
     {
       "rank": 48,
@@ -298,14 +298,14 @@
     },
     {
       "rank": 49,
-      "title": "欧洲要开始和中美一起竞争了吗",
-      "url": "https://www.toutiao.com/trending/7574580290555743790/",
+      "title": "福建女排时隔38载再夺全运会奖牌",
+      "url": "https://www.toutiao.com/trending/7574090871579279401/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "爱泼斯坦文档真的会公布于天下吗",
-      "url": "https://www.toutiao.com/trending/7574618065212542490/",
+      "title": "LPR连续6个月保持不变",
+      "url": "https://www.toutiao.com/trending/7574284868335910975/",
       "label": "new"
     }
   ]
