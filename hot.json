@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Fri, 21 Nov 2025 05:50:05 GMT",
+  "generated_at": "Fri, 21 Nov 2025 05:55:12 GMT",
   "top": {
     "rank": "置顶",
     "title": "国家治理的一场深刻变革",
@@ -46,21 +46,21 @@
     },
     {
       "rank": 7,
-      "title": "44岁刘若川当选中国科学院院士",
-      "url": "https://www.toutiao.com/trending/7574977171614842889/",
-      "label": "hot"
-    },
-    {
-      "rank": 8,
       "title": "王楚钦回应再输樊振东",
       "url": "https://www.toutiao.com/trending/7574618457225461814/",
       "label": "hot"
     },
     {
+      "rank": 8,
+      "title": "44岁刘若川当选中国科学院院士",
+      "url": "https://www.toutiao.com/trending/7574977171614842889/",
+      "label": "hot"
+    },
+    {
       "rank": 9,
-      "title": "东部战区发布抢滩利器高清画面",
-      "url": "https://www.toutiao.com/trending/7574419335809531923/",
-      "label": ""
+      "title": "14户牧民起诉自然资源局胜诉未执行",
+      "url": "https://www.toutiao.com/trending/7574974744932630579/",
+      "label": "new"
     },
     {
       "rank": 10,
@@ -76,8 +76,8 @@
     },
     {
       "rank": 12,
-      "title": "中国军号发布海报用三国语言警告日本",
-      "url": "https://www.toutiao.com/trending/7574461448878309427/",
+      "title": "东部战区发布抢滩利器高清画面",
+      "url": "https://www.toutiao.com/trending/7574419335809531923/",
       "label": ""
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "rank": 14,
-      "title": "刘景扬回应“没有教练”",
-      "url": "https://www.toutiao.com/trending/7574603885717766207/",
+      "title": "郑丽文拜会韩国瑜",
+      "url": "https://www.toutiao.com/trending/7574950712528044042/",
       "label": ""
     },
     {
@@ -106,26 +106,26 @@
     },
     {
       "rank": 17,
-      "title": "高市错误言论陷四面楚歌",
-      "url": "https://www.toutiao.com/trending/7574981606549491226/",
+      "title": "刘景扬回应“没有教练”",
+      "url": "https://www.toutiao.com/trending/7574603885717766207/",
       "label": ""
     },
     {
       "rank": 18,
-      "title": "比亚迪廉玉波当选中国工程院院士",
-      "url": "https://www.toutiao.com/trending/7574987846340263942/",
-      "label": "hot"
-    },
-    {
-      "rank": 19,
       "title": "媒体：樊振东伤痕不再可见",
       "url": "https://www.toutiao.com/trending/7574375460252467243/",
       "label": "depth"
     },
     {
+      "rank": 19,
+      "title": "新当选院士鲁军勇研究电磁发射",
+      "url": "https://www.toutiao.com/trending/7575012040667627583/",
+      "label": "new"
+    },
+    {
       "rank": 20,
-      "title": "郭晶晶亮相广州车展仔细倾听介绍",
-      "url": "https://www.toutiao.com/trending/7574438134323658761/",
+      "title": "中国军号发布海报用三国语言警告日本",
+      "url": "https://www.toutiao.com/trending/7574461448878309427/",
       "label": ""
     },
     {
@@ -142,27 +142,27 @@
     },
     {
       "rank": 23,
-      "title": "郑丽文拜会韩国瑜",
-      "url": "https://www.toutiao.com/trending/7574950712528044042/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "144人当选两院院士",
-      "url": "https://www.toutiao.com/trending/7574977593812910090/",
+      "title": "比亚迪廉玉波当选中国工程院院士",
+      "url": "https://www.toutiao.com/trending/7574987846340263942/",
       "label": "hot"
     },
     {
+      "rank": 24,
+      "title": "郭晶晶亮相广州车展仔细倾听介绍",
+      "url": "https://www.toutiao.com/trending/7574438134323658761/",
+      "label": ""
+    },
+    {
       "rank": 25,
-      "title": "女子水杯现不明液体警方锁定其同事",
-      "url": "https://www.toutiao.com/trending/7574615248559177770/",
+      "title": "日议员被高市涉台言论震惊：要完蛋了",
+      "url": "https://www.toutiao.com/trending/7573741055414140970/",
       "label": ""
     },
     {
       "rank": 26,
-      "title": "美从日撤走堤丰中导系统有何考量",
-      "url": "https://www.toutiao.com/trending/7575005568918621702/",
-      "label": "interpretation"
+      "title": "13位女性科学家当选两院院士",
+      "url": "https://www.toutiao.com/trending/7574987623811268614/",
+      "label": "hot"
     },
     {
       "rank": 27,
@@ -172,33 +172,33 @@
     },
     {
       "rank": 28,
+      "title": "高市错误言论陷四面楚歌",
+      "url": "https://www.toutiao.com/trending/7574981606549491226/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "144人当选两院院士",
+      "url": "https://www.toutiao.com/trending/7574977593812910090/",
+      "label": "hot"
+    },
+    {
+      "rank": 30,
       "title": "大V：福建舰或2027年形成完整战斗力",
       "url": "https://www.toutiao.com/trending/7575004190649355830/",
       "label": ""
     },
     {
-      "rank": 29,
-      "title": "13位女性科学家当选两院院士",
-      "url": "https://www.toutiao.com/trending/7574987623811268614/",
-      "label": "hot"
-    },
-    {
-      "rank": 30,
+      "rank": 31,
       "title": "曝美俄密谈计划让俄罗斯重返G7",
       "url": "https://www.toutiao.com/trending/7574400028958539795/",
       "label": ""
     },
     {
-      "rank": 31,
-      "title": "日议员被高市涉台言论震惊：要完蛋了",
-      "url": "https://www.toutiao.com/trending/7573741055414140970/",
-      "label": ""
-    },
-    {
       "rank": 32,
-      "title": "新当选院士鲁军勇研究电磁发射",
-      "url": "https://www.toutiao.com/trending/7575012040667627583/",
-      "label": "new"
+      "title": "特朗普：鲍威尔精神有点问题",
+      "url": "https://www.toutiao.com/trending/7574674547224510470/",
+      "label": ""
     },
     {
       "rank": 33,
@@ -220,8 +220,8 @@
     },
     {
       "rank": 36,
-      "title": "媒体：日本右翼已露出三重獠牙",
-      "url": "https://www.toutiao.com/trending/7574685532657139750/",
+      "title": "功夫小子将铸就全运会闭幕式水上传奇",
+      "url": "https://www.toutiao.com/trending/7574307224026300458/",
       "label": ""
     },
     {
@@ -232,80 +232,80 @@
     },
     {
       "rank": 38,
-      "title": "演员罗晋父亲去世",
-      "url": "https://www.toutiao.com/trending/7574762136338939958/",
-      "label": "hot"
-    },
-    {
-      "rank": 39,
-      "title": "郑丽文：“九二共识”体现东方智慧",
-      "url": "https://www.toutiao.com/trending/7574965360001322547/",
-      "label": "hot"
-    },
-    {
-      "rank": 40,
-      "title": "专家：日本自卫队长期觊觎台海",
-      "url": "https://www.toutiao.com/trending/7574973189256646190/",
+      "title": "女子水杯现不明液体警方锁定其同事",
+      "url": "https://www.toutiao.com/trending/7574615248559177770/",
       "label": ""
     },
     {
-      "rank": 41,
-      "title": "14户牧民起诉自然资源局胜诉未执行",
-      "url": "https://www.toutiao.com/trending/7574974744932630579/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
+      "rank": 39,
       "title": "媒体：蓝白合作成形 赖清德进防守期",
       "url": "https://www.toutiao.com/trending/7574630381228441654/",
       "label": "hot"
     },
     {
+      "rank": 40,
+      "title": "媒体：日本右翼已露出三重獠牙",
+      "url": "https://www.toutiao.com/trending/7574685532657139750/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "美国驻日大使帮腔支持高市“搞事”",
+      "url": "https://www.toutiao.com/trending/7574658877561978930/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "郑丽文：“九二共识”体现东方智慧",
+      "url": "https://www.toutiao.com/trending/7574965360001322547/",
+      "label": "hot"
+    },
+    {
       "rank": 43,
-      "title": "高市早苗“昏招连出”为哪般",
-      "url": "https://www.toutiao.com/trending/7574968457477754410/",
-      "label": "interpretation"
+      "title": "专家：日本自卫队长期觊觎台海",
+      "url": "https://www.toutiao.com/trending/7574973189256646190/",
+      "label": ""
     },
     {
       "rank": 44,
-      "title": "军体运动会上演无人机打靶表演",
-      "url": "https://www.toutiao.com/trending/7574990472775630898/",
-      "label": "new"
+      "title": "美的辟谣不准售后商接小米格力业务",
+      "url": "https://www.toutiao.com/trending/7574786767824437254/",
+      "label": "refuteRumors"
     },
     {
       "rank": 45,
-      "title": "美的否认强制售后服务商排他性合作",
-      "url": "https://www.toutiao.com/trending/7574786767824437254/",
-      "label": "new"
+      "title": "美从日撤走堤丰中导系统有何考量",
+      "url": "https://www.toutiao.com/trending/7575005568918621702/",
+      "label": "interpretation"
     },
     {
       "rank": 46,
+      "title": "演员罗晋父亲去世",
+      "url": "https://www.toutiao.com/trending/7574762136338939958/",
+      "label": "hot"
+    },
+    {
+      "rank": 47,
       "title": "日本加强西南诸岛军力部署引不满",
       "url": "https://www.toutiao.com/trending/7574406190207729706/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "广东新添9位两院院士",
-      "url": "https://www.toutiao.com/trending/7574983960980406318/",
-      "label": ""
-    },
-    {
       "rank": 48,
-      "title": "新疆博尔塔拉州原州长巴德玛拉被查",
-      "url": "https://www.toutiao.com/trending/7574996685735071268/",
+      "title": "专家：体育围着特朗普转",
+      "url": "https://www.toutiao.com/trending/7575003504842903094/",
       "label": "new"
     },
     {
       "rank": 49,
-      "title": "德银：日本市场动荡更令人担忧",
-      "url": "https://www.toutiao.com/trending/7574992006926044708/",
+      "title": "十五运会创8项世界纪录",
+      "url": "https://www.toutiao.com/trending/7574739695163965481/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "美新版俄乌和平方案能否落地",
-      "url": "https://www.toutiao.com/trending/7574958845328379433/",
+      "title": "高市早苗“昏招连出”为哪般",
+      "url": "https://www.toutiao.com/trending/7574968457477754410/",
       "label": "interpretation"
     }
   ]
