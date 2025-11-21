@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Fri, 21 Nov 2025 04:30:12 GMT",
+  "generated_at": "Fri, 21 Nov 2025 04:40:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "国家治理的一场深刻变革",
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "美国批准向日本出售8200万美元军火",
-      "url": "https://www.toutiao.com/trending/7574769491285065771/",
-      "label": ""
+      "title": "日本连片170栋建筑被烧成废墟",
+      "url": "https://www.toutiao.com/trending/7574409499260993599/",
+      "label": "new"
     },
     {
       "rank": 3,
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "44岁刘若川当选中国科学院院士",
-      "url": "https://www.toutiao.com/trending/7574977171614842889/",
-      "label": "hot"
+      "title": "一身赘肉成选美冠军只是乌龙吗",
+      "url": "https://www.toutiao.com/trending/7575010353042427442/",
+      "label": "new"
     },
     {
       "rank": 5,
-      "title": "日本连片170栋建筑被烧成废墟",
-      "url": "https://www.toutiao.com/trending/7574409499260993599/",
-      "label": "new"
+      "title": "美国批准向日本出售8200万美元军火",
+      "url": "https://www.toutiao.com/trending/7574769491285065771/",
+      "label": ""
     },
     {
       "rank": 6,
@@ -46,14 +46,14 @@
     },
     {
       "rank": 7,
-      "title": "东部战区发布抢滩利器高清画面",
-      "url": "https://www.toutiao.com/trending/7574419335809531923/",
-      "label": ""
+      "title": "44岁刘若川当选中国科学院院士",
+      "url": "https://www.toutiao.com/trending/7574977171614842889/",
+      "label": "hot"
     },
     {
       "rank": 8,
-      "title": "刘景扬回应“没有教练”",
-      "url": "https://www.toutiao.com/trending/7574603885717766207/",
+      "title": "东部战区发布抢滩利器高清画面",
+      "url": "https://www.toutiao.com/trending/7574419335809531923/",
       "label": ""
     },
     {
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "日本被曝加速推进军事扩张",
-      "url": "https://www.toutiao.com/trending/7573750448637755428/",
-      "label": "hot"
+      "title": "俄乌再次交换阵亡军人遗体",
+      "url": "https://www.toutiao.com/trending/7574773759356370985/",
+      "label": "forum"
     },
     {
       "rank": 11,
@@ -76,14 +76,14 @@
     },
     {
       "rank": 12,
-      "title": "俄乌再次交换阵亡军人遗体",
-      "url": "https://www.toutiao.com/trending/7574773759356370985/",
-      "label": "forum"
+      "title": "日本被曝加速推进军事扩张",
+      "url": "https://www.toutiao.com/trending/7573750448637755428/",
+      "label": "hot"
     },
     {
       "rank": 13,
-      "title": "郑丽文拜会韩国瑜",
-      "url": "https://www.toutiao.com/trending/7574950712528044042/",
+      "title": "刘景扬回应“没有教练”",
+      "url": "https://www.toutiao.com/trending/7574603885717766207/",
       "label": ""
     },
     {
@@ -94,38 +94,38 @@
     },
     {
       "rank": 15,
-      "title": "144人当选两院院士",
-      "url": "https://www.toutiao.com/trending/7574977593812910090/",
-      "label": "hot"
+      "title": "日本4年前就制定“台海有事”预案",
+      "url": "https://www.toutiao.com/trending/7574992338276270089/",
+      "label": "new"
     },
     {
       "rank": 16,
-      "title": "四大战区相继发声",
-      "url": "https://www.toutiao.com/trending/7573726679525228563/",
-      "label": "hot"
-    },
-    {
-      "rank": 17,
       "title": "国足排名第93位你怎么看",
       "url": "https://www.toutiao.com/trending/7574609175990255642/",
       "label": "forum"
     },
     {
+      "rank": 17,
+      "title": "郑丽文拜会韩国瑜",
+      "url": "https://www.toutiao.com/trending/7574950712528044042/",
+      "label": ""
+    },
+    {
       "rank": 18,
-      "title": "50多万名中国游客取消原定日本行程",
-      "url": "https://www.toutiao.com/trending/7574767372440895526/",
-      "label": "new"
+      "title": "四大战区相继发声",
+      "url": "https://www.toutiao.com/trending/7573726679525228563/",
+      "label": "hot"
     },
     {
       "rank": 19,
-      "title": "创业板指半日跌超3%",
-      "url": "https://www.toutiao.com/trending/7575017838398672411/",
-      "label": "new"
+      "title": "144人当选两院院士",
+      "url": "https://www.toutiao.com/trending/7574977593812910090/",
+      "label": "hot"
     },
     {
       "rank": 20,
-      "title": "媒体：日本右翼已露出三重獠牙",
-      "url": "https://www.toutiao.com/trending/7574685532657139750/",
+      "title": "50多万名中国游客取消原定日本行程",
+      "url": "https://www.toutiao.com/trending/7574767372440895526/",
       "label": ""
     },
     {
@@ -142,21 +142,21 @@
     },
     {
       "rank": 23,
-      "title": "中方为何采购50万吨泰国大米",
-      "url": "https://www.toutiao.com/trending/7574481840094855218/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 24,
-      "title": "岚图梦想家山河上市",
-      "url": "https://www.toutiao.com/trending/7573911926556885043/",
+      "title": "国安披露某公司拍摄大量敏感信息",
+      "url": "https://www.toutiao.com/trending/7574962664481279539/",
       "label": "new"
     },
     {
-      "rank": 25,
-      "title": "高市错误言论陷四面楚歌",
-      "url": "https://www.toutiao.com/trending/7574981606549491226/",
+      "rank": 24,
+      "title": "媒体：日本右翼已露出三重獠牙",
+      "url": "https://www.toutiao.com/trending/7574685532657139750/",
       "label": ""
+    },
+    {
+      "rank": 25,
+      "title": "创业板指半日跌超3%",
+      "url": "https://www.toutiao.com/trending/7575017838398672411/",
+      "label": "new"
     },
     {
       "rank": 26,
@@ -166,39 +166,39 @@
     },
     {
       "rank": 27,
-      "title": "国安披露某公司拍摄大量敏感信息",
-      "url": "https://www.toutiao.com/trending/7574962664481279539/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
-      "title": "专家：日本自卫队长期觊觎台海",
-      "url": "https://www.toutiao.com/trending/7574973189256646190/",
+      "title": "高市错误言论陷四面楚歌",
+      "url": "https://www.toutiao.com/trending/7574981606549491226/",
       "label": ""
     },
     {
+      "rank": 28,
+      "title": "中方为何采购50万吨泰国大米",
+      "url": "https://www.toutiao.com/trending/7574481840094855218/",
+      "label": "interpretation"
+    },
+    {
       "rank": 29,
-      "title": "一身赘肉成选美冠军只是乌龙吗",
-      "url": "https://www.toutiao.com/trending/7575010353042427442/",
+      "title": "全球股市为何暴跌",
+      "url": "https://www.toutiao.com/trending/7575008800931843634/",
       "label": "new"
     },
     {
       "rank": 30,
-      "title": "德银：日本市场动荡更令人担忧",
-      "url": "https://www.toutiao.com/trending/7574992006926044708/",
+      "title": "郭晶晶亮相广州车展仔细倾听介绍",
+      "url": "https://www.toutiao.com/trending/7574438134323658761/",
       "label": "new"
     },
     {
       "rank": 31,
-      "title": "日本4年前就制定“台海有事”预案",
-      "url": "https://www.toutiao.com/trending/7574992338276270089/",
-      "label": "new"
+      "title": "13位女性科学家当选两院院士",
+      "url": "https://www.toutiao.com/trending/7574987623811268614/",
+      "label": "hot"
     },
     {
       "rank": 32,
-      "title": "郑丽文：“九二共识”体现东方智慧",
-      "url": "https://www.toutiao.com/trending/7574965360001322547/",
-      "label": "hot"
+      "title": "专家：日本自卫队长期觊觎台海",
+      "url": "https://www.toutiao.com/trending/7574973189256646190/",
+      "label": ""
     },
     {
       "rank": 33,
@@ -208,104 +208,104 @@
     },
     {
       "rank": 34,
-      "title": "13位女性科学家当选两院院士",
-      "url": "https://www.toutiao.com/trending/7574987623811268614/",
+      "title": "岚图梦想家山河上市",
+      "url": "https://www.toutiao.com/trending/7573911926556885043/",
       "label": "new"
     },
     {
       "rank": 35,
-      "title": "日本加强西南诸岛军力部署引不满",
-      "url": "https://www.toutiao.com/trending/7574406190207729706/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "樊振东：团战和单打没有可比性",
-      "url": "https://www.toutiao.com/trending/7573781769315106859/",
-      "label": "hot"
-    },
-    {
-      "rank": 37,
-      "title": "广东新添9位两院院士",
-      "url": "https://www.toutiao.com/trending/7574983960980406318/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "高市早苗“昏招连出”为哪般",
-      "url": "https://www.toutiao.com/trending/7574968457477754410/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 39,
       "title": "美从日撤走堤丰中导系统有何考量",
       "url": "https://www.toutiao.com/trending/7575005568918621702/",
       "label": "interpretation"
     },
     {
+      "rank": 36,
+      "title": "杨德龙：A股中长期向上走势不会改变",
+      "url": "https://www.toutiao.com/trending/7575005015446654473/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "德银：日本市场动荡更令人担忧",
+      "url": "https://www.toutiao.com/trending/7574992006926044708/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
+      "title": "日本加强西南诸岛军力部署引不满",
+      "url": "https://www.toutiao.com/trending/7574406190207729706/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "郑丽文：“九二共识”体现东方智慧",
+      "url": "https://www.toutiao.com/trending/7574965360001322547/",
+      "label": "hot"
+    },
+    {
       "rank": 40,
-      "title": "山东大学新增2位中国科学院院士",
-      "url": "https://www.toutiao.com/trending/7574643290369982505/",
+      "title": "广东新添9位两院院士",
+      "url": "https://www.toutiao.com/trending/7574983960980406318/",
       "label": ""
     },
     {
       "rank": 41,
-      "title": "日议员被高市涉台言论震惊：要完蛋了",
-      "url": "https://www.toutiao.com/trending/7573741055414140970/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "媒体：蓝白合作成形 赖清德进防守期",
-      "url": "https://www.toutiao.com/trending/7574630381228441654/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "苏起：和谈是台湾最后一条路",
-      "url": "https://www.toutiao.com/trending/7574979799270034950/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
       "title": "女子水杯现不明液体警方锁定其同事",
       "url": "https://www.toutiao.com/trending/7574615248559177770/",
       "label": ""
     },
     {
+      "rank": 42,
+      "title": "小米汽车602天量产50万台",
+      "url": "https://www.toutiao.com/trending/7574959048726941247/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "樊振东：团战和单打没有可比性",
+      "url": "https://www.toutiao.com/trending/7573781769315106859/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "中国军号发布海报用三国语言警告日本",
+      "url": "https://www.toutiao.com/trending/7574461448878309427/",
+      "label": "new"
+    },
+    {
       "rank": 45,
-      "title": "全球股市为何暴跌",
-      "url": "https://www.toutiao.com/trending/7575008800931843634/",
+      "title": "曝美俄密谈计划让俄罗斯重返G7",
+      "url": "https://www.toutiao.com/trending/7574400028958539795/",
       "label": "new"
     },
     {
       "rank": 46,
-      "title": "郭晶晶亮相广州车展仔细倾听介绍",
-      "url": "https://www.toutiao.com/trending/7574438134323658761/",
+      "title": "美前副总统切尼葬礼举行",
+      "url": "https://www.toutiao.com/trending/7574343584976404521/",
       "label": "new"
     },
     {
       "rank": 47,
-      "title": "爱泼斯坦案文件将公布对美影响几何",
-      "url": "https://www.toutiao.com/trending/7574949199997832713/",
+      "title": "高市早苗“昏招连出”为哪般",
+      "url": "https://www.toutiao.com/trending/7574968457477754410/",
       "label": "interpretation"
     },
     {
       "rank": 48,
-      "title": "演员罗晋父亲去世",
-      "url": "https://www.toutiao.com/trending/7574762136338939958/",
+      "title": "山东大学新增2位中国科学院院士",
+      "url": "https://www.toutiao.com/trending/7574643290369982505/",
       "label": ""
     },
     {
       "rank": 49,
-      "title": "美国驻日大使帮腔支持高市“搞事”",
-      "url": "https://www.toutiao.com/trending/7574658877561978930/",
-      "label": ""
+      "title": "大V：福建舰或2027年形成完整战斗力",
+      "url": "https://www.toutiao.com/trending/7575004190649355830/",
+      "label": "new"
     },
     {
       "rank": 50,
-      "title": "“亚洲飞人”苏炳添20年突破之路",
-      "url": "https://www.toutiao.com/trending/7574683876061184019/",
+      "title": "从两季《新闻女王》透视新港剧的变迁",
+      "url": "https://www.toutiao.com/trending/7574799159477734939/",
       "label": ""
     }
   ]
