@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Sat, 22 Nov 2025 07:50:06 GMT",
+  "generated_at": "Sat, 22 Nov 2025 07:55:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "观察“中国之治”的一个视角",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "印度坠毁战机飞行员画面曝光",
-      "url": "https://www.toutiao.com/trending/7574675588762353727/",
-      "label": "hot"
+      "title": "中方有权对日武力介入行使自卫权",
+      "url": "https://www.toutiao.com/trending/7574408211625918502/",
+      "label": "new"
     },
     {
       "rank": 2,
-      "title": "菲律宾飞机闯入中方天罗地网",
-      "url": "https://www.toutiao.com/trending/7574940374511779876/",
-      "label": "onSite"
+      "title": "印度坠毁战机飞行员画面曝光",
+      "url": "https://www.toutiao.com/trending/7574675588762353727/",
+      "label": "hot"
     },
     {
       "rank": 3,
@@ -34,32 +34,32 @@
     },
     {
       "rank": 5,
+      "title": "菲律宾飞机闯入中方天罗地网",
+      "url": "https://www.toutiao.com/trending/7574940374511779876/",
+      "label": "onSite"
+    },
+    {
+      "rank": 6,
       "title": "印度光辉战机航展坠机还会有销路吗",
       "url": "https://www.toutiao.com/trending/7575421978115313206/",
       "label": "hot"
     },
     {
-      "rank": 6,
-      "title": "中方有权对日武力介入行使自卫权",
-      "url": "https://www.toutiao.com/trending/7574408211625918502/",
-      "label": "new"
+      "rank": 7,
+      "title": "台当局全面解禁日本食品进口遭质疑",
+      "url": "https://www.toutiao.com/trending/7575129369522470954/",
+      "label": "hot"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "title": "德国财长访华念叨：我们绝不能当傻子",
       "url": "https://www.toutiao.com/trending/7575126992326197291/",
       "label": ""
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "印媒争论光辉战机坠机原因",
       "url": "https://www.toutiao.com/trending/7575418608478588470/",
-      "label": "hot"
-    },
-    {
-      "rank": 9,
-      "title": "中方就高市错误言行致函古特雷斯",
-      "url": "https://www.toutiao.com/trending/7575319184456876058/",
       "label": "hot"
     },
     {
@@ -82,51 +82,51 @@
     },
     {
       "rank": 13,
-      "title": "台当局全面解禁日本食品进口遭质疑",
-      "url": "https://www.toutiao.com/trending/7575129369522470954/",
-      "label": "hot"
-    },
-    {
-      "rank": 14,
-      "title": "解放军DF-27高超音速导弹有多强",
-      "url": "https://www.toutiao.com/trending/7575400332046372393/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 15,
-      "title": "大V：印度光辉战机先天设计埋大雷",
-      "url": "https://www.toutiao.com/trending/7575436590697172523/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 16,
-      "title": "刘和平：高市挑衅中国目的在其内政",
-      "url": "https://www.toutiao.com/trending/7575411677139570185/",
+      "title": "中方就高市错误言行致函古特雷斯",
+      "url": "https://www.toutiao.com/trending/7575319184456876058/",
       "label": ""
     },
     {
-      "rank": 17,
-      "title": "大公司轮岗制度你怎么看",
-      "url": "https://www.toutiao.com/trending/7574822556805464102/",
-      "label": "forum"
-    },
-    {
-      "rank": 18,
-      "title": "记者：战机坠毁打碎莫迪制造大国梦",
-      "url": "https://www.toutiao.com/trending/7574915119545830931/",
-      "label": "hot"
-    },
-    {
-      "rank": 19,
+      "rank": 14,
       "title": "胡彦斌：没有义务向全世界汇报",
       "url": "https://www.toutiao.com/trending/7575427664371207689/",
       "label": "new"
     },
     {
-      "rank": 20,
+      "rank": 15,
+      "title": "解放军DF-27高超音速导弹有多强",
+      "url": "https://www.toutiao.com/trending/7575400332046372393/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 16,
       "title": "高市早苗加剧“抛售日本”潮",
       "url": "https://www.toutiao.com/trending/7575430937450647086/",
       "label": "new"
+    },
+    {
+      "rank": 17,
+      "title": "记者：战机坠毁打碎莫迪制造大国梦",
+      "url": "https://www.toutiao.com/trending/7574915119545830931/",
+      "label": "hot"
+    },
+    {
+      "rank": 18,
+      "title": "大公司轮岗制度你怎么看",
+      "url": "https://www.toutiao.com/trending/7574822556805464102/",
+      "label": "forum"
+    },
+    {
+      "rank": 19,
+      "title": "刘和平：高市挑衅中国目的在其内政",
+      "url": "https://www.toutiao.com/trending/7575411677139570185/",
+      "label": ""
+    },
+    {
+      "rank": 20,
+      "title": "吴艳妮：剩余职业生涯内会全力以赴",
+      "url": "https://www.toutiao.com/trending/7575023191404593202/",
+      "label": ""
     },
     {
       "rank": 21,
@@ -136,32 +136,32 @@
     },
     {
       "rank": 22,
-      "title": "吴艳妮：剩余职业生涯内会全力以赴",
-      "url": "https://www.toutiao.com/trending/7575023191404593202/",
+      "title": "乌一周内不签和平计划 美或停止供武",
+      "url": "https://www.toutiao.com/trending/7575183108551708211/",
       "label": ""
     },
     {
       "rank": 23,
-      "title": "乌一周内不签和平计划 美或停止供武",
-      "url": "https://www.toutiao.com/trending/7575183108551708211/",
-      "label": "hot"
-    },
-    {
-      "rank": 24,
       "title": "海军工程大学举行阅兵活动",
       "url": "https://www.toutiao.com/trending/7574378303156830254/",
       "label": ""
     },
     {
-      "rank": 25,
-      "title": "人民日报钟声：日本再次面临抉择",
-      "url": "https://www.toutiao.com/trending/7574294833981423652/",
+      "rank": 24,
+      "title": "姚安娜回应华为超4000员工开阿维塔",
+      "url": "https://www.toutiao.com/trending/7575008087771758611/",
       "label": ""
     },
     {
+      "rank": 25,
+      "title": "大V：印度光辉战机先天设计埋大雷",
+      "url": "https://www.toutiao.com/trending/7575436590697172523/",
+      "label": "interpretation"
+    },
+    {
       "rank": 26,
-      "title": "巴基斯坦宣布枭龙又下一单",
-      "url": "https://www.toutiao.com/trending/7575355477341507098/",
+      "title": "辽宁多人疑往海里放生大米",
+      "url": "https://www.toutiao.com/trending/7575058997935128617/",
       "label": ""
     },
     {
@@ -172,63 +172,63 @@
     },
     {
       "rank": 28,
-      "title": "事业单位人员能弹性延迟退休吗",
-      "url": "https://www.toutiao.com/trending/7575348515002387994/",
+      "title": "人民日报钟声：日本再次面临抉择",
+      "url": "https://www.toutiao.com/trending/7574294833981423652/",
       "label": ""
     },
     {
       "rank": 29,
-      "title": "羽毛球运动员在度假村游泳池溺亡",
-      "url": "https://www.toutiao.com/trending/7574446507744428073/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "谁在买高价羽绒服",
-      "url": "https://www.toutiao.com/trending/7575127630018514441/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 31,
-      "title": "大骗子如何当上首席科学家？校方回应",
-      "url": "https://www.toutiao.com/trending/7575138874637159946/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "印军今年多种机型频频坠毁",
-      "url": "https://www.toutiao.com/trending/7574945444866850879/",
-      "label": "hot"
-    },
-    {
-      "rank": 33,
-      "title": "国内首条大容量全固态电池产线建成",
-      "url": "https://www.toutiao.com/trending/7574782655942950966/",
-      "label": ""
-    },
-    {
-      "rank": 34,
       "title": "掘金客场112-109险胜火箭",
       "url": "https://www.toutiao.com/trending/7574693871343599642/",
       "label": ""
     },
     {
-      "rank": 35,
+      "rank": 30,
+      "title": "巴基斯坦宣布枭龙又下一单",
+      "url": "https://www.toutiao.com/trending/7575355477341507098/",
+      "label": ""
+    },
+    {
+      "rank": 31,
       "title": "荒野求生选手林北在七星山告白女友",
       "url": "https://www.toutiao.com/trending/7575059548990750771/",
       "label": "new"
     },
     {
-      "rank": 36,
+      "rank": 32,
+      "title": "SpaceX星舰V3火箭测试爆炸画面曝光",
+      "url": "https://www.toutiao.com/trending/7574927588758962182/",
+      "label": "onSite"
+    },
+    {
+      "rank": 33,
+      "title": "大骗子如何当上首席科学家？校方回应",
+      "url": "https://www.toutiao.com/trending/7575138874637159946/",
+      "label": ""
+    },
+    {
+      "rank": 34,
       "title": "小泽一郎痛批高市早苗",
       "url": "https://www.toutiao.com/trending/7574601709327155219/",
       "label": "new"
     },
     {
+      "rank": 35,
+      "title": "事业单位人员能弹性延迟退休吗",
+      "url": "https://www.toutiao.com/trending/7575348515002387994/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "美股深夜反弹 中国资产爆发",
+      "url": "https://www.toutiao.com/trending/7575388560119827987/",
+      "label": ""
+    },
+    {
       "rank": 37,
-      "title": "SpaceX星舰V3火箭测试爆炸画面曝光",
-      "url": "https://www.toutiao.com/trending/7574927588758962182/",
-      "label": "onSite"
+      "title": "印军今年多种机型频频坠毁",
+      "url": "https://www.toutiao.com/trending/7574945444866850879/",
+      "label": "hot"
     },
     {
       "rank": 38,
@@ -244,68 +244,68 @@
     },
     {
       "rank": 40,
-      "title": "博主用树枝随意拍打画布作画",
-      "url": "https://www.toutiao.com/trending/7575067769345916979/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "美股深夜反弹 中国资产爆发",
-      "url": "https://www.toutiao.com/trending/7575388560119827987/",
+      "title": "国内首条大容量全固态电池产线建成",
+      "url": "https://www.toutiao.com/trending/7574782655942950966/",
       "label": ""
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "宋涛：解决台湾问题是中国人自己的事",
       "url": "https://www.toutiao.com/trending/7574672244631371795/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "中方驳斥美代表涉南海谬论",
-      "url": "https://www.toutiao.com/trending/7575384746623451179/",
-      "label": ""
-    },
-    {
-      "rank": 44,
+      "rank": 42,
       "title": "英伟达还能保住中国市场吗",
       "url": "https://www.toutiao.com/trending/7575416342375829030/",
       "label": "interpretation"
     },
     {
-      "rank": 45,
-      "title": "姚安娜回应华为超4000员工开阿维塔",
-      "url": "https://www.toutiao.com/trending/7575008087771758611/",
+      "rank": 43,
+      "title": "博主用树枝随意拍打画布作画",
+      "url": "https://www.toutiao.com/trending/7575067769345916979/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "羽毛球运动员在度假村游泳池溺亡",
+      "url": "https://www.toutiao.com/trending/7574446507744428073/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "H200折射中美算力新博弈",
-      "url": "https://www.toutiao.com/trending/7575427540836159030/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
-      "title": "前国脚周海滨出任U14国足主帅",
-      "url": "https://www.toutiao.com/trending/7575365100933152804/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
+      "rank": 45,
       "title": "乐道沈斐：首批L90已试水海外",
       "url": "https://www.toutiao.com/trending/7575159754427809802/",
       "label": "new"
     },
     {
+      "rank": 46,
+      "title": "中国产教练机亮相迪拜航展飞行表演",
+      "url": "https://www.toutiao.com/trending/7575119798030434346/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "曝开拓者教练组看重能拼前场板球员",
+      "url": "https://www.toutiao.com/trending/7575159932795158571/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "全运会零零后新星崛起",
+      "url": "https://www.toutiao.com/trending/7575434595999419923/",
+      "label": "new"
+    },
+    {
       "rank": 49,
-      "title": "美化日本侵略者？高市惹恼大马民众",
-      "url": "https://www.toutiao.com/trending/7575204486117965887/",
+      "title": "中方驳斥美代表涉南海谬论",
+      "url": "https://www.toutiao.com/trending/7575384746623451179/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "全运会零零后新星崛起",
-      "url": "https://www.toutiao.com/trending/7575434595999419923/",
+      "title": "科尔：追梦下场时防守数据下滑不意外",
+      "url": "https://www.toutiao.com/trending/7574786873164742662/",
       "label": "new"
     }
   ]
