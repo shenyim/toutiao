@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 24 Nov 2025 01:15:08 GMT",
+  "generated_at": "Mon, 24 Nov 2025 01:20:09 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记引领粤港澳携手迈向新征程",
@@ -30,7 +30,7 @@
       "rank": 4,
       "title": "商家回应女子穿滑雪服没摘吊牌",
       "url": "https://www.toutiao.com/trending/7575356017383407662/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 5,
@@ -46,9 +46,9 @@
     },
     {
       "rank": 7,
-      "title": "南京一小区居民家发生燃气闪爆",
-      "url": "https://www.toutiao.com/trending/7575850268899852294/",
-      "label": ""
+      "title": "印度坠亡飞行员妻子哭着向遗体敬礼",
+      "url": "https://www.toutiao.com/trending/7576074319067926043/",
+      "label": "new"
     },
     {
       "rank": 8,
@@ -88,21 +88,21 @@
     },
     {
       "rank": 14,
-      "title": "印媒为何将光辉战机坠毁甩锅给美",
-      "url": "https://www.toutiao.com/trending/7576061302016052778/",
+      "title": "南京一小区居民家发生燃气闪爆",
+      "url": "https://www.toutiao.com/trending/7575850268899852294/",
       "label": ""
     },
     {
       "rank": 15,
-      "title": "特朗普抱怨乌克兰“毫无感激之心”",
-      "url": "https://www.toutiao.com/trending/7576058791771524646/",
-      "label": ""
+      "title": "高市早苗为何让日元沦为“最弱货币”",
+      "url": "https://www.toutiao.com/trending/7576067190927920703/",
+      "label": "new"
     },
     {
       "rank": 16,
-      "title": "甘蔗哥增设入场费后仍迎来上千游客",
-      "url": "https://www.toutiao.com/trending/7575753563717058603/",
-      "label": "new"
+      "title": "印媒为何将光辉战机坠毁甩锅给美",
+      "url": "https://www.toutiao.com/trending/7576061302016052778/",
+      "label": ""
     },
     {
       "rank": 17,
@@ -118,74 +118,74 @@
     },
     {
       "rank": 19,
-      "title": "印度坠亡飞行员妻子哭着向遗体敬礼",
-      "url": "https://www.toutiao.com/trending/7576074319067926043/",
-      "label": "new"
-    },
-    {
-      "rank": 20,
-      "title": "欧洲提交修改版和平计划",
-      "url": "https://www.toutiao.com/trending/7575628220600844324/",
-      "label": ""
-    },
-    {
-      "rank": 21,
-      "title": "“搞事”恶果已现 日本何去何从",
-      "url": "https://www.toutiao.com/trending/7575528635755675690/",
-      "label": "new"
-    },
-    {
-      "rank": 22,
-      "title": "41岁“水果姐”现身灵隐寺",
-      "url": "https://www.toutiao.com/trending/7575872783327166506/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "山寨山姆挤满了想花钱的县城中产",
-      "url": "https://www.toutiao.com/trending/7575803396508057606/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "专家：不要低估房地产的流动性风险",
-      "url": "https://www.toutiao.com/trending/7576065279940103721/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "女子裙内藏匿229条活鱼被海关查获",
-      "url": "https://www.toutiao.com/trending/7575764904763801610/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "多家银行五年定存“退场”背后",
-      "url": "https://www.toutiao.com/trending/7574770581573451818/",
-      "label": ""
-    },
-    {
-      "rank": 27,
       "title": "20岁男生肺被“啃”出10多个空洞",
       "url": "https://www.toutiao.com/trending/7575809819288092722/",
       "label": ""
     },
     {
+      "rank": 20,
+      "title": "甘蔗哥增设入场费后仍迎来上千游客",
+      "url": "https://www.toutiao.com/trending/7575753563717058603/",
+      "label": "new"
+    },
+    {
+      "rank": 21,
+      "title": "特朗普抱怨乌克兰“毫无感激之心”",
+      "url": "https://www.toutiao.com/trending/7576058791771524646/",
+      "label": ""
+    },
+    {
+      "rank": 22,
+      "title": "山寨山姆挤满了想花钱的县城中产",
+      "url": "https://www.toutiao.com/trending/7575803396508057606/",
+      "label": ""
+    },
+    {
+      "rank": 23,
+      "title": "“搞事”恶果已现 日本何去何从",
+      "url": "https://www.toutiao.com/trending/7575528635755675690/",
+      "label": "new"
+    },
+    {
+      "rank": 24,
+      "title": "欧洲提交修改版和平计划",
+      "url": "https://www.toutiao.com/trending/7575628220600844324/",
+      "label": ""
+    },
+    {
+      "rank": 25,
+      "title": "专家：不要低估房地产的流动性风险",
+      "url": "https://www.toutiao.com/trending/7576065279940103721/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "41岁“水果姐”现身灵隐寺",
+      "url": "https://www.toutiao.com/trending/7575872783327166506/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "多家银行五年定存“退场”背后",
+      "url": "https://www.toutiao.com/trending/7574770581573451818/",
+      "label": ""
+    },
+    {
       "rank": 28,
+      "title": "小鹏脚夹门事件员工被顶格处理",
+      "url": "https://www.toutiao.com/trending/7575508362550509594/",
+      "label": ""
+    },
+    {
+      "rank": 29,
       "title": "航行警告：刘公岛东部水域实弹射击",
       "url": "https://www.toutiao.com/trending/7575612332164874249/",
       "label": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "两辆华为鸿蒙智行车遥控泊车相撞",
       "url": "https://www.toutiao.com/trending/7575749822515642431/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "回顾我国“航母之路”",
-      "url": "https://www.toutiao.com/trending/7575503833372344330/",
       "label": ""
     },
     {
@@ -208,15 +208,15 @@
     },
     {
       "rank": 34,
-      "title": "美乌罕见共同定调：会谈富有成效",
-      "url": "https://www.toutiao.com/trending/7575510330966491142/",
-      "label": ""
+      "title": "直击七星山荒野求生决赛",
+      "url": "https://webcast-open.douyin.com/open/media_live/684938926972",
+      "label": "new"
     },
     {
       "rank": 35,
-      "title": "高市早苗为何让日元沦为“最弱货币”",
-      "url": "https://www.toutiao.com/trending/7576067190927920703/",
-      "label": "new"
+      "title": "美乌罕见共同定调：会谈富有成效",
+      "url": "https://www.toutiao.com/trending/7575510330966491142/",
+      "label": ""
     },
     {
       "rank": 36,
@@ -226,87 +226,87 @@
     },
     {
       "rank": 37,
-      "title": "谁才是广州车展“真香王”",
-      "url": "https://www.toutiao.com/trending/7576061439782178331/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "小鹏脚夹门事件员工被顶格处理",
-      "url": "https://www.toutiao.com/trending/7575508362550509594/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "多地北斗应用与基准服务分中心揭牌",
-      "url": "https://www.toutiao.com/trending/7575781002543530026/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "王毅：高市越了红线 中方必须回击",
-      "url": "https://www.toutiao.com/trending/7575808751484276275/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "曝杜兰特因家庭事务将缺席两场比赛",
-      "url": "https://www.toutiao.com/trending/7575903913304883209/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "短剧演员拍被殴打戏遭遇真打",
-      "url": "https://www.toutiao.com/trending/7575774570787995674/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "专家：美“28点计划”引发欧洲怒吼",
-      "url": "https://www.toutiao.com/trending/7576061206532722230/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
-      "title": "男孩发烧十几个小时 退烧后脸变黑",
-      "url": "https://www.toutiao.com/trending/7575416469875064874/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "大妈开大音量跳舞 居民放鞭炮回击",
-      "url": "https://www.toutiao.com/trending/7575108445850943507/",
-      "label": ""
-    },
-    {
-      "rank": 46,
       "title": "张展硕：想赢的人脸上是没有笑容的",
       "url": "https://www.toutiao.com/trending/7576073657999429174/",
       "label": "new"
     },
     {
-      "rank": 47,
-      "title": "专家：提振消费需解决农民工后顾之忧",
-      "url": "https://www.toutiao.com/trending/7576065846536048174/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
+      "rank": 38,
       "title": "小米汽车每辆赚6.65万",
       "url": "https://www.toutiao.com/trending/7574824643694477339/",
       "label": ""
     },
     {
+      "rank": 39,
+      "title": "王毅：高市越了红线 中方必须回击",
+      "url": "https://www.toutiao.com/trending/7575808751484276275/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "曝杜兰特因家庭事务将缺席两场比赛",
+      "url": "https://www.toutiao.com/trending/7575903913304883209/",
+      "label": "new"
+    },
+    {
+      "rank": 41,
+      "title": "谁才是广州车展“真香王”",
+      "url": "https://www.toutiao.com/trending/7576061439782178331/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "张靓颖长文谈身体情况",
+      "url": "https://www.toutiao.com/trending/7575916741281480710/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "多地北斗应用与基准服务分中心揭牌",
+      "url": "https://www.toutiao.com/trending/7575781002543530026/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "短剧演员拍被殴打戏遭遇真打",
+      "url": "https://www.toutiao.com/trending/7575774570787995674/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "阿森纳4-1大胜热刺 6分领跑英超",
+      "url": "https://www.toutiao.com/trending/7575977768765767723/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "印度“光辉”战机存在哪些问题",
+      "url": "https://www.toutiao.com/trending/7576080712097664531/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 47,
+      "title": "专家：美“28点计划”引发欧洲怒吼",
+      "url": "https://www.toutiao.com/trending/7576061206532722230/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "大妈开大音量跳舞 居民放鞭炮回击",
+      "url": "https://www.toutiao.com/trending/7575108445850943507/",
+      "label": ""
+    },
+    {
       "rank": 49,
-      "title": "媒体人：特朗普摊牌泽连斯基别无选择",
-      "url": "https://www.toutiao.com/trending/7576060800410848795/",
+      "title": "中国战略物资储备提速释放什么信号",
+      "url": "https://www.toutiao.com/trending/7576068979152653830/",
       "label": "interpretation"
     },
     {
       "rank": 50,
-      "title": "中国战略物资储备提速释放什么信号",
-      "url": "https://www.toutiao.com/trending/7576068979152653830/",
-      "label": "interpretation"
+      "title": "泽连斯基或赴美讨论“28点”新计划",
+      "url": "https://www.toutiao.com/trending/7575193193785524243/",
+      "label": ""
     }
   ]
 }
