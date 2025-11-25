@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 25 Nov 2025 15:20:06 GMT",
+  "generated_at": "Tue, 25 Nov 2025 15:25:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平向中俄能源商务论坛致贺信",
@@ -28,21 +28,21 @@
     },
     {
       "rank": 4,
-      "title": "日本民众再集会要求高市撤回妄言",
-      "url": "https://www.toutiao.com/trending/7576440479848480814/",
-      "label": "hot"
-    },
-    {
-      "rank": 5,
       "title": "境外势力利用看广告得奖励招募间谍",
       "url": "https://www.toutiao.com/trending/7576425299710345242/",
       "label": ""
     },
     {
+      "rank": 5,
+      "title": "日本民众再集会要求高市撤回妄言",
+      "url": "https://www.toutiao.com/trending/7576440479848480814/",
+      "label": "hot"
+    },
+    {
       "rank": 6,
-      "title": "妈妈生二胎期间5岁儿子在家发烧离世",
-      "url": "https://www.toutiao.com/trending/7576151870222172196/",
-      "label": ""
+      "title": "大爷花2万多网购高配卡宴变保时捷鹿",
+      "url": "https://www.toutiao.com/trending/7576541933825392646/",
+      "label": "new"
     },
     {
       "rank": 7,
@@ -52,27 +52,27 @@
     },
     {
       "rank": 8,
+      "title": "妈妈生二胎期间5岁儿子在家发烧离世",
+      "url": "https://www.toutiao.com/trending/7576151870222172196/",
+      "label": ""
+    },
+    {
+      "rank": 9,
+      "title": "如何看待网购“蹭穿”退货现象",
+      "url": "https://www.toutiao.com/trending/7576424323351756836/",
+      "label": "forum"
+    },
+    {
+      "rank": 10,
       "title": "外交部：日方企图蒙混过关",
       "url": "https://www.toutiao.com/trending/7576199919468527626/",
       "label": "hot"
     },
     {
-      "rank": 9,
-      "title": "萌娃地铁上结识小哥哥 下车很舍不得",
-      "url": "https://www.toutiao.com/trending/7575505891357900838/",
-      "label": ""
-    },
-    {
-      "rank": 10,
-      "title": "华为秋季全场景发布会落幕",
-      "url": "https://www.toutiao.com/trending/7576581681797988379/",
-      "label": "hot"
-    },
-    {
       "rank": 11,
-      "title": "迪丽热巴再现拔刀名场面结果拔反了",
-      "url": "https://www.toutiao.com/trending/7575912421005705259/",
-      "label": ""
+      "title": "华为Mate 80系列售价公布",
+      "url": "https://www.toutiao.com/trending/7576566051006057993/",
+      "label": "hot"
     },
     {
       "rank": 12,
@@ -82,111 +82,111 @@
     },
     {
       "rank": 13,
-      "title": "华为Mate 80系列售价公布",
-      "url": "https://www.toutiao.com/trending/7576566051006057993/",
-      "label": "hot"
-    },
-    {
-      "rank": 14,
-      "title": "如何看待李盈莹等人去国外打排球",
-      "url": "https://www.toutiao.com/trending/7576491921306124298/",
-      "label": "forum"
-    },
-    {
-      "rank": 15,
-      "title": "如何看待网购“蹭穿”退货现象",
-      "url": "https://www.toutiao.com/trending/7576424323351756836/",
-      "label": "forum"
-    },
-    {
-      "rank": 16,
-      "title": "外交部驳斥日本国内涉台谬论",
-      "url": "https://www.toutiao.com/trending/7575791746253373486/",
+      "title": "迪丽热巴再现拔刀名场面结果拔反了",
+      "url": "https://www.toutiao.com/trending/7575912421005705259/",
       "label": ""
     },
     {
-      "rank": 17,
+      "rank": 14,
       "title": "都江堰一水库被放生大量埃及塘鲺",
       "url": "https://www.toutiao.com/trending/7576544760190517302/",
       "label": ""
     },
     {
-      "rank": 18,
-      "title": "余承东宣布鸿蒙终端设备突破2700万台",
-      "url": "https://www.toutiao.com/trending/7575829972766818367/",
-      "label": "hot"
+      "rank": 15,
+      "title": "如何看待巨型吊牌已成产业链",
+      "url": "https://www.toutiao.com/trending/7576301002687021099/",
+      "label": "forum"
     },
     {
-      "rank": 19,
-      "title": "光辉战机摔了后12亿美元订单被叫停",
-      "url": "https://www.toutiao.com/trending/7576624345481481738/",
+      "rank": 16,
+      "title": "萌娃地铁上结识小哥哥 下车很舍不得",
+      "url": "https://www.toutiao.com/trending/7575505891357900838/",
       "label": ""
     },
     {
-      "rank": 20,
+      "rank": 17,
+      "title": "华为秋季全场景发布会落幕",
+      "url": "https://www.toutiao.com/trending/7576581681797988379/",
+      "label": "hot"
+    },
+    {
+      "rank": 18,
       "title": "越南多地出现“抢房潮”",
       "url": "https://www.toutiao.com/trending/7575546315288690742/",
       "label": "new"
     },
     {
+      "rank": 19,
+      "title": "外交部驳斥日本国内涉台谬论",
+      "url": "https://www.toutiao.com/trending/7575791746253373486/",
+      "label": ""
+    },
+    {
+      "rank": 20,
+      "title": "光辉战机摔了后12亿美元订单被叫停",
+      "url": "https://www.toutiao.com/trending/7576624345481481738/",
+      "label": ""
+    },
+    {
       "rank": 21,
-      "title": "中国军号转发日语海报",
-      "url": "https://www.toutiao.com/trending/7576081461120729129/",
-      "label": "new"
+      "title": "余承东宣布鸿蒙终端设备突破2700万台",
+      "url": "https://www.toutiao.com/trending/7575829972766818367/",
+      "label": "hot"
     },
     {
       "rank": 22,
-      "title": "大爷花2万多网购高配卡宴变保时捷鹿",
-      "url": "https://www.toutiao.com/trending/7576541933825392646/",
-      "label": "new"
-    },
-    {
-      "rank": 23,
       "title": "神舟穿日月",
       "url": "https://www.toutiao.com/trending/7576658076645343286/",
       "label": "new"
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "华为Mate 80业界首发无网应急通信",
       "url": "https://www.toutiao.com/trending/7575901213376528403/",
       "label": "hot"
     },
     {
-      "rank": 25,
-      "title": "中方：世界上只有一个中国是铁的事实",
-      "url": "https://www.toutiao.com/trending/7576508810127589427/",
-      "label": ""
-    },
-    {
-      "rank": 26,
+      "rank": 24,
       "title": "南海舰队：中国军人只有战死没有吓死",
       "url": "https://www.toutiao.com/trending/7576096578046951460/",
       "label": ""
     },
     {
-      "rank": 27,
+      "rank": 25,
       "title": "特朗普主动和高市通话所为何事",
       "url": "https://www.toutiao.com/trending/7576615764908576275/",
       "label": ""
     },
     {
+      "rank": 26,
+      "title": "中国军号转发日语海报",
+      "url": "https://www.toutiao.com/trending/7576081461120729129/",
+      "label": "new"
+    },
+    {
+      "rank": 27,
+      "title": "追忆张军桥烈士",
+      "url": "https://www.toutiao.com/trending/7576595593640869942/",
+      "label": "new"
+    },
+    {
       "rank": 28,
+      "title": "电视剧《大生意人》开播",
+      "url": "https://www.toutiao.com/trending/7576280126829281334/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
       "title": "美国网红博主结束中国行后久久回味",
       "url": "https://www.toutiao.com/trending/7576281623936909338/",
       "label": ""
     },
     {
-      "rank": 29,
+      "rank": 30,
       "title": "媒体：陈永康为高市开脱令人匪夷所思",
       "url": "https://www.toutiao.com/trending/7575389935445032979/",
       "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "电视剧《大生意人》开播",
-      "url": "https://www.toutiao.com/trending/7576280126829281334/",
-      "label": "new"
     },
     {
       "rank": 31,
@@ -196,56 +196,56 @@
     },
     {
       "rank": 32,
-      "title": "俄军登陆舰开到千岛群岛有何目的",
-      "url": "https://www.toutiao.com/trending/7576611106584530475/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "为什么日本米价会疯涨",
-      "url": "https://www.toutiao.com/trending/7576621657901501958/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "大S朋友圈备注：死亡是必然的",
-      "url": "https://www.toutiao.com/trending/7576468974167326763/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "日本持续囤积远超民用需求钚材料",
-      "url": "https://www.toutiao.com/trending/7576098964668284947/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "流感高发 有医院排到1200多号",
-      "url": "https://www.toutiao.com/trending/7576610055563316762/",
-      "label": ""
-    },
-    {
-      "rank": 37,
       "title": "迪丽热巴不吃晚饭瘦了6斤",
       "url": "https://www.toutiao.com/trending/7576514419593691172/",
       "label": "new"
     },
     {
-      "rank": 38,
-      "title": "汪峰大女儿小苹果疑似恋爱",
-      "url": "https://www.toutiao.com/trending/7576376875753177124/",
+      "rank": 33,
+      "title": "大S朋友圈备注：死亡是必然的",
+      "url": "https://www.toutiao.com/trending/7576468974167326763/",
       "label": ""
     },
     {
-      "rank": 39,
+      "rank": 34,
+      "title": "为什么日本米价会疯涨",
+      "url": "https://www.toutiao.com/trending/7576621657901501958/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "俄军登陆舰开到千岛群岛有何目的",
+      "url": "https://www.toutiao.com/trending/7576611106584530475/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "日本持续囤积远超民用需求钚材料",
+      "url": "https://www.toutiao.com/trending/7576098964668284947/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "流感高发 有医院排到1200多号",
+      "url": "https://www.toutiao.com/trending/7576610055563316762/",
+      "label": ""
+    },
+    {
+      "rank": 38,
       "title": "台湾艺人黄子佼二审获缓刑四年",
       "url": "https://www.toutiao.com/trending/7576218479436611638/",
       "label": ""
     },
     {
-      "rank": 40,
+      "rank": 39,
       "title": "蟾宫折桂具象化了",
       "url": "https://www.toutiao.com/trending/7576222883161227291/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "汪峰大女儿小苹果疑似恋爱",
+      "url": "https://www.toutiao.com/trending/7576376875753177124/",
       "label": ""
     },
     {
@@ -262,50 +262,50 @@
     },
     {
       "rank": 43,
-      "title": "追忆张军桥烈士",
-      "url": "https://www.toutiao.com/trending/7576595593640869942/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
       "title": "摩尔线程中签结果出炉",
       "url": "https://www.toutiao.com/trending/7576070136067670035/",
       "label": "new"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "最实用的登山杖竟是甘蔗",
       "url": "https://www.toutiao.com/trending/7576022945806532651/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "评论员：美国不来不影响G20峰会成果",
-      "url": "https://www.toutiao.com/trending/7576583143109447194/",
-      "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "谷歌“千倍算力”目标搅动A股",
-      "url": "https://www.toutiao.com/trending/7576613553822518847/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
-      "title": "美欧在俄乌和平计划上的分歧与弥合",
-      "url": "https://www.toutiao.com/trending/7576499398306188843/",
-      "label": ""
-    },
-    {
-      "rank": 49,
+      "rank": 45,
       "title": "A股反弹行情正式开启了吗",
       "url": "https://www.toutiao.com/trending/7576614239557668358/",
       "label": ""
     },
     {
-      "rank": 50,
+      "rank": 46,
+      "title": "老人偷偷剃光孩子胎发引争议",
+      "url": "https://www.toutiao.com/trending/7576122120938242094/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "评论员：美国不来不影响G20峰会成果",
+      "url": "https://www.toutiao.com/trending/7576583143109447194/",
+      "label": ""
+    },
+    {
+      "rank": 48,
       "title": "全红婵被网友目击在阿勒泰体验滑雪",
       "url": "https://www.toutiao.com/trending/7576208105425715263/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
+      "title": "美欧在俄乌和平计划上的分歧与弥合",
+      "url": "https://www.toutiao.com/trending/7576499398306188843/",
+      "label": ""
+    },
+    {
+      "rank": 50,
+      "title": "谷歌用TPU训出Gemini 3",
+      "url": "https://www.toutiao.com/trending/7576630611012488767/",
       "label": "new"
     }
   ]
