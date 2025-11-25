@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 25 Nov 2025 14:10:09 GMT",
+  "generated_at": "Tue, 25 Nov 2025 14:15:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平向中俄能源商务论坛致贺信",
@@ -54,19 +54,19 @@
       "rank": 8,
       "title": "妈妈生二胎期间5岁儿子在家发烧离世",
       "url": "https://www.toutiao.com/trending/7576151870222172196/",
-      "label": "new"
-    },
-    {
-      "rank": 9,
-      "title": "境外势力利用看广告得奖励招募间谍",
-      "url": "https://www.toutiao.com/trending/7576425299710345242/",
       "label": ""
     },
     {
-      "rank": 10,
+      "rank": 9,
       "title": "在日中国游客提前回国 机场仿佛春运",
       "url": "https://www.toutiao.com/trending/7575692536447221766/",
       "label": "new"
+    },
+    {
+      "rank": 10,
+      "title": "境外势力利用看广告得奖励招募间谍",
+      "url": "https://www.toutiao.com/trending/7576425299710345242/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -82,8 +82,8 @@
     },
     {
       "rank": 13,
-      "title": "如何看待李盈莹等人去国外打排球",
-      "url": "https://www.toutiao.com/trending/7576491921306124298/",
+      "title": "如何看待巨型吊牌已成产业链",
+      "url": "https://www.toutiao.com/trending/7576301002687021099/",
       "label": "forum"
     },
     {
@@ -106,45 +106,45 @@
     },
     {
       "rank": 17,
+      "title": "光辉战机摔了后12亿美元订单被叫停",
+      "url": "https://www.toutiao.com/trending/7576624345481481738/",
+      "label": "new"
+    },
+    {
+      "rank": 18,
+      "title": "如何看待李盈莹等人去国外打排球",
+      "url": "https://www.toutiao.com/trending/7576491921306124298/",
+      "label": "forum"
+    },
+    {
+      "rank": 19,
+      "title": "余承东宣布鸿蒙终端设备突破2700万台",
+      "url": "https://www.toutiao.com/trending/7575829972766818367/",
+      "label": "hot"
+    },
+    {
+      "rank": 20,
       "title": "南海舰队：中国军人只有战死没有吓死",
       "url": "https://www.toutiao.com/trending/7576096578046951460/",
       "label": ""
     },
     {
-      "rank": 18,
-      "title": "如何看待巨型吊牌已成产业链",
-      "url": "https://www.toutiao.com/trending/7576301002687021099/",
-      "label": "forum"
-    },
-    {
-      "rank": 19,
-      "title": "台湾艺人黄子佼二审获缓刑四年",
-      "url": "https://www.toutiao.com/trending/7576218479436611638/",
-      "label": ""
-    },
-    {
-      "rank": 20,
+      "rank": 21,
       "title": "评论员：美国不来不影响G20峰会成果",
       "url": "https://www.toutiao.com/trending/7576583143109447194/",
       "label": "hot"
     },
     {
-      "rank": 21,
+      "rank": 22,
       "title": "为什么日本米价会疯涨",
       "url": "https://www.toutiao.com/trending/7576621657901501958/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "余承东宣布鸿蒙终端设备突破2700万台",
-      "url": "https://www.toutiao.com/trending/7575829972766818367/",
       "label": ""
     },
     {
       "rank": 23,
       "title": "外交部：此次中美元首通话由美方发起",
       "url": "https://www.toutiao.com/article/7576558478051787283",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 24,
@@ -160,9 +160,9 @@
     },
     {
       "rank": 26,
-      "title": "光辉战机摔了后12亿美元订单被叫停",
-      "url": "https://www.toutiao.com/trending/7576624345481481738/",
-      "label": "new"
+      "title": "台湾艺人黄子佼二审获缓刑四年",
+      "url": "https://www.toutiao.com/trending/7576218479436611638/",
+      "label": ""
     },
     {
       "rank": 27,
@@ -172,20 +172,20 @@
     },
     {
       "rank": 28,
-      "title": "老人偷偷剃光孩子胎发引争议",
-      "url": "https://www.toutiao.com/trending/7576122120938242094/",
-      "label": ""
-    },
-    {
-      "rank": 29,
       "title": "“太空烤箱”又能营业了",
       "url": "https://www.toutiao.com/trending/7576537087441109001/",
       "label": "new"
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "媒体：陈永康为高市开脱令人匪夷所思",
       "url": "https://www.toutiao.com/trending/7575389935445032979/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "老人偷偷剃光孩子胎发引争议",
+      "url": "https://www.toutiao.com/trending/7576122120938242094/",
       "label": ""
     },
     {
@@ -196,15 +196,15 @@
     },
     {
       "rank": 32,
-      "title": "流感高发 有医院排到1200多号",
-      "url": "https://www.toutiao.com/trending/7576610055563316762/",
+      "title": "中国大米出现在日本商店显著位置",
+      "url": "https://www.toutiao.com/trending/7576179393383419398/",
       "label": ""
     },
     {
       "rank": 33,
-      "title": "中国大米出现在日本商店显著位置",
-      "url": "https://www.toutiao.com/trending/7576179393383419398/",
-      "label": ""
+      "title": "萌娃地铁上结识小哥哥 下车很舍不得",
+      "url": "https://www.toutiao.com/trending/7575505891357900838/",
+      "label": "new"
     },
     {
       "rank": 34,
@@ -214,99 +214,99 @@
     },
     {
       "rank": 35,
+      "title": "流感高发 有医院排到1200多号",
+      "url": "https://www.toutiao.com/trending/7576610055563316762/",
+      "label": ""
+    },
+    {
+      "rank": 36,
       "title": "日本持续囤积远超民用需求钚材料",
       "url": "https://www.toutiao.com/trending/7576098964668284947/",
       "label": ""
     },
     {
-      "rank": 36,
-      "title": "萌娃地铁上结识小哥哥 下车很舍不得",
-      "url": "https://www.toutiao.com/trending/7575505891357900838/",
-      "label": "new"
-    },
-    {
       "rank": 37,
-      "title": "神舟二十二号飞行任务侧记",
-      "url": "https://www.toutiao.com/trending/7576540885685403702/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "麒麟9030确认落地",
-      "url": "https://www.toutiao.com/trending/7575481874509316134/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "中方：世界上只有一个中国是铁的事实",
-      "url": "https://www.toutiao.com/trending/7576508810127589427/",
-      "label": ""
-    },
-    {
-      "rank": 40,
       "title": "外交部驳斥日本国内涉台谬论",
       "url": "https://www.toutiao.com/trending/7575791746253373486/",
       "label": "new"
     },
     {
+      "rank": 38,
+      "title": "中方：世界上只有一个中国是铁的事实",
+      "url": "https://www.toutiao.com/trending/7576508810127589427/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "麒麟9030确认落地",
+      "url": "https://www.toutiao.com/trending/7575481874509316134/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "迪丽热巴再现拔刀名场面结果拔反了",
+      "url": "https://www.toutiao.com/trending/7575912421005705259/",
+      "label": "new"
+    },
+    {
       "rank": 41,
+      "title": "神舟二十二号飞行任务侧记",
+      "url": "https://www.toutiao.com/trending/7576540885685403702/",
+      "label": ""
+    },
+    {
+      "rank": 42,
       "title": "华为秋季全场景发布会落幕",
       "url": "https://www.toutiao.com/trending/7576581681797988379/",
       "label": "new"
     },
     {
-      "rank": 42,
-      "title": "邵永灵：特朗普和平计划陷入罗生门",
-      "url": "https://www.toutiao.com/trending/7576604824100146739/",
-      "label": ""
+      "rank": 43,
+      "title": "原唱回应《大东北我的家乡》翻红",
+      "url": "https://www.toutiao.com/trending/7576463802292568100/",
+      "label": "new"
     },
     {
-      "rank": 43,
+      "rank": 44,
       "title": "“黄金配角”曲哲明有哪些好剧",
       "url": "https://www.toutiao.com/trending/7575611157512486931/",
       "label": "new"
     },
     {
-      "rank": 44,
-      "title": "唐驳虎：中国用20天完成一次壮举",
-      "url": "https://www.toutiao.com/trending/7576520038518099462/",
-      "label": ""
-    },
-    {
       "rank": 45,
-      "title": "美欧在俄乌和平计划上的分歧与弥合",
-      "url": "https://www.toutiao.com/trending/7576499398306188843/",
+      "title": "美要台出钱升级菲基地遭台网友怒斥",
+      "url": "https://www.toutiao.com/trending/7576563985315823626/",
       "label": "new"
     },
     {
       "rank": 46,
-      "title": "华为Mate 80首发第二代红枫影像",
-      "url": "https://www.toutiao.com/trending/7576090267855011846/",
-      "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "A股反弹行情正式开启了吗",
-      "url": "https://www.toutiao.com/trending/7576614239557668358/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
       "title": "专家：2035前中国仍有8%经济增速潜力",
       "url": "https://www.toutiao.com/trending/7576047730276139049/",
       "label": ""
     },
     {
+      "rank": 47,
+      "title": "唐驳虎：中国用20天完成一次壮举",
+      "url": "https://www.toutiao.com/trending/7576520038518099462/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "邵永灵：特朗普和平计划陷入罗生门",
+      "url": "https://www.toutiao.com/trending/7576604824100146739/",
+      "label": ""
+    },
+    {
       "rank": 49,
-      "title": "牛弹琴：日本又迈出凶险一步",
-      "url": "https://www.toutiao.com/trending/7575792627426230281/",
+      "title": "华为Mate 80首发第二代红枫影像",
+      "url": "https://www.toutiao.com/trending/7576090267855011846/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "华为推出陪聊机器人“智能憨憨”",
-      "url": "https://www.toutiao.com/trending/7576574562298216498/",
-      "label": ""
+      "title": "A股反弹行情正式开启了吗",
+      "url": "https://www.toutiao.com/trending/7576614239557668358/",
+      "label": "new"
     }
   ]
 }
