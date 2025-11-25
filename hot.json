@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 25 Nov 2025 02:15:05 GMT",
+  "generated_at": "Tue, 25 Nov 2025 02:25:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "擦亮“投资中国”金字招牌",
@@ -16,8 +16,8 @@
     },
     {
       "rank": 2,
-      "title": "特朗普：将于明年4月访华",
-      "url": "https://www.toutiao.com/trending/7575503024580431379/",
+      "title": "日媒：特朗普要求与高市早苗通话",
+      "url": "https://www.toutiao.com/trending/7576254631207043118/",
       "label": "hot"
     },
     {
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "日媒：特朗普要求与高市早苗通话",
-      "url": "https://www.toutiao.com/trending/7576254631207043118/",
-      "label": "hot"
-    },
-    {
-      "rank": 5,
       "title": "直击西藏军区某部千人刺杀操大场面",
       "url": "https://www.toutiao.com/trending/7576136985921486899/",
       "label": "onSite"
+    },
+    {
+      "rank": 5,
+      "title": "特朗普：将于明年4月访华",
+      "url": "https://www.toutiao.com/trending/7575503024580431379/",
+      "label": "hot"
     },
     {
       "rank": 6,
@@ -52,21 +52,21 @@
     },
     {
       "rank": 8,
+      "title": "郑丽文中国人论述让沉默者不再沉默",
+      "url": "https://www.toutiao.com/trending/7575737278471946303/",
+      "label": "hot"
+    },
+    {
+      "rank": 9,
       "title": "日本旅游业遇寒流酒店老板诉苦",
       "url": "https://www.toutiao.com/trending/7575704889323257910/",
       "label": "hot"
     },
     {
-      "rank": 9,
-      "title": "曝特朗普最后一刻才知28点计划内容",
-      "url": "https://www.toutiao.com/trending/7575287851869323300/",
-      "label": ""
-    },
-    {
       "rank": 10,
-      "title": "勇士伤兵满营冲击冠军难吗",
-      "url": "https://www.toutiao.com/trending/7576178251664703539/",
-      "label": "forum"
+      "title": "女子月薪4千上班一周花6千6",
+      "url": "https://www.toutiao.com/trending/7576123498923065354/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -76,33 +76,33 @@
     },
     {
       "rank": 12,
-      "title": "意大利U17男足爆冷输球",
-      "url": "https://www.toutiao.com/trending/7576211837701128198/",
-      "label": "forum"
-    },
-    {
-      "rank": 13,
       "title": "大鹅霸凌小狗崽遭报复活活咬死",
       "url": "https://www.toutiao.com/trending/7575439461274779684/",
       "label": ""
     },
     {
+      "rank": 13,
+      "title": "意大利U17男足爆冷输球",
+      "url": "https://www.toutiao.com/trending/7576211837701128198/",
+      "label": "forum"
+    },
+    {
       "rank": 14,
-      "title": "陈小春儿子用三种语言主持校园活动",
-      "url": "https://www.toutiao.com/trending/7576210109949952051/",
+      "title": "曝特朗普最后一刻才知28点计划内容",
+      "url": "https://www.toutiao.com/trending/7575287851869323300/",
       "label": ""
     },
     {
       "rank": 15,
-      "title": "女子月薪4千上班一周花6千6",
-      "url": "https://www.toutiao.com/trending/7576123498923065354/",
-      "label": ""
+      "title": "中老年跑步突破瓶颈有啥方法",
+      "url": "https://www.toutiao.com/trending/7576129814948823091/",
+      "label": "forum"
     },
     {
       "rank": 16,
-      "title": "郑丽文中国人论述让沉默者不再沉默",
-      "url": "https://www.toutiao.com/trending/7575737278471946303/",
-      "label": "new"
+      "title": "陈小春儿子用三种语言主持校园活动",
+      "url": "https://www.toutiao.com/trending/7576210109949952051/",
+      "label": ""
     },
     {
       "rank": 17,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 19,
-      "title": "杨瀚森NBA生涯总得分超越周琦",
-      "url": "https://www.toutiao.com/trending/7575340262265487411/",
+      "title": "媒体：日本导弹上岛需引起高度警惕",
+      "url": "https://www.toutiao.com/trending/7576255085949599807/",
       "label": ""
     },
     {
       "rank": 20,
-      "title": "媒体：日本导弹上岛需引起高度警惕",
-      "url": "https://www.toutiao.com/trending/7576255085949599807/",
+      "title": "河南鲁山8岁失联女孩姑姑发声",
+      "url": "https://www.toutiao.com/trending/7576114217280618532/",
       "label": ""
     },
     {
@@ -142,170 +142,170 @@
     },
     {
       "rank": 23,
-      "title": "《搞笑一家人》顺才爷爷去世",
-      "url": "https://www.toutiao.com/trending/7576387848618688548/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "河南鲁山8岁失联女孩姑姑发声",
-      "url": "https://www.toutiao.com/trending/7576114217280618532/",
-      "label": ""
-    },
-    {
-      "rank": 25,
-      "title": "香港派出最大规模代表团参加残特奥会",
-      "url": "https://www.toutiao.com/trending/7576251116191645738/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
-      "title": "日本机场挤满了回国的人",
-      "url": "https://www.toutiao.com/trending/7575269450723672083/",
-      "label": "onSite"
-    },
-    {
-      "rank": 27,
-      "title": "停工停薪 百亿智驾独角兽倒下了",
-      "url": "https://www.toutiao.com/trending/7576243081716960778/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "“荒野求生比赛”是一门好生意吗",
-      "url": "https://www.toutiao.com/trending/7576437117253848622/",
-      "label": "new"
-    },
-    {
-      "rank": 29,
-      "title": "中方回应高市早苗称愿与中国进行对话",
-      "url": "https://www.toutiao.com/trending/7575503024580202003/",
-      "label": "hot"
-    },
-    {
-      "rank": 30,
-      "title": "征兵人员检查行李时乌男子引爆炸弹",
-      "url": "https://www.toutiao.com/trending/7576251785816997942/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "陈晓陈妍希新剧撞档期",
-      "url": "https://www.toutiao.com/trending/7575116630682894355/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "外交部回应日方称已多次向中方解释",
-      "url": "https://www.toutiao.com/trending/7576132787901169705/",
-      "label": "hot"
-    },
-    {
-      "rank": 33,
-      "title": "全固态电池真的要“上车”了吗",
-      "url": "https://www.toutiao.com/trending/7576432653063179819/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "男子喝断片后向妻子展示藏私房钱位置",
-      "url": "https://www.toutiao.com/trending/7575844537106972713/",
-      "label": ""
-    },
-    {
-      "rank": 35,
       "title": "日本舆论担心高市言论进一步冲击经济",
       "url": "https://www.toutiao.com/trending/7576455955706039859/",
       "label": "new"
     },
     {
-      "rank": 36,
-      "title": "中国将寻找第二颗地球",
-      "url": "https://www.toutiao.com/trending/7576213660738912319/",
-      "label": ""
-    },
-    {
-      "rank": 37,
+      "rank": 24,
       "title": "印度光辉战机坠毁吓跑4个意向购买国",
       "url": "https://www.toutiao.com/trending/7576440913648422438/",
       "label": "new"
     },
     {
-      "rank": 38,
-      "title": "赖岳谦：解放军刘公岛演训警告日本",
-      "url": "https://www.toutiao.com/trending/7575450462900764726/",
+      "rank": 25,
+      "title": "杨瀚森NBA生涯总得分超越周琦",
+      "url": "https://www.toutiao.com/trending/7575340262265487411/",
       "label": ""
     },
     {
-      "rank": 39,
-      "title": "U17亚预赛积分榜：国少占据小组头名",
-      "url": "https://www.toutiao.com/trending/7575541443230613567/",
+      "rank": 26,
+      "title": "《搞笑一家人》顺才爷爷去世",
+      "url": "https://www.toutiao.com/trending/7576387848618688548/",
       "label": ""
     },
     {
-      "rank": 40,
-      "title": "印度光辉战机意外坠毁影响几何",
-      "url": "https://www.toutiao.com/trending/7576301575400853038/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 41,
-      "title": "中方回应日本将在台湾附近部署导弹",
-      "url": "https://www.toutiao.com/trending/7576192078879706674/",
+      "rank": 27,
+      "title": "征兵人员检查行李时乌男子引爆炸弹",
+      "url": "https://www.toutiao.com/trending/7576251785816997942/",
       "label": ""
     },
     {
-      "rank": 42,
+      "rank": 28,
+      "title": "中方回应高市早苗称愿与中国进行对话",
+      "url": "https://www.toutiao.com/trending/7575503024580202003/",
+      "label": "hot"
+    },
+    {
+      "rank": 29,
+      "title": "香港派出最大规模代表团参加残特奥会",
+      "url": "https://www.toutiao.com/trending/7576251116191645738/",
+      "label": "new"
+    },
+    {
+      "rank": 30,
       "title": "80后男子跪别再无亲人的老家",
       "url": "https://www.toutiao.com/trending/7576148247216062505/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "欧洲和北约议题已从美28点计划中移除",
-      "url": "https://www.toutiao.com/trending/7575864923109146666/",
+      "rank": 31,
+      "title": "外交部回应日方称已多次向中方解释",
+      "url": "https://www.toutiao.com/trending/7576132787901169705/",
+      "label": "hot"
+    },
+    {
+      "rank": 32,
+      "title": "全固态电池真的要“上车”了吗",
+      "url": "https://www.toutiao.com/trending/7576432653063179819/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "陈晓陈妍希新剧撞档期",
+      "url": "https://www.toutiao.com/trending/7575116630682894355/",
       "label": ""
     },
     {
+      "rank": 34,
+      "title": "赖岳谦：解放军刘公岛演训警告日本",
+      "url": "https://www.toutiao.com/trending/7575450462900764726/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "男子喝断片后向妻子展示藏私房钱位置",
+      "url": "https://www.toutiao.com/trending/7575844537106972713/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "毫末智行没撑到IPO",
+      "url": "https://www.toutiao.com/trending/7576433232099413510/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "日本机场挤满了回国的人",
+      "url": "https://www.toutiao.com/trending/7575269450723672083/",
+      "label": "onSite"
+    },
+    {
+      "rank": 38,
+      "title": "张展硕如何实现跨越式成长",
+      "url": "https://www.toutiao.com/trending/7575094900632436742/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
+      "title": "“荒野求生比赛”是一门好生意吗",
+      "url": "https://www.toutiao.com/trending/7576437117253848622/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "中方回应日本将在台湾附近部署导弹",
+      "url": "https://www.toutiao.com/trending/7576192078879706674/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "U17亚预赛积分榜：国少占据小组头名",
+      "url": "https://www.toutiao.com/trending/7575541443230613567/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "赖当局密集“挺日”故意跟大陆对着干",
+      "url": "https://www.toutiao.com/trending/7576250275133800454/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "日本多名前首相批高市涉台错误言论",
+      "url": "https://www.toutiao.com/trending/7575478408696594482/",
+      "label": "new"
+    },
+    {
       "rank": 44,
+      "title": "中国将寻找第二颗地球",
+      "url": "https://www.toutiao.com/trending/7576213660738912319/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "小米官方声明遭商场“反辟谣”",
+      "url": "https://www.toutiao.com/trending/7575283076655218730/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
       "title": "李在明回应高市早苗涉台言论",
       "url": "https://www.toutiao.com/trending/7575702563983654975/",
       "label": ""
     },
     {
-      "rank": 45,
+      "rank": 47,
+      "title": "曝沃尔昌斯克告急 乌克兰紧急增兵",
+      "url": "https://www.toutiao.com/trending/7576234255416561203/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
       "title": "男子返乡创业3000多万拍下工厂被坑",
       "url": "https://www.toutiao.com/trending/7576176402698027049/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "泽连斯基：特朗普团队正倾听乌方关切",
-      "url": "https://www.toutiao.com/trending/7576063011991912499/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
+      "rank": 49,
       "title": "高市65%支持率传递危险信号",
       "url": "https://www.toutiao.com/trending/7575745911293427748/",
       "label": "hot"
     },
     {
-      "rank": 48,
-      "title": "工地路面坍塌致13死 多家央企被追责",
-      "url": "https://www.toutiao.com/trending/7576210371451702794/",
-      "label": ""
-    },
-    {
-      "rank": 49,
-      "title": "外籍院士鱼龙混杂 含金量由谁评判",
-      "url": "https://www.toutiao.com/trending/7576288168677215807/",
-      "label": ""
-    },
-    {
       "rank": 50,
-      "title": "美乌谈判现场乌代表紧张到掰断笔",
-      "url": "https://www.toutiao.com/trending/7576430126888570418/",
+      "title": "东契奇本赛季至今场均得分排名第一",
+      "url": "https://www.toutiao.com/trending/7575895834609893403/",
       "label": ""
     }
   ]
