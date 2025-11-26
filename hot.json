@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 26 Nov 2025 15:50:08 GMT",
+  "generated_at": "Wed, 26 Nov 2025 15:55:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "建设人民城市，致广大而尽精微",
@@ -18,7 +18,7 @@
       "rank": 2,
       "title": "前湖北首富晒证据硬刚金龙鱼",
       "url": "https://www.toutiao.com/trending/7577026667349020203/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 3,
@@ -84,7 +84,7 @@
       "rank": 13,
       "title": "近1200元买的羽绒服拆开全是飞丝",
       "url": "https://www.toutiao.com/trending/7576842450016108598/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 14,
@@ -120,7 +120,7 @@
       "rank": 19,
       "title": "华为Mate80全系降价背后",
       "url": "https://www.toutiao.com/trending/7576873411025063470/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 20,
@@ -136,8 +136,8 @@
     },
     {
       "rank": 22,
-      "title": "成都市长王凤朝被查",
-      "url": "https://www.toutiao.com/trending/7576971887893430314/",
+      "title": "辽宁披露：见死不救的局长已被查",
+      "url": "https://www.toutiao.com/trending/7576885282977824814/",
       "label": ""
     },
     {
@@ -148,14 +148,14 @@
     },
     {
       "rank": 24,
-      "title": "辽宁披露：见死不救的局长已被查",
-      "url": "https://www.toutiao.com/trending/7576885282977824814/",
+      "title": "母亲被判脑死亡 子女不放弃终获救",
+      "url": "https://www.toutiao.com/trending/7576660762530414635/",
       "label": ""
     },
     {
       "rank": 25,
-      "title": "男子刮刮乐中奖10万 老板拒绝兑奖",
-      "url": "https://www.toutiao.com/trending/7576274654508187675/",
+      "title": "成都市长王凤朝被查",
+      "url": "https://www.toutiao.com/trending/7576971887893430314/",
       "label": ""
     },
     {
@@ -166,75 +166,75 @@
     },
     {
       "rank": 27,
-      "title": "中国工业能力到底有多猛",
-      "url": "https://www.toutiao.com/trending/7577010656142954027/",
-      "label": ""
-    },
-    {
-      "rank": 28,
       "title": "荒野求生“道友”成功钻木取火",
       "url": "https://www.toutiao.com/trending/7576243000427315242/",
       "label": ""
     },
     {
+      "rank": 28,
+      "title": "中国工业能力到底有多猛",
+      "url": "https://www.toutiao.com/trending/7577010656142954027/",
+      "label": ""
+    },
+    {
       "rank": 29,
-      "title": "母亲被判脑死亡 子女不放弃终获救",
-      "url": "https://www.toutiao.com/trending/7576660762530414635/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "日本制定包括战俘处理的战时法律",
-      "url": "https://www.toutiao.com/trending/7576124681523281930/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "安徽七旬夫妇被邻居杀害案将开庭",
-      "url": "https://www.toutiao.com/trending/7576554155276386358/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "荒野求生“苗王”下山5天没睡觉",
-      "url": "https://www.toutiao.com/trending/7576181046053437503/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "甲流伤害心肌的5个信号",
-      "url": "https://www.toutiao.com/trending/7576961710225886746/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "日本致函联合国秘书长辩解 中方驳斥",
-      "url": "https://www.toutiao.com/trending/7576943227635240502/",
-      "label": "hot"
-    },
-    {
-      "rank": 35,
       "title": "为何公布嫌疑人全名？义乌警方回应",
       "url": "https://www.toutiao.com/trending/7576618114233516074/",
       "label": ""
     },
     {
-      "rank": 36,
+      "rank": 30,
+      "title": "日本致函联合国秘书长辩解 中方驳斥",
+      "url": "https://www.toutiao.com/trending/7576943227635240502/",
+      "label": "hot"
+    },
+    {
+      "rank": 31,
       "title": "国台办回应沈伯洋跑荷兰“反击通缉”",
       "url": "https://www.toutiao.com/trending/7576122161153379903/",
       "label": ""
     },
     {
+      "rank": 32,
+      "title": "甲流伤害心肌的5个信号",
+      "url": "https://www.toutiao.com/trending/7576961710225886746/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "荒野求生“苗王”下山5天没睡觉",
+      "url": "https://www.toutiao.com/trending/7576181046053437503/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "男子刮刮乐中奖10万 老板拒绝兑奖",
+      "url": "https://www.toutiao.com/trending/7576274654508187675/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "全军统一制发《预备役人员证》",
+      "url": "https://www.toutiao.com/trending/7576867488227459078/",
+      "label": "hot"
+    },
+    {
+      "rank": 36,
+      "title": "安徽七旬夫妇被邻居杀害案将开庭",
+      "url": "https://www.toutiao.com/trending/7576554155276386358/",
+      "label": "new"
+    },
+    {
       "rank": 37,
-      "title": "媒体：日本自卫队偷摸发展航母30年",
-      "url": "https://www.toutiao.com/trending/7576805295888990251/",
+      "title": "日本制定包括战俘处理的战时法律",
+      "url": "https://www.toutiao.com/trending/7576124681523281930/",
       "label": ""
     },
     {
       "rank": 38,
-      "title": "全军统一制发《预备役人员证》",
-      "url": "https://www.toutiao.com/trending/7576867488227459078/",
-      "label": "hot"
+      "title": "詹姆斯：我和里夫斯无需眼神交流",
+      "url": "https://www.toutiao.com/trending/7576715730159157267/",
+      "label": "new"
     },
     {
       "rank": 39,
@@ -244,9 +244,9 @@
     },
     {
       "rank": 40,
-      "title": "詹姆斯：我和里夫斯无需眼神交流",
-      "url": "https://www.toutiao.com/trending/7576715730159157267/",
-      "label": "new"
+      "title": "金龙鱼正遭遇“多事之秋”",
+      "url": "https://www.toutiao.com/trending/7576835585881604139/",
+      "label": "hot"
     },
     {
       "rank": 41,
@@ -256,33 +256,33 @@
     },
     {
       "rank": 42,
-      "title": "金龙鱼正遭遇“多事之秋”",
-      "url": "https://www.toutiao.com/trending/7576835585881604139/",
-      "label": "hot"
-    },
-    {
-      "rank": 43,
       "title": "国台办“点名”10位网友领取纪念品",
       "url": "https://www.toutiao.com/trending/7576947854674083882/",
       "label": "new"
     },
     {
+      "rank": 43,
+      "title": "媒体：日本自卫队偷摸发展航母30年",
+      "url": "https://www.toutiao.com/trending/7576805295888990251/",
+      "label": ""
+    },
+    {
       "rank": 44,
+      "title": "曝折叠屏iPhone实现无折痕设计",
+      "url": "https://www.toutiao.com/trending/7576186922755227686/",
+      "label": ""
+    },
+    {
+      "rank": 45,
       "title": "为何全军将启用新版预备役人员证",
       "url": "https://www.toutiao.com/trending/7576964076920639018/",
       "label": "interpretation"
     },
     {
-      "rank": 45,
-      "title": "何聪睿刘念同框",
-      "url": "https://www.toutiao.com/trending/7576159690275700777/",
-      "label": ""
-    },
-    {
       "rank": 46,
-      "title": "曝华为2026年推7000mAh电池机型",
-      "url": "https://www.toutiao.com/trending/7576116228247486502/",
-      "label": "new"
+      "title": "如何看中国民企造出廉价高超音速导弹",
+      "url": "https://www.toutiao.com/trending/7576956946155048491/",
+      "label": ""
     },
     {
       "rank": 47,
@@ -292,21 +292,21 @@
     },
     {
       "rank": 48,
-      "title": "科兴生物离摘牌只剩一步之遥",
-      "url": "https://www.toutiao.com/trending/7576975366623858202/",
-      "label": "interpretation"
+      "title": "理解婚前同居认定家庭成员的几个误区",
+      "url": "https://www.toutiao.com/trending/7576992208352448019/",
+      "label": ""
     },
     {
       "rank": 49,
-      "title": "六部门：加强优质学生用品供给",
-      "url": "https://www.toutiao.com/trending/7576919766334996534/",
+      "title": "曝华为2026年推7000mAh电池机型",
+      "url": "https://www.toutiao.com/trending/7576116228247486502/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "新加坡经济到底有多依赖中国",
-      "url": "https://www.toutiao.com/trending/7576950959482342950/",
-      "label": ""
+      "title": "石破茂战后80周年感言再解析",
+      "url": "https://www.toutiao.com/trending/7576903839110925843/",
+      "label": "interpretation"
     }
   ]
 }
