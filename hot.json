@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 26 Nov 2025 05:10:17 GMT",
+  "generated_at": "Wed, 26 Nov 2025 05:15:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "加快培育绿色生产力",
@@ -72,7 +72,7 @@
       "rank": 11,
       "title": "华杉称西贝被算计 罗永浩回应",
       "url": "https://www.toutiao.com/trending/7576771761464180779/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 12,
@@ -82,15 +82,15 @@
     },
     {
       "rank": 13,
-      "title": "女子体验不花钱从杭州徒步到上海",
-      "url": "https://www.toutiao.com/trending/7576676002383020068/",
-      "label": ""
-    },
-    {
-      "rank": 14,
       "title": "普京抵吉尔吉斯斯坦获金雕猎犬迎接",
       "url": "https://www.toutiao.com/trending/7576875739434438154/",
       "label": "new"
+    },
+    {
+      "rank": 14,
+      "title": "女子体验不花钱从杭州徒步到上海",
+      "url": "https://www.toutiao.com/trending/7576676002383020068/",
+      "label": ""
     },
     {
       "rank": 15,
@@ -114,7 +114,7 @@
       "rank": 18,
       "title": "Mate 80 Pro Max凭什么是最强Mate",
       "url": "https://www.toutiao.com/trending/7576651951028273202/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 19,
@@ -130,8 +130,8 @@
     },
     {
       "rank": 21,
-      "title": "中国成熟芯片降价如何撼动世界",
-      "url": "https://www.toutiao.com/trending/7576619427169308201/",
+      "title": "蔡磊称自己只剩3到5年生命",
+      "url": "https://www.toutiao.com/trending/7575761968720625705/",
       "label": ""
     },
     {
@@ -142,15 +142,15 @@
     },
     {
       "rank": 23,
-      "title": "500元一斤的“打屁虫”竟是下酒菜",
-      "url": "https://www.toutiao.com/trending/7575869370678100031/",
+      "title": "中国成熟芯片降价如何撼动世界",
+      "url": "https://www.toutiao.com/trending/7576619427169308201/",
       "label": ""
     },
     {
       "rank": 24,
-      "title": "神舟二十二号穿日太壮观",
-      "url": "https://www.toutiao.com/trending/7576147156424933414/",
-      "label": ""
+      "title": "瓜帅欧冠轮换10名首发0-2输药厂",
+      "url": "https://www.toutiao.com/trending/7576319813992169508/",
+      "label": "new"
     },
     {
       "rank": 25,
@@ -160,152 +160,152 @@
     },
     {
       "rank": 26,
+      "title": "神舟二十二号穿日太壮观",
+      "url": "https://www.toutiao.com/trending/7576147156424933414/",
+      "label": ""
+    },
+    {
+      "rank": 27,
       "title": "迪丽热巴现身剧宣现场满屏大长腿",
       "url": "https://www.toutiao.com/trending/7575918368595951658/",
       "label": ""
     },
     {
-      "rank": 27,
+      "rank": 28,
+      "title": "500元一斤的“打屁虫”竟是下酒菜",
+      "url": "https://www.toutiao.com/trending/7575869370678100031/",
+      "label": ""
+    },
+    {
+      "rank": 29,
       "title": "英伟达“市值神话”为何被谷歌击穿",
       "url": "https://www.toutiao.com/trending/7576840187636878902/",
       "label": ""
     },
     {
-      "rank": 28,
-      "title": "早高峰私家车默契礼让救护车",
-      "url": "https://www.toutiao.com/trending/7576625840147070995/",
-      "label": "new"
-    },
-    {
-      "rank": 29,
-      "title": "杨瀚森G联赛首秀创收视纪录",
-      "url": "https://www.toutiao.com/trending/7576133341617684526/",
-      "label": ""
-    },
-    {
       "rank": 30,
-      "title": "高速“龟速车”并排堵路",
-      "url": "https://www.toutiao.com/trending/7576232459266277417/",
-      "label": "onSite"
-    },
-    {
-      "rank": 31,
-      "title": "蔡磊称自己只剩3到5年生命",
-      "url": "https://www.toutiao.com/trending/7575761968720625705/",
-      "label": ""
-    },
-    {
-      "rank": 32,
       "title": "学者：中国稀土管制击中欧洲软肋",
       "url": "https://www.toutiao.com/trending/7576831695236632127/",
       "label": ""
     },
     {
-      "rank": 33,
-      "title": "沙特会答应美国卖F-35的条件吗",
-      "url": "https://www.toutiao.com/trending/7576868485322509843/",
+      "rank": 31,
+      "title": "杨瀚森G联赛首秀创收视纪录",
+      "url": "https://www.toutiao.com/trending/7576133341617684526/",
       "label": ""
     },
     {
+      "rank": 32,
+      "title": "高速“龟速车”并排堵路",
+      "url": "https://www.toutiao.com/trending/7576232459266277417/",
+      "label": "onSite"
+    },
+    {
+      "rank": 33,
+      "title": "早高峰私家车默契礼让救护车",
+      "url": "https://www.toutiao.com/trending/7576625840147070995/",
+      "label": "new"
+    },
+    {
       "rank": 34,
+      "title": "于天敏辞去辽宁省委委员",
+      "url": "https://www.toutiao.com/trending/7576851837001809930/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
       "title": "郭富城回应生四胎：暂时没计划",
       "url": "https://www.toutiao.com/trending/7576270837251620874/",
       "label": "new"
     },
     {
-      "rank": 35,
-      "title": "于天敏辞去辽宁省省委委员",
-      "url": "https://www.toutiao.com/trending/7576851837001809930/",
-      "label": "new"
-    },
-    {
       "rank": 36,
-      "title": "郑伊健日本演唱会取消",
-      "url": "https://www.toutiao.com/trending/7575702694657851411/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "稳定婚前同居认定属于家庭成员",
-      "url": "https://www.toutiao.com/trending/7575537405642571814/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "华为Mate 80系列售价公布",
-      "url": "https://www.toutiao.com/trending/7576566051006057993/",
-      "label": "hot"
-    },
-    {
-      "rank": 39,
-      "title": "陈水扁前幕僚：民进党处境更加艰难",
-      "url": "https://www.toutiao.com/trending/7576479820717572150/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "在日中国游客提前回国 机场如春运",
-      "url": "https://www.toutiao.com/trending/7575692536447221766/",
-      "label": "onSite"
-    },
-    {
-      "rank": 41,
-      "title": "谷歌TPU引爆“新DeepSeek时刻”",
-      "url": "https://www.toutiao.com/trending/7576061058880880703/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "金观平：确保不发生规模性返贫致贫",
-      "url": "https://www.toutiao.com/trending/7576790759089766463/",
-      "label": ""
-    },
-    {
-      "rank": 43,
       "title": "高压线下种的白杨树为何被拦腰砍伐",
       "url": "https://www.toutiao.com/trending/7576645188812324902/",
       "label": "new"
     },
     {
-      "rank": 44,
-      "title": "国台办回应台当局解禁日本食品进口",
-      "url": "https://www.toutiao.com/trending/7576405661245128742/",
-      "label": "new"
-    },
-    {
-      "rank": 45,
-      "title": "妈妈生二胎期间5岁儿子在家发烧离世",
-      "url": "https://www.toutiao.com/trending/7576151870222172196/",
+      "rank": 37,
+      "title": "郑伊健日本演唱会取消",
+      "url": "https://www.toutiao.com/trending/7575702694657851411/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "高市早苗拟提高外国人取得日籍条件",
-      "url": "https://www.toutiao.com/trending/7576805108823162918/",
-      "label": "new"
+      "rank": 38,
+      "title": "稳定婚前同居认定属于家庭成员",
+      "url": "https://www.toutiao.com/trending/7575537405642571814/",
+      "label": ""
     },
     {
-      "rank": 47,
+      "rank": 39,
+      "title": "华为Mate 80系列售价公布",
+      "url": "https://www.toutiao.com/trending/7576566051006057993/",
+      "label": "hot"
+    },
+    {
+      "rank": 40,
       "title": "国台办回应台30多个团体要求高市道歉",
       "url": "https://www.toutiao.com/trending/7575908870476824618/",
       "label": "new"
     },
     {
-      "rank": 48,
-      "title": "揽佬的中国说唱为何火爆全球",
-      "url": "https://www.toutiao.com/trending/7576822694750981682/",
+      "rank": 41,
+      "title": "国台办：绿营应支持厦金大桥早日建成",
+      "url": "https://www.toutiao.com/trending/7576564982091907078/",
       "label": "new"
     },
     {
+      "rank": 42,
+      "title": "高市早苗拟提高外国人取得日籍条件",
+      "url": "https://www.toutiao.com/trending/7576805108823162918/",
+      "label": "new"
+    },
+    {
+      "rank": 43,
+      "title": "在日中国游客提前回国 机场如春运",
+      "url": "https://www.toutiao.com/trending/7575692536447221766/",
+      "label": "onSite"
+    },
+    {
+      "rank": 44,
+      "title": "陈水扁前幕僚：民进党处境更加艰难",
+      "url": "https://www.toutiao.com/trending/7576479820717572150/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "谷歌TPU引爆“新DeepSeek时刻”",
+      "url": "https://www.toutiao.com/trending/7576061058880880703/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "沙特会答应美国卖F-35的条件吗",
+      "url": "https://www.toutiao.com/trending/7576868485322509843/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "国台办回应台当局解禁日本食品进口",
+      "url": "https://www.toutiao.com/trending/7576405661245128742/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "妈妈生二胎期间5岁儿子在家发烧离世",
+      "url": "https://www.toutiao.com/trending/7576151870222172196/",
+      "label": ""
+    },
+    {
       "rank": 49,
-      "title": "美所谓“反恐战争”已致数百万人丧生",
-      "url": "https://www.toutiao.com/trending/7576807952305242153/",
+      "title": "金观平：确保不发生规模性返贫致贫",
+      "url": "https://www.toutiao.com/trending/7576790759089766463/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "司法为家暴受害者正当防卫撑腰",
-      "url": "https://www.toutiao.com/trending/7576507974547013651/",
+      "title": "港媒：日本言行不一加剧地区危险",
+      "url": "https://www.toutiao.com/trending/7576877473476906537/",
       "label": "new"
     }
   ]
