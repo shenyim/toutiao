@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 26 Nov 2025 03:21:19 GMT",
+  "generated_at": "Wed, 26 Nov 2025 03:25:12 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平向中俄能源商务论坛致贺信",
@@ -30,7 +30,7 @@
       "rank": 4,
       "title": "日本在华青年：绝对反对战争",
       "url": "https://www.toutiao.com/trending/7576613453641908278/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 5,
@@ -48,7 +48,7 @@
       "rank": 7,
       "title": "日本游退订潮 同程被指退费和稀泥",
       "url": "https://www.toutiao.com/trending/7576648560767159871/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 8,
@@ -78,7 +78,7 @@
       "rank": 12,
       "title": "Mate 80 Pro Max凭什么是最强Mate",
       "url": "https://www.toutiao.com/trending/7576651951028273202/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 13,
@@ -130,26 +130,26 @@
     },
     {
       "rank": 21,
+      "title": "美乌19点和平计划改了哪些内容",
+      "url": "https://www.toutiao.com/trending/7576855323571473947/",
+      "label": "new"
+    },
+    {
+      "rank": 22,
       "title": "美国货轮时隔半年向中国运大豆",
       "url": "https://www.toutiao.com/trending/7576656910720437823/",
       "label": ""
     },
     {
-      "rank": 22,
+      "rank": 23,
       "title": "印巴会滑向军事冒险吗",
       "url": "https://www.toutiao.com/trending/7576811255512436260/",
       "label": "new"
     },
     {
-      "rank": 23,
-      "title": "郭靖宇：唐诡团队没有演员耍大牌",
-      "url": "https://www.toutiao.com/trending/7576826320127004169/",
-      "label": ""
-    },
-    {
       "rank": 24,
-      "title": "这群普通人在荒野“杀疯了”",
-      "url": "https://www.toutiao.com/trending/7576604991004085801/",
+      "title": "*ST苏吴遭强制退市",
+      "url": "https://www.toutiao.com/trending/7576101157862244361/",
       "label": "new"
     },
     {
@@ -160,14 +160,14 @@
     },
     {
       "rank": 26,
-      "title": "郑伊健日本演唱会取消",
-      "url": "https://www.toutiao.com/trending/7575702694657851411/",
+      "title": "郭靖宇：唐诡团队没有演员耍大牌",
+      "url": "https://www.toutiao.com/trending/7576826320127004169/",
       "label": ""
     },
     {
       "rank": 27,
-      "title": "专家谈美南海捞军机防泄密：小人之心",
-      "url": "https://www.toutiao.com/trending/7576565154327281718/",
+      "title": "郑伊健日本演唱会取消",
+      "url": "https://www.toutiao.com/trending/7575702694657851411/",
       "label": ""
     },
     {
@@ -178,15 +178,15 @@
     },
     {
       "rank": 29,
-      "title": "中国成熟芯片降价如何撼动世界",
-      "url": "https://www.toutiao.com/trending/7576619427169308201/",
-      "label": "new"
+      "title": "专家谈美南海捞军机防泄密：小人之心",
+      "url": "https://www.toutiao.com/trending/7576565154327281718/",
+      "label": ""
     },
     {
       "rank": 30,
-      "title": "博主向孟加拉三轮车夫提供20万创业金",
-      "url": "https://www.toutiao.com/trending/7575631446786850870/",
-      "label": ""
+      "title": "中国成熟芯片降价如何撼动世界",
+      "url": "https://www.toutiao.com/trending/7576619427169308201/",
+      "label": "new"
     },
     {
       "rank": 31,
@@ -196,26 +196,26 @@
     },
     {
       "rank": 32,
+      "title": "博主向孟加拉三轮车夫提供20万创业金",
+      "url": "https://www.toutiao.com/trending/7575631446786850870/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "探访荒野求生决赛核心区",
+      "url": "https://webcast-open.douyin.com/open/media_live/18697639737",
+      "label": ""
+    },
+    {
+      "rank": 34,
       "title": "特朗普：俄乌和平协议已非常接近达成",
       "url": "https://www.toutiao.com/trending/7576122161153281599/",
       "label": ""
     },
     {
-      "rank": 33,
+      "rank": 35,
       "title": "詹姆斯尚未决定赛季结束后是否退役",
       "url": "https://www.toutiao.com/trending/7576172825539887146/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "华为首款鸿蒙二合一平板电脑",
-      "url": "https://www.toutiao.com/trending/7576122161153314367/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "探访荒野求生决赛核心区",
-      "url": "https://webcast-open.douyin.com/open/media_live/18697639737",
       "label": "new"
     },
     {
@@ -226,8 +226,8 @@
     },
     {
       "rank": 37,
-      "title": "理想老汤哥：终身质保就是空头承诺",
-      "url": "https://www.toutiao.com/trending/7576660053764083251/",
+      "title": "华为首款鸿蒙二合一平板电脑",
+      "url": "https://www.toutiao.com/trending/7576122161153314367/",
       "label": ""
     },
     {
@@ -244,8 +244,8 @@
     },
     {
       "rank": 40,
-      "title": "媒体：广州车展的核心仍是卖车",
-      "url": "https://www.toutiao.com/trending/7576651990969617974/",
+      "title": "理想老汤哥：终身质保就是空头承诺",
+      "url": "https://www.toutiao.com/trending/7576660053764083251/",
       "label": ""
     },
     {
@@ -262,50 +262,50 @@
     },
     {
       "rank": 43,
+      "title": "媒体：广州车展的核心仍是卖车",
+      "url": "https://www.toutiao.com/trending/7576651990969617974/",
+      "label": ""
+    },
+    {
+      "rank": 44,
       "title": "泰国遇最严重洪水派航母救灾",
       "url": "https://www.toutiao.com/trending/7576722442303835691/",
       "label": ""
     },
     {
-      "rank": 44,
-      "title": "《唐诡》是国产原创ip的养成样本",
-      "url": "https://www.toutiao.com/trending/7576810374863801875/",
-      "label": ""
-    },
-    {
       "rank": 45,
-      "title": "大爷花2万多网购高配卡宴变保时捷鹿",
-      "url": "https://www.toutiao.com/trending/7576541933825392646/",
-      "label": ""
-    },
-    {
-      "rank": 46,
       "title": "美媒：挑衅中国 日本承受不起",
       "url": "https://www.toutiao.com/trending/7576498404415524361/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "英伟达大跌后罕见安抚市场",
-      "url": "https://www.toutiao.com/trending/7576807905916128819/",
+      "rank": 46,
+      "title": "大爷花2万多网购高配卡宴变保时捷鹿",
+      "url": "https://www.toutiao.com/trending/7576541933825392646/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 47,
       "title": "穆帅率本菲卡拿下赛季欧冠首胜",
       "url": "https://www.toutiao.com/trending/7576489143455547428/",
       "label": "new"
     },
     {
-      "rank": 49,
-      "title": "美乌19点和平计划改了哪些内容",
-      "url": "https://www.toutiao.com/trending/7576855323571473947/",
+      "rank": 48,
+      "title": "罗援：西南诸岛不是日本玩火之地",
+      "url": "https://www.toutiao.com/trending/7576847464779517459/",
       "label": "new"
     },
     {
+      "rank": 49,
+      "title": "《唐诡》是国产原创ip的养成样本",
+      "url": "https://www.toutiao.com/trending/7576810374863801875/",
+      "label": ""
+    },
+    {
       "rank": 50,
-      "title": "大S朋友圈备注：死亡是必然的",
-      "url": "https://www.toutiao.com/trending/7576468974167326763/",
+      "title": "金观平：确保不发生规模性返贫致贫",
+      "url": "https://www.toutiao.com/trending/7576790759089766463/",
       "label": ""
     }
   ]
