@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Wed, 26 Nov 2025 02:35:07 GMT",
+  "generated_at": "Wed, 26 Nov 2025 02:40:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "习近平向中俄能源商务论坛致贺信",
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "高速“龟速车”并排堵路",
-      "url": "https://www.toutiao.com/trending/7576232459266277417/",
-      "label": "onSite"
+      "title": "日本民众十分不舍中国大熊猫",
+      "url": "https://www.toutiao.com/trending/7575764902464340009/",
+      "label": "new"
     },
     {
       "rank": 3,
@@ -28,9 +28,9 @@
     },
     {
       "rank": 4,
-      "title": "日本民众十分不舍中国大熊猫",
-      "url": "https://www.toutiao.com/trending/7575764902464340009/",
-      "label": "new"
+      "title": "高速“龟速车”并排堵路",
+      "url": "https://www.toutiao.com/trending/7576232459266277417/",
+      "label": "onSite"
     },
     {
       "rank": 5,
@@ -82,14 +82,14 @@
     },
     {
       "rank": 13,
-      "title": "郑伊健日本演唱会取消",
-      "url": "https://www.toutiao.com/trending/7575702694657851411/",
+      "title": "500元一斤的“打屁虫”竟是下酒菜",
+      "url": "https://www.toutiao.com/trending/7575869370678100031/",
       "label": ""
     },
     {
       "rank": 14,
-      "title": "500元一斤的“打屁虫”竟是下酒菜",
-      "url": "https://www.toutiao.com/trending/7575869370678100031/",
+      "title": "郑伊健日本演唱会取消",
+      "url": "https://www.toutiao.com/trending/7575702694657851411/",
       "label": ""
     },
     {
@@ -100,69 +100,69 @@
     },
     {
       "rank": 16,
-      "title": "神舟二十二号穿日太壮观",
-      "url": "https://www.toutiao.com/trending/7576147156424933414/",
-      "label": "new"
-    },
-    {
-      "rank": 17,
-      "title": "美国货轮时隔半年向中国运大豆",
-      "url": "https://www.toutiao.com/trending/7576656910720437823/",
-      "label": ""
-    },
-    {
-      "rank": 18,
-      "title": "专家谈美南海捞军机防泄密：小人之心",
-      "url": "https://www.toutiao.com/trending/7576565154327281718/",
-      "label": ""
-    },
-    {
-      "rank": 19,
       "title": "日本在华青年：绝对反对战争",
       "url": "https://www.toutiao.com/trending/7576613453641908278/",
       "label": "new"
     },
     {
-      "rank": 20,
-      "title": "学校回应贫困学生黑板留言收废瓶",
-      "url": "https://www.toutiao.com/trending/7576817831413648923/",
-      "label": "recentProgress"
-    },
-    {
-      "rank": 21,
-      "title": "特朗普：俄乌和平协议已非常接近达成",
-      "url": "https://www.toutiao.com/trending/7576122161153281599/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "黄海南部部分海域射击试验禁止驶入",
-      "url": "https://www.toutiao.com/trending/7576676331694571526/",
+      "rank": 17,
+      "title": "神舟二十二号穿日太壮观",
+      "url": "https://www.toutiao.com/trending/7576147156424933414/",
       "label": "new"
     },
     {
-      "rank": 23,
-      "title": "《唐诡》是国产原创ip的养成样本",
-      "url": "https://www.toutiao.com/trending/7576810374863801875/",
+      "rank": 18,
+      "title": "美国货轮时隔半年向中国运大豆",
+      "url": "https://www.toutiao.com/trending/7576656910720437823/",
       "label": ""
     },
     {
-      "rank": 24,
+      "rank": 19,
       "title": "Mate 80 Pro Max凭什么是最强Mate",
       "url": "https://www.toutiao.com/trending/7576651951028273202/",
       "label": "new"
     },
     {
-      "rank": 25,
-      "title": "在日中国游客提前回国 机场如春运",
-      "url": "https://www.toutiao.com/trending/7575692536447221766/",
-      "label": "onSite"
+      "rank": 20,
+      "title": "黄海南部部分海域射击试验禁止驶入",
+      "url": "https://www.toutiao.com/trending/7576676331694571526/",
+      "label": "new"
     },
     {
-      "rank": 26,
+      "rank": 21,
+      "title": "学校回应贫困学生黑板留言收废瓶",
+      "url": "https://www.toutiao.com/trending/7576817831413648923/",
+      "label": "recentProgress"
+    },
+    {
+      "rank": 22,
+      "title": "专家谈美南海捞军机防泄密：小人之心",
+      "url": "https://www.toutiao.com/trending/7576565154327281718/",
+      "label": ""
+    },
+    {
+      "rank": 23,
+      "title": "特朗普：俄乌和平协议已非常接近达成",
+      "url": "https://www.toutiao.com/trending/7576122161153281599/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "《唐诡》是国产原创ip的养成样本",
+      "url": "https://www.toutiao.com/trending/7576810374863801875/",
+      "label": ""
+    },
+    {
+      "rank": 25,
       "title": "理想老汤哥：终身质保就是空头承诺",
       "url": "https://www.toutiao.com/trending/7576660053764083251/",
       "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "在日中国游客提前回国 机场如春运",
+      "url": "https://www.toutiao.com/trending/7575692536447221766/",
+      "label": "onSite"
     },
     {
       "rank": 27,
@@ -172,14 +172,14 @@
     },
     {
       "rank": 28,
-      "title": "妈妈生二胎期间5岁儿子在家发烧离世",
-      "url": "https://www.toutiao.com/trending/7576151870222172196/",
-      "label": ""
+      "title": "探访荒野求生决赛核心区",
+      "url": "https://webcast-open.douyin.com/open/media_live/18697639737",
+      "label": "new"
     },
     {
       "rank": 29,
-      "title": "华为首款鸿蒙二合一平板电脑",
-      "url": "https://www.toutiao.com/trending/7576122161153314367/",
+      "title": "妈妈生二胎期间5岁儿子在家发烧离世",
+      "url": "https://www.toutiao.com/trending/7576151870222172196/",
       "label": ""
     },
     {
@@ -190,33 +190,33 @@
     },
     {
       "rank": 31,
-      "title": "美国网红哈桑访华有何象征意义",
-      "url": "https://www.toutiao.com/trending/7576816832213024831/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "华为Mate 80系列售价公布",
-      "url": "https://www.toutiao.com/trending/7576566051006057993/",
-      "label": "hot"
-    },
-    {
-      "rank": 33,
-      "title": "探访荒野求生决赛核心区",
-      "url": "https://webcast-open.douyin.com/open/media_live/18697639737",
-      "label": "new"
-    },
-    {
-      "rank": 34,
       "title": "特朗普白宫赦免火鸡一幕引全场爆笑",
       "url": "https://www.toutiao.com/trending/7576833868096114186/",
       "label": "new"
     },
     {
-      "rank": 35,
+      "rank": 32,
+      "title": "华为首款鸿蒙二合一平板电脑",
+      "url": "https://www.toutiao.com/trending/7576122161153314367/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "美国网红哈桑访华有何象征意义",
+      "url": "https://www.toutiao.com/trending/7576816832213024831/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
       "title": "大爷花2万多网购高配卡宴变保时捷鹿",
       "url": "https://www.toutiao.com/trending/7576541933825392646/",
       "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "华为Mate 80系列售价公布",
+      "url": "https://www.toutiao.com/trending/7576566051006057993/",
+      "label": "hot"
     },
     {
       "rank": 36,
@@ -226,74 +226,74 @@
     },
     {
       "rank": 37,
-      "title": "迪丽热巴再现拔刀名场面结果拔反了",
-      "url": "https://www.toutiao.com/trending/7575912421005705259/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "泰国遇最严重洪水派航母救灾",
-      "url": "https://www.toutiao.com/trending/7576722442303835691/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "媒体：广州车展的核心仍是卖车",
-      "url": "https://www.toutiao.com/trending/7576651990969617974/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "日本部署导弹到底在打什么算盘",
-      "url": "https://www.toutiao.com/trending/7576803012446801451/",
-      "label": ""
-    },
-    {
-      "rank": 41,
       "title": "专家：“AI泡沫论”有望平息",
       "url": "https://www.toutiao.com/trending/7576807183422066219/",
       "label": "new"
     },
     {
-      "rank": 42,
-      "title": "环保少女将威尼斯大运河染绿被罚",
-      "url": "https://www.toutiao.com/trending/7576047522959917119/",
+      "rank": 38,
+      "title": "迪丽热巴再现拔刀名场面结果拔反了",
+      "url": "https://www.toutiao.com/trending/7575912421005705259/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "国际社会警惕日本军国主义“还魂”",
-      "url": "https://www.toutiao.com/trending/7576837369739873834/",
-      "label": "new"
+      "rank": 39,
+      "title": "泰国遇最严重洪水派航母救灾",
+      "url": "https://www.toutiao.com/trending/7576722442303835691/",
+      "label": ""
     },
     {
-      "rank": 44,
+      "rank": 40,
       "title": "英伟达大跌后罕见安抚市场",
       "url": "https://www.toutiao.com/trending/7576807905916128819/",
       "label": ""
     },
     {
+      "rank": 41,
+      "title": "国际社会警惕日本军国主义“还魂”",
+      "url": "https://www.toutiao.com/trending/7576837369739873834/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
+      "title": "媒体：广州车展的核心仍是卖车",
+      "url": "https://www.toutiao.com/trending/7576651990969617974/",
+      "label": "new"
+    },
+    {
+      "rank": 43,
+      "title": "环保少女将威尼斯大运河染绿被罚",
+      "url": "https://www.toutiao.com/trending/7576047522959917119/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "日本部署导弹到底在打什么算盘",
+      "url": "https://www.toutiao.com/trending/7576803012446801451/",
+      "label": ""
+    },
+    {
       "rank": 45,
+      "title": "赵又廷祝贺易烊千玺获得金鸡奖影帝",
+      "url": "https://www.toutiao.com/trending/7575489479256571910/",
+      "label": ""
+    },
+    {
+      "rank": 46,
       "title": "官方澄清“都江堰水库被放生埃及塘鲺”",
       "url": "https://www.toutiao.com/trending/7576544760190517302/",
       "label": "recentProgress"
     },
     {
-      "rank": 46,
+      "rank": 47,
       "title": "日本民众再集会要求高市撤回妄言",
       "url": "https://www.toutiao.com/trending/7576440479848480814/",
       "label": "hot"
     },
     {
-      "rank": 47,
+      "rank": 48,
       "title": "潘周聃走红后回中学母校拜访老师",
       "url": "https://www.toutiao.com/trending/7576529709270794276/",
-      "label": ""
-    },
-    {
-      "rank": 48,
-      "title": "赵又廷祝贺易烊千玺获得金鸡奖影帝",
-      "url": "https://www.toutiao.com/trending/7575489479256571910/",
       "label": ""
     },
     {
@@ -304,9 +304,9 @@
     },
     {
       "rank": 50,
-      "title": "民进党官员称大陆为“外国”被批",
-      "url": "https://www.toutiao.com/trending/7576293379538157609/",
-      "label": ""
+      "title": "美媒称和平方案大幅修改并缩减",
+      "url": "https://www.toutiao.com/trending/7576102118701367315/",
+      "label": "new"
     }
   ]
 }
