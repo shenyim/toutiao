@@ -1,42 +1,42 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Thu, 27 Nov 2025 07:53:11 GMT",
+  "generated_at": "Thu, 27 Nov 2025 10:50:24 GMT",
   "top": {
     "rank": "置顶",
-    "title": "站在人民立场考虑问题",
-    "url": "https://www.toutiao.com/article/7577023442727109162/",
+    "title": "总书记关心推动志愿服务事业发展",
+    "url": "https://www.toutiao.com/article/7577216062907892224/",
     "label": ""
   },
   "items": [
     {
       "rank": 1,
+      "title": "中国正建造核动力航母？国防部回应",
+      "url": "https://www.toutiao.com/trending/7576465842142216246/",
+      "label": "hot"
+    },
+    {
+      "rank": 2,
       "title": "香港大埔火灾已致55人遇难",
       "url": "https://www.toutiao.com/trending/7576991131788247049/",
       "label": "hot"
     },
     {
-      "rank": 2,
-      "title": "香港起火楼内找到生还者",
-      "url": "https://www.toutiao.com/trending/7577216346329628708/",
-      "label": "hot"
-    },
-    {
       "rank": 3,
-      "title": "一组图读懂未来消费“新风口”",
-      "url": "https://www.toutiao.com/article/7576990859686576666",
+      "title": "透过最新数据感知中国活力",
+      "url": "https://www.toutiao.com/article/7577009819786199562",
       "label": ""
     },
     {
       "rank": 4,
-      "title": "昆明11死事故疑换轨作业人员提前上道",
-      "url": "https://www.toutiao.com/trending/7577267109227695642/",
-      "label": "hot"
+      "title": "李家超：香港大埔火灾已全部受控",
+      "url": "https://www.toutiao.com/trending/7577346018946158130/",
+      "label": "new"
     },
     {
       "rank": 5,
-      "title": "日本妄想复制二战时偷袭战术",
-      "url": "https://www.toutiao.com/trending/7576868165012439081/",
-      "label": ""
+      "title": "日称能击沉福建舰 国防部：痴人说梦",
+      "url": "https://www.toutiao.com/trending/7576914740409139263/",
+      "label": "hot"
     },
     {
       "rank": 6,
@@ -46,27 +46,27 @@
     },
     {
       "rank": 7,
-      "title": "宗馥莉卸任娃哈哈集团董事长",
-      "url": "https://www.toutiao.com/trending/7576329892900683803/",
-      "label": "new"
+      "title": "国家铁路局调查昆明11死事故",
+      "url": "https://www.toutiao.com/trending/7577314060111367731/",
+      "label": "hot"
     },
     {
       "rank": 8,
-      "title": "谁在悄悄吃掉日本丢掉的中国游客",
-      "url": "https://www.toutiao.com/trending/7577284830715448874/",
-      "label": "new"
+      "title": "中方回应高市“不再提及”表态",
+      "url": "https://www.toutiao.com/trending/7576825078340406803/",
+      "label": "hot"
     },
     {
       "rank": 9,
-      "title": "特朗普施压高市别在台湾问题上挑衅",
-      "url": "https://www.toutiao.com/trending/7576971637803716150/",
-      "label": ""
+      "title": "媒体：王凤朝被带走前正准备出门打球",
+      "url": "https://www.toutiao.com/trending/7576542356468600374/",
+      "label": "new"
     },
     {
       "rank": 10,
-      "title": "孩子生病耽误上课咋办",
-      "url": "https://www.toutiao.com/trending/7577170659357360164/",
-      "label": "forum"
+      "title": "香港起火楼内找到生还者",
+      "url": "https://www.toutiao.com/trending/7577216346329628708/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -76,237 +76,237 @@
     },
     {
       "rank": 12,
-      "title": "高市早苗国会首秀即遭“围剿”",
-      "url": "https://www.toutiao.com/trending/7577281443101937171/",
-      "label": "new"
+      "title": "孙菲菲：前夫像训宠物一样想控制我",
+      "url": "https://www.toutiao.com/trending/7577273626559254042/",
+      "label": ""
     },
     {
       "rank": 13,
-      "title": "香港火灾救援现场街坊小店捐赠盒饭",
-      "url": "https://www.toutiao.com/trending/7577030109254303798/",
-      "label": "hot"
-    },
-    {
-      "rank": 14,
-      "title": "谁是本赛季表现最好斯诺克中国球手",
-      "url": "https://www.toutiao.com/trending/7576972134963888166/",
+      "title": "上班如何“不吃亏”",
+      "url": "https://www.toutiao.com/trending/7577201750256549897/",
       "label": "forum"
     },
     {
+      "rank": 14,
+      "title": "国防部回应新西兰军舰过航台湾海峡",
+      "url": "https://www.toutiao.com/trending/7577320778060841011/",
+      "label": ""
+    },
+    {
       "rank": 15,
-      "title": "赖清德猛催油门 郑丽文如何突围",
-      "url": "https://www.toutiao.com/trending/7576604724708196358/",
+      "title": "为何说福建舰进度或远超预期",
+      "url": "https://www.toutiao.com/trending/7577309624198499866/",
       "label": "hot"
     },
     {
       "rank": 16,
-      "title": "用DeepSeek搜巴黎男乒冠军显示王楚钦",
-      "url": "https://www.toutiao.com/trending/7576229938517852170/",
+      "title": "特朗普施压高市别在台湾问题上挑衅",
+      "url": "https://www.toutiao.com/trending/7576971637803716150/",
       "label": ""
     },
     {
       "rank": 17,
-      "title": "废弃小学附近发生爆炸 有房屋受损",
-      "url": "https://www.toutiao.com/trending/7576872121260081203/",
-      "label": "hot"
+      "title": "裁员中你有哪些稳岗技巧",
+      "url": "https://www.toutiao.com/trending/7576975150957772863/",
+      "label": "forum"
     },
     {
       "rank": 18,
-      "title": "中方回应高市“不再提及”表态",
-      "url": "https://www.toutiao.com/trending/7576825078340406803/",
-      "label": "new"
+      "title": "3名女子身绑5.88千克活虫入境被查",
+      "url": "https://www.toutiao.com/trending/7577204018733219881/",
+      "label": ""
     },
     {
       "rank": 19,
-      "title": "国台办回应“一国两制”在台实现形式",
-      "url": "https://www.toutiao.com/trending/7576928988757803050/",
-      "label": ""
+      "title": "国防部：日方给自己惹事必将付出代价",
+      "url": "https://www.toutiao.com/trending/7577307982690730027/",
+      "label": "hot"
     },
     {
       "rank": 20,
-      "title": "成都市长王凤朝被查 家人一并被带走",
-      "url": "https://www.toutiao.com/trending/7576974380794773545/",
-      "label": ""
+      "title": "人民网发布视频：欢迎加入预备役",
+      "url": "https://www.toutiao.com/trending/7576891857604214847/",
+      "label": "new"
     },
     {
       "rank": 21,
-      "title": "官方通报恋人结婚前一天先后坠亡",
-      "url": "https://www.toutiao.com/trending/7577247445147455012/",
+      "title": "媒体评徒步蹭饭被拒：老板没毛病",
+      "url": "https://www.toutiao.com/trending/7576722442312306230/",
       "label": ""
     },
     {
       "rank": 22,
-      "title": "驻日使馆再次提醒近期避免前往日本",
-      "url": "https://www.toutiao.com/trending/7576601679031173174/",
-      "label": "hot"
+      "title": "日本妄想复制二战时偷袭战术",
+      "url": "https://www.toutiao.com/trending/7576868165012439081/",
+      "label": ""
     },
     {
       "rank": 23,
-      "title": "白宫宣布进入封锁状态",
-      "url": "https://www.toutiao.com/trending/7577164440265736211/",
-      "label": "new"
+      "title": "马克龙宣布将访华释放什么信号",
+      "url": "https://www.toutiao.com/trending/7577304169845886506/",
+      "label": "interpretation"
     },
     {
       "rank": 24,
-      "title": "港媒：赖清德加码巨额军费剑指郑丽文",
-      "url": "https://www.toutiao.com/trending/7577253179604078099/",
-      "label": "hot"
+      "title": "兰世立向金龙鱼“宣战”背后疑点仍存",
+      "url": "https://www.toutiao.com/trending/7577014624915095588/",
+      "label": "new"
     },
     {
       "rank": 25,
+      "title": "演习是否意在警告日本？国防部回应",
+      "url": "https://www.toutiao.com/trending/7576873211628765225/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "香港火灾救援现场街坊小店捐赠盒饭",
+      "url": "https://www.toutiao.com/trending/7577030109254303798/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "全线跳水 A股反弹能否延续",
+      "url": "https://www.toutiao.com/trending/7577305771424091698/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "国防部回应日本首次出口杀伤性武器",
+      "url": "https://www.toutiao.com/trending/7577252179627655174/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "谁在替酒精洗白",
+      "url": "https://www.toutiao.com/trending/7577303086935313947/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "外交部：高市早苗至今不思悔改",
+      "url": "https://www.toutiao.com/trending/7577005658273366057/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "不到一个月高市早苗被石破茂批了三次",
+      "url": "https://www.toutiao.com/trending/7577292791022095926/",
+      "label": ""
+    },
+    {
+      "rank": 32,
       "title": "中美元首近十年来首提“军国主义”",
       "url": "https://www.toutiao.com/trending/7576630513470750771/",
       "label": ""
     },
     {
-      "rank": 26,
-      "title": "香港大埔火情基本得到控制",
-      "url": "https://www.toutiao.com/trending/7577238771499077130/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "赖清德叫嚣“反对推进统一”注定失败",
-      "url": "https://www.toutiao.com/trending/7576263669786869803/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
-      "title": "福建一大坝建设被指存严重偷工减料",
-      "url": "https://www.toutiao.com/trending/7577137769254223908/",
-      "label": "new"
-    },
-    {
-      "rank": 29,
-      "title": "女生遭男同学杀害 母亲墓地看望爱女",
-      "url": "https://www.toutiao.com/trending/7576922852247765001/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "火箭客场104-100险胜勇士",
-      "url": "https://www.toutiao.com/trending/7577255233575764014/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
-      "title": "男子钓上105斤大鱼卖了7000元",
-      "url": "https://www.toutiao.com/trending/7575948812020269102/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "钟声：中美应共同维护二战胜利成果",
-      "url": "https://www.toutiao.com/trending/7576696351610847251/",
-      "label": "new"
-    },
-    {
       "rank": 33,
+      "title": "女子买下将被吃掉的边牧归还主人",
+      "url": "https://www.toutiao.com/trending/7577055608403378186/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "高市早苗国会首秀即遭“围剿”",
+      "url": "https://www.toutiao.com/trending/7577281443101937171/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "列车售货大姨与主播互动被辞退",
+      "url": "https://www.toutiao.com/trending/7577201807659925523/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "今日各大金店黄金价格",
+      "url": "https://www.toutiao.com/trending/7577299545361485354/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "中方敦促日方加快处理在华遗弃化武",
+      "url": "https://www.toutiao.com/trending/7577235312376987694/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "普京学弹乐器身后卢卡申科偷笑",
+      "url": "https://www.toutiao.com/trending/7576495526955696147/",
+      "label": "onSite"
+    },
+    {
+      "rank": 39,
+      "title": "业内：A股市场底部已基本确立",
+      "url": "https://www.toutiao.com/trending/7577325754254364196/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "帅化民：高市早苗并没有真正忏悔",
+      "url": "https://www.toutiao.com/trending/7576264593350262847/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "白宫宣布进入封锁状态",
+      "url": "https://www.toutiao.com/trending/7577164440265736211/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "李大霄：大盘由上升势头转为平衡势头",
+      "url": "https://www.toutiao.com/trending/7577330747678133810/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 43,
       "title": "深扒特朗普关税操盘手卢特尼克",
       "url": "https://www.toutiao.com/trending/7576615723494260762/",
       "label": "depth"
     },
     {
-      "rank": 34,
-      "title": "日学者：高市应撤回错误言论并道歉",
-      "url": "https://www.toutiao.com/trending/7577242842754469418/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "俄军进驻戈兰高地如何影响地区局势",
-      "url": "https://www.toutiao.com/trending/7577244483545206310/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 36,
-      "title": "火箭逆转勇士 库里伤退",
-      "url": "https://www.toutiao.com/trending/7577282153273101862/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "疑似知名女星前夫涉诈13.9亿元",
-      "url": "https://www.toutiao.com/trending/7577171627448864266/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "美国将延长部分对华关税豁免期",
-      "url": "https://www.toutiao.com/trending/7576722442304097835/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "申京表现低迷最后2罚全丢 正负值-16",
-      "url": "https://www.toutiao.com/trending/7576366948859035702/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "赖清德投书美媒称可追加军费被批",
-      "url": "https://www.toutiao.com/trending/7576612916984676390/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "法国总统府：马克龙12月初访华",
-      "url": "https://www.toutiao.com/trending/7577168875846942739/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "泰国洪水中现巨蛇游动",
-      "url": "https://www.toutiao.com/trending/7576722442304015915/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "特朗普称袭击国民警卫队是恐怖行为",
-      "url": "https://www.toutiao.com/trending/7577218266121224202/",
-      "label": ""
-    },
-    {
       "rank": 44,
-      "title": "赖清德追加400亿美元军费意欲何为",
-      "url": "https://www.toutiao.com/trending/7577237122201964086/",
-      "label": ""
+      "title": "33岁大熊猫高高离世",
+      "url": "https://www.toutiao.com/trending/7577316113642897462/",
+      "label": "new"
     },
     {
       "rank": 45,
-      "title": "法德英领导人相继访华透露啥信号",
-      "url": "https://www.toutiao.com/trending/7577201739275701823/",
+      "title": "女子右拐没打转向灯撞到骑行小哥",
+      "url": "https://www.toutiao.com/trending/7576938900402143275/",
       "label": ""
     },
     {
       "rank": 46,
-      "title": "日本教授：高市应向中国道歉",
-      "url": "https://www.toutiao.com/trending/7577297633136348691/",
-      "label": "new"
+      "title": "评论员：马克龙访华是为经济“补血”",
+      "url": "https://www.toutiao.com/trending/7577311774219701803/",
+      "label": "interpretation"
     },
     {
       "rank": 47,
-      "title": "港府巡查全港大型维修屋苑",
-      "url": "https://www.toutiao.com/trending/7576259101215571995/",
+      "title": "评论员：泽连斯基只剩和平方案签字权",
+      "url": "https://www.toutiao.com/trending/7577325725699542574/",
       "label": "new"
     },
     {
       "rank": 48,
-      "title": "灰熊加时胜鹈鹕",
-      "url": "https://www.toutiao.com/trending/7577214247671971903/",
+      "title": "外交部：中方绝不接受日方的自说自话",
+      "url": "https://www.toutiao.com/trending/7576838589062512646/",
       "label": "new"
     },
     {
       "rank": 49,
-      "title": "中国男篮世预赛首战将对阵韩国男篮",
-      "url": "https://www.toutiao.com/trending/7576155037811343403/",
+      "title": "A股冲高回落 三大股指涨跌互现",
+      "url": "https://www.toutiao.com/trending/7577213434442580010/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "许昕透露可能要离开上海队",
-      "url": "https://www.toutiao.com/trending/7576604162092498987/",
-      "label": "new"
+      "title": "赖清德猛催油门 郑丽文如何突围",
+      "url": "https://www.toutiao.com/trending/7576604724708196358/",
+      "label": ""
     }
   ]
 }
