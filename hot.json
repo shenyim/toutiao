@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Sat, 29 Nov 2025 13:05:05 GMT",
+  "generated_at": "Sat, 29 Nov 2025 13:10:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "健全网络生态治理长效机制",
@@ -52,21 +52,21 @@
     },
     {
       "rank": 8,
-      "title": "12月中国赴日航班已取消904个",
-      "url": "https://www.toutiao.com/trending/7577981991163314212/",
-      "label": "hot"
+      "title": "下周新一轮冷空气将抵达福建",
+      "url": "https://www.toutiao.com/trending/7578010252235309119/",
+      "label": "forum"
     },
     {
       "rank": 9,
-      "title": "中央气象台发布寒潮蓝色预警",
-      "url": "https://www.toutiao.com/trending/7577724626383142953/",
+      "title": "男子谎称陈某瑶网恋骗财33多万获刑",
+      "url": "https://www.toutiao.com/trending/7577488557552681014/",
       "label": "new"
     },
     {
       "rank": 10,
-      "title": "解放军教你野外生存硬核取水",
-      "url": "https://www.toutiao.com/trending/7577735470122418182/",
-      "label": ""
+      "title": "12月中国赴日航班已取消904个",
+      "url": "https://www.toutiao.com/trending/7577981991163314212/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -112,80 +112,80 @@
     },
     {
       "rank": 18,
-      "title": "迪拜航展上中国产品有何亮眼表现",
-      "url": "https://www.toutiao.com/trending/7578057194844192778/",
-      "label": "forum"
-    },
-    {
-      "rank": 19,
       "title": "美军正打捞黄海坠落的MQ-9无人机",
       "url": "https://www.toutiao.com/trending/7578049499780615689/",
       "label": ""
     },
     {
+      "rank": 19,
+      "title": "普京：将启动大规模军备更新计划",
+      "url": "https://www.toutiao.com/trending/7577960726251175977/",
+      "label": "new"
+    },
+    {
       "rank": 20,
+      "title": "中央气象台发布寒潮蓝色预警",
+      "url": "https://www.toutiao.com/trending/7577724626383142953/",
+      "label": "new"
+    },
+    {
+      "rank": 21,
       "title": "马英九呼吁赖清德勿把台湾拖向绝境",
       "url": "https://www.toutiao.com/trending/7577562556139782207/",
       "label": ""
     },
     {
-      "rank": 21,
-      "title": "中国推出颠覆传统的飞机发动机",
-      "url": "https://www.toutiao.com/trending/7577983046276615716/",
-      "label": ""
-    },
-    {
       "rank": 22,
-      "title": "糖尿病男子不重视饮食管理进ICU",
-      "url": "https://www.toutiao.com/trending/7577632290710831123/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "西班牙专家：日本从未承认过历史真相",
-      "url": "https://www.toutiao.com/trending/7578011465299673114/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "王楚钦孙颖莎参加混团世界杯抽签仪式",
-      "url": "https://www.toutiao.com/trending/7577993251001483270/",
-      "label": ""
-    },
-    {
-      "rank": 25,
       "title": "乌克兰失去首席谈判代表意味着什么",
       "url": "https://www.toutiao.com/trending/7578112183096053284/",
       "label": "depth"
     },
     {
-      "rank": 26,
-      "title": "日本防卫开支突破11万亿日元",
-      "url": "https://www.toutiao.com/trending/7577959052314542134/",
-      "label": "new"
-    },
-    {
-      "rank": 27,
-      "title": "新国标电动自行车涨价涨在了哪里",
-      "url": "https://www.toutiao.com/trending/7578064540550565412/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 28,
-      "title": "周星驰御用绿叶黄一山谈儿子患罕见病",
-      "url": "https://www.toutiao.com/trending/7578044198424559657/",
+      "rank": 23,
+      "title": "糖尿病男子不重视饮食管理进ICU",
+      "url": "https://www.toutiao.com/trending/7577632290710831123/",
       "label": ""
     },
     {
-      "rank": 29,
+      "rank": 24,
+      "title": "西班牙专家：日本从未承认过历史真相",
+      "url": "https://www.toutiao.com/trending/7578011465299673114/",
+      "label": ""
+    },
+    {
+      "rank": 25,
+      "title": "解放军教你野外生存硬核取水",
+      "url": "https://www.toutiao.com/trending/7577735470122418182/",
+      "label": ""
+    },
+    {
+      "rank": 26,
+      "title": "中国推出颠覆传统的飞机发动机",
+      "url": "https://www.toutiao.com/trending/7577983046276615716/",
+      "label": ""
+    },
+    {
+      "rank": 27,
       "title": "俄罗斯称日本已对邻国构成严重威胁",
       "url": "https://www.toutiao.com/trending/7577198315310268454/",
       "label": ""
     },
     {
-      "rank": 30,
+      "rank": 28,
+      "title": "王楚钦孙颖莎参加混团世界杯抽签仪式",
+      "url": "https://www.toutiao.com/trending/7577993251001483270/",
+      "label": ""
+    },
+    {
+      "rank": 29,
       "title": "新国标电动车遇冷",
       "url": "https://www.toutiao.com/trending/7578044599864659499/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "周星驰御用绿叶黄一山谈儿子患罕见病",
+      "url": "https://www.toutiao.com/trending/7578044198424559657/",
       "label": ""
     },
     {
@@ -196,9 +196,9 @@
     },
     {
       "rank": 32,
-      "title": "普京：将启动大规模军备更新计划",
-      "url": "https://www.toutiao.com/trending/7577960726251175977/",
-      "label": "new"
+      "title": "新国标电动自行车涨价涨在了哪里",
+      "url": "https://www.toutiao.com/trending/7578064540550565412/",
+      "label": "interpretation"
     },
     {
       "rank": 33,
@@ -214,99 +214,99 @@
     },
     {
       "rank": 35,
-      "title": "儿子举报父亲偷电瓶 民警现场叹息",
-      "url": "https://www.toutiao.com/trending/7577370549618327595/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "新国标电动自行车每辆4000元上下",
-      "url": "https://www.toutiao.com/trending/7576684711431684139/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "刘强东：未来机器人会完成所有工作",
-      "url": "https://www.toutiao.com/trending/7576735075170402347/",
-      "label": ""
-    },
-    {
-      "rank": 38,
       "title": "徐根宝祝贺海港三连冠",
       "url": "https://www.toutiao.com/trending/7577041592344297491/",
       "label": "new"
     },
     {
+      "rank": 36,
+      "title": "儿子举报父亲偷电瓶 民警现场叹息",
+      "url": "https://www.toutiao.com/trending/7577370549618327595/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "新国标电动自行车每辆4000元上下",
+      "url": "https://www.toutiao.com/trending/7576684711431684139/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "日本防卫开支突破11万亿日元",
+      "url": "https://www.toutiao.com/trending/7577959052314542134/",
+      "label": "new"
+    },
+    {
       "rank": 39,
+      "title": "明年起存取现超5万元不用再登记",
+      "url": "https://www.toutiao.com/trending/7577291148788629545/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
       "title": "东部战区演练超燃大片来了",
       "url": "https://www.toutiao.com/trending/7577570466929082374/",
       "label": ""
     },
     {
-      "rank": 40,
-      "title": "农户监控拍到野生东北虎院外徘徊",
-      "url": "https://www.toutiao.com/trending/7577057884123447337/",
-      "label": "new"
-    },
-    {
       "rank": 41,
-      "title": "大V：民企量产让高超音速导弹白菜化",
-      "url": "https://www.toutiao.com/trending/7578008359400377919/",
-      "label": "hot"
+      "title": "刘强东：未来机器人会完成所有工作",
+      "url": "https://www.toutiao.com/trending/7576735075170402347/",
+      "label": ""
     },
     {
       "rank": 42,
-      "title": "C罗晒对决机器门将视频",
-      "url": "https://www.toutiao.com/trending/7577026029048021034/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "商家称白鸭绒几乎一天一个价",
-      "url": "https://www.toutiao.com/trending/7578009605469683754/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "黑海再次发生油轮遭袭事件",
-      "url": "https://www.toutiao.com/trending/7577969814342893622/",
-      "label": ""
-    },
-    {
-      "rank": 45,
       "title": "邵永灵：特朗普和平计划谜团太多",
       "url": "https://www.toutiao.com/trending/7578090716786593322/",
       "label": "depth"
     },
     {
+      "rank": 43,
+      "title": "华北东北等地降温可达10至14℃",
+      "url": "https://www.toutiao.com/trending/7577942560195395610/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "大V：民企量产让高超音速导弹白菜化",
+      "url": "https://www.toutiao.com/trending/7578008359400377919/",
+      "label": "hot"
+    },
+    {
+      "rank": 45,
+      "title": "C罗晒对决机器门将视频",
+      "url": "https://www.toutiao.com/trending/7577026029048021034/",
+      "label": ""
+    },
+    {
       "rank": 46,
+      "title": "32辆株洲球迷大巴抵达益阳",
+      "url": "https://www.toutiao.com/trending/7577494284019023914/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "黑海再次发生油轮遭袭事件",
+      "url": "https://www.toutiao.com/trending/7577969814342893622/",
+      "label": ""
+    },
+    {
+      "rank": 48,
       "title": "南海部分海域进行实弹射击禁止驶入",
       "url": "https://www.toutiao.com/trending/7578034471526924324/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "女子过度依赖辅助驾驶致4车连撞",
-      "url": "https://www.toutiao.com/trending/7577971715616260138/",
+      "rank": 49,
+      "title": "商家称白鸭绒几乎一天一个价",
+      "url": "https://www.toutiao.com/trending/7578009605469683754/",
       "label": ""
     },
     {
-      "rank": 48,
-      "title": "曝印尼拒绝美国涉华“毒丸”条款",
-      "url": "https://www.toutiao.com/trending/7578040044280090154/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 49,
-      "title": "快船主教练谈快船107-112不敌灰熊",
-      "url": "https://www.toutiao.com/trending/7577981310871011334/",
-      "label": "new"
-    },
-    {
       "rank": 50,
-      "title": "华北东北等地降温可达10至14℃",
-      "url": "https://www.toutiao.com/trending/7577942560195395610/",
-      "label": "new"
+      "title": "女子过度依赖辅助驾驶致4车连撞",
+      "url": "https://www.toutiao.com/trending/7577971715616260138/",
+      "label": ""
     }
   ]
 }
