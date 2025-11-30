@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Sun, 30 Nov 2025 16:05:05 GMT",
+  "generated_at": "Sun, 30 Nov 2025 16:10:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "事关“最大变量” 习近平最新部署",
@@ -46,15 +46,15 @@
     },
     {
       "rank": 7,
-      "title": "为考公上岸有人6万元报班封闭式学习",
-      "url": "https://www.toutiao.com/trending/7578154645286535231/",
-      "label": "new"
-    },
-    {
-      "rank": 8,
       "title": "香港火灾已致146人遇难",
       "url": "https://www.toutiao.com/trending/7577752300220104754/",
       "label": "hot"
+    },
+    {
+      "rank": 8,
+      "title": "为考公上岸有人6万元报班封闭式学习",
+      "url": "https://www.toutiao.com/trending/7578154645286535231/",
+      "label": "new"
     },
     {
       "rank": 9,
@@ -88,8 +88,8 @@
     },
     {
       "rank": 14,
-      "title": "退休后你会如何生活",
-      "url": "https://www.toutiao.com/trending/7578130313680224319/",
+      "title": "你会选择哪种退休生活模式",
+      "url": "https://www.toutiao.com/trending/7578268476138553394/",
       "label": "forum"
     },
     {
@@ -130,44 +130,44 @@
     },
     {
       "rank": 21,
-      "title": "男子出轨染性病传给妻子却带情人治疗",
-      "url": "https://www.toutiao.com/trending/7578146252287705130/",
-      "label": ""
-    },
-    {
-      "rank": 22,
       "title": "群众举报出租屋异常 警方突击抓嫖",
       "url": "https://www.toutiao.com/trending/7578240014816018473/",
       "label": ""
     },
     {
-      "rank": 23,
-      "title": "婚前同居分手也要“分家产”吗",
-      "url": "https://www.toutiao.com/trending/7578217732513660974/",
+      "rank": 22,
+      "title": "男子出轨染性病传给妻子却带情人治疗",
+      "url": "https://www.toutiao.com/trending/7578146252287705130/",
       "label": ""
     },
     {
-      "rank": 24,
+      "rank": 23,
       "title": "专家：瑞士拒绝做“第二个日本”",
       "url": "https://www.toutiao.com/trending/7578475966016523817/",
       "label": ""
     },
     {
-      "rank": 25,
+      "rank": 24,
       "title": "内塔尼亚胡正式提交赦免请求",
       "url": "https://www.toutiao.com/trending/7578468129903509540/",
       "label": ""
     },
     {
+      "rank": 25,
+      "title": "婚前同居分手也要“分家产”吗",
+      "url": "https://www.toutiao.com/trending/7578217732513660974/",
+      "label": ""
+    },
+    {
       "rank": 26,
-      "title": "俄学者：日本外交政策存在严重问题",
-      "url": "https://www.toutiao.com/trending/7577901684924366899/",
+      "title": "男子流感后乱吃药致严重肝损伤",
+      "url": "https://www.toutiao.com/trending/7578427034092208138/",
       "label": ""
     },
     {
       "rank": 27,
-      "title": "男子流感后乱吃药致严重肝损伤",
-      "url": "https://www.toutiao.com/trending/7578427034092208138/",
+      "title": "俄学者：日本外交政策存在严重问题",
+      "url": "https://www.toutiao.com/trending/7577901684924366899/",
       "label": ""
     },
     {
@@ -178,32 +178,32 @@
     },
     {
       "rank": 29,
-      "title": "中国队挺进U17男足亚洲杯",
-      "url": "https://www.toutiao.com/trending/7578056731587624966/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
       "title": "队友光速逃离留王楚钦一人接受采访",
       "url": "https://www.toutiao.com/trending/7578373378583724051/",
       "label": ""
     },
     {
-      "rank": 31,
+      "rank": 30,
       "title": "新修订的治安管理处罚法明年1月施行",
       "url": "https://www.toutiao.com/trending/7577613483557355539/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "菲律宾多地抗议游行矛头指向马科斯",
-      "url": "https://www.toutiao.com/trending/7578492341644693034/",
+      "rank": 31,
+      "title": "成都一库房突发大火 无人伤亡",
+      "url": "https://www.toutiao.com/trending/7578094488036409354/",
       "label": ""
     },
     {
+      "rank": 32,
+      "title": "中国队挺进U17男足亚洲杯",
+      "url": "https://www.toutiao.com/trending/7578056731587624966/",
+      "label": "new"
+    },
+    {
       "rank": 33,
-      "title": "成都一库房突发大火 无人伤亡",
-      "url": "https://www.toutiao.com/trending/7578094488036409354/",
+      "title": "菲律宾多地抗议游行矛头指向马科斯",
+      "url": "https://www.toutiao.com/trending/7578492341644693034/",
       "label": ""
     },
     {
@@ -268,45 +268,45 @@
     },
     {
       "rank": 44,
-      "title": "谁让A股变冷了",
-      "url": "https://www.toutiao.com/trending/7578479529144880681/",
-      "label": "depth"
-    },
-    {
-      "rank": 45,
       "title": "大V：俄罗斯秀核威慑能力却玩砸了",
       "url": "https://www.toutiao.com/trending/7578465745344925220/",
       "label": ""
     },
     {
+      "rank": 45,
+      "title": "谁让A股变冷了",
+      "url": "https://www.toutiao.com/trending/7578479529144880681/",
+      "label": "depth"
+    },
+    {
       "rank": 46,
-      "title": "高层建筑火灾如何正确自救",
-      "url": "https://www.toutiao.com/trending/7578418016687030278/",
-      "label": ""
-    },
-    {
-      "rank": 47,
-      "title": "博主：歼-35与美俄竞争中东市场",
-      "url": "https://www.toutiao.com/trending/7578486146821590582/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 48,
       "title": "高市被曝想争取他国支持缓解外交摩擦",
       "url": "https://www.toutiao.com/trending/7577249990532251654/",
       "label": "hot"
     },
     {
-      "rank": 49,
+      "rank": 47,
+      "title": "齐尔克泽本场1射进1球",
+      "url": "https://www.toutiao.com/trending/7578508361654812722/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
       "title": "茅台价格跌到1500多元 会继续跌吗",
       "url": "https://www.toutiao.com/trending/7578415366397759012/",
       "label": ""
     },
     {
-      "rank": 50,
-      "title": "国产智驾迎来一波极速淘汰赛",
-      "url": "https://www.toutiao.com/trending/7578491873367428662/",
+      "rank": 49,
+      "title": "高层建筑火灾如何正确自救",
+      "url": "https://www.toutiao.com/trending/7578418016687030278/",
       "label": ""
+    },
+    {
+      "rank": 50,
+      "title": "博主：歼-35与美俄竞争中东市场",
+      "url": "https://www.toutiao.com/trending/7578486146821590582/",
+      "label": "interpretation"
     }
   ]
 }
