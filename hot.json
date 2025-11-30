@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Sun, 30 Nov 2025 15:25:05 GMT",
+  "generated_at": "Sun, 30 Nov 2025 15:30:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "事关“最大变量” 习近平最新部署",
@@ -46,15 +46,15 @@
     },
     {
       "rank": 7,
-      "title": "“百岁”吃播“钟姐”走红网络",
-      "url": "https://www.toutiao.com/trending/7578450880782041107/",
-      "label": ""
+      "title": "茅台为何“跌跌不休”",
+      "url": "https://www.toutiao.com/trending/7578513955849506310/",
+      "label": "new"
     },
     {
       "rank": 8,
-      "title": "进军亚洲杯！国少4-0胜孟加拉国",
-      "url": "https://www.toutiao.com/trending/7577779394199470107/",
-      "label": "hot"
+      "title": "“百岁”吃播“钟姐”走红网络",
+      "url": "https://www.toutiao.com/trending/7578450880782041107/",
+      "label": ""
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "内塔尼亚胡正式提交赦免请求",
-      "url": "https://www.toutiao.com/trending/7578468129903509540/",
-      "label": ""
+      "title": "进军亚洲杯！国少4-0胜孟加拉国",
+      "url": "https://www.toutiao.com/trending/7577779394199470107/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -76,86 +76,86 @@
     },
     {
       "rank": 12,
+      "title": "内塔尼亚胡正式提交赦免请求",
+      "url": "https://www.toutiao.com/trending/7578468129903509540/",
+      "label": ""
+    },
+    {
+      "rank": 13,
       "title": "央视解读“吸毒记录可封存”",
       "url": "https://www.toutiao.com/article/7578468658331894324",
       "label": ""
     },
     {
-      "rank": 13,
-      "title": "茅台为何“跌跌不休”",
-      "url": "https://www.toutiao.com/trending/7578513955849506310/",
-      "label": "new"
-    },
-    {
       "rank": 14,
-      "title": "退休后你会如何生活",
-      "url": "https://www.toutiao.com/trending/7578130313680224319/",
+      "title": "湖南即将开启风雨模式",
+      "url": "https://www.toutiao.com/trending/7578425028778508330/",
       "label": "forum"
     },
     {
       "rank": 15,
-      "title": "婚前同居分手也要“分家产”吗",
-      "url": "https://www.toutiao.com/trending/7578217732513660974/",
-      "label": ""
-    },
-    {
-      "rank": 16,
-      "title": "外媒：解放军火箭弹成“准反舰导弹”",
-      "url": "https://www.toutiao.com/trending/7578489145404689930/",
-      "label": ""
-    },
-    {
-      "rank": 17,
-      "title": "七星山荒野求生挑战赛仅剩11人",
-      "url": "https://www.toutiao.com/trending/7577412249275482131/",
-      "label": ""
-    },
-    {
-      "rank": 18,
-      "title": "香港火灾失联名单中159人确认安全",
-      "url": "https://www.toutiao.com/trending/7578090475048402982/",
-      "label": ""
-    },
-    {
-      "rank": 19,
-      "title": "队友光速逃离留王楚钦一人接受采访",
-      "url": "https://www.toutiao.com/trending/7578373378583724051/",
-      "label": ""
-    },
-    {
-      "rank": 20,
       "title": "男子流感后乱吃药致严重肝损伤",
       "url": "https://www.toutiao.com/trending/7578427034092208138/",
       "label": "new"
     },
     {
-      "rank": 21,
-      "title": "俄学者：日本外交政策存在严重问题",
-      "url": "https://www.toutiao.com/trending/7577901684924366899/",
+      "rank": 16,
+      "title": "婚前同居分手也要“分家产”吗",
+      "url": "https://www.toutiao.com/trending/7578217732513660974/",
+      "label": ""
+    },
+    {
+      "rank": 17,
+      "title": "外媒：解放军火箭弹成“准反舰导弹”",
+      "url": "https://www.toutiao.com/trending/7578489145404689930/",
+      "label": ""
+    },
+    {
+      "rank": 18,
+      "title": "七星山荒野求生挑战赛仅剩11人",
+      "url": "https://www.toutiao.com/trending/7577412249275482131/",
+      "label": ""
+    },
+    {
+      "rank": 19,
+      "title": "宁夏中宁警方一锅端掉非法盗猎团伙",
+      "url": "https://www.toutiao.com/trending/7578421067976589350/",
       "label": "new"
     },
     {
+      "rank": 20,
+      "title": "香港火灾失联名单中159人确认安全",
+      "url": "https://www.toutiao.com/trending/7578090475048402982/",
+      "label": ""
+    },
+    {
+      "rank": 21,
+      "title": "队友光速逃离留王楚钦一人接受采访",
+      "url": "https://www.toutiao.com/trending/7578373378583724051/",
+      "label": ""
+    },
+    {
       "rank": 22,
+      "title": "俄学者：日本外交政策存在严重问题",
+      "url": "https://www.toutiao.com/trending/7577901684924366899/",
+      "label": ""
+    },
+    {
+      "rank": 23,
       "title": "A股连续缩量说明了什么",
       "url": "https://www.toutiao.com/trending/7578495650929577482/",
       "label": "depth"
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "中际旭创被纳中证A50 ETF会接盘吗",
       "url": "https://www.toutiao.com/trending/7578150899362217994/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "广德卡旺卡奶茶为防倒卖每单限购12杯",
-      "url": "https://www.toutiao.com/trending/7577971304821850148/",
       "label": "new"
     },
     {
       "rank": 25,
-      "title": "宁夏中宁警方一锅端掉非法盗猎团伙",
-      "url": "https://www.toutiao.com/trending/7578421067976589350/",
+      "title": "广德卡旺卡奶茶为防倒卖每单限购12杯",
+      "url": "https://www.toutiao.com/trending/7577971304821850148/",
       "label": "new"
     },
     {
@@ -172,80 +172,80 @@
     },
     {
       "rank": 28,
-      "title": "群众举报出租屋异常 警方突击抓嫖",
-      "url": "https://www.toutiao.com/trending/7578240014816018473/",
-      "label": ""
-    },
-    {
-      "rank": 29,
       "title": "茅台价格跌到1500多元 会继续跌吗",
       "url": "https://www.toutiao.com/trending/7578415366397759012/",
       "label": ""
     },
     {
-      "rank": 30,
+      "rank": 29,
       "title": "《疯狂动物城2》票房大爆的5个原因",
       "url": "https://www.toutiao.com/trending/7578410854245207594/",
       "label": ""
     },
     {
+      "rank": 30,
+      "title": "群众举报出租屋异常 警方突击抓嫖",
+      "url": "https://www.toutiao.com/trending/7578240014816018473/",
+      "label": ""
+    },
+    {
       "rank": 31,
-      "title": "歼-36三发矢量推力设计新逻辑",
-      "url": "https://www.toutiao.com/trending/7578486013211708964/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 32,
-      "title": "安倍晋三到高市早苗跨越10年的阴谋",
-      "url": "https://www.toutiao.com/trending/7577767140435476507/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "我国成功发射实践二十八号卫星",
-      "url": "https://www.toutiao.com/trending/7578502897512562751/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "专家：瑞士拒绝做“第二个日本”",
-      "url": "https://www.toutiao.com/trending/7578475966016523817/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "少年每天5瓶碳酸饮料患糖尿病",
-      "url": "https://www.toutiao.com/trending/7577497743037186090/",
-      "label": ""
-    },
-    {
-      "rank": 36,
       "title": "中国队挺进U17男足亚洲杯",
       "url": "https://www.toutiao.com/trending/7578056731587624966/",
       "label": "new"
     },
     {
-      "rank": 37,
+      "rank": 32,
       "title": "为考公上岸有人6万元报班封闭式学习",
       "url": "https://www.toutiao.com/trending/7578154645286535231/",
       "label": "new"
     },
     {
+      "rank": 33,
+      "title": "歼-36三发矢量推力设计新逻辑",
+      "url": "https://www.toutiao.com/trending/7578486013211708964/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 34,
+      "title": "少年每天5瓶碳酸饮料患糖尿病",
+      "url": "https://www.toutiao.com/trending/7577497743037186090/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "英法德意发布联合声明",
+      "url": "https://www.toutiao.com/trending/7577939823017836580/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "专家：瑞士拒绝做“第二个日本”",
+      "url": "https://www.toutiao.com/trending/7578475966016523817/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "安倍晋三到高市早苗跨越10年的阴谋",
+      "url": "https://www.toutiao.com/trending/7577767140435476507/",
+      "label": ""
+    },
+    {
       "rank": 38,
+      "title": "国考紧扣热点 体重管理入考题",
+      "url": "https://www.toutiao.com/trending/7578482397587750953/",
+      "label": ""
+    },
+    {
+      "rank": 39,
       "title": "遛狗不牵绳致伤人可罚款拘留",
       "url": "https://www.toutiao.com/trending/7578020742269993006/",
       "label": ""
     },
     {
-      "rank": 39,
+      "rank": 40,
       "title": "菲律宾多地抗议游行矛头指向马科斯",
       "url": "https://www.toutiao.com/trending/7578492341644693034/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "国考紧扣热点 体重管理入考题",
-      "url": "https://www.toutiao.com/trending/7578482397587750953/",
       "label": ""
     },
     {
@@ -262,51 +262,51 @@
     },
     {
       "rank": 43,
+      "title": "我国成功发射实践二十八号卫星",
+      "url": "https://www.toutiao.com/trending/7578502897512562751/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
       "title": "老兵用泪水和拥抱告别战友",
       "url": "https://www.toutiao.com/trending/7578463492756684854/",
       "label": "new"
     },
     {
-      "rank": 44,
+      "rank": 45,
       "title": "国产智驾迎来一波极速淘汰赛",
       "url": "https://www.toutiao.com/trending/7578491873367428662/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "艾登当花童给黄雅琼送戒指",
-      "url": "https://www.toutiao.com/trending/7578424327289847814/",
-      "label": ""
-    },
-    {
       "rank": 46,
-      "title": "中美六代机的“非对称竞争”",
-      "url": "https://www.toutiao.com/trending/7578485955414199862/",
-      "label": "interpretation"
+      "title": "成都一库房突发大火 无人伤亡",
+      "url": "https://www.toutiao.com/trending/7578094488036409354/",
+      "label": "new"
     },
     {
       "rank": 47,
-      "title": "大V：俄罗斯秀核威慑能力却玩砸了",
-      "url": "https://www.toutiao.com/trending/7578465745344925220/",
-      "label": ""
-    },
-    {
-      "rank": 48,
       "title": "马龙樊振东给黄雅琼婚礼送祝福",
       "url": "https://www.toutiao.com/trending/7578381832530526262/",
       "label": ""
     },
     {
+      "rank": 48,
+      "title": "大V：俄罗斯秀核威慑能力却玩砸了",
+      "url": "https://www.toutiao.com/trending/7578465745344925220/",
+      "label": ""
+    },
+    {
       "rank": 49,
-      "title": "博主：歼-35与美俄竞争中东市场",
-      "url": "https://www.toutiao.com/trending/7578486146821590582/",
+      "title": "中美六代机的“非对称竞争”",
+      "url": "https://www.toutiao.com/trending/7578485955414199862/",
       "label": "interpretation"
     },
     {
       "rank": 50,
-      "title": "成都一库房突发大火 无人伤亡",
-      "url": "https://www.toutiao.com/trending/7578094488036409354/",
-      "label": "new"
+      "title": "艾登当花童给黄雅琼送戒指",
+      "url": "https://www.toutiao.com/trending/7578424327289847814/",
+      "label": ""
     }
   ]
 }
