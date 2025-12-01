@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 01 Dec 2025 16:35:06 GMT",
+  "generated_at": "Mon, 01 Dec 2025 16:40:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "推进党的自我革命 总书记强调抓到位",
@@ -82,14 +82,14 @@
     },
     {
       "rank": 13,
-      "title": "中国队8比0轻取埃及队",
-      "url": "https://www.toutiao.com/trending/7578477496878891044/",
+      "title": "小米汽车月销破4万辆 订单还够用吗",
+      "url": "https://www.toutiao.com/trending/7578838517380288027/",
       "label": ""
     },
     {
       "rank": 14,
-      "title": "小米汽车月销破4万辆 订单还够用吗",
-      "url": "https://www.toutiao.com/trending/7578838517380288027/",
+      "title": "中国队8比0轻取埃及队",
+      "url": "https://www.toutiao.com/trending/7578477496878891044/",
       "label": ""
     },
     {
@@ -124,14 +124,14 @@
     },
     {
       "rank": 20,
-      "title": "周冬雨起诉造谣其和曾志伟关系的网友",
-      "url": "https://www.toutiao.com/trending/7578810753177174066/",
-      "label": ""
+      "title": "影视飓风回应冲锋衣含致癌物",
+      "url": "https://www.toutiao.com/trending/7578858279237848619/",
+      "label": "new"
     },
     {
       "rank": 21,
-      "title": "王思聪新加坡看BLACKPINK演唱会",
-      "url": "https://www.toutiao.com/trending/7578516418421981225/",
+      "title": "宁德时代董事长回应“基层员工涨薪”",
+      "url": "https://www.toutiao.com/trending/7578796721682157099/",
       "label": ""
     },
     {
@@ -142,27 +142,27 @@
     },
     {
       "rank": 23,
-      "title": "宁德时代董事长回应“基层员工涨薪”",
-      "url": "https://www.toutiao.com/trending/7578796721682157099/",
+      "title": "王思聪新加坡看BLACKPINK演唱会",
+      "url": "https://www.toutiao.com/trending/7578516418421981225/",
       "label": ""
     },
     {
       "rank": 24,
+      "title": "周冬雨起诉造谣其和曾志伟关系的网友",
+      "url": "https://www.toutiao.com/trending/7578810753177174066/",
+      "label": ""
+    },
+    {
+      "rank": 25,
       "title": "连输韩国男篮两次 中国男篮怎么了",
       "url": "https://www.toutiao.com/trending/7578868319634066954/",
       "label": "hot"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "中纪委11月打下6虎",
       "url": "https://www.toutiao.com/trending/7578753025737588772/",
       "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "影视飓风回应冲锋衣含致癌物",
-      "url": "https://www.toutiao.com/trending/7578858279237848619/",
-      "label": "new"
     },
     {
       "rank": 27,
@@ -172,9 +172,9 @@
     },
     {
       "rank": 28,
-      "title": "金灿荣：日本盟友不表态已说明问题",
-      "url": "https://www.toutiao.com/trending/7578132493980729387/",
-      "label": "new"
+      "title": "银基老板：“排骨羽绒服”成冬季爆款",
+      "url": "https://www.toutiao.com/trending/7578804660165738542/",
+      "label": ""
     },
     {
       "rank": 29,
@@ -184,15 +184,15 @@
     },
     {
       "rank": 30,
-      "title": "银基老板：“排骨羽绒服”成冬季爆款",
-      "url": "https://www.toutiao.com/trending/7578804660165738542/",
+      "title": "深圳开挖巨型垃圾填埋场",
+      "url": "https://www.toutiao.com/trending/7578356520837283867/",
       "label": ""
     },
     {
       "rank": 31,
-      "title": "深圳开挖巨型垃圾填埋场",
-      "url": "https://www.toutiao.com/trending/7578356520837283867/",
-      "label": ""
+      "title": "美媒：民调显示特朗普正面临麻烦",
+      "url": "https://www.toutiao.com/trending/7577944008061108270/",
+      "label": "new"
     },
     {
       "rank": 32,
@@ -202,26 +202,26 @@
     },
     {
       "rank": 33,
-      "title": "美智库：歼-35冲击中东军火格局",
-      "url": "https://www.toutiao.com/trending/7578875101014134314/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "美媒：民调显示特朗普正面临麻烦",
-      "url": "https://www.toutiao.com/trending/7577944008061108270/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
       "title": "中企抄底美最大稀土矿如今套现数十亿",
       "url": "https://www.toutiao.com/trending/7578810905849286170/",
       "label": ""
     },
     {
+      "rank": 34,
+      "title": "美智库：歼-35冲击中东军火格局",
+      "url": "https://www.toutiao.com/trending/7578875101014134314/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "酒吧回应招服务员月薪50万起",
+      "url": "https://www.toutiao.com/trending/7578834521873727551/",
+      "label": ""
+    },
+    {
       "rank": 36,
-      "title": "孙颖莎：希望中国队接下来有更好表现",
-      "url": "https://www.toutiao.com/trending/7578245257818095659/",
+      "title": "记者申请公开10份处罚决定书被拒",
+      "url": "https://www.toutiao.com/trending/7578863263996805129/",
       "label": "new"
     },
     {
@@ -232,68 +232,68 @@
     },
     {
       "rank": 38,
-      "title": "酒吧回应招服务员月薪50万起",
-      "url": "https://www.toutiao.com/trending/7578834521873727551/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "记者申请公开10份处罚决定书被拒",
-      "url": "https://www.toutiao.com/trending/7578863263996805129/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
       "title": "香港大埔火灾：警方已拘捕13人",
       "url": "https://www.toutiao.com/trending/7578801428643188275/",
       "label": ""
     },
     {
-      "rank": 41,
+      "rank": 39,
       "title": "俄乌战争什么样的结果对俄才算胜利",
       "url": "https://www.toutiao.com/trending/7578871967697079849/",
       "label": ""
     },
     {
-      "rank": 42,
+      "rank": 40,
+      "title": "孙颖莎：希望中国队接下来有更好表现",
+      "url": "https://www.toutiao.com/trending/7578245257818095659/",
+      "label": ""
+    },
+    {
+      "rank": 41,
       "title": "14种“进口”奶制品产自河南某出租房",
       "url": "https://www.toutiao.com/trending/7578334305471135771/",
       "label": "new"
     },
     {
-      "rank": 43,
+      "rank": 42,
       "title": "郭士强：攻防两端确实没有对手做的好",
       "url": "https://www.toutiao.com/trending/7578418641671389247/",
       "label": ""
     },
     {
-      "rank": 44,
+      "rank": 43,
       "title": "当年高位买房的人现在怎么样了",
       "url": "https://www.toutiao.com/trending/7578767013087022618/",
       "label": "depth"
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "张家界七星山：荒野求生鏖战正酣",
       "url": "https://www.toutiao.com/trending/7578783503026798643/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "男子怀疑在房间内遭偷窥 酒店回应",
-      "url": "https://www.toutiao.com/trending/7578722692640227391/",
-      "label": ""
-    },
-    {
-      "rank": 47,
+      "rank": 45,
       "title": "加藤登纪子希望高市尽快收回她的言论",
       "url": "https://www.toutiao.com/trending/7578839932328869929/",
       "label": ""
     },
     {
-      "rank": 48,
+      "rank": 46,
       "title": "邓超儿子“等等”获U14男子比赛亚军",
       "url": "https://www.toutiao.com/trending/7578691974358974518/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "男子怀疑在房间内遭偷窥 酒店回应",
+      "url": "https://www.toutiao.com/trending/7578722692640227391/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "超1900个去日本的航班取消",
+      "url": "https://www.toutiao.com/trending/7578073138874253318/",
       "label": ""
     },
     {
@@ -304,8 +304,8 @@
     },
     {
       "rank": 50,
-      "title": "超1900个去日本的航班取消",
-      "url": "https://www.toutiao.com/trending/7578073138874253318/",
+      "title": "媒体人：亚洲杯的防守和投篮去哪了",
+      "url": "https://www.toutiao.com/trending/7578845698486861865/",
       "label": ""
     }
   ]
