@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 01 Dec 2025 10:40:04 GMT",
+  "generated_at": "Mon, 01 Dec 2025 10:45:08 GMT",
   "top": {
     "rank": "置顶",
     "title": "抓网络生态治理 总书记强调“五个坚持”",
@@ -42,7 +42,7 @@
       "rank": 6,
       "title": "不会有“神二十二乘组”了",
       "url": "https://www.toutiao.com/trending/7578803618493500954/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 7,
@@ -54,13 +54,13 @@
       "rank": 8,
       "title": "美可卓蓝胖子回应假奶粉事件",
       "url": "https://www.toutiao.com/trending/7577790835619250195/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 9,
-      "title": "神二十计划在轨处置之后无人返回",
-      "url": "https://www.toutiao.com/trending/7577933936085467178/",
-      "label": "hot"
+      "title": "爱马仕继承人150亿美元财富失踪",
+      "url": "https://www.toutiao.com/trending/7577611751588626458/",
+      "label": ""
     },
     {
       "rank": 10,
@@ -84,7 +84,7 @@
       "rank": 13,
       "title": "史上最严电动车新国标都有哪些变化",
       "url": "https://www.toutiao.com/trending/7578784671941529139/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 14,
@@ -94,15 +94,15 @@
     },
     {
       "rank": 15,
-      "title": "普通人存钱有啥技巧",
-      "url": "https://www.toutiao.com/trending/7578386685408673835/",
-      "label": "forum"
-    },
-    {
-      "rank": 16,
       "title": "大V：朝鲜新装备把中美石头全摸一遍",
       "url": "https://www.toutiao.com/trending/7578808008709246514/",
       "label": "new"
+    },
+    {
+      "rank": 16,
+      "title": "普通人存钱有啥技巧",
+      "url": "https://www.toutiao.com/trending/7578386685408673835/",
+      "label": "forum"
     },
     {
       "rank": 17,
@@ -124,50 +124,50 @@
     },
     {
       "rank": 20,
-      "title": "入伍30年的一级军士长光荣退休",
-      "url": "https://www.toutiao.com/trending/7578704552023703603/",
-      "label": ""
-    },
-    {
-      "rank": 21,
       "title": "低利率时代中国人悄悄开始“理”钱",
       "url": "https://www.toutiao.com/trending/7578347153043636250/",
       "label": "interpretation"
     },
     {
+      "rank": 21,
+      "title": "入伍30年的一级军士长光荣退休",
+      "url": "https://www.toutiao.com/trending/7578704552023703603/",
+      "label": ""
+    },
+    {
       "rank": 22,
-      "title": "李在明强调清除内乱残余势力",
-      "url": "https://www.toutiao.com/trending/7578773009243193386/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "爱马仕继承人150亿美元财富失踪",
-      "url": "https://www.toutiao.com/trending/7577611751588626458/",
-      "label": ""
-    },
-    {
-      "rank": 24,
       "title": "广州交警升级电单车违法行为治理举措",
       "url": "https://www.toutiao.com/trending/7578768267889295403/",
       "label": "new"
     },
     {
-      "rank": 25,
-      "title": "虚假防洪工程丑闻引爆菲律宾政坛",
-      "url": "https://www.toutiao.com/trending/7577905983775866918/",
-      "label": "new"
+      "rank": 23,
+      "title": "神二十计划在轨处置之后无人返回",
+      "url": "https://www.toutiao.com/trending/7577933936085467178/",
+      "label": ""
     },
     {
-      "rank": 26,
+      "rank": 24,
+      "title": "日本国债全线暴跌冲击有多大",
+      "url": "https://www.toutiao.com/trending/7578742388735393818/",
+      "label": ""
+    },
+    {
+      "rank": 25,
       "title": "湖南要下雪了",
       "url": "https://www.toutiao.com/trending/7577700510369513514/",
       "label": "new"
     },
     {
+      "rank": 26,
+      "title": "日本股债“双杀”发生了什么",
+      "url": "https://www.toutiao.com/trending/7578375340881854505/",
+      "label": ""
+    },
+    {
       "rank": 27,
-      "title": "日本国债全线暴跌冲击有多大",
-      "url": "https://www.toutiao.com/trending/7578742388735393818/",
+      "title": "普京签令对中国公民临时免签",
+      "url": "https://www.toutiao.com/trending/7578151099815857727/",
       "label": ""
     },
     {
@@ -178,134 +178,134 @@
     },
     {
       "rank": 29,
-      "title": "大爷对外卖小哥动手被警察带走",
-      "url": "https://www.toutiao.com/trending/7577758506330423337/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "广州一货车起火引燃周边数米",
-      "url": "https://www.toutiao.com/trending/7577954693406654505/",
-      "label": "hot"
-    },
-    {
-      "rank": 31,
-      "title": "文眉店故意文丑眉强迫顾客升单被判刑",
-      "url": "https://www.toutiao.com/trending/7578773222620659748/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "郝蕾回应“内涵”辛芷蕾：是个乌龙",
-      "url": "https://www.toutiao.com/trending/7578783215952445476/",
-      "label": ""
-    },
-    {
-      "rank": 33,
       "title": "成都混团世界杯奖金分布",
       "url": "https://www.toutiao.com/trending/7578513155559538751/",
       "label": "new"
     },
     {
-      "rank": 34,
-      "title": "日本股债“双杀”发生了什么",
-      "url": "https://www.toutiao.com/trending/7578375340881854505/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "搞事的高市如何完事",
-      "url": "https://www.toutiao.com/trending/7578701026283228682/",
-      "label": "hot"
-    },
-    {
-      "rank": 36,
-      "title": "航旅纵横大面积误发通知",
-      "url": "https://www.toutiao.com/trending/7578758114397863942/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "从神舟二十号三角裂纹看中国航天底气",
-      "url": "https://www.toutiao.com/trending/7578723969742671414/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "普京签令对中国公民临时免签",
-      "url": "https://www.toutiao.com/trending/7578151099815857727/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "闪婚闪离男方诉还20万彩礼获法院支持",
-      "url": "https://www.toutiao.com/trending/7578497970879021083/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "奶精加淀粉假冒进口奶粉击穿多少底线",
-      "url": "https://www.toutiao.com/trending/7578760569570725412/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "俄乌和平进程正紧张推进中",
-      "url": "https://www.toutiao.com/trending/7578795008543690294/",
-      "label": "new"
-    },
-    {
-      "rank": 42,
-      "title": "券商：12月A股市场仍处于向上态势",
-      "url": "https://www.toutiao.com/trending/7578440356506206259/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "航天员“改签”背后的中国科技硬实力",
-      "url": "https://www.toutiao.com/trending/7578796814543883830/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 44,
-      "title": "罗晋现身新作看片会",
-      "url": "https://www.toutiao.com/trending/7578334763619074075/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "若鲍威尔辞职对美元霸权体系有何影响",
-      "url": "https://www.toutiao.com/trending/7578812202556100147/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 46,
+      "rank": 30,
       "title": "12月1日起一批国家标准实施",
       "url": "https://www.toutiao.com/trending/7578765645329170459/",
       "label": "new"
     },
     {
-      "rank": 47,
+      "rank": 31,
+      "title": "搞事的高市如何完事",
+      "url": "https://www.toutiao.com/trending/7578701026283228682/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "航旅纵横大面积误发通知",
+      "url": "https://www.toutiao.com/trending/7578758114397863942/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "大爷对外卖小哥动手被警察带走",
+      "url": "https://www.toutiao.com/trending/7577758506330423337/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "郝蕾回应“内涵”辛芷蕾：是个乌龙",
+      "url": "https://www.toutiao.com/trending/7578783215952445476/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "奶精加淀粉假冒进口奶粉击穿多少底线",
+      "url": "https://www.toutiao.com/trending/7578760569570725412/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "《唐诡奇谭》预计12月中下旬播出",
+      "url": "https://www.toutiao.com/trending/7578018800344449062/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "罗晋现身新作看片会",
+      "url": "https://www.toutiao.com/trending/7578334763619074075/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "券商：12月A股市场仍处于向上态势",
+      "url": "https://www.toutiao.com/trending/7578440356506206259/",
+      "label": ""
+    },
+    {
+      "rank": 39,
       "title": "当年高位买房的人现在怎么样了",
       "url": "https://www.toutiao.com/trending/7578767013087022618/",
       "label": "depth"
     },
     {
-      "rank": 48,
-      "title": "高盛：美联储12月降息已成定局",
-      "url": "https://www.toutiao.com/trending/7577669382441713727/",
+      "rank": 40,
+      "title": "若鲍威尔辞职对美元霸权体系有何影响",
+      "url": "https://www.toutiao.com/trending/7578812202556100147/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 41,
+      "title": "广州一货车发生火灾 无人员伤亡",
+      "url": "https://www.toutiao.com/trending/7578662163741556774/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "俄乌和平进程正紧张推进中",
+      "url": "https://www.toutiao.com/trending/7578795008543690294/",
       "label": "new"
     },
     {
+      "rank": 43,
+      "title": "闪婚闪离男方诉还20万彩礼获法院支持",
+      "url": "https://www.toutiao.com/trending/7578497970879021083/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "广州一货车起火引燃周边数米",
+      "url": "https://www.toutiao.com/trending/7577954693406654505/",
+      "label": ""
+    },
+    {
+      "rank": 45,
+      "title": "乌克兰和泽连斯基将向何处去",
+      "url": "https://www.toutiao.com/trending/7578785347996225074/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "从神舟二十号三角裂纹看中国航天底气",
+      "url": "https://www.toutiao.com/trending/7578723969742671414/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "国考为何迎来“史上最难年”",
+      "url": "https://www.toutiao.com/trending/7578751642758024730/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "特朗普和马杜罗的通话释放了何信号",
+      "url": "https://www.toutiao.com/trending/7578812536200384006/",
+      "label": "interpretation"
+    },
+    {
       "rank": 49,
-      "title": "女子高楼外墙徒手下行被好心人救回",
-      "url": "https://www.toutiao.com/trending/7578362748565340169/",
+      "title": "摩根大通：上调宁德时代AH股目标价",
+      "url": "https://www.toutiao.com/trending/7577949706832429110/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "周星驰《鹿鼎记》4K修复版定档",
-      "url": "https://www.toutiao.com/trending/7578069701541183529/",
+      "title": "日本宽财政 市场忽视了什么",
+      "url": "https://www.toutiao.com/trending/7578788210961026570/",
       "label": ""
     }
   ]
