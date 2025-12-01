@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 01 Dec 2025 05:50:05 GMT",
+  "generated_at": "Mon, 01 Dec 2025 05:55:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记这样寄语志愿服务",
@@ -16,9 +16,9 @@
     },
     {
       "rank": 2,
-      "title": "牺牲23年后缉毒女警严婷照片被公开",
-      "url": "https://www.toutiao.com/trending/7578347564802932746/",
-      "label": "new"
+      "title": "茅台经销商过冬：卖一瓶亏200元",
+      "url": "https://www.toutiao.com/trending/7578729268855705094/",
+      "label": "depth"
     },
     {
       "rank": 3,
@@ -30,13 +30,13 @@
       "rank": 4,
       "title": "灵隐寺免费开放首日预约3.15万人",
       "url": "https://www.toutiao.com/trending/7578713484989566502/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 5,
-      "title": "茅台经销商过冬：卖一瓶亏200元",
-      "url": "https://www.toutiao.com/trending/7578729268855705094/",
-      "label": "depth"
+      "title": "美国一女子吸毒后街头无意识乱舞",
+      "url": "https://www.toutiao.com/trending/7578369044903460900/",
+      "label": "new"
     },
     {
       "rank": 6,
@@ -54,7 +54,7 @@
       "rank": 8,
       "title": "2026年该存钱还是买房",
       "url": "https://www.toutiao.com/trending/7578689350280416819/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "人民日报钟声：日本应当谨言慎行",
-      "url": "https://www.toutiao.com/trending/7577971589586518066/",
-      "label": "new"
+      "title": "哥哥们轮番辅导妹妹作业被逼疯",
+      "url": "https://www.toutiao.com/trending/7577972445409312806/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -82,20 +82,20 @@
     },
     {
       "rank": 13,
-      "title": "哥哥们轮番辅导妹妹作业被逼疯",
-      "url": "https://www.toutiao.com/trending/7577972445409312806/",
-      "label": ""
-    },
-    {
-      "rank": 14,
       "title": "旧国标电动自行车今起全面停售",
       "url": "https://www.toutiao.com/trending/7578713424251588159/",
       "label": ""
     },
     {
-      "rank": 15,
+      "rank": 14,
       "title": "《明朝那些事儿》作者石悦谈看书",
       "url": "https://www.toutiao.com/trending/7578695512108482587/",
+      "label": ""
+    },
+    {
+      "rank": 15,
+      "title": "男子钓出227.2斤鱼王引围观",
+      "url": "https://www.toutiao.com/trending/7578382491737899034/",
       "label": ""
     },
     {
@@ -106,99 +106,99 @@
     },
     {
       "rank": 17,
-      "title": "湖北五大学科竞赛实力如何",
-      "url": "https://www.toutiao.com/trending/7578494886744440842/",
+      "title": "上班有哪些需要注意的事",
+      "url": "https://www.toutiao.com/trending/7578423405067698217/",
       "label": "forum"
     },
     {
       "rank": 18,
-      "title": "男子钓出227.2斤鱼王引围观",
-      "url": "https://www.toutiao.com/trending/7578382491737899034/",
-      "label": ""
-    },
-    {
-      "rank": 19,
       "title": "英超球队就日国脚拿战犯照片合影道歉",
       "url": "https://www.toutiao.com/trending/7578093235059720246/",
       "label": ""
     },
     {
-      "rank": 20,
-      "title": "03式中程地空导弹是一款怎样的武器",
-      "url": "https://www.toutiao.com/trending/7578723328102239750/",
-      "label": "hot"
-    },
-    {
-      "rank": 21,
-      "title": "小米汽车“现车选购”即将开启",
-      "url": "https://www.toutiao.com/trending/7578719989142834726/",
-      "label": ""
-    },
-    {
-      "rank": 22,
-      "title": "神二十计划在轨处置之后无人返回",
-      "url": "https://www.toutiao.com/trending/7577933936085467178/",
-      "label": ""
-    },
-    {
-      "rank": 23,
-      "title": "MAMA主办方就将港台列为“国籍”道歉",
-      "url": "https://www.toutiao.com/trending/7578656766699933230/",
-      "label": ""
-    },
-    {
-      "rank": 24,
-      "title": "美国一女子吸毒后街头无意识乱舞",
-      "url": "https://www.toutiao.com/trending/7578369044903460900/",
+      "rank": 19,
+      "title": "2025美国“黑五”考察",
+      "url": "https://www.toutiao.com/trending/7578710256889368090/",
       "label": "new"
     },
     {
-      "rank": 25,
-      "title": "佳能中山裁员有员工拿了40万补偿",
-      "url": "https://www.toutiao.com/trending/7578676984939564586/",
-      "label": ""
-    },
-    {
-      "rank": 26,
+      "rank": 20,
       "title": "特朗普：俄乌和平协议很有可能达成",
       "url": "https://www.toutiao.com/trending/7578340057447514175/",
       "label": "new"
     },
     {
-      "rank": 27,
+      "rank": 21,
+      "title": "神二十计划在轨处置之后无人返回",
+      "url": "https://www.toutiao.com/trending/7577933936085467178/",
+      "label": ""
+    },
+    {
+      "rank": 22,
       "title": "歼轰-7A型战斗轰炸机要说再见了吗",
       "url": "https://www.toutiao.com/trending/7578745012435815978/",
       "label": "new"
     },
     {
-      "rank": 28,
+      "rank": 23,
+      "title": "小米汽车“现车选购”即将开启",
+      "url": "https://www.toutiao.com/trending/7578719989142834726/",
+      "label": ""
+    },
+    {
+      "rank": 24,
+      "title": "03式中程地空导弹是一款怎样的武器",
+      "url": "https://www.toutiao.com/trending/7578723328102239750/",
+      "label": "hot"
+    },
+    {
+      "rank": 25,
       "title": "齐达内在上海与大妈们踢毽子",
       "url": "https://www.toutiao.com/trending/7578151099815743039/",
       "label": "onSite"
     },
     {
-      "rank": 29,
+      "rank": 26,
+      "title": "女子同居怀孕退婚后被判返还部分彩礼",
+      "url": "https://www.toutiao.com/trending/7577688366868054057/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "如何看待日本各界及国际社会批评声音",
+      "url": "https://www.toutiao.com/trending/7577993560092360714/",
+      "label": "new"
+    },
+    {
+      "rank": 28,
       "title": "爱马仕继承人的150亿美元去哪了",
       "url": "https://www.toutiao.com/trending/7578690573083610650/",
       "label": "depth"
     },
     {
+      "rank": 29,
+      "title": "MAMA主办方就将港台列为“国籍”道歉",
+      "url": "https://www.toutiao.com/trending/7578656766699933230/",
+      "label": ""
+    },
+    {
       "rank": 30,
-      "title": "男子提到辛苦一生的母亲泣不成声",
-      "url": "https://www.toutiao.com/trending/7577999701558329407/",
-      "label": "new"
+      "title": "华为回应Mate80信号栏显示5A标识",
+      "url": "https://www.toutiao.com/trending/7577765096270282771/",
+      "label": ""
     },
     {
       "rank": 31,
-      "title": "75亿项目被指偷工减料背后",
-      "url": "https://www.toutiao.com/trending/7578358090513448986/",
+      "title": "佳能中山裁员有员工拿了40万补偿",
+      "url": "https://www.toutiao.com/trending/7578676984939564586/",
       "label": ""
     },
     {
       "rank": 32,
-      "title": "评论员谈A股12月操作重点",
-      "url": "https://www.toutiao.com/trending/7578714515374607915/",
-      "label": "new"
+      "title": "75亿项目被指偷工减料背后",
+      "url": "https://www.toutiao.com/trending/7578358090513448986/",
+      "label": ""
     },
     {
       "rank": 33,
@@ -208,27 +208,27 @@
     },
     {
       "rank": 34,
+      "title": "男子婚宴酒后骑车身亡 家属索赔45万",
+      "url": "https://www.toutiao.com/trending/7578644875195482131/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
       "title": "媒体评75亿水库大坝被曝偷工减料",
       "url": "https://www.toutiao.com/trending/7578357354165862454/",
       "label": ""
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "免费领鸡蛋藏“猫腻” 35名老人被骗",
       "url": "https://www.toutiao.com/trending/7577905525719924790/",
       "label": ""
     },
     {
-      "rank": 36,
-      "title": "如何看待日本各界及国际社会批评声音",
-      "url": "https://www.toutiao.com/trending/7577993560092360714/",
-      "label": "new"
-    },
-    {
       "rank": 37,
-      "title": "巴西现全球第20例异父异卵双胞胎",
-      "url": "https://www.toutiao.com/trending/7577507002205863972/",
-      "label": ""
+      "title": "湖人轻取鹈鹕夺7连胜",
+      "url": "https://www.toutiao.com/trending/7578752082220420646/",
+      "label": "new"
     },
     {
       "rank": 38,
@@ -238,74 +238,74 @@
     },
     {
       "rank": 39,
-      "title": "华为回应Mate80信号栏显示5A标识",
-      "url": "https://www.toutiao.com/trending/7577765096270282771/",
-      "label": ""
-    },
-    {
-      "rank": 40,
       "title": "北京明天最高温跌至冰点",
       "url": "https://www.toutiao.com/trending/7578691792154148870/",
       "label": "new"
     },
     {
+      "rank": 40,
+      "title": "巴西现全球第20例异父异卵双胞胎",
+      "url": "https://www.toutiao.com/trending/7577507002205863972/",
+      "label": ""
+    },
+    {
       "rank": 41,
-      "title": "法国东北部发生火灾已造成5人丧生",
-      "url": "https://www.toutiao.com/trending/7578644607840436278/",
+      "title": "中央环保督察公布天津河北典型案例",
+      "url": "https://www.toutiao.com/trending/7578704742713393202/",
       "label": "new"
     },
     {
       "rank": 42,
-      "title": "男子婚宴酒后骑车身亡 家属索赔45万",
-      "url": "https://www.toutiao.com/trending/7578644875195482131/",
-      "label": "new"
-    },
-    {
-      "rank": 43,
-      "title": "小米汽车11月交付量超过4万辆",
-      "url": "https://www.toutiao.com/trending/7577675094711222282/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "萧旭岑批民进党还想打“抗中牌”",
-      "url": "https://www.toutiao.com/trending/7578542060001787923/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "女子同居怀孕退婚后被判返还部分彩礼",
-      "url": "https://www.toutiao.com/trending/7577688366868054057/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "AI+BNPL正在重塑美国人的消费习惯",
-      "url": "https://www.toutiao.com/trending/7578710256889368090/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
       "title": "玛莎拉蒂会成为下一个“时代眼泪”吗",
       "url": "https://www.toutiao.com/trending/7578683502351093299/",
       "label": ""
     },
     {
+      "rank": 43,
+      "title": "萧旭岑批民进党还想打“抗中牌”",
+      "url": "https://www.toutiao.com/trending/7578542060001787923/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "启东城投集团副总经理顾妍被查",
+      "url": "https://www.toutiao.com/trending/7578711900696870954/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "又到一年退伍季 老兵依依告别军营",
+      "url": "https://www.toutiao.com/trending/7578707648485687315/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "酒店称欠200万物业费电梯总被停",
+      "url": "https://www.toutiao.com/trending/7578284492700729350/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "日本前议员：高市已不具备首相资格",
+      "url": "https://www.toutiao.com/trending/7578541958902071339/",
+      "label": ""
+    },
+    {
       "rank": 48,
-      "title": "男子用科技实现“万剑归宗”",
-      "url": "https://www.toutiao.com/trending/7578415619184738340/",
-      "label": "onSite"
+      "title": "评论员谈A股12月操作重点",
+      "url": "https://www.toutiao.com/trending/7578714515374607915/",
+      "label": "new"
     },
     {
       "rank": 49,
-      "title": "寒潮影响持续 北方局地降温可达16℃",
-      "url": "https://www.toutiao.com/trending/7578071592463302719/",
+      "title": "小米汽车11月交付量超过4万辆",
+      "url": "https://www.toutiao.com/trending/7577675094711222282/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "日本一钢铁厂发生爆炸并引发火灾",
-      "url": "https://www.toutiao.com/trending/7578657415789477939/",
+      "title": "雷霆6人上双击败开拓者 杨瀚森登场",
+      "url": "https://www.toutiao.com/trending/7578700947015077385/",
       "label": ""
     }
   ]
