@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 01 Dec 2025 03:00:05 GMT",
+  "generated_at": "Mon, 01 Dec 2025 03:05:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "事关“最大变量” 习近平最新部署",
@@ -46,20 +46,20 @@
     },
     {
       "rank": 7,
+      "title": "高市内阁操弄“本国人优先”背后",
+      "url": "https://www.toutiao.com/trending/7578209865875521574/",
+      "label": ""
+    },
+    {
+      "rank": 8,
       "title": "美军高官为何放话全舰队27分钟接战",
       "url": "https://www.toutiao.com/trending/7578550161358766089/",
       "label": "depth"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "title": "从农村妇女到月薪3万的金牌月嫂",
       "url": "https://www.toutiao.com/trending/7578677614894648886/",
-      "label": ""
-    },
-    {
-      "rank": 9,
-      "title": "免费领鸡蛋藏“猫腻” 35名老人被骗",
-      "url": "https://www.toutiao.com/trending/7577905525719924790/",
       "label": ""
     },
     {
@@ -82,9 +82,9 @@
     },
     {
       "rank": 13,
-      "title": "男子用科技实现“万剑归宗”",
-      "url": "https://www.toutiao.com/trending/7578415619184738340/",
-      "label": "onSite"
+      "title": "免费领鸡蛋藏“猫腻” 35名老人被骗",
+      "url": "https://www.toutiao.com/trending/7577905525719924790/",
+      "label": ""
     },
     {
       "rank": 14,
@@ -100,80 +100,80 @@
     },
     {
       "rank": 16,
+      "title": "男子用科技实现“万剑归宗”",
+      "url": "https://www.toutiao.com/trending/7578415619184738340/",
+      "label": "onSite"
+    },
+    {
+      "rank": 17,
       "title": "中信证券：太空算力逐渐成为共识",
       "url": "https://www.toutiao.com/trending/7578319768412307494/",
       "label": "forum"
     },
     {
-      "rank": 17,
+      "rank": 18,
       "title": "假奶粉无营养 商家良知何在",
       "url": "https://www.toutiao.com/trending/7578660540839366195/",
       "label": "hot"
     },
     {
-      "rank": 18,
-      "title": "高市内阁操弄“本国人优先”背后",
-      "url": "https://www.toutiao.com/trending/7578209865875521574/",
-      "label": "new"
-    },
-    {
       "rank": 19,
-      "title": "日本官方发布高市“名场面”",
-      "url": "https://www.toutiao.com/trending/7577582846601642010/",
-      "label": "hot"
-    },
-    {
-      "rank": 20,
       "title": "日本一钢铁厂发生爆炸并引发火灾",
       "url": "https://www.toutiao.com/trending/7578657415789477939/",
       "label": ""
     },
     {
-      "rank": 21,
-      "title": "台军方炒作解放军36机舰船三面围台",
-      "url": "https://www.toutiao.com/trending/7577736311000383529/",
-      "label": ""
+      "rank": 20,
+      "title": "日本官方发布高市“名场面”",
+      "url": "https://www.toutiao.com/trending/7577582846601642010/",
+      "label": "hot"
     },
     {
-      "rank": 22,
+      "rank": 21,
       "title": "高中生回应长得像易烊千玺",
       "url": "https://www.toutiao.com/trending/7578369879519035398/",
       "label": ""
     },
     {
-      "rank": 23,
-      "title": "你觉得AI有泡沫吗",
-      "url": "https://www.toutiao.com/trending/7578664364224302630/",
-      "label": "new"
-    },
-    {
-      "rank": 24,
-      "title": "《唐诡》距成为长视频第一IP还有多远",
-      "url": "https://www.toutiao.com/trending/7578666038191984174/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 25,
-      "title": "日本就出口03式地对空导弹与菲磋商",
-      "url": "https://www.toutiao.com/trending/7578188363161796671/",
+      "rank": 22,
+      "title": "台军方炒作解放军36机舰船三面围台",
+      "url": "https://www.toutiao.com/trending/7577736311000383529/",
       "label": ""
     },
     {
-      "rank": 26,
+      "rank": 23,
       "title": "雷霆6人上双击败开拓者 杨瀚森登场",
       "url": "https://www.toutiao.com/trending/7578700947015077385/",
       "label": "new"
     },
     {
-      "rank": 27,
+      "rank": 24,
+      "title": "《疯狂动物城2》走势很“疯狂”",
+      "url": "https://www.toutiao.com/trending/7578660172646583862/",
+      "label": "new"
+    },
+    {
+      "rank": 25,
       "title": "多地宣布中小学放雪假",
       "url": "https://www.toutiao.com/trending/7578294116493115433/",
       "label": ""
     },
     {
+      "rank": 26,
+      "title": "《唐诡》距成为长视频第一IP还有多远",
+      "url": "https://www.toutiao.com/trending/7578666038191984174/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 27,
+      "title": "律师：假奶粉被害人可起诉索赔",
+      "url": "https://www.toutiao.com/trending/7578656877001592370/",
+      "label": "hot"
+    },
+    {
       "rank": 28,
-      "title": "巴西现全球第20例异父异卵双胞胎",
-      "url": "https://www.toutiao.com/trending/7577507002205863972/",
+      "title": "英85岁老人手持标语挺亲巴组织被捕",
+      "url": "https://www.toutiao.com/trending/7578668306396139046/",
       "label": ""
     },
     {
@@ -184,27 +184,27 @@
     },
     {
       "rank": 30,
+      "title": "巴西现全球第20例异父异卵双胞胎",
+      "url": "https://www.toutiao.com/trending/7577507002205863972/",
+      "label": "hot"
+    },
+    {
+      "rank": 31,
       "title": "印度人凭什么认为印度菜天下无敌",
       "url": "https://www.toutiao.com/trending/7578665852916993546/",
       "label": ""
     },
     {
-      "rank": 31,
-      "title": "英85岁老人手持标语挺亲巴组织被捕",
-      "url": "https://www.toutiao.com/trending/7578668306396139046/",
+      "rank": 32,
+      "title": "日本就出口03式地对空导弹与菲磋商",
+      "url": "https://www.toutiao.com/trending/7578188363161796671/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "蔡正元批日本导弹连九州都防备不到",
-      "url": "https://www.toutiao.com/trending/7577958365444210738/",
-      "label": "hot"
-    },
-    {
       "rank": 33,
-      "title": "律师：假奶粉被害人可起诉索赔",
-      "url": "https://www.toutiao.com/trending/7578656877001592370/",
-      "label": "hot"
+      "title": "德学者：日本未真正反思其侵略历史",
+      "url": "https://www.toutiao.com/trending/7578510846277025798/",
+      "label": ""
     },
     {
       "rank": 34,
@@ -214,9 +214,9 @@
     },
     {
       "rank": 35,
-      "title": "英超球队就日国脚拿战犯照片合影道歉",
-      "url": "https://www.toutiao.com/trending/7578093235059720246/",
-      "label": "new"
+      "title": "蔡正元批日本导弹连九州都防备不到",
+      "url": "https://www.toutiao.com/trending/7577958365444210738/",
+      "label": "hot"
     },
     {
       "rank": 36,
@@ -226,86 +226,86 @@
     },
     {
       "rank": 37,
+      "title": "外卖大战三巨头6个月烧掉近800亿",
+      "url": "https://www.toutiao.com/trending/7577621291327406121/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "英超球队就日国脚拿战犯照片合影道歉",
+      "url": "https://www.toutiao.com/trending/7578093235059720246/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
       "title": "假奶粉何以一路畅行销往全国",
       "url": "https://www.toutiao.com/trending/7578414573166792219/",
       "label": "hot"
     },
     {
-      "rank": 38,
-      "title": "贪腐案会成为压倒马科斯的稻草吗",
-      "url": "https://www.toutiao.com/trending/7578652836267822655/",
-      "label": "depth"
-    },
-    {
-      "rank": 39,
-      "title": "德学者：日本未真正反思其侵略历史",
-      "url": "https://www.toutiao.com/trending/7578510846277025798/",
-      "label": ""
-    },
-    {
       "rank": 40,
-      "title": "群众举报出租屋异常 警方突击抓嫖",
-      "url": "https://www.toutiao.com/trending/7578240014816018473/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "英法德意发布联合声明",
-      "url": "https://www.toutiao.com/trending/7577939823017836580/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "李在明将发表戒严事件一周年特别谈话",
-      "url": "https://www.toutiao.com/trending/7577676274475335721/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "网友晒孙俪儿子打篮球视频",
-      "url": "https://www.toutiao.com/trending/7577380260275814454/",
-      "label": ""
-    },
-    {
-      "rank": 44,
       "title": "神22航天员乘组在序列中永远空缺",
       "url": "https://www.toutiao.com/trending/7578689880083926582/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "香港火灾已致146人遇难",
-      "url": "https://www.toutiao.com/trending/7577752300220104754/",
-      "label": "hot"
+      "rank": 41,
+      "title": "贪腐案会成为压倒马科斯的稻草吗",
+      "url": "https://www.toutiao.com/trending/7578652836267822655/",
+      "label": "depth"
     },
     {
-      "rank": 46,
-      "title": "博主：水库安全容不得半点偷工减料",
-      "url": "https://www.toutiao.com/trending/7578660585185742387/",
-      "label": ""
+      "rank": 42,
+      "title": "你觉得AI有泡沫吗",
+      "url": "https://www.toutiao.com/trending/7578664364224302630/",
+      "label": "new"
     },
     {
-      "rank": 47,
-      "title": "杜兰特生涯命中数升至NBA历史第11位",
-      "url": "https://www.toutiao.com/trending/7578634791499825215/",
-      "label": ""
-    },
-    {
-      "rank": 48,
+      "rank": 43,
       "title": "个人养老金如何抵扣个税",
       "url": "https://www.toutiao.com/trending/7578574212748017710/",
       "label": "new"
     },
     {
-      "rank": 49,
-      "title": "庞俊旭晋级斯诺克英锦赛16强",
-      "url": "https://www.toutiao.com/trending/7577664150185328678/",
+      "rank": 44,
+      "title": "斯诺克英锦赛：斯佳辉晋级16强",
+      "url": "https://www.toutiao.com/trending/7577679037712449574/",
       "label": "new"
     },
     {
+      "rank": 45,
+      "title": "英法德意发布联合声明",
+      "url": "https://www.toutiao.com/trending/7577939823017836580/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "网友晒孙俪儿子打篮球视频",
+      "url": "https://www.toutiao.com/trending/7577380260275814454/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "群众举报出租屋异常 警方突击抓嫖",
+      "url": "https://www.toutiao.com/trending/7578240014816018473/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "李在明将发表戒严事件一周年特别谈话",
+      "url": "https://www.toutiao.com/trending/7577676274475335721/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "香港火灾已致146人遇难",
+      "url": "https://www.toutiao.com/trending/7577752300220104754/",
+      "label": ""
+    },
+    {
       "rank": 50,
-      "title": "中国军号发布视频：戈壁砺剑",
-      "url": "https://www.toutiao.com/trending/7578667302527680558/",
+      "title": "杜兰特生涯命中数升至NBA历史第11位",
+      "url": "https://www.toutiao.com/trending/7578634791499825215/",
       "label": ""
     }
   ]
