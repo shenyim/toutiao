@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 01 Dec 2025 07:45:05 GMT",
+  "generated_at": "Mon, 01 Dec 2025 07:50:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记这样寄语志愿服务",
@@ -84,7 +84,7 @@
       "rank": 13,
       "title": "俄罗斯能赢下俄乌战争吗",
       "url": "https://www.toutiao.com/trending/7578763503889026623/",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 14,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 19,
-      "title": "灵隐寺免费开放首日预约3.15万人",
-      "url": "https://www.toutiao.com/trending/7578713484989566502/",
+      "title": "男子婚宴酒后骑车身亡 家属索赔45万",
+      "url": "https://www.toutiao.com/trending/7578644875195482131/",
       "label": ""
     },
     {
       "rank": 20,
-      "title": "男子婚宴酒后骑车身亡 家属索赔45万",
-      "url": "https://www.toutiao.com/trending/7578644875195482131/",
+      "title": "灵隐寺免费开放首日预约3.15万人",
+      "url": "https://www.toutiao.com/trending/7578713484989566502/",
       "label": ""
     },
     {
@@ -148,74 +148,74 @@
     },
     {
       "rank": 24,
+      "title": "荒野求生赛事流量之外的安全与规则",
+      "url": "https://www.toutiao.com/trending/7578659805573680667/",
+      "label": "new"
+    },
+    {
+      "rank": 25,
       "title": "男子钓出227.2斤鱼王引围观",
       "url": "https://www.toutiao.com/trending/7578382491737899034/",
       "label": ""
     },
     {
-      "rank": 25,
+      "rank": 26,
       "title": "孙颖莎：这届混团来的都是最强阵容",
       "url": "https://www.toutiao.com/trending/7577685335757471786/",
       "label": "new"
     },
     {
-      "rank": 26,
-      "title": "郑丽文力挺柯志恩角逐高雄市长",
-      "url": "https://www.toutiao.com/trending/7578165241969328147/",
-      "label": "new"
-    },
-    {
       "rank": 27,
-      "title": "云南一常务副市长离世 年仅39岁",
-      "url": "https://www.toutiao.com/trending/7578742051916267561/",
-      "label": ""
-    },
-    {
-      "rank": 28,
-      "title": "上海11月二手房成交跑出小翘尾行情",
-      "url": "https://www.toutiao.com/trending/7578731457145736755/",
-      "label": "new"
-    },
-    {
-      "rank": 29,
-      "title": "A股中兴通讯封板涨停",
-      "url": "https://www.toutiao.com/trending/7578329760536264758/",
-      "label": "new"
-    },
-    {
-      "rank": 30,
       "title": "杜锋将解说中韩男篮二番战",
       "url": "https://www.toutiao.com/trending/7577721454981103679/",
       "label": "new"
     },
     {
-      "rank": 31,
-      "title": "特朗普：俄乌和平协议很有可能达成",
-      "url": "https://www.toutiao.com/trending/7578340057447514175/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "“全面关闭”委空域 美国要动武吗",
-      "url": "https://www.toutiao.com/trending/7578719668622331418/",
+      "rank": 28,
+      "title": "A股中兴通讯封板涨停",
+      "url": "https://www.toutiao.com/trending/7578329760536264758/",
       "label": "new"
     },
     {
-      "rank": 33,
-      "title": "房龄十年的二手房到底怎么样了",
-      "url": "https://www.toutiao.com/trending/7578717538087865892/",
-      "label": ""
+      "rank": 29,
+      "title": "郑丽文力挺柯志恩角逐高雄市长",
+      "url": "https://www.toutiao.com/trending/7578165241969328147/",
+      "label": "new"
     },
     {
-      "rank": 34,
+      "rank": 30,
       "title": "菲12万人示威施压马科斯政府",
       "url": "https://www.toutiao.com/trending/7578706826540092971/",
       "label": "new"
     },
     {
+      "rank": 31,
+      "title": "云南一常务副市长离世 年仅39岁",
+      "url": "https://www.toutiao.com/trending/7578742051916267561/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "特朗普：俄乌和平协议很有可能达成",
+      "url": "https://www.toutiao.com/trending/7578340057447514175/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "“全面关闭”委空域 美国要动武吗",
+      "url": "https://www.toutiao.com/trending/7578719668622331418/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
+      "title": "房龄十年的二手房到底怎么样了",
+      "url": "https://www.toutiao.com/trending/7578717538087865892/",
+      "label": ""
+    },
+    {
       "rank": 35,
-      "title": "荒野求生赛事流量之外的安全与规则",
-      "url": "https://www.toutiao.com/trending/7578659805573680667/",
+      "title": "邓超儿子“等等”获U14男子比赛亚军",
+      "url": "https://www.toutiao.com/trending/7578691974358974518/",
       "label": "new"
     },
     {
@@ -238,9 +238,9 @@
     },
     {
       "rank": 39,
-      "title": "齐达内在上海与大妈们踢毽子",
-      "url": "https://www.toutiao.com/trending/7578151099815743039/",
-      "label": "onSite"
+      "title": "俄军工体系存在哪些短板",
+      "url": "https://www.toutiao.com/trending/7578771035692994054/",
+      "label": "interpretation"
     },
     {
       "rank": 40,
@@ -250,63 +250,63 @@
     },
     {
       "rank": 41,
-      "title": "旧国标电动自行车今起全面停售",
-      "url": "https://www.toutiao.com/trending/7578713424251588159/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "华为回应Mate80信号栏显示5A标识",
-      "url": "https://www.toutiao.com/trending/7577765096270282771/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "几代人如何阻止两大沙漠合拢",
-      "url": "https://www.toutiao.com/trending/7578728451696459818/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
       "title": "东契奇单节20+次数超越詹姆斯",
       "url": "https://www.toutiao.com/trending/7578158005544402980/",
       "label": "new"
     },
     {
+      "rank": 42,
+      "title": "旧国标电动自行车今起全面停售",
+      "url": "https://www.toutiao.com/trending/7578713424251588159/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "华为回应Mate80信号栏显示5A标识",
+      "url": "https://www.toutiao.com/trending/7577765096270282771/",
+      "label": ""
+    },
+    {
+      "rank": 44,
+      "title": "齐达内在上海与大妈们踢毽子",
+      "url": "https://www.toutiao.com/trending/7578151099815743039/",
+      "label": "onSite"
+    },
+    {
       "rank": 45,
+      "title": "几代人如何阻止两大沙漠合拢",
+      "url": "https://www.toutiao.com/trending/7578728451696459818/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
       "title": "美军对委内瑞拉行动会升级吗",
       "url": "https://www.toutiao.com/trending/7578704569065049643/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "俄军工体系存在哪些短板",
-      "url": "https://www.toutiao.com/trending/7578771035692994054/",
+      "rank": 47,
+      "title": "美乌会谈4个小时聊了什么",
+      "url": "https://www.toutiao.com/trending/7578740721039511086/",
       "label": "interpretation"
     },
     {
-      "rank": 47,
-      "title": "邓超儿子“等等”获U14男子比赛亚军",
-      "url": "https://www.toutiao.com/trending/7578691974358974518/",
-      "label": "new"
-    },
-    {
       "rank": 48,
-      "title": "湖人轻取鹈鹕夺7连胜",
-      "url": "https://www.toutiao.com/trending/7578752082220420646/",
-      "label": ""
-    },
-    {
-      "rank": 49,
       "title": "国产重油发动机助力舰载无人机电弹",
       "url": "https://www.toutiao.com/trending/7578719817146830342/",
       "label": "new"
     },
     {
-      "rank": 50,
-      "title": "歼轰-7A型战斗轰炸机要说再见了吗",
-      "url": "https://www.toutiao.com/trending/7578745012435815978/",
+      "rank": 49,
+      "title": "湖人轻取鹈鹕夺7连胜",
+      "url": "https://www.toutiao.com/trending/7578752082220420646/",
       "label": ""
+    },
+    {
+      "rank": 50,
+      "title": "枪杀美医保高管嫌犯将再度出庭",
+      "url": "https://www.toutiao.com/trending/7578645874339921956/",
+      "label": "new"
     }
   ]
 }
