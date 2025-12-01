@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 01 Dec 2025 16:00:05 GMT",
+  "generated_at": "Mon, 01 Dec 2025 16:05:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "推进党的自我革命 总书记强调抓到位",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "电动车新国标用“硬科技”防火防盗",
       "url": "https://www.toutiao.com/trending/7578886580614467078/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 2,
@@ -48,24 +48,24 @@
       "rank": 7,
       "title": "王励勤任体育总局乒羽中心副主任",
       "url": "https://www.toutiao.com/trending/7578388607044485170/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 8,
-      "title": "挖掘机师傅夜间作业偶遇东北虎",
-      "url": "https://www.toutiao.com/trending/7578686050513322038/",
-      "label": ""
-    },
-    {
-      "rank": 9,
       "title": "俄罗斯对华免签到底“免”了啥",
       "url": "https://www.toutiao.com/trending/7578838779054526002/",
       "label": ""
     },
     {
+      "rank": 9,
+      "title": "甲型H3N2流行 症状前24小时排毒",
+      "url": "https://www.toutiao.com/trending/7578816533016117258/",
+      "label": ""
+    },
+    {
       "rank": 10,
-      "title": "一人在两地重复领养老金110万获刑",
-      "url": "https://www.toutiao.com/trending/7578719452662579219/",
+      "title": "挖掘机师傅夜间作业偶遇东北虎",
+      "url": "https://www.toutiao.com/trending/7578686050513322038/",
       "label": ""
     },
     {
@@ -76,26 +76,26 @@
     },
     {
       "rank": 12,
-      "title": "普通人存钱有啥技巧",
-      "url": "https://www.toutiao.com/trending/7578386685408673835/",
+      "title": "如何看待安徽广德“三件套”火出圈",
+      "url": "https://www.toutiao.com/trending/7578411875827023926/",
       "label": "forum"
     },
     {
       "rank": 13,
-      "title": "甲型H3N2流行 症状前24小时排毒",
-      "url": "https://www.toutiao.com/trending/7578816533016117258/",
+      "title": "一人在两地重复领养老金110万获刑",
+      "url": "https://www.toutiao.com/trending/7578719452662579219/",
       "label": ""
     },
     {
       "rank": 14,
-      "title": "笑星丁少华去世",
-      "url": "https://www.toutiao.com/trending/7578770615483236371/",
+      "title": "中国队8比0轻取埃及队",
+      "url": "https://www.toutiao.com/trending/7578477496878891044/",
       "label": ""
     },
     {
       "rank": 15,
-      "title": "小米汽车月销破4万辆 订单还够用吗",
-      "url": "https://www.toutiao.com/trending/7578838517380288027/",
+      "title": "笑星丁少华去世",
+      "url": "https://www.toutiao.com/trending/7578770615483236371/",
       "label": ""
     },
     {
@@ -106,20 +106,20 @@
     },
     {
       "rank": 17,
-      "title": "男篮世预赛你觉得廖三宁发挥如何",
-      "url": "https://www.toutiao.com/trending/7578870634798104618/",
+      "title": "普通人存钱有啥技巧",
+      "url": "https://www.toutiao.com/trending/7578386685408673835/",
       "label": "forum"
     },
     {
       "rank": 18,
-      "title": "男子怀疑在房间内遭偷窥 酒店回应",
-      "url": "https://www.toutiao.com/trending/7578722692640227391/",
+      "title": "小米汽车月销破4万辆 订单还够用吗",
+      "url": "https://www.toutiao.com/trending/7578838517380288027/",
       "label": ""
     },
     {
       "rank": 19,
-      "title": "中纪委11月打下6虎",
-      "url": "https://www.toutiao.com/trending/7578753025737588772/",
+      "title": "宁德时代董事长回应“基层员工涨薪”",
+      "url": "https://www.toutiao.com/trending/7578796721682157099/",
       "label": ""
     },
     {
@@ -130,9 +130,9 @@
     },
     {
       "rank": 21,
-      "title": "人民币又升值了 这次会破7吗",
-      "url": "https://www.toutiao.com/trending/7578860405271825939/",
-      "label": ""
+      "title": "连输韩国男篮两次 中国男篮怎么了",
+      "url": "https://www.toutiao.com/trending/7578868319634066954/",
+      "label": "hot"
     },
     {
       "rank": 22,
@@ -142,27 +142,27 @@
     },
     {
       "rank": 23,
-      "title": "宁德时代董事长回应“基层员工涨薪”",
-      "url": "https://www.toutiao.com/trending/7578796721682157099/",
+      "title": "中纪委11月打下6虎",
+      "url": "https://www.toutiao.com/trending/7578753025737588772/",
       "label": ""
     },
     {
       "rank": 24,
-      "title": "连输韩国男篮两次 中国男篮怎么了",
-      "url": "https://www.toutiao.com/trending/7578868319634066954/",
-      "label": "hot"
+      "title": "人民币又升值了 这次会破7吗",
+      "url": "https://www.toutiao.com/trending/7578860405271825939/",
+      "label": ""
     },
     {
       "rank": 25,
-      "title": "中国队8比0轻取埃及队",
-      "url": "https://www.toutiao.com/trending/7578477496878891044/",
-      "label": "new"
+      "title": "当年高位买房的人现在怎么样了",
+      "url": "https://www.toutiao.com/trending/7578767013087022618/",
+      "label": "depth"
     },
     {
       "rank": 26,
-      "title": "香港大埔火灾：警方已拘捕13人",
-      "url": "https://www.toutiao.com/trending/7578801428643188275/",
-      "label": "hot"
+      "title": "银基老板：“排骨羽绒服”成冬季爆款",
+      "url": "https://www.toutiao.com/trending/7578804660165738542/",
+      "label": ""
     },
     {
       "rank": 27,
@@ -172,92 +172,92 @@
     },
     {
       "rank": 28,
-      "title": "酒吧回应招服务员月薪50万起",
-      "url": "https://www.toutiao.com/trending/7578834521873727551/",
+      "title": "男子怀疑在房间内遭偷窥 酒店回应",
+      "url": "https://www.toutiao.com/trending/7578722692640227391/",
       "label": ""
     },
     {
       "rank": 29,
-      "title": "当年高位买房的人现在怎么样了",
-      "url": "https://www.toutiao.com/trending/7578767013087022618/",
-      "label": "depth"
-    },
-    {
-      "rank": 30,
-      "title": "王思聪新加坡看BLACKPINK演唱会",
-      "url": "https://www.toutiao.com/trending/7578516418421981225/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "周冬雨起诉造谣其和曾志伟关系的网友",
-      "url": "https://www.toutiao.com/trending/7578810753177174066/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "银基老板：“排骨羽绒服”成冬季爆款",
-      "url": "https://www.toutiao.com/trending/7578804660165738542/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "邓超儿子“等等”获U14男子比赛亚军",
-      "url": "https://www.toutiao.com/trending/7578691974358974518/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "深圳严查电动自行车销售违法行为",
-      "url": "https://www.toutiao.com/trending/7578803260912762899/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "记者申请公开10份处罚决定书被拒",
-      "url": "https://www.toutiao.com/trending/7578863263996805129/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "张家界七星山：荒野求生鏖战正酣",
-      "url": "https://www.toutiao.com/trending/7578783503026798643/",
-      "label": ""
-    },
-    {
-      "rank": 37,
       "title": "郭士强：攻防两端确实没有对手做的好",
       "url": "https://www.toutiao.com/trending/7578418641671389247/",
       "label": ""
     },
     {
-      "rank": 38,
-      "title": "中企抄底美最大稀土矿如今套现数十亿",
-      "url": "https://www.toutiao.com/trending/7578810905849286170/",
+      "rank": 30,
+      "title": "深圳严查电动自行车销售违法行为",
+      "url": "https://www.toutiao.com/trending/7578803260912762899/",
       "label": ""
     },
     {
-      "rank": 39,
-      "title": "超1900个去日本的航班取消",
-      "url": "https://www.toutiao.com/trending/7578073138874253318/",
+      "rank": 31,
+      "title": "记者申请公开10份处罚决定书被拒",
+      "url": "https://www.toutiao.com/trending/7578863263996805129/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
+      "title": "香港大埔火灾：警方已拘捕13人",
+      "url": "https://www.toutiao.com/trending/7578801428643188275/",
+      "label": "hot"
+    },
+    {
+      "rank": 33,
+      "title": "王思聪新加坡看BLACKPINK演唱会",
+      "url": "https://www.toutiao.com/trending/7578516418421981225/",
       "label": ""
     },
     {
-      "rank": 40,
+      "rank": 34,
+      "title": "张家界七星山：荒野求生鏖战正酣",
+      "url": "https://www.toutiao.com/trending/7578783503026798643/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "加藤登纪子希望高市尽快收回她的言论",
+      "url": "https://www.toutiao.com/trending/7578839932328869929/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
       "title": "专家：核心争议搁置 美俄乌博弈升级",
       "url": "https://www.toutiao.com/trending/7578881931811491355/",
       "label": "new"
     },
     {
-      "rank": 41,
+      "rank": 37,
+      "title": "孙颖莎：希望中国队接下来有更好表现",
+      "url": "https://www.toutiao.com/trending/7578245257818095659/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
+      "title": "巴西女子产下双胞胎 孩子父亲不同",
+      "url": "https://www.toutiao.com/trending/7578661041685545011/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "酒吧回应招服务员月薪50万起",
+      "url": "https://www.toutiao.com/trending/7578834521873727551/",
+      "label": ""
+    },
+    {
+      "rank": 40,
       "title": "中国军号海外账号发布实战训练视频",
       "url": "https://www.toutiao.com/trending/7577941038166425627/",
       "label": "new"
     },
     {
+      "rank": 41,
+      "title": "超1900个去日本的航班取消",
+      "url": "https://www.toutiao.com/trending/7578073138874253318/",
+      "label": ""
+    },
+    {
       "rank": 42,
-      "title": "加藤登纪子希望高市尽快收回她的言论",
-      "url": "https://www.toutiao.com/trending/7578839932328869929/",
+      "title": "美智库：歼-35冲击中东军火格局",
+      "url": "https://www.toutiao.com/trending/7578875101014134314/",
       "label": "new"
     },
     {
@@ -268,45 +268,45 @@
     },
     {
       "rank": 44,
-      "title": "14种“进口”奶制品产自河南某出租房",
-      "url": "https://www.toutiao.com/trending/7578334305471135771/",
-      "label": "new"
-    },
-    {
-      "rank": 45,
-      "title": "顾客买鞋子仅退款拿AI视频当凭证",
-      "url": "https://www.toutiao.com/trending/7578774499518169151/",
+      "title": "邓超儿子“等等”获U14男子比赛亚军",
+      "url": "https://www.toutiao.com/trending/7578691974358974518/",
       "label": ""
     },
     {
-      "rank": 46,
-      "title": "美智库：歼-35冲击中东军火格局",
-      "url": "https://www.toutiao.com/trending/7578875101014134314/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
-      "title": "孙颖莎：希望中国队接下来有更好表现",
-      "url": "https://www.toutiao.com/trending/7578245257818095659/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
+      "rank": 45,
       "title": "深圳开挖巨型垃圾填埋场",
       "url": "https://www.toutiao.com/trending/7578356520837283867/",
       "label": ""
     },
     {
+      "rank": 46,
+      "title": "中企抄底美最大稀土矿如今套现数十亿",
+      "url": "https://www.toutiao.com/trending/7578810905849286170/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "周冬雨起诉造谣其和曾志伟关系的网友",
+      "url": "https://www.toutiao.com/trending/7578810753177174066/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "顾客买鞋子仅退款拿AI视频当凭证",
+      "url": "https://www.toutiao.com/trending/7578774499518169151/",
+      "label": ""
+    },
+    {
       "rank": 49,
-      "title": "不会有“神二十二乘组”了",
-      "url": "https://www.toutiao.com/trending/7578803618493500954/",
+      "title": "男子扫了张“诱惑”小卡片损失56万",
+      "url": "https://www.toutiao.com/trending/7578775835084259355/",
       "label": ""
     },
     {
       "rank": 50,
-      "title": "孝子祭奠母亲去世20周年请数万人看戏",
-      "url": "https://www.toutiao.com/trending/7578873053565452294/",
-      "label": "new"
+      "title": "小米汽车为何推现车选购",
+      "url": "https://www.toutiao.com/trending/7577800242021482538/",
+      "label": ""
     }
   ]
 }
