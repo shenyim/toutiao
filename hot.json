@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 01 Dec 2025 02:25:07 GMT",
+  "generated_at": "Mon, 01 Dec 2025 02:30:06 GMT",
   "top": {
     "rank": "置顶",
     "title": "事关“最大变量” 习近平最新部署",
@@ -82,14 +82,14 @@
     },
     {
       "rank": 13,
-      "title": "从农村妇女到月薪3万的金牌月嫂",
-      "url": "https://www.toutiao.com/trending/7578677614894648886/",
+      "title": "中国人在太空存粮多得超乎想象",
+      "url": "https://www.toutiao.com/trending/7578051426803417142/",
       "label": "new"
     },
     {
       "rank": 14,
-      "title": "高中生回应长得像易烊千玺",
-      "url": "https://www.toutiao.com/trending/7578369879519035398/",
+      "title": "从农村妇女到月薪3万的金牌月嫂",
+      "url": "https://www.toutiao.com/trending/7578677614894648886/",
       "label": "new"
     },
     {
@@ -106,9 +106,9 @@
     },
     {
       "rank": 17,
-      "title": "中国人在太空存粮多得超乎想象",
-      "url": "https://www.toutiao.com/trending/7578051426803417142/",
-      "label": "new"
+      "title": "高中生回应长得像易烊千玺",
+      "url": "https://www.toutiao.com/trending/7578369879519035398/",
+      "label": ""
     },
     {
       "rank": 18,
@@ -160,69 +160,69 @@
     },
     {
       "rank": 26,
-      "title": "蔡正元批日本导弹连九州都防备不到",
-      "url": "https://www.toutiao.com/trending/7577958365444210738/",
-      "label": ""
-    },
-    {
-      "rank": 27,
       "title": "印度人凭什么认为印度菜天下无敌",
       "url": "https://www.toutiao.com/trending/7578665852916993546/",
       "label": ""
     },
     {
+      "rank": 27,
+      "title": "蔡正元批日本导弹连九州都防备不到",
+      "url": "https://www.toutiao.com/trending/7577958365444210738/",
+      "label": ""
+    },
+    {
       "rank": 28,
-      "title": "泽连斯基今日访法",
-      "url": "https://www.toutiao.com/trending/7577605609454010419/",
+      "title": "高市内阁操弄“本国人优先”背后",
+      "url": "https://www.toutiao.com/trending/7578209865875521574/",
       "label": "new"
     },
     {
       "rank": 29,
-      "title": "明谕琉球国王敕揭示琉球曾是中国藩属",
-      "url": "https://www.toutiao.com/trending/7578366280878080063/",
-      "label": ""
-    },
-    {
-      "rank": 30,
       "title": "女子同居怀孕退婚后被判返还部分彩礼",
       "url": "https://www.toutiao.com/trending/7577688366868054057/",
       "label": ""
     },
     {
+      "rank": 30,
+      "title": "明谕琉球国王敕揭示琉球曾是中国藩属",
+      "url": "https://www.toutiao.com/trending/7578366280878080063/",
+      "label": ""
+    },
+    {
       "rank": 31,
-      "title": "外卖大战三巨头6个月烧掉近800亿",
-      "url": "https://www.toutiao.com/trending/7577621291327406121/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "德学者：日本未真正反思其侵略历史",
-      "url": "https://www.toutiao.com/trending/7578510846277025798/",
-      "label": ""
-    },
-    {
-      "rank": 33,
       "title": "贪腐案会成为压倒马科斯的稻草吗",
       "url": "https://www.toutiao.com/trending/7578652836267822655/",
       "label": "depth"
     },
     {
-      "rank": 34,
-      "title": "李在明将发表戒严事件一周年特别谈话",
-      "url": "https://www.toutiao.com/trending/7577676274475335721/",
-      "label": ""
-    },
-    {
-      "rank": 35,
+      "rank": 32,
       "title": "16年戍边战士退役前深情拥抱界碑",
       "url": "https://www.toutiao.com/trending/7577568921840205860/",
       "label": ""
     },
     {
+      "rank": 33,
+      "title": "评论员：美军在委面临进退两难",
+      "url": "https://www.toutiao.com/trending/7578674657721585179/",
+      "label": "depth"
+    },
+    {
+      "rank": 34,
+      "title": "外卖大战三巨头6个月烧掉近800亿",
+      "url": "https://www.toutiao.com/trending/7577621291327406121/",
+      "label": ""
+    },
+    {
+      "rank": 35,
+      "title": "德学者：日本未真正反思其侵略历史",
+      "url": "https://www.toutiao.com/trending/7578510846277025798/",
+      "label": ""
+    },
+    {
       "rank": 36,
-      "title": "高市内阁操弄“本国人优先”背后",
-      "url": "https://www.toutiao.com/trending/7578209865875521574/",
-      "label": "new"
+      "title": "李在明将发表戒严事件一周年特别谈话",
+      "url": "https://www.toutiao.com/trending/7577676274475335721/",
+      "label": ""
     },
     {
       "rank": 37,
@@ -238,57 +238,57 @@
     },
     {
       "rank": 39,
-      "title": "评论员：美军在委面临进退两难",
-      "url": "https://www.toutiao.com/trending/7578674657721585179/",
-      "label": "depth"
-    },
-    {
-      "rank": 40,
       "title": "巴西现全球第20例异父异卵双胞胎",
       "url": "https://www.toutiao.com/trending/7577507002205863972/",
       "label": "hot"
     },
     {
-      "rank": 41,
+      "rank": 40,
       "title": "英法德意发布联合声明",
       "url": "https://www.toutiao.com/trending/7577939823017836580/",
       "label": ""
     },
     {
-      "rank": 42,
+      "rank": 41,
       "title": "博主：水库安全容不得半点偷工减料",
       "url": "https://www.toutiao.com/trending/7578660585185742387/",
       "label": ""
     },
     {
-      "rank": 43,
+      "rank": 42,
       "title": "网友晒孙俪儿子打篮球视频",
       "url": "https://www.toutiao.com/trending/7577380260275814454/",
       "label": ""
     },
     {
-      "rank": 44,
+      "rank": 43,
       "title": "英85岁老人手持标语挺亲巴组织被捕",
       "url": "https://www.toutiao.com/trending/7578668306396139046/",
       "label": ""
     },
     {
-      "rank": 45,
+      "rank": 44,
       "title": "香港火灾已致146人遇难",
       "url": "https://www.toutiao.com/trending/7577752300220104754/",
       "label": "hot"
     },
     {
+      "rank": 45,
+      "title": "特朗普宣布关闭委领空 下步想干什么",
+      "url": "https://www.toutiao.com/trending/7578659953586474532/",
+      "label": ""
+    },
+    {
       "rank": 46,
-      "title": "长白山为全省义务教育学生免门票",
-      "url": "https://www.toutiao.com/trending/7577768165808963638/",
+      "title": "雷霆6人上双击败开拓者 杨瀚森登场",
+      "url": "https://www.toutiao.com/trending/7578700947015077385/",
       "label": "new"
     },
     {
       "rank": 47,
-      "title": "特朗普宣布关闭委领空 下步想干什么",
-      "url": "https://www.toutiao.com/trending/7578659953586474532/",
-      "label": ""
+      "title": "长白山为全省义务教育学生免门票",
+      "url": "https://www.toutiao.com/trending/7577768165808963638/",
+      "label": "new"
     },
     {
       "rank": 48,
