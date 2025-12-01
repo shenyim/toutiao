@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Mon, 01 Dec 2025 12:05:04 GMT",
+  "generated_at": "Mon, 01 Dec 2025 12:10:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "抓网络生态治理 总书记强调“五个坚持”",
@@ -34,15 +34,15 @@
     },
     {
       "rank": 5,
-      "title": "不会有“神二十二乘组”了",
-      "url": "https://www.toutiao.com/trending/7578803618493500954/",
-      "label": "hot"
-    },
-    {
-      "rank": 6,
       "title": "老人72岁大寿当天离世",
       "url": "https://www.toutiao.com/trending/7578729610217799706/",
       "label": "new"
+    },
+    {
+      "rank": 6,
+      "title": "不会有“神二十二乘组”了",
+      "url": "https://www.toutiao.com/trending/7578803618493500954/",
+      "label": "hot"
     },
     {
       "rank": 7,
@@ -52,8 +52,8 @@
     },
     {
       "rank": 8,
-      "title": "你怎么看越来越多女性当外卖骑手",
-      "url": "https://www.toutiao.com/trending/7578818262839017478/",
+      "title": "你支持孩子放雪假吗",
+      "url": "https://www.toutiao.com/trending/7578503479375872042/",
       "label": "forum"
     },
     {
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "爱马仕继承人150亿美元财富失踪",
-      "url": "https://www.toutiao.com/trending/7577611751588626458/",
-      "label": ""
+      "title": "中企抄底美最大稀土矿如今套现数十亿",
+      "url": "https://www.toutiao.com/trending/7578810905849286170/",
+      "label": "new"
     },
     {
       "rank": 11,
@@ -94,21 +94,21 @@
     },
     {
       "rank": 15,
-      "title": "史上最严电动车新国标都有哪些变化",
-      "url": "https://www.toutiao.com/trending/7578784671941529139/",
-      "label": "hot"
+      "title": "爱马仕继承人150亿美元财富失踪",
+      "url": "https://www.toutiao.com/trending/7577611751588626458/",
+      "label": ""
     },
     {
       "rank": 16,
-      "title": "你支持孩子放雪假吗",
-      "url": "https://www.toutiao.com/trending/7578503479375872042/",
+      "title": "你怎么看越来越多女性当外卖骑手",
+      "url": "https://www.toutiao.com/trending/7578818262839017478/",
       "label": "forum"
     },
     {
       "rank": 17,
-      "title": "中企抄底美最大稀土矿如今套现数十亿",
-      "url": "https://www.toutiao.com/trending/7578810905849286170/",
-      "label": "new"
+      "title": "史上最严电动车新国标都有哪些变化",
+      "url": "https://www.toutiao.com/trending/7578784671941529139/",
+      "label": "hot"
     },
     {
       "rank": 18,
@@ -166,50 +166,50 @@
     },
     {
       "rank": 27,
-      "title": "日本国债全线暴跌冲击有多大",
-      "url": "https://www.toutiao.com/trending/7578742388735393818/",
-      "label": ""
-    },
-    {
-      "rank": 28,
       "title": "日本前议员：高市已不具备首相资格",
       "url": "https://www.toutiao.com/trending/7578541958902071339/",
       "label": "hot"
     },
     {
-      "rank": 29,
-      "title": "低利率时代中国人悄悄开始“理”钱",
-      "url": "https://www.toutiao.com/trending/7578347153043636250/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 30,
-      "title": "当年高位买房的人现在怎么样了",
-      "url": "https://www.toutiao.com/trending/7578767013087022618/",
-      "label": "depth"
-    },
-    {
-      "rank": 31,
-      "title": "人民日报：在台湾问题上玩火者必自焚",
-      "url": "https://www.toutiao.com/trending/7577664958511923263/",
-      "label": "hot"
-    },
-    {
-      "rank": 32,
-      "title": "广州一货车起火引燃周边数米",
-      "url": "https://www.toutiao.com/trending/7577954693406654505/",
-      "label": ""
-    },
-    {
-      "rank": 33,
+      "rank": 28,
       "title": "特朗普推动俄乌停火是为了商业利益吗",
       "url": "https://www.toutiao.com/trending/7578832492363255338/",
       "label": "new"
     },
     {
+      "rank": 29,
+      "title": "当年高位买房的人现在怎么样了",
+      "url": "https://www.toutiao.com/trending/7578767013087022618/",
+      "label": "depth"
+    },
+    {
+      "rank": 30,
+      "title": "人民日报：在台湾问题上玩火者必自焚",
+      "url": "https://www.toutiao.com/trending/7577664958511923263/",
+      "label": "hot"
+    },
+    {
+      "rank": 31,
+      "title": "日本国债全线暴跌冲击有多大",
+      "url": "https://www.toutiao.com/trending/7578742388735393818/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "低利率时代中国人悄悄开始“理”钱",
+      "url": "https://www.toutiao.com/trending/7578347153043636250/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 33,
+      "title": "特朗普对达成结束乌危机协议表示乐观",
+      "url": "https://www.toutiao.com/trending/7578208230733398052/",
+      "label": "new"
+    },
+    {
       "rank": 34,
-      "title": "文眉店故意文丑眉强迫顾客升单被判刑",
-      "url": "https://www.toutiao.com/trending/7578773222620659748/",
+      "title": "广州一货车起火引燃周边数米",
+      "url": "https://www.toutiao.com/trending/7577954693406654505/",
       "label": ""
     },
     {
@@ -220,92 +220,92 @@
     },
     {
       "rank": 36,
-      "title": "特朗普对达成结束乌危机协议表示乐观",
-      "url": "https://www.toutiao.com/trending/7578208230733398052/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "美可卓蓝胖子回应假奶粉事件",
-      "url": "https://www.toutiao.com/trending/7577790835619250195/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "杭州学军中学4人入选国家集训队",
-      "url": "https://www.toutiao.com/trending/7578732019267010606/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "鄂尔多斯治沙为全球荒漠治理提供方案",
-      "url": "https://www.toutiao.com/trending/7577943654808010771/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "豆腐渣工程背后利益链为何斩不断",
-      "url": "https://www.toutiao.com/trending/7578838620501446198/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
       "title": "专家预测俄乌冲突或8个月后结束",
       "url": "https://www.toutiao.com/trending/7578831778891173386/",
       "label": "new"
     },
     {
-      "rank": 42,
+      "rank": 37,
+      "title": "文眉店故意文丑眉强迫顾客升单被判刑",
+      "url": "https://www.toutiao.com/trending/7578773222620659748/",
+      "label": ""
+    },
+    {
+      "rank": 38,
+      "title": "豆腐渣工程背后利益链为何斩不断",
+      "url": "https://www.toutiao.com/trending/7578838620501446198/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
+      "title": "美可卓蓝胖子回应假奶粉事件",
+      "url": "https://www.toutiao.com/trending/7577790835619250195/",
+      "label": ""
+    },
+    {
+      "rank": 40,
       "title": "印媒为何担忧巴基斯坦引进中国PL-17",
       "url": "https://www.toutiao.com/trending/7578808882412129828/",
       "label": "interpretation"
     },
     {
-      "rank": 43,
-      "title": "航天员“改签”背后的中国科技硬实力",
-      "url": "https://www.toutiao.com/trending/7578796814543883830/",
-      "label": "interpretation"
+      "rank": 41,
+      "title": "中国取消12月赴日航班904架次",
+      "url": "https://www.toutiao.com/trending/7577683361284620314/",
+      "label": "new"
     },
     {
-      "rank": 44,
-      "title": "郝蕾回应“内涵”辛芷蕾：是个乌龙",
-      "url": "https://www.toutiao.com/trending/7578783215952445476/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "俄乌和平进程正紧张推进中",
-      "url": "https://www.toutiao.com/trending/7578795008543690294/",
-      "label": ""
-    },
-    {
-      "rank": 46,
+      "rank": 42,
       "title": "马克龙将访华释放什么信号",
       "url": "https://www.toutiao.com/trending/7578802879138369033/",
       "label": ""
     },
     {
-      "rank": 47,
-      "title": "六国涉台表态",
-      "url": "https://www.toutiao.com/trending/7578040248584896548/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
-      "title": "大V：美对委内瑞拉军事行动一触即发",
-      "url": "https://www.toutiao.com/trending/7578771848834321947/",
+      "rank": 43,
+      "title": "郝蕾回应“内涵”辛芷蕾：是个乌龙",
+      "url": "https://www.toutiao.com/trending/7578783215952445476/",
       "label": ""
     },
     {
-      "rank": 49,
+      "rank": 44,
       "title": "俄乌冲突28点和平方案变19点改了啥",
       "url": "https://www.toutiao.com/trending/7578802765992824347/",
       "label": "interpretation"
     },
     {
-      "rank": 50,
+      "rank": 45,
+      "title": "航天员“改签”背后的中国科技硬实力",
+      "url": "https://www.toutiao.com/trending/7578796814543883830/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 46,
+      "title": "男子扫了张“诱惑”小卡片损失56万",
+      "url": "https://www.toutiao.com/trending/7578775835084259355/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "大V：美对委内瑞拉军事行动一触即发",
+      "url": "https://www.toutiao.com/trending/7578771848834321947/",
+      "label": ""
+    },
+    {
+      "rank": 48,
       "title": "中国第一次太空修飞船究竟多重要",
       "url": "https://www.toutiao.com/trending/7578792179401756170/",
+      "label": ""
+    },
+    {
+      "rank": 49,
+      "title": "俄乌和平进程正紧张推进中",
+      "url": "https://www.toutiao.com/trending/7578795008543690294/",
+      "label": ""
+    },
+    {
+      "rank": 50,
+      "title": "搞事的高市如何完事",
+      "url": "https://www.toutiao.com/trending/7578701026283228682/",
       "label": ""
     }
   ]
