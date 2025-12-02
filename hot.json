@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Dec 2025 12:30:04 GMT",
+  "generated_at": "Tue, 02 Dec 2025 12:35:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "接续推进中国式现代化",
@@ -58,15 +58,15 @@
     },
     {
       "rank": 9,
-      "title": "5台电脑采购价近3亿？系单位标注错误",
-      "url": "https://www.toutiao.com/trending/7579045775271903258/",
-      "label": "recentProgress"
+      "title": "王毅与绍伊古会面 两人微笑握手",
+      "url": "https://www.toutiao.com/trending/7578233491624575039/",
+      "label": "onSite"
     },
     {
       "rank": 10,
       "title": "电动车新国标实施后谁更赚钱了",
       "url": "https://www.toutiao.com/trending/7579191496042090020/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -82,39 +82,39 @@
     },
     {
       "rank": 13,
-      "title": "王毅与绍伊古会面 两人微笑握手",
-      "url": "https://www.toutiao.com/trending/7578233491624575039/",
-      "label": "onSite"
-    },
-    {
-      "rank": 14,
       "title": "电动车私改电池车速将上传监管平台",
       "url": "https://www.toutiao.com/trending/7577989141519810566/",
       "label": "new"
     },
     {
+      "rank": 14,
+      "title": "5台电脑采购价近3亿？系单位标注错误",
+      "url": "https://www.toutiao.com/trending/7579045775271903258/",
+      "label": "recentProgress"
+    },
+    {
       "rank": 15,
-      "title": "顾客取消订单 商家让骑手当晚餐吃",
-      "url": "https://www.toutiao.com/trending/7578789787378090020/",
-      "label": "new"
-    },
-    {
-      "rank": 16,
-      "title": "流感季你会常备奥司他韦吗",
-      "url": "https://www.toutiao.com/trending/7578905857967882259/",
-      "label": "forum"
-    },
-    {
-      "rank": 17,
       "title": "血糖控制不好有多可怕",
       "url": "https://www.toutiao.com/trending/7579102483579158555/",
       "label": ""
     },
     {
-      "rank": 18,
+      "rank": 16,
+      "title": "你喜欢吃哪种萝卜",
+      "url": "https://www.toutiao.com/trending/7578885874872680511/",
+      "label": "forum"
+    },
+    {
+      "rank": 17,
       "title": "香港大埔火灾：警方已拘捕15人",
       "url": "https://www.toutiao.com/trending/7579195423986978354/",
       "label": "hot"
+    },
+    {
+      "rank": 18,
+      "title": "顾客取消订单 商家让骑手当晚餐吃",
+      "url": "https://www.toutiao.com/trending/7578789787378090020/",
+      "label": "new"
     },
     {
       "rank": 19,
@@ -124,8 +124,8 @@
     },
     {
       "rank": 20,
-      "title": "小电驴新国标实施首日：涨价几百元",
-      "url": "https://www.toutiao.com/trending/7579086932341181978/",
+      "title": "香港大火已致156人遇难",
+      "url": "https://www.toutiao.com/trending/7579184224192974387/",
       "label": "hot"
     },
     {
@@ -136,32 +136,32 @@
     },
     {
       "rank": 22,
-      "title": "香港大火已致156人遇难",
-      "url": "https://www.toutiao.com/trending/7579184224192974387/",
-      "label": "hot"
-    },
-    {
-      "rank": 23,
       "title": "儿子睡亡母生前床上感染同种病毒",
       "url": "https://www.toutiao.com/trending/7578796032021610542/",
       "label": ""
     },
     {
-      "rank": 24,
-      "title": "解放军新增700个垂发影响几何",
-      "url": "https://www.toutiao.com/trending/7579152845652364836/",
-      "label": "new"
-    },
-    {
-      "rank": 25,
-      "title": "外交部回应台外事部门负责人言论",
-      "url": "https://www.toutiao.com/trending/7578381402815692843/",
+      "rank": 23,
+      "title": "小电驴新国标实施首日：涨价几百元",
+      "url": "https://www.toutiao.com/trending/7579086932341181978/",
       "label": "hot"
     },
     {
-      "rank": 26,
+      "rank": 24,
+      "title": "外交部回应台外事部门负责人言论",
+      "url": "https://www.toutiao.com/trending/7578381402815692843/",
+      "label": ""
+    },
+    {
+      "rank": 25,
       "title": "上海发现“加拿大一枝黄花”",
       "url": "https://www.toutiao.com/trending/7579145107511017491/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "电动自行车为何一夜之间涨了千元",
+      "url": "https://www.toutiao.com/trending/7579192365219319350/",
       "label": "new"
     },
     {
@@ -172,56 +172,56 @@
     },
     {
       "rank": 28,
+      "title": "解放军新增700个垂发影响几何",
+      "url": "https://www.toutiao.com/trending/7579152845652364836/",
+      "label": "new"
+    },
+    {
+      "rank": 29,
       "title": "马克龙为何在访华前会见泽连斯基",
       "url": "https://www.toutiao.com/trending/7579166045743615551/",
       "label": "interpretation"
     },
     {
-      "rank": 29,
-      "title": "汶川地震被救女孩与施救军人结婚",
-      "url": "https://www.toutiao.com/trending/7578112690292326436/",
-      "label": ""
-    },
-    {
       "rank": 30,
-      "title": "为什么英国急于示好中国",
-      "url": "https://www.toutiao.com/trending/7579151079724551722/",
-      "label": ""
-    },
-    {
-      "rank": 31,
-      "title": "宁波富豪34亿元股票分给子女",
-      "url": "https://www.toutiao.com/trending/7578845366410510374/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "日本必须早日还中国一片无化武净土",
-      "url": "https://www.toutiao.com/trending/7579139028805730350/",
-      "label": ""
-    },
-    {
-      "rank": 33,
       "title": "斯塔默不想访华了吗",
       "url": "https://www.toutiao.com/trending/7579160862196239926/",
       "label": ""
     },
     {
+      "rank": 31,
+      "title": "厕所小广告牵出涉黄暗网",
+      "url": "https://www.toutiao.com/trending/7579153037365952554/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
+      "title": "宁波富豪34亿元股票分给子女",
+      "url": "https://www.toutiao.com/trending/7578845366410510374/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "云南一山谷被倾倒约5000吨生活垃圾",
+      "url": "https://www.toutiao.com/trending/7579090634792189958/",
+      "label": ""
+    },
+    {
       "rank": 34,
-      "title": "“日本制造”系统性崩塌",
-      "url": "https://www.toutiao.com/trending/7579114919199510079/",
+      "title": "为什么英国急于示好中国",
+      "url": "https://www.toutiao.com/trending/7579151079724551722/",
       "label": ""
     },
     {
       "rank": 35,
-      "title": "模特大赛太太组冠军否认带资进组",
-      "url": "https://www.toutiao.com/trending/7578155628063572014/",
-      "label": "new"
+      "title": "汶川地震被救女孩与施救军人结婚",
+      "url": "https://www.toutiao.com/trending/7578112690292326436/",
+      "label": ""
     },
     {
       "rank": 36,
-      "title": "三星发布首款三折叠手机",
-      "url": "https://www.toutiao.com/trending/7579094938323783194/",
+      "title": "罗永浩锐评三星三折叠手机",
+      "url": "https://www.toutiao.com/trending/7578573838171455515/",
       "label": ""
     },
     {
@@ -232,80 +232,80 @@
     },
     {
       "rank": 38,
-      "title": "日船只非法进钓鱼岛领海 中方驱离",
-      "url": "https://www.toutiao.com/trending/7579057789532802610/",
-      "label": ""
-    },
-    {
-      "rank": 39,
-      "title": "云南一山谷被倾倒约5000吨生活垃圾",
-      "url": "https://www.toutiao.com/trending/7579090634792189958/",
-      "label": ""
-    },
-    {
-      "rank": 40,
-      "title": "罗永浩锐评三星三折叠手机",
-      "url": "https://www.toutiao.com/trending/7578573838171455515/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "评论员：俄经济因战争进入寒冬",
-      "url": "https://www.toutiao.com/trending/7579167967561125419/",
-      "label": "interpretation"
-    },
-    {
-      "rank": 42,
-      "title": "姜甲儒被拐卖案二审将开庭",
-      "url": "https://www.toutiao.com/trending/7578498152504967187/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "特朗普赦免洪都拉斯前总统的真实动机",
-      "url": "https://www.toutiao.com/trending/7579006374592577555/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
-      "title": "蔡正元：警惕日本复苏军国主义",
-      "url": "https://www.toutiao.com/trending/7577995470023426084/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "英伟达20亿美元入股新思科技",
-      "url": "https://www.toutiao.com/trending/7578734820139106367/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "如何看待俄军自杀机有空中反杀能力",
-      "url": "https://www.toutiao.com/trending/7579204324518006314/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
-      "title": "日本北海道一商店街发生火灾",
-      "url": "https://www.toutiao.com/trending/7578734073204899903/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
-      "title": "中央气象台发布寒潮蓝色预警",
-      "url": "https://www.toutiao.com/trending/7578563570385027118/",
-      "label": ""
-    },
-    {
-      "rank": 49,
       "title": "俄3吨重磅炸弹打爆乌军高楼",
       "url": "https://www.toutiao.com/trending/7578087760419094582/",
       "label": "new"
     },
     {
+      "rank": 39,
+      "title": "日船只非法进钓鱼岛领海 中方驱离",
+      "url": "https://www.toutiao.com/trending/7579057789532802610/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "“日本制造”系统性崩塌",
+      "url": "https://www.toutiao.com/trending/7579114919199510079/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "姜甲儒被拐卖案二审将开庭",
+      "url": "https://www.toutiao.com/trending/7578498152504967187/",
+      "label": ""
+    },
+    {
+      "rank": 42,
+      "title": "评论员：俄经济因战争进入寒冬",
+      "url": "https://www.toutiao.com/trending/7579167967561125419/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 43,
+      "title": "日本北海道一商店街发生火灾",
+      "url": "https://www.toutiao.com/trending/7578734073204899903/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "普京为何此时宣布控制红军城",
+      "url": "https://www.toutiao.com/trending/7579162939405143602/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "特朗普赦免洪都拉斯前总统的真实动机",
+      "url": "https://www.toutiao.com/trending/7579006374592577555/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "李在明称自主发展核武器不切实际",
+      "url": "https://www.toutiao.com/trending/7579137623562666038/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "二手电动自行车交易火热暗藏多重风险",
+      "url": "https://www.toutiao.com/trending/7578114070906454067/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "如何看待俄军自杀机有空中反杀能力",
+      "url": "https://www.toutiao.com/trending/7579204324518006314/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
+      "title": "避孕套增值税背后 年轻人到底生不生",
+      "url": "https://www.toutiao.com/trending/7579172609544162859/",
+      "label": "new"
+    },
+    {
       "rank": 50,
-      "title": "厕所小广告牵出涉黄暗网",
-      "url": "https://www.toutiao.com/trending/7579153037365952554/",
+      "title": "莫德里奇为何在意甲表现出色",
+      "url": "https://www.toutiao.com/trending/7578077730282602547/",
       "label": "new"
     }
   ]
