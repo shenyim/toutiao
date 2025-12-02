@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Dec 2025 10:05:04 GMT",
+  "generated_at": "Tue, 02 Dec 2025 10:10:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记这些话振聋发聩",
@@ -34,8 +34,8 @@
     },
     {
       "rank": 5,
-      "title": "特朗普体检结果公布",
-      "url": "https://www.toutiao.com/trending/7579125829599235625/",
+      "title": "熊征宇任武汉市代理市长",
+      "url": "https://www.toutiao.com/trending/7579195545529552430/",
       "label": "new"
     },
     {
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "美日菲对中国沿海的侦察监视升级",
-      "url": "https://www.toutiao.com/trending/7579127539935743494/",
-      "label": "hot"
+      "title": "日巨头中国工厂停产 曾有上万名员工",
+      "url": "https://www.toutiao.com/trending/7578409151173492746/",
+      "label": "new"
     },
     {
       "rank": 11,
@@ -82,44 +82,44 @@
     },
     {
       "rank": 13,
+      "title": "美日菲对中国沿海的侦察监视升级",
+      "url": "https://www.toutiao.com/trending/7579127539935743494/",
+      "label": "hot"
+    },
+    {
+      "rank": 14,
+      "title": "日本军事准备细节曝光",
+      "url": "https://www.toutiao.com/trending/7578879331192078377/",
+      "label": "new"
+    },
+    {
+      "rank": 15,
       "title": "“日本制造”系统性崩塌",
       "url": "https://www.toutiao.com/trending/7579114919199510079/",
       "label": ""
     },
     {
-      "rank": 14,
-      "title": "三星发布首款三折叠手机",
-      "url": "https://www.toutiao.com/trending/7579094938323783194/",
-      "label": ""
-    },
-    {
-      "rank": 15,
+      "rank": 16,
       "title": "宁波富豪34亿元股票分给子女",
       "url": "https://www.toutiao.com/trending/7578845366410510374/",
       "label": ""
     },
     {
-      "rank": 16,
-      "title": "如何看待女子烫发借口出去透气后跑路",
-      "url": "https://www.toutiao.com/trending/7579072384813645875/",
+      "rank": 17,
+      "title": "低价囤菜过冬你觉得值吗",
+      "url": "https://www.toutiao.com/trending/7579083019328782372/",
       "label": "forum"
     },
     {
-      "rank": 17,
-      "title": "汶川地震被救女孩与施救军人结婚",
-      "url": "https://www.toutiao.com/trending/7578112690292326436/",
+      "rank": 18,
+      "title": "三星发布首款三折叠手机",
+      "url": "https://www.toutiao.com/trending/7579094938323783194/",
       "label": ""
     },
     {
-      "rank": 18,
-      "title": "日巨头中国工厂停产 曾有上万名员工",
-      "url": "https://www.toutiao.com/trending/7578409151173492746/",
-      "label": "new"
-    },
-    {
       "rank": 19,
-      "title": "“刀疤哥”退赛",
-      "url": "https://www.toutiao.com/trending/7578304389543215123/",
+      "title": "汶川地震被救女孩与施救军人结婚",
+      "url": "https://www.toutiao.com/trending/7578112690292326436/",
       "label": ""
     },
     {
@@ -148,15 +148,15 @@
     },
     {
       "rank": 24,
-      "title": "俄罗斯对华免签为何“慢半拍”",
-      "url": "https://www.toutiao.com/trending/7579144342254652991/",
+      "title": "“刀疤哥”退赛",
+      "url": "https://www.toutiao.com/trending/7578304389543215123/",
       "label": ""
     },
     {
       "rank": 25,
-      "title": "日本军事准备细节曝光",
-      "url": "https://www.toutiao.com/trending/7578879331192078377/",
-      "label": "new"
+      "title": "俄罗斯对华免签为何“慢半拍”",
+      "url": "https://www.toutiao.com/trending/7579144342254652991/",
+      "label": ""
     },
     {
       "rank": 26,
@@ -178,134 +178,134 @@
     },
     {
       "rank": 29,
-      "title": "日本必须早日还中国一片无化武净土",
-      "url": "https://www.toutiao.com/trending/7579139028805730350/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "为什么英国急于示好中国",
-      "url": "https://www.toutiao.com/trending/7579151079724551722/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
-      "title": "美防长下达“杀光”命令影响几何",
-      "url": "https://www.toutiao.com/trending/7579131237260856868/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "孙正义称自己“哭着”清仓英伟达",
-      "url": "https://www.toutiao.com/trending/7579052555238604836/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "斯塔默不想访华了吗",
-      "url": "https://www.toutiao.com/trending/7579160862196239926/",
-      "label": ""
-    },
-    {
-      "rank": 34,
       "title": "外交部回应台外事部门负责人言论",
       "url": "https://www.toutiao.com/trending/7578381402815692843/",
       "label": "new"
     },
     {
-      "rank": 35,
+      "rank": 30,
+      "title": "日本必须早日还中国一片无化武净土",
+      "url": "https://www.toutiao.com/trending/7579139028805730350/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "斯塔默不想访华了吗",
+      "url": "https://www.toutiao.com/trending/7579160862196239926/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "美防长下达“杀光”命令影响几何",
+      "url": "https://www.toutiao.com/trending/7579131237260856868/",
+      "label": ""
+    },
+    {
+      "rank": 33,
       "title": "欧盟终止就立陶宛问题在WTO起诉中方",
       "url": "https://www.toutiao.com/trending/7579151299418000915/",
       "label": "new"
     },
     {
-      "rank": 36,
-      "title": "小马科斯还能坐稳总统宝座吗",
-      "url": "https://www.toutiao.com/trending/7579149765229678143/",
+      "rank": 34,
+      "title": "为什么英国急于示好中国",
+      "url": "https://www.toutiao.com/trending/7579151079724551722/",
       "label": "new"
     },
     {
-      "rank": 37,
-      "title": "郑丽文批赖清德处处想要踩大陆红线",
-      "url": "https://www.toutiao.com/trending/7578796721682255403/",
-      "label": "hot"
-    },
-    {
-      "rank": 38,
-      "title": "罗永浩锐评三星三折叠手机",
-      "url": "https://www.toutiao.com/trending/7578573838171455515/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "《疯狂动物城2》救市成功",
-      "url": "https://www.toutiao.com/trending/7579116681369226815/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "马克龙此次访华想和中国谈哪些大事",
-      "url": "https://www.toutiao.com/trending/7579155983595736582/",
-      "label": ""
-    },
-    {
-      "rank": 41,
-      "title": "陈梦父母投资成立体育公司",
-      "url": "https://www.toutiao.com/trending/7579021353534128166/",
-      "label": ""
-    },
-    {
-      "rank": 42,
+      "rank": 35,
       "title": "迪士尼再次靠“爆米花套路”赢了吗",
       "url": "https://www.toutiao.com/trending/7579144287888084486/",
       "label": "depth"
     },
     {
+      "rank": 36,
+      "title": "罗永浩锐评三星三折叠手机",
+      "url": "https://www.toutiao.com/trending/7578573838171455515/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "小马科斯还能坐稳总统宝座吗",
+      "url": "https://www.toutiao.com/trending/7579149765229678143/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
+      "title": "马克龙此次访华想和中国谈哪些大事",
+      "url": "https://www.toutiao.com/trending/7579155983595736582/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "孙正义称自己“哭着”清仓英伟达",
+      "url": "https://www.toutiao.com/trending/7579052555238604836/",
+      "label": ""
+    },
+    {
+      "rank": 40,
+      "title": "郑丽文批赖清德处处想要踩大陆红线",
+      "url": "https://www.toutiao.com/trending/7578796721682255403/",
+      "label": "hot"
+    },
+    {
+      "rank": 41,
+      "title": "二手电动自行车交易火热暗藏多重风险",
+      "url": "https://www.toutiao.com/trending/7578114070906454067/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
+      "title": "陈梦父母投资成立体育公司",
+      "url": "https://www.toutiao.com/trending/7579021353534128166/",
+      "label": ""
+    },
+    {
       "rank": 43,
-      "title": "做空英伟达后“大空头”对特斯拉开火",
-      "url": "https://www.toutiao.com/trending/7578899299279732774/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
-      "title": "内塔尼亚胡请求特赦遭强烈抗议",
-      "url": "https://www.toutiao.com/trending/7579135667318296106/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "美俄秘密通话被泄到底谁干的",
-      "url": "https://www.toutiao.com/trending/7579127276457954862/",
-      "label": ""
-    },
-    {
-      "rank": 46,
-      "title": "TPU能抢走英伟达的市场吗",
-      "url": "https://www.toutiao.com/trending/7579085280154488326/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
       "title": "中国大批运-20抵达巴基斯坦运送什么",
       "url": "https://www.toutiao.com/trending/7579158559422680612/",
       "label": "new"
     },
     {
-      "rank": 48,
-      "title": "洪剑涛景区试戴帽子被要价5元",
-      "url": "https://www.toutiao.com/trending/7578407675936636934/",
+      "rank": 44,
+      "title": "TPU能抢走英伟达的市场吗",
+      "url": "https://www.toutiao.com/trending/7579085280154488326/",
       "label": ""
     },
     {
+      "rank": 45,
+      "title": "内塔尼亚胡请求特赦遭强烈抗议",
+      "url": "https://www.toutiao.com/trending/7579135667318296106/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "美国豆农为何不和巴西大豆卷价格",
+      "url": "https://www.toutiao.com/trending/7579153563171950086/",
+      "label": "new"
+    },
+    {
+      "rank": 47,
+      "title": "做空英伟达后“大空头”对特斯拉开火",
+      "url": "https://www.toutiao.com/trending/7578899299279732774/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "故宫12月3日对公安民警免费开放",
+      "url": "https://www.toutiao.com/trending/7579061104296149034/",
+      "label": "new"
+    },
+    {
       "rank": 49,
-      "title": "王楚钦称赞同伴们实力是世界上最强的",
-      "url": "https://www.toutiao.com/trending/7578569401008668718/",
+      "title": "我国每4个人就拥有1辆电动自行车",
+      "url": "https://www.toutiao.com/trending/7578679066090471470/",
       "label": "new"
     },
     {
       "rank": 50,
-      "title": "二手电动自行车交易火热暗藏多重风险",
-      "url": "https://www.toutiao.com/trending/7578114070906454067/",
+      "title": "港府禁止两“港独”组织运作",
+      "url": "https://www.toutiao.com/trending/7579139775656362010/",
       "label": "new"
     }
   ]
