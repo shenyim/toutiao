@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Dec 2025 09:50:04 GMT",
+  "generated_at": "Tue, 02 Dec 2025 09:55:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记这些话振聋发聩",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "小电驴新国标实施首日：涨价几百元",
-      "url": "https://www.toutiao.com/trending/7579086932341181978/",
-      "label": "hot"
+      "title": "5台电脑采购价近3亿？系单位标注错误",
+      "url": "https://www.toutiao.com/trending/7579045775271903258/",
+      "label": "recentProgress"
     },
     {
       "rank": 2,
-      "title": "5台电脑采购价近3亿？系单位标注错误",
-      "url": "https://www.toutiao.com/trending/7579045775271903258/",
-      "label": ""
+      "title": "小电驴新国标实施首日：涨价几百元",
+      "url": "https://www.toutiao.com/trending/7579086932341181978/",
+      "label": "hot"
     },
     {
       "rank": 3,
@@ -48,13 +48,13 @@
       "rank": 7,
       "title": "香港大火已致156人遇难",
       "url": "https://www.toutiao.com/trending/7579184224192974387/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 8,
-      "title": "美日菲对中国沿海的侦察监视升级",
-      "url": "https://www.toutiao.com/trending/7579127539935743494/",
-      "label": "hot"
+      "title": "特朗普体检结果公布",
+      "url": "https://www.toutiao.com/trending/7579125829599235625/",
+      "label": "new"
     },
     {
       "rank": 9,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "特朗普体检结果公布",
-      "url": "https://www.toutiao.com/trending/7579125829599235625/",
-      "label": "new"
+      "title": "美日菲对中国沿海的侦察监视升级",
+      "url": "https://www.toutiao.com/trending/7579127539935743494/",
+      "label": "hot"
     },
     {
       "rank": 11,
@@ -82,15 +82,15 @@
     },
     {
       "rank": 13,
-      "title": "“日本制造”系统性崩塌",
-      "url": "https://www.toutiao.com/trending/7579114919199510079/",
+      "title": "三星发布首款三折叠手机",
+      "url": "https://www.toutiao.com/trending/7579094938323783194/",
       "label": ""
     },
     {
       "rank": 14,
-      "title": "三星发布首款三折叠手机",
-      "url": "https://www.toutiao.com/trending/7579094938323783194/",
-      "label": ""
+      "title": "航司通报东京飞上海航班紧急返航",
+      "url": "https://www.toutiao.com/trending/7579071741126754313/",
+      "label": "new"
     },
     {
       "rank": 15,
@@ -106,26 +106,26 @@
     },
     {
       "rank": 17,
-      "title": "“刀疤哥”退赛",
-      "url": "https://www.toutiao.com/trending/7578304389543215123/",
-      "label": ""
-    },
-    {
-      "rank": 18,
-      "title": "美俄秘密通话被泄到底谁干的",
-      "url": "https://www.toutiao.com/trending/7579127276457954862/",
-      "label": ""
-    },
-    {
-      "rank": 19,
       "title": "汶川地震被救女孩与施救军人结婚",
       "url": "https://www.toutiao.com/trending/7578112690292326436/",
       "label": ""
     },
     {
-      "rank": 20,
+      "rank": 18,
+      "title": "“日本制造”系统性崩塌",
+      "url": "https://www.toutiao.com/trending/7579114919199510079/",
+      "label": ""
+    },
+    {
+      "rank": 19,
       "title": "中方坚决反对日方为军国主义招魂",
       "url": "https://www.toutiao.com/trending/7578329414866452543/",
+      "label": ""
+    },
+    {
+      "rank": 20,
+      "title": "“刀疤哥”退赛",
+      "url": "https://www.toutiao.com/trending/7578304389543215123/",
       "label": ""
     },
     {
@@ -148,99 +148,99 @@
     },
     {
       "rank": 24,
-      "title": "日船只非法进钓鱼岛领海 中方驱离",
-      "url": "https://www.toutiao.com/trending/7579057789532802610/",
-      "label": "hot"
-    },
-    {
-      "rank": 25,
-      "title": "日本必须早日还中国一片无化武净土",
-      "url": "https://www.toutiao.com/trending/7579139028805730350/",
-      "label": ""
-    },
-    {
-      "rank": 26,
-      "title": "孙正义称自己“哭着”清仓英伟达",
-      "url": "https://www.toutiao.com/trending/7579052555238604836/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "马克龙此次访华想和中国谈哪些大事",
-      "url": "https://www.toutiao.com/trending/7579155983595736582/",
-      "label": ""
-    },
-    {
-      "rank": 28,
       "title": "史上最严电动车新国标如何改写行业",
       "url": "https://www.toutiao.com/trending/7579085070275710473/",
       "label": "hot"
     },
     {
+      "rank": 25,
+      "title": "日船只非法进钓鱼岛领海 中方驱离",
+      "url": "https://www.toutiao.com/trending/7579057789532802610/",
+      "label": "hot"
+    },
+    {
+      "rank": 26,
+      "title": "美俄秘密通话被泄到底谁干的",
+      "url": "https://www.toutiao.com/trending/7579127276457954862/",
+      "label": ""
+    },
+    {
+      "rank": 27,
+      "title": "郑丽文批赖清德处处想要踩大陆红线",
+      "url": "https://www.toutiao.com/trending/7578796721682255403/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "日本必须早日还中国一片无化武净土",
+      "url": "https://www.toutiao.com/trending/7579139028805730350/",
+      "label": ""
+    },
+    {
       "rank": 29,
+      "title": "孙正义称自己“哭着”清仓英伟达",
+      "url": "https://www.toutiao.com/trending/7579052555238604836/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "马克龙此次访华想和中国谈哪些大事",
+      "url": "https://www.toutiao.com/trending/7579155983595736582/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "《疯狂动物城2》有哪些优缺点",
+      "url": "https://www.toutiao.com/trending/7579097252434546185/",
+      "label": "new"
+    },
+    {
+      "rank": 32,
       "title": "俄罗斯对华免签为何“慢半拍”",
       "url": "https://www.toutiao.com/trending/7579144342254652991/",
       "label": ""
     },
     {
-      "rank": 30,
+      "rank": 33,
       "title": "斯塔默不想访华了吗",
       "url": "https://www.toutiao.com/trending/7579160862196239926/",
       "label": "new"
     },
     {
-      "rank": 31,
-      "title": "内塔尼亚胡请求特赦遭强烈抗议",
-      "url": "https://www.toutiao.com/trending/7579135667318296106/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "日本与那国岛如何成为军事前沿要地",
-      "url": "https://www.toutiao.com/trending/7579156957836086835/",
-      "label": ""
-    },
-    {
-      "rank": 33,
-      "title": "洪剑涛景区试戴帽子被要价5元",
-      "url": "https://www.toutiao.com/trending/7578407675936636934/",
-      "label": ""
-    },
-    {
       "rank": 34,
-      "title": "港府禁止两“港独”组织运作",
-      "url": "https://www.toutiao.com/trending/7579139775656362010/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "航司通报东京飞上海航班紧急返航",
-      "url": "https://www.toutiao.com/trending/7579071741126754313/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "王楚钦称赞同伴们实力是世界上最强的",
-      "url": "https://www.toutiao.com/trending/7578569401008668718/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
       "title": "美防长下达“杀光”命令影响几何",
       "url": "https://www.toutiao.com/trending/7579131237260856868/",
       "label": ""
     },
     {
+      "rank": 35,
+      "title": "王楚钦称赞同伴们实力是世界上最强的",
+      "url": "https://www.toutiao.com/trending/7578569401008668718/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
+      "title": "外卖大战最激烈的一季已经过去",
+      "url": "https://www.toutiao.com/trending/7579148986288705030/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "内塔尼亚胡请求特赦遭强烈抗议",
+      "url": "https://www.toutiao.com/trending/7579135667318296106/",
+      "label": ""
+    },
+    {
       "rank": 38,
-      "title": "迪士尼再次靠“爆米花套路”赢了吗",
-      "url": "https://www.toutiao.com/trending/7579144287888084486/",
-      "label": "depth"
+      "title": "做空英伟达后“大空头”对特斯拉开火",
+      "url": "https://www.toutiao.com/trending/7578899299279732774/",
+      "label": "new"
     },
     {
       "rank": 39,
-      "title": "郑丽文批赖清德处处想要踩大陆红线",
-      "url": "https://www.toutiao.com/trending/7578796721682255403/",
-      "label": "hot"
+      "title": "日本与那国岛如何成为军事前沿要地",
+      "url": "https://www.toutiao.com/trending/7579156957836086835/",
+      "label": ""
     },
     {
       "rank": 40,
@@ -250,62 +250,62 @@
     },
     {
       "rank": 41,
+      "title": "委内瑞拉的备战计划是什么",
+      "url": "https://www.toutiao.com/trending/7579151508818628102/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
+      "title": "洪剑涛景区试戴帽子被要价5元",
+      "url": "https://www.toutiao.com/trending/7578407675936636934/",
+      "label": ""
+    },
+    {
+      "rank": 43,
+      "title": "外交部回应台外事部门负责人言论",
+      "url": "https://www.toutiao.com/trending/7578381402815692843/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "迪士尼再次靠“爆米花套路”赢了吗",
+      "url": "https://www.toutiao.com/trending/7579144287888084486/",
+      "label": "depth"
+    },
+    {
+      "rank": 45,
       "title": "陈梦父母投资成立体育公司",
       "url": "https://www.toutiao.com/trending/7579021353534128166/",
       "label": ""
     },
     {
-      "rank": 42,
-      "title": "上野千鹤子谈日本年轻人的生存困境",
-      "url": "https://www.toutiao.com/trending/7579115486168747556/",
-      "label": "depth"
-    },
-    {
-      "rank": 43,
-      "title": "做空英伟达后“大空头”对特斯拉开火",
-      "url": "https://www.toutiao.com/trending/7578899299279732774/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
-      "title": "《疯狂动物城2》救市成功",
-      "url": "https://www.toutiao.com/trending/7579116681369226815/",
-      "label": "new"
-    },
-    {
-      "rank": 45,
-      "title": "白宫承认美防长“不留活口”言论",
-      "url": "https://www.toutiao.com/trending/7579021157102338098/",
-      "label": ""
-    },
-    {
       "rank": 46,
-      "title": "李在明提议恢复韩朝间联络渠道",
-      "url": "https://www.toutiao.com/trending/7578099785828646954/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
-      "title": "故宫12月3日对公安民警免费开放",
-      "url": "https://www.toutiao.com/trending/7579061104296149034/",
-      "label": "new"
-    },
-    {
-      "rank": 48,
-      "title": "于和伟回母校上戏演讲",
-      "url": "https://www.toutiao.com/trending/7578554143946588196/",
-      "label": "new"
-    },
-    {
-      "rank": 49,
       "title": "日本军事准备细节曝光",
       "url": "https://www.toutiao.com/trending/7578879331192078377/",
       "label": "new"
     },
     {
+      "rank": 47,
+      "title": "宁德时代：1000座换电站春节前运营",
+      "url": "https://www.toutiao.com/trending/7579111263096225835/",
+      "label": "new"
+    },
+    {
+      "rank": 48,
+      "title": "罗永浩锐评三星三折叠手机",
+      "url": "https://www.toutiao.com/trending/7578573838171455515/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
+      "title": "二手电动自行车交易火热暗藏多重风险",
+      "url": "https://www.toutiao.com/trending/7578114070906454067/",
+      "label": "new"
+    },
+    {
       "rank": 50,
-      "title": "台湾岛内掀反战浪潮",
-      "url": "https://www.toutiao.com/trending/7579127198833970739/",
+      "title": "故宫12月3日对公安民警免费开放",
+      "url": "https://www.toutiao.com/trending/7579061104296149034/",
       "label": "new"
     }
   ]
