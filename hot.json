@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Dec 2025 14:45:04 GMT",
+  "generated_at": "Tue, 02 Dec 2025 14:50:07 GMT",
   "top": {
     "rank": "置顶",
     "title": "接续推进中国式现代化",
@@ -24,7 +24,7 @@
       "rank": 3,
       "title": "中国经济的“稳”与“进”为世界注入信心",
       "url": "https://www.toutiao.com/article/7579030902211101230",
-      "label": "new"
+      "label": ""
     },
     {
       "rank": 4,
@@ -64,9 +64,9 @@
     },
     {
       "rank": 10,
-      "title": "小摩：在日华人可以考虑澳大利亚",
-      "url": "https://www.toutiao.com/trending/7579179267670412851/",
-      "label": ""
+      "title": "大爷花10元剃头后满头伤口不忍追责",
+      "url": "https://www.toutiao.com/trending/7578815259138424842/",
+      "label": "forum"
     },
     {
       "rank": 11,
@@ -76,9 +76,9 @@
     },
     {
       "rank": 12,
-      "title": "大爷花10元剃头后满头伤口不忍追责",
-      "url": "https://www.toutiao.com/trending/7578815259138424842/",
-      "label": "forum"
+      "title": "银行门口抢劫170万歹徒自制4把枪",
+      "url": "https://www.toutiao.com/trending/7579211984827141651/",
+      "label": "hot"
     },
     {
       "rank": 13,
@@ -94,20 +94,20 @@
     },
     {
       "rank": 15,
-      "title": "银行门口抢劫170万歹徒自制4把枪",
-      "url": "https://www.toutiao.com/trending/7579211984827141651/",
-      "label": "hot"
-    },
-    {
-      "rank": 16,
       "title": "日本参议员：日本军事无法与中国抗衡",
       "url": "https://www.toutiao.com/trending/7578388276781334570/",
       "label": ""
     },
     {
-      "rank": 17,
+      "rank": 16,
       "title": "本轮流感为何“失声”病例增多",
       "url": "https://www.toutiao.com/trending/7579186441759526438/",
+      "label": ""
+    },
+    {
+      "rank": 17,
+      "title": "小摩：在日华人可以考虑澳大利亚",
+      "url": "https://www.toutiao.com/trending/7579179267670412851/",
       "label": ""
     },
     {
@@ -118,15 +118,15 @@
     },
     {
       "rank": 19,
-      "title": "避孕套增值税背后 年轻人到底生不生",
-      "url": "https://www.toutiao.com/trending/7579172609544162859/",
-      "label": ""
-    },
-    {
-      "rank": 20,
       "title": "记者探访电动车新规落地首日市场情况",
       "url": "https://www.toutiao.com/trending/7578522061820248070/",
       "label": "hot"
+    },
+    {
+      "rank": 20,
+      "title": "避孕套增值税背后 年轻人到底生不生",
+      "url": "https://www.toutiao.com/trending/7579172609544162859/",
+      "label": ""
     },
     {
       "rank": 21,
@@ -136,21 +136,21 @@
     },
     {
       "rank": 22,
+      "title": "雷军突然开卖现车 小米彻底摊牌了",
+      "url": "https://www.toutiao.com/trending/7579141283130641926/",
+      "label": ""
+    },
+    {
+      "rank": 23,
       "title": "宁波富豪34亿元股票分给子女",
       "url": "https://www.toutiao.com/trending/7578845366410510374/",
       "label": ""
     },
     {
-      "rank": 23,
+      "rank": 24,
       "title": "实测新国标电动车时速25km是否断电",
       "url": "https://www.toutiao.com/trending/7578403229852123172/",
       "label": "hot"
-    },
-    {
-      "rank": 24,
-      "title": "雷军突然开卖现车 小米彻底摊牌了",
-      "url": "https://www.toutiao.com/trending/7579141283130641926/",
-      "label": ""
     },
     {
       "rank": 25,
@@ -160,14 +160,14 @@
     },
     {
       "rank": 26,
-      "title": "解放军新增700个垂发影响几何",
-      "url": "https://www.toutiao.com/trending/7579152845652364836/",
+      "title": "中国大批运-20抵达巴基斯坦运送什么",
+      "url": "https://www.toutiao.com/trending/7579158559422680612/",
       "label": ""
     },
     {
       "rank": 27,
-      "title": "中国大批运-20抵达巴基斯坦运送什么",
-      "url": "https://www.toutiao.com/trending/7579158559422680612/",
+      "title": "解放军新增700个垂发影响几何",
+      "url": "https://www.toutiao.com/trending/7579152845652364836/",
       "label": ""
     },
     {
@@ -190,9 +190,9 @@
     },
     {
       "rank": 31,
-      "title": "我国每4个人就拥有1辆电动自行车",
-      "url": "https://www.toutiao.com/trending/7578679066090471470/",
-      "label": ""
+      "title": "2026年房价能否止跌回升",
+      "url": "https://www.toutiao.com/trending/7579218445288345098/",
+      "label": "interpretation"
     },
     {
       "rank": 32,
@@ -208,27 +208,27 @@
     },
     {
       "rank": 34,
+      "title": "我国每4个人就拥有1辆电动自行车",
+      "url": "https://www.toutiao.com/trending/7578679066090471470/",
+      "label": ""
+    },
+    {
+      "rank": 35,
       "title": "呼伦贝尔多个气象站最低气温破-40℃",
       "url": "https://www.toutiao.com/trending/7578764890509426715/",
       "label": ""
     },
     {
-      "rank": 35,
+      "rank": 36,
       "title": "5台电脑采购价近3亿？系单位标注错误",
       "url": "https://www.toutiao.com/trending/7579045775271903258/",
       "label": "recentProgress"
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "电动车私改电池车速将上传监管平台",
       "url": "https://www.toutiao.com/trending/7577989141519810566/",
       "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "2026年房价能否止跌回升",
-      "url": "https://www.toutiao.com/trending/7579218445288345098/",
-      "label": "interpretation"
     },
     {
       "rank": 38,
@@ -238,38 +238,38 @@
     },
     {
       "rank": 39,
-      "title": "顾客取消订单 商家让骑手当晚餐吃",
-      "url": "https://www.toutiao.com/trending/7578789787378090020/",
-      "label": ""
-    },
-    {
-      "rank": 40,
       "title": "房地产五年大洗牌 这3个趋势要认清",
       "url": "https://www.toutiao.com/trending/7579148580322020900/",
       "label": "new"
     },
     {
+      "rank": 40,
+      "title": "电动自行车新国标会影响哪些企业",
+      "url": "https://www.toutiao.com/trending/7579240740434234907/",
+      "label": "interpretation"
+    },
+    {
       "rank": 41,
+      "title": "顾客取消订单 商家让骑手当晚餐吃",
+      "url": "https://www.toutiao.com/trending/7578789787378090020/",
+      "label": ""
+    },
+    {
+      "rank": 42,
       "title": "血糖控制不好有多可怕",
       "url": "https://www.toutiao.com/trending/7579102483579158555/",
       "label": ""
     },
     {
-      "rank": 42,
+      "rank": 43,
       "title": "学者：马克龙有两件事有求于中国",
       "url": "https://www.toutiao.com/trending/7579191166168469034/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "中方再次致函联合国秘书长",
-      "url": "https://www.toutiao.com/trending/7578148825500614699/",
-      "label": "new"
-    },
-    {
       "rank": 44,
-      "title": "外交部：台当局“倚外谋独”死路一条",
-      "url": "https://www.toutiao.com/trending/7578323237348638756/",
+      "title": "香港大埔火灾：警方已拘捕15人",
+      "url": "https://www.toutiao.com/trending/7579195423986978354/",
       "label": ""
     },
     {
@@ -280,32 +280,32 @@
     },
     {
       "rank": 46,
-      "title": "香港大埔火灾：警方已拘捕15人",
-      "url": "https://www.toutiao.com/trending/7579195423986978354/",
-      "label": ""
-    },
-    {
-      "rank": 47,
       "title": "当前市场处在怎样的位置",
       "url": "https://www.toutiao.com/trending/7579216204263329321/",
       "label": "new"
     },
     {
-      "rank": 48,
-      "title": "湖南多名省人大代表资格终止",
-      "url": "https://www.toutiao.com/trending/7579193146614022182/",
+      "rank": 47,
+      "title": "为什么英国急于示好中国",
+      "url": "https://www.toutiao.com/trending/7579151079724551722/",
       "label": ""
     },
     {
-      "rank": 49,
+      "rank": 48,
       "title": "俄军拿下两大关键重镇影响几何",
       "url": "https://www.toutiao.com/trending/7579207381054131721/",
       "label": "interpretation"
     },
     {
+      "rank": 49,
+      "title": "如何看待特朗普对马杜罗下最后通牒",
+      "url": "https://www.toutiao.com/trending/7579201244627996196/",
+      "label": "new"
+    },
+    {
       "rank": 50,
-      "title": "为什么英国急于示好中国",
-      "url": "https://www.toutiao.com/trending/7579151079724551722/",
+      "title": "外交部：台当局“倚外谋独”死路一条",
+      "url": "https://www.toutiao.com/trending/7578323237348638756/",
       "label": ""
     }
   ]
