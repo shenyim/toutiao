@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Dec 2025 09:28:28 GMT",
+  "generated_at": "Tue, 02 Dec 2025 09:30:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记这些话振聋发聩",
@@ -88,8 +88,8 @@
     },
     {
       "rank": 14,
-      "title": "三星发布首款三折叠手机",
-      "url": "https://www.toutiao.com/trending/7579094938323783194/",
+      "title": "“日本制造”系统性崩塌",
+      "url": "https://www.toutiao.com/trending/7579114919199510079/",
       "label": ""
     },
     {
@@ -100,8 +100,8 @@
     },
     {
       "rank": 16,
-      "title": "“日本制造”系统性崩塌",
-      "url": "https://www.toutiao.com/trending/7579114919199510079/",
+      "title": "三星发布首款三折叠手机",
+      "url": "https://www.toutiao.com/trending/7579094938323783194/",
       "label": ""
     },
     {
@@ -154,33 +154,33 @@
     },
     {
       "rank": 25,
-      "title": "日船只非法进钓鱼岛领海 中方驱离",
-      "url": "https://www.toutiao.com/trending/7579057789532802610/",
-      "label": "hot"
-    },
-    {
-      "rank": 26,
       "title": "汶川地震被救女孩与施救军人结婚",
       "url": "https://www.toutiao.com/trending/7578112690292326436/",
       "label": ""
     },
     {
-      "rank": 27,
-      "title": "中方坚决反对日方为军国主义招魂",
-      "url": "https://www.toutiao.com/trending/7578329414866452543/",
-      "label": "new"
+      "rank": 26,
+      "title": "日船只非法进钓鱼岛领海 中方驱离",
+      "url": "https://www.toutiao.com/trending/7579057789532802610/",
+      "label": "hot"
     },
     {
-      "rank": 28,
+      "rank": 27,
       "title": "史上最严电动车新国标如何改写行业",
       "url": "https://www.toutiao.com/trending/7579085070275710473/",
       "label": "hot"
     },
     {
-      "rank": 29,
+      "rank": 28,
       "title": "宁波富豪34亿元股票分给子女",
       "url": "https://www.toutiao.com/trending/7578845366410510374/",
       "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "中方坚决反对日方为军国主义招魂",
+      "url": "https://www.toutiao.com/trending/7578329414866452543/",
+      "label": "new"
     },
     {
       "rank": 30,
@@ -214,20 +214,20 @@
     },
     {
       "rank": 35,
+      "title": "马克龙此次访华想和中国谈哪些大事",
+      "url": "https://www.toutiao.com/trending/7579155983595736582/",
+      "label": "new"
+    },
+    {
+      "rank": 36,
       "title": "洪剑涛景区试戴帽子被要价5元",
       "url": "https://www.toutiao.com/trending/7578407675936636934/",
       "label": ""
     },
     {
-      "rank": 36,
+      "rank": 37,
       "title": "内塔尼亚胡请求特赦遭强烈抗议",
       "url": "https://www.toutiao.com/trending/7579135667318296106/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "马克龙此次访华想和中国谈哪些大事",
-      "url": "https://www.toutiao.com/trending/7579155983595736582/",
       "label": "new"
     },
     {
@@ -244,44 +244,44 @@
     },
     {
       "rank": 40,
-      "title": "美防长下达“杀光”命令影响几何",
-      "url": "https://www.toutiao.com/trending/7579131237260856868/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
       "title": "长期开电动车会掉腿毛是真的吗",
       "url": "https://www.toutiao.com/trending/7578456669319856138/",
       "label": "new"
     },
     {
-      "rank": 42,
-      "title": "媒体谈韦东奕获评北大副教授",
-      "url": "https://www.toutiao.com/trending/7578518390815211571/",
+      "rank": 41,
+      "title": "美防长下达“杀光”命令影响几何",
+      "url": "https://www.toutiao.com/trending/7579131237260856868/",
       "label": "new"
     },
     {
-      "rank": 43,
-      "title": "迪士尼再次靠“爆米花套路”赢了吗",
-      "url": "https://www.toutiao.com/trending/7579144287888084486/",
-      "label": "depth"
-    },
-    {
-      "rank": 44,
+      "rank": 42,
       "title": "iPhone Fold凭什么敢卖这么贵",
       "url": "https://www.toutiao.com/trending/7579139095033548342/",
       "label": "new"
     },
     {
+      "rank": 43,
+      "title": "媒体谈韦东奕获评北大副教授",
+      "url": "https://www.toutiao.com/trending/7578518390815211571/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "迪士尼再次靠“爆米花套路”赢了吗",
+      "url": "https://www.toutiao.com/trending/7579144287888084486/",
+      "label": "depth"
+    },
+    {
       "rank": 45,
-      "title": "《唐朝诡事录》系列为何能成功",
-      "url": "https://www.toutiao.com/trending/7579127790985809449/",
+      "title": "马斯克：人类活在虚拟世界概率极高",
+      "url": "https://www.toutiao.com/trending/7579074233024646666/",
       "label": ""
     },
     {
       "rank": 46,
-      "title": "马斯克：人类活在虚拟世界概率极高",
-      "url": "https://www.toutiao.com/trending/7579074233024646666/",
+      "title": "《唐朝诡事录》系列为何能成功",
+      "url": "https://www.toutiao.com/trending/7579127790985809449/",
       "label": ""
     },
     {
@@ -298,9 +298,9 @@
     },
     {
       "rank": 49,
-      "title": "上野千鹤子谈日本年轻人的生存困境",
-      "url": "https://www.toutiao.com/trending/7579115486168747556/",
-      "label": "depth"
+      "title": "王楚钦称赞同伴们实力是世界上最强的",
+      "url": "https://www.toutiao.com/trending/7578569401008668718/",
+      "label": "new"
     },
     {
       "rank": 50,
