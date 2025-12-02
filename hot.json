@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Dec 2025 06:40:04 GMT",
+  "generated_at": "Tue, 02 Dec 2025 06:45:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记这些话振聋发聩",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "“刀疤哥”退赛",
       "url": "https://www.toutiao.com/trending/7578304389543215123/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 2,
@@ -52,20 +52,20 @@
     },
     {
       "rank": 8,
-      "title": "博主：2026年房价迎三大转变",
-      "url": "https://www.toutiao.com/trending/7579077531702136362/",
-      "label": ""
+      "title": "小电驴新国标实施首日：涨价几百元",
+      "url": "https://www.toutiao.com/trending/7579086932341181978/",
+      "label": "new"
     },
     {
       "rank": 9,
-      "title": "幼儿园老师新婚遇学生们甜蜜“劫车”",
-      "url": "https://www.toutiao.com/trending/7578812681424093211/",
-      "label": "onSite"
+      "title": "如何看待女子烫发借口出去透气后跑路",
+      "url": "https://www.toutiao.com/trending/7579072384813645875/",
+      "label": "forum"
     },
     {
       "rank": 10,
-      "title": "如何看待女子烫发借口出去透气后跑路",
-      "url": "https://www.toutiao.com/trending/7579072384813645875/",
+      "title": "王励勤说成都混团是国乒奥运会预演",
+      "url": "https://www.toutiao.com/trending/7578835822938751017/",
       "label": "forum"
     },
     {
@@ -82,44 +82,44 @@
     },
     {
       "rank": 13,
-      "title": "大摩：存储芯片短缺达30年最严重水平",
-      "url": "https://www.toutiao.com/trending/7579084349769780787/",
+      "title": "车主苦等5个月等来小米YU7运损车",
+      "url": "https://www.toutiao.com/trending/7578133755190722610/",
       "label": "new"
     },
     {
       "rank": 14,
-      "title": "肖战彭昱畅新片《得闲谨制》将上映",
-      "url": "https://www.toutiao.com/trending/7578813827765927987/",
-      "label": "new"
+      "title": "大摩：存储芯片短缺达30年最严重水平",
+      "url": "https://www.toutiao.com/trending/7579084349769780787/",
+      "label": ""
     },
     {
       "rank": 15,
+      "title": "博主：2026年房价迎三大转变",
+      "url": "https://www.toutiao.com/trending/7579077531702136362/",
+      "label": ""
+    },
+    {
+      "rank": 16,
       "title": "宁波富豪34亿元股票分给子女",
       "url": "https://www.toutiao.com/trending/7578845366410510374/",
       "label": ""
     },
     {
-      "rank": 16,
-      "title": "王励勤说成都混团是国乒奥运会预演",
-      "url": "https://www.toutiao.com/trending/7578835822938751017/",
+      "rank": 17,
+      "title": "足协杯决赛你更看好谁夺冠",
+      "url": "https://www.toutiao.com/trending/7579030504755462163/",
       "label": "forum"
     },
     {
-      "rank": 17,
-      "title": "小电驴新国标实施首日：涨价几百元",
-      "url": "https://www.toutiao.com/trending/7579086932341181978/",
-      "label": "new"
-    },
-    {
       "rank": 18,
-      "title": "流感进入快速上升期 抗病毒药怎么选",
-      "url": "https://www.toutiao.com/trending/7578637793140817939/",
+      "title": "媒体人：杜特尔特女儿顺势开始反击",
+      "url": "https://www.toutiao.com/trending/7579081375672700462/",
       "label": "new"
     },
     {
       "rank": 19,
-      "title": "媒体人：杜特尔特女儿顺势开始反击",
-      "url": "https://www.toutiao.com/trending/7579081375672700462/",
+      "title": "史上最严电动车新国标如何改写行业",
+      "url": "https://www.toutiao.com/trending/7579085070275710473/",
       "label": "new"
     },
     {
@@ -136,164 +136,164 @@
     },
     {
       "rank": 22,
-      "title": "中国男篮再负韩国",
-      "url": "https://www.toutiao.com/trending/7577749208321998854/",
-      "label": ""
-    },
-    {
-      "rank": 23,
       "title": "千亿“果链”龙头蓝思科技独董病逝",
       "url": "https://www.toutiao.com/trending/7578811260143124522/",
       "label": "new"
     },
     {
+      "rank": 23,
+      "title": "中国男篮再负韩国",
+      "url": "https://www.toutiao.com/trending/7577749208321998854/",
+      "label": ""
+    },
+    {
       "rank": 24,
-      "title": "中国人保股价异动背后",
-      "url": "https://www.toutiao.com/trending/7579098512353136169/",
-      "label": "new"
+      "title": "幼儿园老师新婚遇学生们甜蜜“劫车”",
+      "url": "https://www.toutiao.com/trending/7578812681424093211/",
+      "label": "onSite"
     },
     {
       "rank": 25,
-      "title": "车主苦等5个月等来小米YU7运损车",
-      "url": "https://www.toutiao.com/trending/7578133755190722610/",
-      "label": "new"
-    },
-    {
-      "rank": 26,
       "title": "高市早苗用动漫台词招投资翻车",
       "url": "https://www.toutiao.com/trending/7578866219504140329/",
       "label": ""
     },
     {
-      "rank": 27,
-      "title": "马科斯为何犯众怒",
-      "url": "https://www.toutiao.com/trending/7579064243161402921/",
-      "label": ""
-    },
-    {
-      "rank": 28,
+      "rank": 26,
       "title": "特朗普将自己画像与华盛顿并列",
       "url": "https://www.toutiao.com/trending/7578655836017311798/",
       "label": "new"
     },
     {
-      "rank": 29,
-      "title": "四袋花生掉落女子骑车追出五里地",
-      "url": "https://www.toutiao.com/trending/7579079180080562212/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "DeepSeek双正式版背后的中美新格局",
-      "url": "https://www.toutiao.com/trending/7579075592641842715/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
-      "title": "两连败 中国男篮怎么了",
-      "url": "https://www.toutiao.com/trending/7578188909952237611/",
-      "label": "new"
-    },
-    {
-      "rank": 32,
-      "title": "马科斯迎来的“新麻烦”是什么",
-      "url": "https://www.toutiao.com/trending/7579081516836212266/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "佳能中山工厂关闭背后",
-      "url": "https://www.toutiao.com/trending/7579083390737976838/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "特朗普面临支持率“大麻烦”",
-      "url": "https://www.toutiao.com/trending/7578565783584784438/",
-      "label": ""
-    },
-    {
-      "rank": 35,
-      "title": "成都混团世界杯今日赛程公布",
-      "url": "https://www.toutiao.com/trending/7578741929912582198/",
-      "label": "new"
-    },
-    {
-      "rank": 36,
-      "title": "小伙勇救跳水老太太后默默离场",
-      "url": "https://www.toutiao.com/trending/7578310191834447935/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "内蒙古局地现-40℃极寒",
-      "url": "https://www.toutiao.com/trending/7578887521137344522/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "独行侠131-121逆转掘金",
-      "url": "https://www.toutiao.com/trending/7578773625009160235/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "伦纳德生涯总得分突破15000分",
-      "url": "https://www.toutiao.com/trending/7578595395043983411/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
-      "title": "赵心童：中国选手越来越强",
-      "url": "https://www.toutiao.com/trending/7578765756188639295/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
-      "title": "香港将成立独立委员会调查火灾",
-      "url": "https://www.toutiao.com/trending/7578605964467830794/",
-      "label": ""
-    },
-    {
-      "rank": 42,
-      "title": "巴西男子重拳偷袭警察当场被击毙",
-      "url": "https://www.toutiao.com/trending/7578839196489039923/",
-      "label": ""
-    },
-    {
-      "rank": 43,
-      "title": "吕秀莲喊话赖清德勿挑衅大陆",
-      "url": "https://www.toutiao.com/trending/7578532972148916230/",
-      "label": "new"
-    },
-    {
-      "rank": 44,
+      "rank": 27,
       "title": "县城高中生获数学奥赛金牌保送北大",
       "url": "https://www.toutiao.com/trending/7578723435846582278/",
       "label": "new"
     },
     {
-      "rank": 45,
-      "title": "A股市场福建股逆势走强",
-      "url": "https://www.toutiao.com/trending/7578446795257905215/",
+      "rank": 28,
+      "title": "当年高位买房的人现在怎么样了",
+      "url": "https://www.toutiao.com/trending/7578767013087022618/",
+      "label": "depth"
+    },
+    {
+      "rank": 29,
+      "title": "佳能中山工厂关闭背后",
+      "url": "https://www.toutiao.com/trending/7579083390737976838/",
       "label": "new"
     },
     {
-      "rank": 46,
-      "title": "鲍威尔：从没想过快船会5胜16负",
-      "url": "https://www.toutiao.com/trending/7578855825847468051/",
+      "rank": 30,
+      "title": "马科斯迎来的“新麻烦”是什么",
+      "url": "https://www.toutiao.com/trending/7579081516836212266/",
       "label": "new"
     },
     {
-      "rank": 47,
+      "rank": 31,
+      "title": "笑星丁少华去世",
+      "url": "https://www.toutiao.com/trending/7578770615483236371/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "DeepSeek双正式版背后的中美新格局",
+      "url": "https://www.toutiao.com/trending/7579075592641842715/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "王楚钦谈混双和单打的区别",
+      "url": "https://www.toutiao.com/trending/7578563616430440474/",
+      "label": "new"
+    },
+    {
+      "rank": 34,
       "title": "美暂停接收难民措施或将维持很长时间",
       "url": "https://www.toutiao.com/trending/7578373035720261670/",
       "label": "new"
     },
     {
-      "rank": 48,
+      "rank": 35,
+      "title": "四袋花生掉落女子骑车追出五里地",
+      "url": "https://www.toutiao.com/trending/7579079180080562212/",
+      "label": ""
+    },
+    {
+      "rank": 36,
+      "title": "马科斯为何犯众怒",
+      "url": "https://www.toutiao.com/trending/7579064243161402921/",
+      "label": ""
+    },
+    {
+      "rank": 37,
+      "title": "赵心童：中国选手越来越强",
+      "url": "https://www.toutiao.com/trending/7578765756188639295/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
+      "title": "媒体：琉球被日本打造成反华军事前沿",
+      "url": "https://www.toutiao.com/trending/7578357244895674419/",
+      "label": ""
+    },
+    {
+      "rank": 39,
+      "title": "中国人保股价异动背后",
+      "url": "https://www.toutiao.com/trending/7579098512353136169/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "警惕日本右翼挑战二战后国际秩序",
+      "url": "https://www.toutiao.com/trending/7578631748167385151/",
+      "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "吕秀莲喊话赖清德勿挑衅大陆",
+      "url": "https://www.toutiao.com/trending/7578532972148916230/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
+      "title": "特朗普面临支持率“大麻烦”",
+      "url": "https://www.toutiao.com/trending/7578565783584784438/",
+      "label": ""
+    },
+    {
+      "rank": 43,
       "title": "日本北海道一工厂发生爆炸并引发火灾",
       "url": "https://www.toutiao.com/trending/7578727825366679588/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "成都混团世界杯今日赛程公布",
+      "url": "https://www.toutiao.com/trending/7578741929912582198/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "香港将成立独立委员会调查火灾",
+      "url": "https://www.toutiao.com/trending/7578605964467830794/",
+      "label": ""
+    },
+    {
+      "rank": 46,
+      "title": "内蒙古局地现-40℃极寒",
+      "url": "https://www.toutiao.com/trending/7578887521137344522/",
+      "label": ""
+    },
+    {
+      "rank": 47,
+      "title": "巴西男子重拳偷袭警察当场被击毙",
+      "url": "https://www.toutiao.com/trending/7578839196489039923/",
+      "label": ""
+    },
+    {
+      "rank": 48,
+      "title": "松绑禁令 日本接连向外卖武器",
+      "url": "https://www.toutiao.com/trending/7579094348659507226/",
       "label": "new"
     },
     {
