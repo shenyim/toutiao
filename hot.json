@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Dec 2025 07:40:04 GMT",
+  "generated_at": "Tue, 02 Dec 2025 07:45:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记这些话振聋发聩",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "“刀疤哥”退赛",
       "url": "https://www.toutiao.com/trending/7578304389543215123/",
-      "label": "hot"
+      "label": ""
     },
     {
       "rank": 2,
@@ -28,8 +28,8 @@
     },
     {
       "rank": 4,
-      "title": "日船只非法进钓鱼岛领海 中方驱离",
-      "url": "https://www.toutiao.com/trending/7579057789532802610/",
+      "title": "美日菲对中国沿海的侦察监视升级",
+      "url": "https://www.toutiao.com/trending/7579127539935743494/",
       "label": "hot"
     },
     {
@@ -52,9 +52,9 @@
     },
     {
       "rank": 8,
-      "title": "美日菲对中国沿海的侦察监视升级",
-      "url": "https://www.toutiao.com/trending/7579127539935743494/",
-      "label": "new"
+      "title": "日船只非法进钓鱼岛领海 中方驱离",
+      "url": "https://www.toutiao.com/trending/7579057789532802610/",
+      "label": "hot"
     },
     {
       "rank": 9,
@@ -82,27 +82,27 @@
     },
     {
       "rank": 13,
+      "title": "孙正义称自己“哭着”清仓英伟达",
+      "url": "https://www.toutiao.com/trending/7579052555238604836/",
+      "label": "new"
+    },
+    {
+      "rank": 14,
       "title": "中国人保股价异动背后",
       "url": "https://www.toutiao.com/trending/7579098512353136169/",
       "label": ""
     },
     {
-      "rank": 14,
+      "rank": 15,
       "title": "马斯克：人类活在虚拟世界概率极高",
       "url": "https://www.toutiao.com/trending/7579074233024646666/",
       "label": ""
     },
     {
-      "rank": 15,
+      "rank": 16,
       "title": "中使馆驳斥英首相“中国威胁论”",
       "url": "https://www.toutiao.com/trending/7578747536329703465/",
       "label": ""
-    },
-    {
-      "rank": 16,
-      "title": "孙正义称自己“哭着”清仓英伟达",
-      "url": "https://www.toutiao.com/trending/7579052555238604836/",
-      "label": "new"
     },
     {
       "rank": 17,
@@ -118,14 +118,14 @@
     },
     {
       "rank": 19,
-      "title": "县城高中生获数学奥赛金牌保送北大",
-      "url": "https://www.toutiao.com/trending/7578723435846582278/",
+      "title": "车主苦等5个月等来小米YU7运损车",
+      "url": "https://www.toutiao.com/trending/7578133755190722610/",
       "label": ""
     },
     {
       "rank": 20,
-      "title": "车主苦等5个月等来小米YU7运损车",
-      "url": "https://www.toutiao.com/trending/7578133755190722610/",
+      "title": "县城高中生获数学奥赛金牌保送北大",
+      "url": "https://www.toutiao.com/trending/7578723435846582278/",
       "label": ""
     },
     {
@@ -142,123 +142,123 @@
     },
     {
       "rank": 23,
-      "title": "中国男篮再负韩国",
-      "url": "https://www.toutiao.com/trending/7577749208321998854/",
-      "label": ""
-    },
-    {
-      "rank": 24,
       "title": "詹姆斯上次10分是1年前的今天",
       "url": "https://www.toutiao.com/trending/7578293453541589046/",
       "label": "new"
     },
     {
-      "rank": 25,
-      "title": "专家：俄表面迎合美实则等乌接受现实",
-      "url": "https://www.toutiao.com/trending/7579086232924196371/",
-      "label": "new"
+      "rank": 24,
+      "title": "中国男篮再负韩国",
+      "url": "https://www.toutiao.com/trending/7577749208321998854/",
+      "label": ""
     },
     {
-      "rank": 26,
+      "rank": 25,
       "title": "媒体人：杜特尔特女儿顺势开始反击",
       "url": "https://www.toutiao.com/trending/7579081375672700462/",
       "label": ""
     },
     {
-      "rank": 27,
-      "title": "如何看待马杜罗专机飞往巴西",
-      "url": "https://www.toutiao.com/trending/7579063561280851494/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
-      "title": "英伟达投资新思重塑芯片格局",
-      "url": "https://www.toutiao.com/trending/7579130133437484563/",
-      "label": "new"
-    },
-    {
-      "rank": 29,
+      "rank": 26,
       "title": "吕秀莲喊话赖清德勿挑衅大陆",
       "url": "https://www.toutiao.com/trending/7578532972148916230/",
       "label": ""
     },
     {
-      "rank": 30,
-      "title": "千亿“果链”龙头蓝思科技独董病逝",
-      "url": "https://www.toutiao.com/trending/7578811260143124522/",
-      "label": ""
-    },
-    {
-      "rank": 31,
+      "rank": 27,
       "title": "手机禁令会减少新加坡中学生低头族吗",
       "url": "https://www.toutiao.com/trending/7579036659556027913/",
       "label": ""
     },
     {
-      "rank": 32,
-      "title": "侯汉廷酸徐国勇“厕纸说”",
-      "url": "https://www.toutiao.com/trending/7578775652783144986/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "特朗普将自己画像与华盛顿并列",
-      "url": "https://www.toutiao.com/trending/7578655836017311798/",
-      "label": ""
-    },
-    {
-      "rank": 34,
-      "title": "台湾“秋斗”登场",
-      "url": "https://www.toutiao.com/trending/7578710374418235438/",
-      "label": "new"
-    },
-    {
-      "rank": 35,
-      "title": "佳能中山工厂关闭背后",
-      "url": "https://www.toutiao.com/trending/7579083390737976838/",
-      "label": ""
-    },
-    {
-      "rank": 36,
-      "title": "博主：2026年房价迎三大转变",
-      "url": "https://www.toutiao.com/trending/7579077531702136362/",
-      "label": ""
-    },
-    {
-      "rank": 37,
-      "title": "大摩：存储芯片短缺达30年最严重水平",
-      "url": "https://www.toutiao.com/trending/7579084349769780787/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "俄罗斯对华免签为何“慢半拍”",
-      "url": "https://www.toutiao.com/trending/7579144342254652991/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "房地产今年还剩什么可期待的",
-      "url": "https://www.toutiao.com/trending/7579122796685430308/",
-      "label": "new"
-    },
-    {
-      "rank": 40,
+      "rank": 28,
       "title": "美俄秘密通话被泄到底谁干的",
       "url": "https://www.toutiao.com/trending/7579127276457954862/",
       "label": "new"
     },
     {
-      "rank": 41,
+      "rank": 29,
+      "title": "特朗普将自己画像与华盛顿并列",
+      "url": "https://www.toutiao.com/trending/7578655836017311798/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "房地产今年还剩什么可期待的",
+      "url": "https://www.toutiao.com/trending/7579122796685430308/",
+      "label": "new"
+    },
+    {
+      "rank": 31,
+      "title": "大摩：存储芯片短缺达30年最严重水平",
+      "url": "https://www.toutiao.com/trending/7579084349769780787/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "佳能中山工厂关闭背后",
+      "url": "https://www.toutiao.com/trending/7579083390737976838/",
+      "label": ""
+    },
+    {
+      "rank": 33,
+      "title": "千亿“果链”龙头蓝思科技独董病逝",
+      "url": "https://www.toutiao.com/trending/7578811260143124522/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "博主：2026年房价迎三大转变",
+      "url": "https://www.toutiao.com/trending/7579077531702136362/",
+      "label": ""
+    },
+    {
+      "rank": 35,
       "title": "赵心童：中国选手越来越强",
       "url": "https://www.toutiao.com/trending/7578765756188639295/",
       "label": ""
     },
     {
-      "rank": 42,
+      "rank": 36,
+      "title": "英伟达投资新思重塑芯片格局",
+      "url": "https://www.toutiao.com/trending/7579130133437484563/",
+      "label": "new"
+    },
+    {
+      "rank": 37,
+      "title": "学者：俄罗斯一月四遭重创",
+      "url": "https://www.toutiao.com/trending/7579108287505763903/",
+      "label": "new"
+    },
+    {
+      "rank": 38,
+      "title": "白宫开会讨论针对委内瑞拉后续行动",
+      "url": "https://www.toutiao.com/trending/7579103006168190507/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
+      "title": "王楚钦谈混双和单打的区别",
+      "url": "https://www.toutiao.com/trending/7578563616430440474/",
+      "label": ""
+    },
+    {
+      "rank": 40,
       "title": "日本北海道一工厂发生爆炸并引发火灾",
       "url": "https://www.toutiao.com/trending/7578727825366679588/",
       "label": ""
+    },
+    {
+      "rank": 41,
+      "title": "幼儿园老师新婚遇学生们甜蜜“劫车”",
+      "url": "https://www.toutiao.com/trending/7578812681424093211/",
+      "label": "onSite"
+    },
+    {
+      "rank": 42,
+      "title": "三星发布首款三折叠手机",
+      "url": "https://www.toutiao.com/trending/7579094938323783194/",
+      "label": "new"
     },
     {
       "rank": 43,
@@ -268,44 +268,44 @@
     },
     {
       "rank": 44,
-      "title": "日本防卫费13连增 专家：警惕野心",
-      "url": "https://www.toutiao.com/trending/7579087243755671103/",
-      "label": ""
+      "title": "台湾“秋斗”登场",
+      "url": "https://www.toutiao.com/trending/7578710374418235438/",
+      "label": "new"
     },
     {
       "rank": 45,
-      "title": "经济学家呼吁发放万亿消费补贴",
-      "url": "https://www.toutiao.com/trending/7578485867862933540/",
+      "title": "俄罗斯对华免签为何“慢半拍”",
+      "url": "https://www.toutiao.com/trending/7579144342254652991/",
       "label": "new"
     },
     {
       "rank": 46,
-      "title": "如何看待美战争部长卷入战争罪指控",
-      "url": "https://www.toutiao.com/trending/7579084625763372590/",
-      "label": "new"
-    },
-    {
-      "rank": 47,
-      "title": "马科斯迎来的“新麻烦”是什么",
-      "url": "https://www.toutiao.com/trending/7579081516836212266/",
+      "title": "欧盟在世贸组织撤销对华诉讼",
+      "url": "https://www.toutiao.com/trending/7579090716845932553/",
       "label": ""
     },
     {
-      "rank": 48,
-      "title": "幼儿园老师新婚遇学生们甜蜜“劫车”",
-      "url": "https://www.toutiao.com/trending/7578812681424093211/",
-      "label": "onSite"
-    },
-    {
-      "rank": 49,
-      "title": "学者：俄罗斯一月四遭重创",
-      "url": "https://www.toutiao.com/trending/7579108287505763903/",
+      "rank": 47,
+      "title": "台“海鲲号”无锚海测引争议",
+      "url": "https://www.toutiao.com/trending/7578804832677822527/",
       "label": "new"
     },
     {
+      "rank": 48,
+      "title": "男篮世预赛出线规则是什么",
+      "url": "https://www.toutiao.com/trending/7578498095644377124/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
+      "title": "NBA战力榜：湖人升至第4",
+      "url": "https://www.toutiao.com/trending/7578328085502738441/",
+      "label": ""
+    },
+    {
       "rank": 50,
-      "title": "欧盟在世贸组织撤销对华诉讼",
-      "url": "https://www.toutiao.com/trending/7579090716845932553/",
+      "title": "接下来美委局势会如何发展",
+      "url": "https://www.toutiao.com/trending/7579082959907458602/",
       "label": ""
     }
   ]
