@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Dec 2025 13:25:05 GMT",
+  "generated_at": "Tue, 02 Dec 2025 13:30:04 GMT",
   "top": {
     "rank": "置顶",
     "title": "接续推进中国式现代化",
@@ -10,15 +10,15 @@
   "items": [
     {
       "rank": 1,
-      "title": "电动自行车为何一夜之间涨了千元",
-      "url": "https://www.toutiao.com/trending/7579192365219319350/",
-      "label": "new"
-    },
-    {
-      "rank": 2,
       "title": "外交部：日本不要妄想蒙混过关",
       "url": "https://www.toutiao.com/trending/7578090701159333930/",
       "label": "hot"
+    },
+    {
+      "rank": 2,
+      "title": "电动自行车为何一夜之间涨了千元",
+      "url": "https://www.toutiao.com/trending/7579192365219319350/",
+      "label": "new"
     },
     {
       "rank": 3,
@@ -28,15 +28,15 @@
     },
     {
       "rank": 4,
-      "title": "车店老板称新国标电动车太贵不实用",
-      "url": "https://www.toutiao.com/trending/7578853061144231963/",
+      "title": "日本军事准备细节曝光",
+      "url": "https://www.toutiao.com/trending/7578879331192078377/",
       "label": "hot"
     },
     {
       "rank": 5,
-      "title": "流感季你会常备奥司他韦吗",
-      "url": "https://www.toutiao.com/trending/7578905857967882259/",
-      "label": "forum"
+      "title": "车店老板称新国标电动车太贵不实用",
+      "url": "https://www.toutiao.com/trending/7578853061144231963/",
+      "label": "hot"
     },
     {
       "rank": 6,
@@ -52,21 +52,21 @@
     },
     {
       "rank": 8,
-      "title": "电动车新国标实施后谁更赚钱了",
-      "url": "https://www.toutiao.com/trending/7579191496042090020/",
+      "title": "二胎宝妈选购新国标电动车时直摇头",
+      "url": "https://www.toutiao.com/trending/7578128185490571305/",
       "label": "hot"
     },
     {
       "rank": 9,
-      "title": "日本军事准备细节曝光",
-      "url": "https://www.toutiao.com/trending/7578879331192078377/",
-      "label": "hot"
+      "title": "近30年国乒男选手谁最具统治力",
+      "url": "https://www.toutiao.com/trending/7579069009560649769/",
+      "label": "forum"
     },
     {
       "rank": 10,
-      "title": "王毅与绍伊古会面 两人微笑握手",
-      "url": "https://www.toutiao.com/trending/7578233491624575039/",
-      "label": "onSite"
+      "title": "避孕套增值税背后 年轻人到底生不生",
+      "url": "https://www.toutiao.com/trending/7579172609544162859/",
+      "label": ""
     },
     {
       "rank": 11,
@@ -76,8 +76,8 @@
     },
     {
       "rank": 12,
-      "title": "二胎宝妈选购新国标电动车时直摇头",
-      "url": "https://www.toutiao.com/trending/7578128185490571305/",
+      "title": "实测新国标电动车时速25km是否断电",
+      "url": "https://www.toutiao.com/trending/7578403229852123172/",
       "label": "hot"
     },
     {
@@ -88,81 +88,81 @@
     },
     {
       "rank": 14,
-      "title": "近30年国乒男选手谁最具统治力",
-      "url": "https://www.toutiao.com/trending/7579069009560649769/",
-      "label": "forum"
+      "title": "王毅与绍伊古会面 两人微笑握手",
+      "url": "https://www.toutiao.com/trending/7578233491624575039/",
+      "label": "onSite"
     },
     {
       "rank": 15,
-      "title": "实测新国标电动车时速25km是否断电",
-      "url": "https://www.toutiao.com/trending/7578403229852123172/",
-      "label": "hot"
-    },
-    {
-      "rank": 16,
-      "title": "解放军新增700个垂发影响几何",
-      "url": "https://www.toutiao.com/trending/7579152845652364836/",
-      "label": ""
-    },
-    {
-      "rank": 17,
-      "title": "日本参议员：日本军事无法与中国抗衡",
-      "url": "https://www.toutiao.com/trending/7578388276781334570/",
-      "label": "new"
-    },
-    {
-      "rank": 18,
       "title": "我国每4个人就拥有1辆电动自行车",
       "url": "https://www.toutiao.com/trending/7578679066090471470/",
       "label": "hot"
     },
     {
-      "rank": 19,
-      "title": "呼伦贝尔多个气象站最低气温破-40℃",
-      "url": "https://www.toutiao.com/trending/7578764890509426715/",
-      "label": "new"
+      "rank": 16,
+      "title": "流感季你会常备奥司他韦吗",
+      "url": "https://www.toutiao.com/trending/7578905857967882259/",
+      "label": "forum"
     },
     {
-      "rank": 20,
-      "title": "厕所小广告牵出涉黄暗网",
-      "url": "https://www.toutiao.com/trending/7579153037365952554/",
+      "rank": 17,
+      "title": "解放军新增700个垂发影响几何",
+      "url": "https://www.toutiao.com/trending/7579152845652364836/",
       "label": ""
     },
     {
-      "rank": 21,
+      "rank": 18,
       "title": "电动车私改电池车速将上传监管平台",
       "url": "https://www.toutiao.com/trending/7577989141519810566/",
       "label": "hot"
     },
     {
-      "rank": 22,
-      "title": "雷军突然开卖现车 小米彻底摊牌了",
-      "url": "https://www.toutiao.com/trending/7579141283130641926/",
-      "label": ""
+      "rank": 19,
+      "title": "日本参议员：日本军事无法与中国抗衡",
+      "url": "https://www.toutiao.com/trending/7578388276781334570/",
+      "label": "new"
     },
     {
-      "rank": 23,
-      "title": "曝乌高官辞职前对泽连斯基破口大骂",
-      "url": "https://www.toutiao.com/trending/7578055292752183338/",
-      "label": ""
-    },
-    {
-      "rank": 24,
+      "rank": 20,
       "title": "5台电脑采购价近3亿？系单位标注错误",
       "url": "https://www.toutiao.com/trending/7579045775271903258/",
       "label": "recentProgress"
     },
     {
-      "rank": 25,
+      "rank": 21,
+      "title": "雷军突然开卖现车 小米彻底摊牌了",
+      "url": "https://www.toutiao.com/trending/7579141283130641926/",
+      "label": ""
+    },
+    {
+      "rank": 22,
+      "title": "曝乌高官辞职前对泽连斯基破口大骂",
+      "url": "https://www.toutiao.com/trending/7578055292752183338/",
+      "label": ""
+    },
+    {
+      "rank": 23,
       "title": "斯塔默不想访华了吗",
       "url": "https://www.toutiao.com/trending/7579160862196239926/",
       "label": ""
     },
     {
-      "rank": 26,
+      "rank": 24,
       "title": "儿子睡亡母生前床上感染同种病毒",
       "url": "https://www.toutiao.com/trending/7578796032021610542/",
       "label": ""
+    },
+    {
+      "rank": 25,
+      "title": "呼伦贝尔多个气象站最低气温破-40℃",
+      "url": "https://www.toutiao.com/trending/7578764890509426715/",
+      "label": "new"
+    },
+    {
+      "rank": 26,
+      "title": "学者：马克龙有两件事有求于中国",
+      "url": "https://www.toutiao.com/trending/7579191166168469034/",
+      "label": "new"
     },
     {
       "rank": 27,
@@ -172,27 +172,27 @@
     },
     {
       "rank": 28,
-      "title": "学者：马克龙有两件事有求于中国",
-      "url": "https://www.toutiao.com/trending/7579191166168469034/",
+      "title": "官方曝光有医生收回扣支架每条5000元",
+      "url": "https://www.toutiao.com/trending/7579083342446149674/",
       "label": "new"
     },
     {
       "rank": 29,
       "title": "香港大埔火灾：警方已拘捕15人",
       "url": "https://www.toutiao.com/trending/7579195423986978354/",
-      "label": ""
+      "label": "hot"
     },
     {
       "rank": 30,
-      "title": "宁波富豪34亿元股票分给子女",
-      "url": "https://www.toutiao.com/trending/7578845366410510374/",
-      "label": ""
+      "title": "记者探访电动车新规落地首日市场情况",
+      "url": "https://www.toutiao.com/trending/7578522061820248070/",
+      "label": "new"
     },
     {
       "rank": 31,
-      "title": "马克龙为何在访华前会见泽连斯基",
-      "url": "https://www.toutiao.com/trending/7579166045743615551/",
-      "label": "interpretation"
+      "title": "宁波富豪34亿元股票分给子女",
+      "url": "https://www.toutiao.com/trending/7578845366410510374/",
+      "label": ""
     },
     {
       "rank": 32,
@@ -202,27 +202,27 @@
     },
     {
       "rank": 33,
-      "title": "如何看待俄军自杀机有空中反杀能力",
-      "url": "https://www.toutiao.com/trending/7579204324518006314/",
-      "label": "new"
+      "title": "马克龙为何在访华前会见泽连斯基",
+      "url": "https://www.toutiao.com/trending/7579166045743615551/",
+      "label": "interpretation"
     },
     {
       "rank": 34,
-      "title": "如何看待卫星通信技术不再是手机卖点",
-      "url": "https://www.toutiao.com/trending/7579158515265048105/",
-      "label": "new"
+      "title": "厕所小广告牵出涉黄暗网",
+      "url": "https://www.toutiao.com/trending/7579153037365952554/",
+      "label": ""
     },
     {
       "rank": 35,
-      "title": "上海发现“加拿大一枝黄花”",
-      "url": "https://www.toutiao.com/trending/7579145107511017491/",
+      "title": "如何看待俄军自杀机有空中反杀能力",
+      "url": "https://www.toutiao.com/trending/7579204324518006314/",
       "label": ""
     },
     {
       "rank": 36,
-      "title": "官方曝光有医生收回扣支架每条5000元",
-      "url": "https://www.toutiao.com/trending/7579083342446149674/",
-      "label": "new"
+      "title": "上海发现“加拿大一枝黄花”",
+      "url": "https://www.toutiao.com/trending/7579145107511017491/",
+      "label": ""
     },
     {
       "rank": 37,
@@ -232,27 +232,27 @@
     },
     {
       "rank": 38,
+      "title": "如何看待卫星通信技术不再是手机卖点",
+      "url": "https://www.toutiao.com/trending/7579158515265048105/",
+      "label": "new"
+    },
+    {
+      "rank": 39,
       "title": "血糖控制不好有多可怕",
       "url": "https://www.toutiao.com/trending/7579102483579158555/",
       "label": ""
     },
     {
-      "rank": 39,
-      "title": "避孕套增值税背后 年轻人到底生不生",
-      "url": "https://www.toutiao.com/trending/7579172609544162859/",
+      "rank": 40,
+      "title": "国产六代机会配备机炮吗",
+      "url": "https://www.toutiao.com/trending/7579207548243283475/",
       "label": "new"
     },
     {
-      "rank": 40,
-      "title": "小电驴新国标实施首日：涨价几百元",
-      "url": "https://www.toutiao.com/trending/7579086932341181978/",
-      "label": ""
-    },
-    {
       "rank": 41,
-      "title": "土耳其“无人歼20”赶超中美了吗",
-      "url": "https://www.toutiao.com/trending/7579207607886286390/",
-      "label": "interpretation"
+      "title": "学者：对高市应做长期斗争准备",
+      "url": "https://www.toutiao.com/trending/7579182342523191337/",
+      "label": "new"
     },
     {
       "rank": 42,
@@ -262,51 +262,51 @@
     },
     {
       "rank": 43,
-      "title": "罗永浩锐评三星三折叠手机",
-      "url": "https://www.toutiao.com/trending/7578573838171455515/",
+      "title": "小电驴新国标实施首日：涨价几百元",
+      "url": "https://www.toutiao.com/trending/7579086932341181978/",
       "label": ""
     },
     {
       "rank": 44,
-      "title": "两部门发布12月全国自然灾害风险形势",
-      "url": "https://www.toutiao.com/trending/7579101002385817643/",
-      "label": "new"
-    },
-    {
-      "rank": 45,
       "title": "汶川地震被救女孩与施救军人结婚",
       "url": "https://www.toutiao.com/trending/7578112690292326436/",
       "label": ""
     },
     {
+      "rank": 45,
+      "title": "金龙鱼信任崩塌的警示",
+      "url": "https://www.toutiao.com/trending/7579184298310241811/",
+      "label": "interpretation"
+    },
+    {
       "rank": 46,
-      "title": "国产六代机会配备机炮吗",
-      "url": "https://www.toutiao.com/trending/7579207548243283475/",
+      "title": "两部门发布12月全国自然灾害风险形势",
+      "url": "https://www.toutiao.com/trending/7579101002385817643/",
       "label": "new"
     },
     {
       "rank": 47,
-      "title": "为什么英国急于示好中国",
-      "url": "https://www.toutiao.com/trending/7579151079724551722/",
+      "title": "罗永浩锐评三星三折叠手机",
+      "url": "https://www.toutiao.com/trending/7578573838171455515/",
       "label": ""
     },
     {
       "rank": 48,
+      "title": "邵永灵：特朗普和平计划回到原点",
+      "url": "https://www.toutiao.com/trending/7579176661837418034/",
+      "label": "new"
+    },
+    {
+      "rank": 49,
       "title": "美参院民主党领袖办公室收炸弹威胁",
       "url": "https://www.toutiao.com/trending/7579127794086002734/",
       "label": "new"
     },
     {
-      "rank": 49,
-      "title": "“日本制造”系统性崩塌",
-      "url": "https://www.toutiao.com/trending/7579114919199510079/",
-      "label": ""
-    },
-    {
       "rank": 50,
-      "title": "国内刚需住宅整体下行 沪深豪宅热销",
-      "url": "https://www.toutiao.com/trending/7579175427655077439/",
-      "label": "new"
+      "title": "为什么英国急于示好中国",
+      "url": "https://www.toutiao.com/trending/7579151079724551722/",
+      "label": ""
     }
   ]
 }
