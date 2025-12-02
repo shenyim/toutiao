@@ -1,6 +1,6 @@
 {
   "source": "toutiao_hot_board",
-  "generated_at": "Tue, 02 Dec 2025 06:20:04 GMT",
+  "generated_at": "Tue, 02 Dec 2025 06:25:05 GMT",
   "top": {
     "rank": "置顶",
     "title": "总书记这些话振聋发聩",
@@ -12,7 +12,7 @@
       "rank": 1,
       "title": "“刀疤哥”退赛",
       "url": "https://www.toutiao.com/trending/7578304389543215123/",
-      "label": "new"
+      "label": "hot"
     },
     {
       "rank": 2,
@@ -58,9 +58,9 @@
     },
     {
       "rank": 9,
-      "title": "太阳终结湖人7连胜",
-      "url": "https://www.toutiao.com/trending/7579129128079592979/",
-      "label": "hot"
+      "title": "博主：2026年房价迎三大转变",
+      "url": "https://www.toutiao.com/trending/7579077531702136362/",
+      "label": ""
     },
     {
       "rank": 10,
@@ -76,15 +76,15 @@
     },
     {
       "rank": 12,
-      "title": "博主：2026年房价迎三大转变",
-      "url": "https://www.toutiao.com/trending/7579077531702136362/",
-      "label": ""
+      "title": "太阳终结湖人7连胜",
+      "url": "https://www.toutiao.com/trending/7579129128079592979/",
+      "label": "hot"
     },
     {
       "rank": 13,
-      "title": "独行侠131-121逆转掘金",
-      "url": "https://www.toutiao.com/trending/7578773625009160235/",
-      "label": "new"
+      "title": "幼儿园老师新婚遇学生们甜蜜“劫车”",
+      "url": "https://www.toutiao.com/trending/7578812681424093211/",
+      "label": "onSite"
     },
     {
       "rank": 14,
@@ -106,26 +106,26 @@
     },
     {
       "rank": 17,
+      "title": "金灿荣：日本盟友不表态已说明问题",
+      "url": "https://www.toutiao.com/trending/7578132493980729387/",
+      "label": ""
+    },
+    {
+      "rank": 18,
       "title": "中使馆驳斥英首相“中国威胁论”",
       "url": "https://www.toutiao.com/trending/7578747536329703465/",
       "label": "new"
     },
     {
-      "rank": 18,
-      "title": "幼儿园老师新婚遇学生们甜蜜“劫车”",
-      "url": "https://www.toutiao.com/trending/7578812681424093211/",
-      "label": "onSite"
-    },
-    {
       "rank": 19,
-      "title": "马科斯为何犯众怒",
-      "url": "https://www.toutiao.com/trending/7579064243161402921/",
+      "title": "巴西男子重拳偷袭警察当场被击毙",
+      "url": "https://www.toutiao.com/trending/7578839196489039923/",
       "label": ""
     },
     {
       "rank": 20,
-      "title": "四袋花生掉落女子骑车追出五里地",
-      "url": "https://www.toutiao.com/trending/7579079180080562212/",
+      "title": "马科斯为何犯众怒",
+      "url": "https://www.toutiao.com/trending/7579064243161402921/",
       "label": ""
     },
     {
@@ -142,171 +142,171 @@
     },
     {
       "rank": 23,
-      "title": "巴西男子重拳偷袭警察当场被击毙",
-      "url": "https://www.toutiao.com/trending/7578839196489039923/",
+      "title": "四袋花生掉落女子骑车追出五里地",
+      "url": "https://www.toutiao.com/trending/7579079180080562212/",
       "label": ""
     },
     {
       "rank": 24,
-      "title": "高市早苗用动漫台词招投资翻车",
-      "url": "https://www.toutiao.com/trending/7578866219504140329/",
-      "label": ""
-    },
-    {
-      "rank": 25,
       "title": "千亿“果链”龙头蓝思科技独董病逝",
       "url": "https://www.toutiao.com/trending/7578811260143124522/",
       "label": "new"
     },
     {
-      "rank": 26,
-      "title": "特朗普面临支持率“大麻烦”",
-      "url": "https://www.toutiao.com/trending/7578565783584784438/",
-      "label": ""
-    },
-    {
-      "rank": 27,
-      "title": "媒体人：杜特尔特女儿顺势开始反击",
-      "url": "https://www.toutiao.com/trending/7579081375672700462/",
-      "label": "new"
-    },
-    {
-      "rank": 28,
-      "title": "特朗普将自己画像与华盛顿并列",
-      "url": "https://www.toutiao.com/trending/7578655836017311798/",
-      "label": "new"
-    },
-    {
-      "rank": 29,
-      "title": "6名中国球员已晋级斯诺克英锦赛16强",
-      "url": "https://www.toutiao.com/trending/7578717205039595561/",
-      "label": ""
-    },
-    {
-      "rank": 30,
-      "title": "马科斯迎来的“新麻烦”是什么",
-      "url": "https://www.toutiao.com/trending/7579081516836212266/",
-      "label": "new"
-    },
-    {
-      "rank": 31,
-      "title": "胡歌说没平衡好事业和家庭",
-      "url": "https://www.toutiao.com/trending/7578088128563724330/",
-      "label": ""
-    },
-    {
-      "rank": 32,
-      "title": "欧盟在世贸组织撤销对华诉讼",
-      "url": "https://www.toutiao.com/trending/7579090716845932553/",
-      "label": "new"
-    },
-    {
-      "rank": 33,
-      "title": "记者：火箭安身立命之本是进攻篮板",
-      "url": "https://www.toutiao.com/trending/7578781738168877110/",
-      "label": "new"
-    },
-    {
-      "rank": 34,
-      "title": "高中生无证飙高速燃油耗尽违停致追尾",
-      "url": "https://www.toutiao.com/trending/7578806556977152041/",
-      "label": ""
-    },
-    {
-      "rank": 35,
+      "rank": 25,
       "title": "笑星丁少华去世",
       "url": "https://www.toutiao.com/trending/7578770615483236371/",
       "label": ""
     },
     {
-      "rank": 36,
-      "title": "NBA战力榜：湖人升至第4",
-      "url": "https://www.toutiao.com/trending/7578328085502738441/",
-      "label": "new"
-    },
-    {
-      "rank": 37,
-      "title": "小伙勇救跳水老太太后默默离场",
-      "url": "https://www.toutiao.com/trending/7578310191834447935/",
-      "label": ""
-    },
-    {
-      "rank": 38,
-      "title": "鲍威尔：从没想过快船会5胜16负",
-      "url": "https://www.toutiao.com/trending/7578855825847468051/",
-      "label": "new"
-    },
-    {
-      "rank": 39,
-      "title": "日本学者说高市“高支持率”不是民意",
-      "url": "https://www.toutiao.com/trending/7577974525254762538/",
-      "label": "hot"
-    },
-    {
-      "rank": 40,
-      "title": "日本北海道一工厂发生爆炸并引发火灾",
-      "url": "https://www.toutiao.com/trending/7578727825366679588/",
-      "label": "new"
-    },
-    {
-      "rank": 41,
+      "rank": 26,
       "title": "车主苦等5个月等来小米YU7运损车",
       "url": "https://www.toutiao.com/trending/7578133755190722610/",
       "label": "new"
     },
     {
-      "rank": 42,
+      "rank": 27,
+      "title": "高市早苗用动漫台词招投资翻车",
+      "url": "https://www.toutiao.com/trending/7578866219504140329/",
+      "label": ""
+    },
+    {
+      "rank": 28,
+      "title": "特朗普面临支持率“大麻烦”",
+      "url": "https://www.toutiao.com/trending/7578565783584784438/",
+      "label": ""
+    },
+    {
+      "rank": 29,
+      "title": "小伙勇救跳水老太太后默默离场",
+      "url": "https://www.toutiao.com/trending/7578310191834447935/",
+      "label": ""
+    },
+    {
+      "rank": 30,
+      "title": "曝日本经团联、议员团接连请求访华",
+      "url": "https://www.toutiao.com/trending/7577973090886893614/",
+      "label": ""
+    },
+    {
+      "rank": 31,
+      "title": "陈梦：以拼搏守护山东体育荣耀",
+      "url": "https://www.toutiao.com/trending/7578413451997446153/",
+      "label": ""
+    },
+    {
+      "rank": 32,
+      "title": "特朗普将自己画像与华盛顿并列",
+      "url": "https://www.toutiao.com/trending/7578655836017311798/",
+      "label": "new"
+    },
+    {
+      "rank": 33,
+      "title": "胡歌说没平衡好事业和家庭",
+      "url": "https://www.toutiao.com/trending/7578088128563724330/",
+      "label": ""
+    },
+    {
+      "rank": 34,
+      "title": "接下来美委局势会如何发展",
+      "url": "https://www.toutiao.com/trending/7579082959907458602/",
+      "label": "new"
+    },
+    {
+      "rank": 35,
+      "title": "日本学者说高市“高支持率”不是民意",
+      "url": "https://www.toutiao.com/trending/7577974525254762538/",
+      "label": "hot"
+    },
+    {
+      "rank": 36,
       "title": "香港将成立独立委员会调查火灾",
       "url": "https://www.toutiao.com/trending/7578605964467830794/",
       "label": ""
     },
     {
-      "rank": 43,
-      "title": "小米SU7撞坏上百米隔离带 10余车受损",
-      "url": "https://www.toutiao.com/trending/7578755850244849710/",
-      "label": ""
-    },
-    {
-      "rank": 44,
-      "title": "金灿荣：日本盟友不表态已说明问题",
-      "url": "https://www.toutiao.com/trending/7578132493980729387/",
-      "label": ""
-    },
-    {
-      "rank": 45,
-      "title": "A股市场福建股逆势走强",
-      "url": "https://www.toutiao.com/trending/7578446795257905215/",
+      "rank": 37,
+      "title": "欧盟在世贸组织撤销对华诉讼",
+      "url": "https://www.toutiao.com/trending/7579090716845932553/",
       "label": "new"
     },
     {
-      "rank": 46,
+      "rank": 38,
+      "title": "马斯克的下一个目标是太空AI卫星吗",
+      "url": "https://www.toutiao.com/trending/7579084271709588998/",
+      "label": "interpretation"
+    },
+    {
+      "rank": 39,
+      "title": "媒体人：杜特尔特女儿顺势开始反击",
+      "url": "https://www.toutiao.com/trending/7579081375672700462/",
+      "label": "new"
+    },
+    {
+      "rank": 40,
+      "title": "两连败 中国男篮怎么了",
+      "url": "https://www.toutiao.com/trending/7578188909952237611/",
+      "label": "new"
+    },
+    {
+      "rank": 41,
+      "title": "鲍威尔：从没想过快船会5胜16负",
+      "url": "https://www.toutiao.com/trending/7578855825847468051/",
+      "label": "new"
+    },
+    {
+      "rank": 42,
       "title": "王楚钦谈混双和单打的区别",
       "url": "https://www.toutiao.com/trending/7578563616430440474/",
       "label": "new"
     },
     {
+      "rank": 43,
+      "title": "马科斯迎来的“新麻烦”是什么",
+      "url": "https://www.toutiao.com/trending/7579081516836212266/",
+      "label": "new"
+    },
+    {
+      "rank": 44,
+      "title": "日本防卫费13连增 专家：警惕野心",
+      "url": "https://www.toutiao.com/trending/7579087243755671103/",
+      "label": "new"
+    },
+    {
+      "rank": 45,
+      "title": "松绑禁令 日本接连向外卖武器",
+      "url": "https://www.toutiao.com/trending/7579094348659507226/",
+      "label": "new"
+    },
+    {
+      "rank": 46,
+      "title": "A股市场福建股逆势走强",
+      "url": "https://www.toutiao.com/trending/7578446795257905215/",
+      "label": "new"
+    },
+    {
       "rank": 47,
-      "title": "中方批英首相涉港言论",
-      "url": "https://www.toutiao.com/trending/7579113908368097306/",
+      "title": "独行侠131-121逆转掘金",
+      "url": "https://www.toutiao.com/trending/7578773625009160235/",
       "label": "new"
     },
     {
       "rank": 48,
-      "title": "孩子骂妈妈 爸爸开车回家教育俩娃",
-      "url": "https://www.toutiao.com/trending/7578778796818268214/",
-      "label": ""
+      "title": "伦纳德生涯总得分突破15000分",
+      "url": "https://www.toutiao.com/trending/7578595395043983411/",
+      "label": "new"
     },
     {
       "rank": 49,
-      "title": "成都混团世界杯中国乒乓球队两连胜",
-      "url": "https://www.toutiao.com/trending/7578389064845099046/",
-      "label": ""
+      "title": "为何日本加息能让全球市场“抖三抖”",
+      "url": "https://www.toutiao.com/trending/7579034329624350235/",
+      "label": "interpretation"
     },
     {
       "rank": 50,
-      "title": "松绑禁令 日本接连向外卖武器",
-      "url": "https://www.toutiao.com/trending/7579094348659507226/",
-      "label": "new"
+      "title": "孩子骂妈妈 爸爸开车回家教育俩娃",
+      "url": "https://www.toutiao.com/trending/7578778796818268214/",
+      "label": ""
     }
   ]
 }
